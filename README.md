@@ -64,7 +64,7 @@ CREATE DATABASE vpp_users_db;
 # Quitter et se reconnecter à la nouvelle database
 \q
 psql -U your_username -d vpp_users_db
-
+```
 
 ## Configuration de la connexion à la database
 
@@ -80,3 +80,10 @@ DATABASE_CONFIG = {
 }
 ```
 
+## Lancement du code 
+
+Pour lancer la pipeline complète : 
+
+```python
+python main.py
+```
