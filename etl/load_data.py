@@ -77,9 +77,9 @@ if __name__ == "__main__":
 
 	if test_database_connection():
 		# Load user profiles
-		load_to_database("data/users_profiles.csv", table_name="users_profiles")
+		load_to_database("data/data_profiles_clean.csv", table_name="users_profiles")
 		# Load user travels
-		load_to_database("data/users_travels.csv", table_name="users_travels")
+		load_to_database("data/data_travels_clean.csv", table_name="users_travels")
 	else:
 		print("Fix database connection before loading data.")
 
