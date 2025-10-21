@@ -5,7 +5,7 @@ import re
 
 
 # Charger le CSV
-df = pd.read_csv("./data_survey.csv")
+df = pd.read_csv("data/data_survey.csv")
 print(f"Dataset original: {df.shape[0]} lignes, {df.shape[1]} colonnes")
 
 # ==================== NETTOYAGE PAR COLONNE ====================
@@ -87,7 +87,7 @@ def clean_data(df):
         lambda x: x if x in valid_personalities else np.nan
     )
 
-    # 9. SELF_PERSONALITY - Utiliser les mêmes valeurs valides
+    # 9. SELF_PERSONALITY - Utiliser les mêmes valeurs valides pour nettoyer les valeurs incorrectes
     df_clean['self_personality'] = df_clean['self_personality'].apply(
         lambda x: x if x in valid_personalities else np.nan
     )
@@ -145,6 +145,6 @@ def clean_data(df):
 df_clean = clean_data(df)
 
 print(f"Dataset nettoyé: {df_clean.shape[0]} lignes, {df_clean.shape[1]} colonnes")
-df_clean.to_csv("./data_survey_clean.csv", index=False)
+df_clean.to_csv("data/data_survey_clean.csv", index=False)
 print("Données nettoyées enregistrées dans data_survey_clean.csv")
 
