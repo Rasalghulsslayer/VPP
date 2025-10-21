@@ -16,16 +16,17 @@ Notre pipeline a pour but de :
 VPP/
 │
 ├── data/                           
-│   ├── data_survey.csv             # Données utilisateurs issus du questionnaire
-|   └── data_survey_clean.csv       # Données à la fin du processus de traitement (nettoyage)
+│   ├── generate_data.py            # Fonction générant 1000 profils utilisateurs
+|   ├── users_profiles.csv          # Fichier contenant les informations utilisateurs (généré par generate_data.py)
+|   └── users_travels.csv           # Fichier contenant les informations utilisateurs relatives au voyage concerné
 │
 ├── etl/
 │   ├── clean_survey_data.py        # Code pour le nettoyage des données
-│   └── load_data.py                     # Code pour le chargement des données A FAIRE
+│   └── load_data.py                # Code pour le chargement des données dans la database
 │
 ├── README.md                       # Documentation du projet
 ├── requirements.txt                # Liste des dépendances Python à avoir 
-└── main.py                         # A FAIRE
+└── main.py                         # A lancer pour lancer la création de la pipeline
 ````
 
 ## Prérequis 
