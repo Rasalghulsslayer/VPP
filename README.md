@@ -55,9 +55,6 @@ cd VPP
 4. Créez la **PostgreSQL database** :
 
 ```bash
-# Vérifier qu'on a bien les dépendances
-python3 -m pip install psycopg2-binary sqlalchemy pandas
-
 # Se connecter :
 sudo -u postgres psql
    
@@ -68,21 +65,18 @@ CREATE DATABASE vpp_users_db;
 \q
 psql -U your_username -d vpp_users_db
 
-# Créer des tables
-\i database_setup.sql
-```
 
 ## Configuration de la connexion à la database
 
-Modifiez la database dans `src/load_data.py` :
+Modifiez la database dans `etl/load_data.py` :
 
 ```python
 DATABASE_CONFIG = {
-    'username': 'your_username',      # Replace with your PostgreSQL username
-    'password': 'your_password',      # Replace with your PostgreSQL password
+    'username': 'your_username',      # Remplacer par votre PostgreSQL username
+    'password': 'your_password',      # Remplacer par votre PostgreSQL password
     'host': 'localhost',
     'port': '5432',
-    'database': 'airlife_db'
+    'database': 'vpp_db'
 }
 ```
 
