@@ -86,5 +86,6 @@ columns = ["user_id", "first_name", "last_name", "travel_reason", "expectations_
 
 df = pd.DataFrame(rows, columns=columns)
 
-df.to_csv("/home/gmeffe/VPP/data/train_app_survey_1000.csv", index=False)
+### Remplacer le chemin par celui de votre environnement :
+df.to_csv("/home/lescaron/SDD/VPP/data/train_app_survey_1000.csv", index=False)
 print(df.head())
