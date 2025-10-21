@@ -45,7 +45,7 @@ def generate_interests():
         chosen_sub.append(f"{main}:{sub}")
     return "|".join(chosen_main), "|".join(chosen_sub)
 
-# Taux d’erreurs
+# Taux d’erreurs simulées
 error_rate = 0.05
 
 # Containers
@@ -62,6 +62,8 @@ for _ in range(n_users):
     languages_spoken = "|".join(random.sample(languages, random.randint(1, 3)))
     interests_main, interests_sub = generate_interests()
     topics_to_avoid = "|".join(random.sample(topics, random.randint(1, 2)))
+    preferred_personality = random.choice(personalities)
+    self_personality = random.choice(personalities)
     created_at = (datetime.now() - timedelta(days=random.randint(0, 365))).isoformat()
 
     # erreurs aléatoires sur profil
@@ -73,10 +75,10 @@ for _ in range(n_users):
 
     profiles.append([
         user_id, first_name, last_name, age, gender, orientation, languages_spoken,
-        interests_main, interests_sub, topics_to_avoid, created_at
+        interests_main, interests_sub, topics_to_avoid, preferred_personality, self_personality, created_at
     ])
 
-    # Infos voyage
+    # Infos voyage (dépendantes du trajet)
     travel_reason = random.choice(travel_reasons)
     expectation = random.choice(expectations)
     conv_trigger = random.choice(conversation_triggers)
@@ -87,10 +89,16 @@ for _ in range(n_users):
     ])
 
 # Colonnes
-profile_cols = ["user_id", "first_name", "last_name", "age", "gender", "sexual_orientation",
-                "languages_spoken", "interests_main", "interests_sub", "topics_to_avoid", "created_at"]
-travel_cols = ["user_id", "travel_reason", "expectations_from_neighbor",
-               "conversation_trigger", "openness_score"]
+profile_cols = [
+    "user_id", "first_name", "last_name", "age", "gender", "sexual_orientation",
+    "languages_spoken", "interests_main", "interests_sub", "topics_to_avoid",
+    "preferred_personality", "self_personality", "created_at"
+]
+
+travel_cols = [
+    "user_id", "travel_reason", "expectations_from_neighbor",
+    "conversation_trigger", "openness_score"
+]
 
 # DataFrames
 df_profiles = pd.DataFrame(profiles, columns=profile_cols)
@@ -100,8 +108,8 @@ df_travels = pd.DataFrame(travels, columns=travel_cols)
 df_profiles.to_csv("data/users_profiles.csv", index=False)
 df_travels.to_csv("data/users_travels.csv", index=False)
 
-print("✅ CSV générés :")
+print("✅ CSV générés avec succès :")
 print("- users_profiles.csv :", df_profiles.shape)
-print("- users_travels.csv :", df_travels.shape)
+print("- users_travels.csv  :", df_travels.shape)
 print(df_profiles.head())
 print(df_travels.head())
