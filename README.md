@@ -21,7 +21,7 @@ VPP/
 │
 ├── etl/
 │   ├── clean_survey_data.py        # Code pour le nettoyage des données
-│   └── load.py                     # Code pour le chargement des données A FAIRE
+│   └── load_data.py                     # Code pour le chargement des données A FAIRE
 │
 ├── README.md                       # Documentation du projet
 ├── requirements.txt                # Liste des dépendances Python à avoir 
@@ -34,5 +34,6 @@ Pour run notre pipeine, les versions suivantes sont nécessaires dans votre syst
 
 - **Python 3.X**
 - **pip** (programme d'installation du paquet python)
+- **PostgreSQL 12** ou version plus récente
 
 
