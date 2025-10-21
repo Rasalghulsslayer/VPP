@@ -1,3 +1,7 @@
 pandas
 requests
 numpy
+random
+faker 
+uui
+datetime
