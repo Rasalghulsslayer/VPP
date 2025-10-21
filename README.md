@@ -12,6 +12,7 @@ Notre pipeline a pour but de :
 
 ## Structure du projet
 
+````
 VPP/
 │
 ├── data/                           
@@ -25,6 +26,7 @@ VPP/
 ├── README.md                       # Documentation du projet
 ├── requirements.txt                # Liste des dépendances Python à avoir 
 └── main.py                         # A FAIRE
+````
 
 ## Prérequis 
 
