@@ -12,7 +12,19 @@ Notre pipeline a pour but de :
 
 ## Structure du projet
 
-// A REMPLIR A LA FIN
+VPP/
+│
+├── data/                           
+│   ├── data_survey.csv             # Données utilisateurs issus du questionnaire
+|   └── data_survey_clean.csv       # Données à la fin du processus de traitement (nettoyage)
+│
+├── etl/
+│   ├── clean_survey_data.py        # Code pour le nettoyage des données
+│   └── load.py                     # Code pour le chargement des données A FAIRE
+│
+├── README.md                       # Documentation du projet
+├── requirements.txt                # Liste des dépendances Python à avoir 
+└── main.py                         # A FAIRE
 
 ## Prérequis 
 
