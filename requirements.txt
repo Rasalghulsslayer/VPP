@@ -5,3 +5,4 @@ random
 faker 
 uui
 datetime
+sqlalchemy 
