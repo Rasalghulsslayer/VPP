@@ -6,3 +6,4 @@ faker
 uui
 datetime
 sqlalchemy 
+psycopg2-binary
