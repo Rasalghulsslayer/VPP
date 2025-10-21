@@ -44,25 +44,51 @@ def clean_data_profiles(df):
     df_clean['first_name'] = df_clean['first_name'].apply(clean_name)
     df_clean['last_name'] = df_clean['last_name'].apply(clean_name)
 
+
+
     # 5. INTERESTS_MAIN - Nettoyer les valeurs incorrectes
     valid_main_interests = [
         'Sport', 'Entrepreneuriat', 'Sciences', 'Arts & culture', 'Musique', 'Voyage', 'Podcasts',
         'Cuisine', 'Technologie', 'Photographie', 'Lecture', 'Jeux vidéo'
     ]
-    df_clean['interests_main'] = df_clean['interests_main'].apply(
-        lambda x: x if x in valid_main_interests else np.nan
-    )
+
+    def validate_interests_main(value):
+        if pd.isna(value):
+            return np.nan
+        # Sépare les centres d’intérêt sur "|"
+        mains = [v.strip() for v in str(value).split('|')]
+        # Vérifie que tous les intérêts sont valides
+        if all(main in valid_main_interests for main in mains):
+            return "|".join(mains)  # format propre et homogène
+        else:
+            return np.nan
+
+    df_clean['interests_main'] = df_clean['interests_main'].apply(validate_interests_main)
+
+
+
 
     # 6. INTERESTS_SUB - Nettoyer les valeurs incorrectes
     valid_sub_interests = [
-        'Football', 'Basketball', 'Tennis', 'Natation', 'Running', 'Cyclisme', 'Startup', 'Innovation', 'Biologie', 'Physique',
-        'Chimie', 'Peinture', 'Théâtre', 'Cinéma', 'Rock', 'Jazz', 'Classique', 'Pop', 'Rap',
-        'Road trip', 'Randonnée', 'Cuisine du monde', 'Pâtisserie', 'Développement web', 'IA',
-        'Data science', 'Portrait', 'Paysage', 'Roman', 'BD', 'Manga', 'FPS', 'RPG', 'Stratégie'
+        'Football', 'Basketball', 'Tennis', 'Natation', 'Running', 'Cyclisme', 'Startup', 'Innovation',
+        'Biologie', 'Physique', 'Chimie', 'Peinture', 'Théâtre', 'Cinéma', 'Rock', 'Jazz', 'Classique',
+        'Pop', 'Rap', 'Road trip', 'Randonnée', 'Cuisine du monde', 'Pâtisserie', 'Développement web',
+        'IA', 'Data science', 'Portrait', 'Paysage', 'Roman', 'BD', 'Manga', 'FPS', 'RPG', 'Stratégie',"Développement perso", "Tech", "Culture"
     ]
-    df_clean['interests_sub'] = df_clean['interests_sub'].apply(
-        lambda x: x if x in valid_sub_interests else np.nan
-    )
+
+    def validate_interests_sub(value):
+        if pd.isna(value):
+            return np.nan
+        # Sépare sur "|"
+        subs = [v.strip() for v in str(value).split('|')]
+        # Vérifie que tous les sous-intérêts sont valides
+        if all(sub in valid_sub_interests for sub in subs):
+            return "|".join(subs)  # normalise le format
+        else:
+            return np.nan
+
+    df_clean['interests_sub'] = df_clean['interests_sub'].apply(validate_interests_sub)
+
 
     # 8. PREFERRED_PERSONALITY - Nettoyer les valeurs incorrectes
     valid_personalities = ['Drôle', 'Sérieux(se)', 'Calme', 'Autre', 'Introverti(e)', 'Peu importe', 'Extraverti(e)']
@@ -75,17 +101,42 @@ def clean_data_profiles(df):
         lambda x: x if x in valid_personalities else np.nan
     )
 
+
     # 10. TOPICS_TO_AVOID - Standardiser le format
     valid_topics = ['Politique', 'Religion', 'Sexe', 'Argent', 'Santé', 'Autre']
-    df_clean['topics_to_avoid'] = df_clean['topics_to_avoid'].apply(
-        lambda x: x if x in valid_topics else np.nan
-    )
+
+    def validate_topics(value):
+        if pd.isna(value):
+            return np.nan
+        # Sépare les sujets avec "|"
+        topics = [v.strip() for v in str(value).split('|')]
+        # Vérifie que tous les sujets sont valides
+        if all(topic in valid_topics for topic in topics):
+            return "|".join(topics)  # format propre et homogène
+        else:
+            return np.nan
+
+    df_clean['topics_to_avoid'] = df_clean['topics_to_avoid'].apply(validate_topics)
+
+
+
 
     # 12. LANGUAGES_SPOKEN - Nettoyer les valeurs incorrectes
     valid_languages = ['Français', 'Anglais', 'Espagnol', 'Italien', 'Allemand', 'Autre']
-    df_clean['languages_spoken'] = df_clean['languages_spoken'].apply(
-        lambda x: x if x in valid_languages else np.nan
-    )
+
+    def validate_languages(value):
+        if pd.isna(value):
+            return np.nan
+        # On découpe sur le séparateur "|"
+        langs = [v.strip() for v in str(value).split('|')]
+        # On vérifie que TOUTES les langues sont dans la liste valide
+        if all(lang in valid_languages for lang in langs):
+            return "|".join(langs)  # on garde proprement formaté
+        else:
+            return np.nan
+
+    df_clean['languages_spoken'] = df_clean['languages_spoken'].apply(validate_languages)
+
 
     # 11. AGE - Convertir en numérique et nettoyer
     # Convertir les âges en numérique
@@ -94,7 +145,7 @@ def clean_data_profiles(df):
     df_clean['age'] = df_clean['age'].apply(lambda x: x if x >= 16 and x <= 120 else np.nan)
     # S'assurer que les âges sont réalistes (16-120)
     df_clean['age'] = df_clean['age'].clip(16, 120)
-  
+    
     # 14. GENDER - Standardiser les valeurs
     valid_gender = {'Non-binaire', 'Préfère ne pas dire', 'Homme', 'Femme'}
     df_clean['gender'] = df_clean['gender'].apply(
@@ -108,7 +159,7 @@ def clean_data_profiles(df):
     df_clean['sexual_orientation'] = df_clean['sexual_orientation'].apply(
         lambda x: x if x in valid_sexual_orientations else np.nan
     )
-    
+        
     return df_clean
 
 def clean_data_travels(df):

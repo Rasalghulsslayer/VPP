@@ -1,0 +1,1001 @@
+user_id,first_name,last_name,age,gender,sexual_orientation,languages_spoken,interests_main,interests_sub,topics_to_avoid,preferred_personality,self_personality,created_at
+830684c7-c992-4951-bda1-1efbe4dd62f2,Danielle,Thierry,56.0,Non-binaire,Hétérosexuel(le),Espagnol|Anglais|Allemand,Jeux vidéo,FPS,Santé,Autre,Drôle,2025-10-06T15:04:02.806477
+79480cc7-3a7b-489c-befe-18fbc94101eb,Alphonse,Blanchard,51.0,Préfère ne pas dire,Autre,Autre|Allemand|Italien,Cuisine,Pâtisserie,Religion,Peu importe,Autre,2025-04-30T15:04:02.806530
+9313ea43-97d0-47b4-a2b6-cf0066dcd758,Nicole,Antoine,40.0,Non-binaire,Bisexuel(le),Allemand|Espagnol,Jeux vidéo,RPG,Argent,Drôle,Introverti(e),2025-05-24T15:04:02.806561
+c58cd570-f884-40d0-a78f-1d7b450bfcf1,Isaac,Meunier,18.0,Préfère ne pas dire,Préfère ne pas dire,Français|Anglais,Podcasts,Tech,Autre|Sexe,Sérieux(se),Calme,2025-04-23T15:04:02.806596
+170baf6f-16de-4fba-9f06-0a8989cf8794,Zacharie,Vaillant,50.0,Préfère ne pas dire,Homosexuel(le),Italien|Espagnol,Jeux vidéo|Technologie|Arts & culture,Stratégie|IA|Peinture,Politique,Extraverti(e),Calme,2025-03-30T15:04:02.806627
+7d734710-d571-4ea5-9bf5-cbd8dc6be896,Marine,Dupuis,57.0,Femme,Pansexuel(le),Italien|Anglais|Espagnol,Arts & culture,Cinéma,Autre|Santé,Autre,Introverti(e),2025-03-31T15:04:02.806653
+c40498b8-4cf1-423e-99f0-0269b585930d,Olivier,Carre,64.0,Non-binaire,Préfère ne pas dire,Anglais,Sciences|Lecture|Podcasts,Chimie|Roman|Tech,Santé|Argent,Introverti(e),Calme,2025-01-11T15:04:02.806678
+8f04c12f-b697-48ab-a1bc-233448311bf8,Étienne,Thomas,65.0,Homme,Hétérosexuel(le),Italien|Anglais,Sport|Musique,Running|Jazz,Autre,Calme,Extraverti(e),2024-11-28T15:04:02.806703
+652d7742-6158-42e4-9116-497336f95a76,Monique,Paris,50.0,Non-binaire,Asexuel(le),Italien|Français,Voyage,Randonnée,Politique,Sérieux(se),Introverti(e),2025-09-11T15:04:02.806747
+1083f67b-21f4-4422-962f-4d49f7c21b0a,Michelle,Gonzalez,24.0,Femme,Asexuel(le),Espagnol,Photographie|Podcasts|Arts & culture,Portrait|Culture|Théâtre,Autre|Sexe,Autre,Introverti(e),2025-03-04T15:04:02.806784
+b9798e89-a016-46a9-ad3d-4dfd37ee4c58,Guy,Perrin,53.0,Préfère ne pas dire,Asexuel(le),Français,Jeux vidéo,Stratégie,Religion,Drôle,Drôle,2025-05-05T15:04:02.806808
+28f8a05b-6526-4ed3-be34-8c813fc9ab59,Diane,Lebreton,50.0,Préfère ne pas dire,Autre,Allemand|Italien|Anglais,Podcasts|Arts & culture,Développement perso|Peinture,Sexe|Argent,Autre,Autre,2025-09-24T15:04:02.806833
+8d9bb9ad-376c-416b-b458-a433e341c300,Éléonore,Picard,67.0,Non-binaire,Homosexuel(le),Anglais,Cuisine|Sciences|Podcasts,Cuisine du monde|Physique|Tech,Politique,Autre,Extraverti(e),2025-01-13T15:04:02.806857
+d34be3f3-9953-4502-88b7-d4177a817c88,Marcelle,Bègue,42.0,Femme,Pansexuel(le),Italien,Sciences,Physique,Argent,Calme,Extraverti(e),2025-03-03T15:04:02.806881
+8ed35867-b747-446b-bda4-ae01a8b640b3,Caroline,Pichon,29.0,Non-binaire,Asexuel(le),Allemand|Français|Espagnol,Sport,Running,Santé|Autre,Sérieux(se),Drôle,2025-02-03T15:04:02.806904
+9bbd3f58-2a58-4279-804c-60ac584ef533,Émilie,Rémy,59.0,Préfère ne pas dire,Pansexuel(le),Allemand,Photographie,Portrait,Argent,Peu importe,Introverti(e),2025-01-05T15:04:02.806925
+24292788-044b-4330-9d60-0bd88ac5c86e,Zoé,Pierre,32.0,Femme,Homosexuel(le),Autre|Espagnol|Italien,Entrepreneuriat|Sport,Data science|Running,Politique,Introverti(e),Sérieux(se),2025-02-04T15:04:02.806951
+0661db95-5726-40b8-8208-97e19f3c3e06,Audrey,Parent,34.0,Préfère ne pas dire,Pansexuel(le),Autre|Espagnol|Français,Technologie|Musique|Entrepreneuriat,IA|Classique|Startup,Autre,Introverti(e),Sérieux(se),2025-06-04T15:04:02.806976
+4ff781dc-7bc7-4417-86bf-b2719be7d7df,Thérèse,Maréchal,48.0,Femme,Bisexuel(le),Français,Podcasts|Musique|Sport,Développement perso|Classique|Basketball,Religion|Argent,Introverti(e),Peu importe,2025-03-17T15:04:02.807000
+d9fd0457-13f0-4247-9346-7245e5816e4a,Lucie,Bailly,18.0,Homme,Asexuel(le),Anglais|Italien|Autre,Musique,Classique,Sexe,Sérieux(se),Peu importe,2025-06-16T15:04:02.807023
+e9ca5f31-60ae-47e3-be4c-e185745b795c,Gilles,Lesage,63.0,Préfère ne pas dire,Homosexuel(le),Anglais,Sport|Sciences,Cyclisme|Physique,Autre|Religion,Calme,Sérieux(se),2024-10-27T15:04:02.807048
+b9008af9-6803-4c46-ba3d-d311d97c7117,Noël,Chevallier,68.0,Femme,Bisexuel(le),Anglais|Autre,Lecture,Roman,Sexe|Autre,Extraverti(e),Drôle,2025-06-01T15:04:02.807071
+f18c463d-0167-4012-875b-120026f6f958,Thibaut,Grenier,23.0,Homme,Homosexuel(le),Espagnol|Français|Allemand,Podcasts|Voyage|Lecture,Tech|Road trip|BD,Sexe,Drôle,Peu importe,2025-03-12T15:04:02.807098
+79d3deb7-0e5b-400d-80aa-80b8fcd37aef,Michelle,Devaux,58.0,Homme,Asexuel(le),Autre|Français,Musique|Technologie|Jeux vidéo,Pop|IA|RPG,Santé|Religion,Sérieux(se),Autre,2024-11-15T15:04:02.807123
+05ce2206-bc78-4e88-8b06-5290c8af2f9a,Joséphine,Gauthier,41.0,Non-binaire,Bisexuel(le),Anglais|Italien,Photographie|Lecture|Voyage,Paysage|BD|Randonnée,Santé,Autre,Extraverti(e),2025-07-27T15:04:02.807146
+91a3baf6-ec1f-4304-b4c0-d79d17046fba,David,Joly,21.0,Préfère ne pas dire,Autre,Anglais|Autre,Sport,Football,Argent,Introverti(e),Extraverti(e),2025-09-14T15:04:02.807169
+c9bd02ac-3615-4445-aca2-4b536d00c3af,Célina,Salmon,31.0,Préfère ne pas dire,Autre,Français|Autre|Italien,Sciences,Chimie,Politique|Santé,Sérieux(se),Extraverti(e),2025-08-20T15:04:02.807192
+914d11af-df3b-436f-8dca-b63e05a77d30,Madeleine,Alexandre,36.0,Femme,Asexuel(le),Allemand|Italien|Autre,Jeux vidéo,RPG,Sexe|Religion,Extraverti(e),Peu importe,2025-06-02T15:04:02.807214
+14f645f8-f6c3-4821-a7fb-50e89ab9dc1a,Georges,Lucas,20.0,Homme,Homosexuel(le),Espagnol|Autre,Entrepreneuriat|Sciences|Lecture,Innovation|Physique|Manga,Autre,Sérieux(se),Drôle,2025-03-23T15:04:02.807239
+603b6c94-ba5e-43d6-bf96-dc63916bd2e0,Margot,Hebert,69.0,Femme,Pansexuel(le),Autre|Français|Italien,Sport|Voyage,Tennis|Randonnée,Santé|Autre,Extraverti(e),Introverti(e),2025-07-01T15:04:02.807262
+92adbf28-ba87-4345-98fd-73419db9cf9a,Zoé,Alves,40.0,Homme,Autre,Italien|Anglais|Autre,Photographie,Portrait,Santé|Autre,Peu importe,Drôle,2025-09-09T15:04:02.807283
+b1ced820-b3e9-4d12-a80d-e012a1b2fac6,Marguerite,Ferreira,32.0,Femme,Bisexuel(le),Italien,Voyage|Podcasts,Randonnée|Tech,Politique|Argent,Drôle,Peu importe,2025-01-18T15:04:02.807305
+284c0cdf-5b7b-4402-9ce9-6779db6ef1ff,Lucy,Schneider,64.0,Non-binaire,Homosexuel(le),Français,Sciences|Arts & culture|Jeux vidéo,Physique|Cinéma|FPS,Argent,Peu importe,Calme,2025-04-16T15:04:02.807327
+0caddba3-906e-4cce-a86f-56d595fc4d9c,Marine,Blot,53.0,Non-binaire,Bisexuel(le),Autre|Italien|Allemand,Arts & culture|Entrepreneuriat|Photographie,Cinéma|Innovation|Portrait,Autre|Santé,Extraverti(e),Drôle,2025-01-05T15:04:02.807351
+1ce462d0-b07b-4b01-9d05-63c1129a143e,Véronique,Chauvin,20.0,Homme,Hétérosexuel(le),Italien|Français,Voyage|Lecture,Randonnée|Manga,Argent,Sérieux(se),Peu importe,2025-01-27T15:04:02.807373
+09c98a3b-9e9a-44b0-a898-a1a2ef4a16e6,Jacques,Baron,45.0,Femme,Préfère ne pas dire,Allemand|Espagnol|Autre,Entrepreneuriat,Développement web,Religion|Argent,Introverti(e),Introverti(e),2024-11-13T15:04:02.807395
+a208f781-06ba-414d-93d4-b920b31234b0,Hugues,Joseph,47.0,Préfère ne pas dire,Bisexuel(le),Espagnol|Autre,Jeux vidéo|Musique|Technologie,FPS|Rap|IA,Religion,Peu importe,Autre,2025-02-13T15:04:02.807418
+9d189478-0466-43f5-850a-bb586c4639e7,Odette,Blanchet,66.0,Non-binaire,Hétérosexuel(le),Anglais|Italien,Arts & culture|Musique|Photographie,Théâtre|Pop|Paysage,Autre|Santé,Calme,Calme,2024-10-27T15:04:02.807443
+e18a3546-270c-4bf6-8454-3713b73d12de,Laurent,Duval,62.0,Préfère ne pas dire,Bisexuel(le),Autre,Jeux vidéo|Sciences|Arts & culture,FPS|Chimie|Théâtre,Autre|Santé,Extraverti(e),Introverti(e),2024-12-20T15:04:02.807467
+28b567b9-da30-43d4-be1a-692cef527462,Margot,Lebrun,39.0,Préfère ne pas dire,Bisexuel(le),Autre,Sciences|Musique|Sport,Biologie|Rap|Tennis,Autre,Extraverti(e),Extraverti(e),2025-02-12T15:04:02.807491
+76404c41-7ba5-4868-b8e5-2f0b4c8e6b4f,Bernard,Rocher,46.0,Femme,Bisexuel(le),Français,Cuisine|Entrepreneuriat,Cuisine du monde|Data science,Politique|Santé,Peu importe,Peu importe,2025-09-24T15:04:02.807513
+d06c7b73-c4ae-403c-8abb-2693204dfd71,Sabine,Raynaud,51.0,Femme,Asexuel(le),Allemand|Anglais|Italien,Cuisine|Musique,Pâtisserie|Classique,Santé,Peu importe,Drôle,2025-07-07T15:04:02.807539
+21c6983d-746a-446c-9a8f-b712b3315cf6,Amélie,Boucher,27.0,Non-binaire,Homosexuel(le),Italien,Jeux vidéo|Photographie,RPG|Paysage,Religion,Calme,Peu importe,2025-05-30T15:04:02.807561
+3ab39fcc-49c2-48e7-8751-37cd1809e79c,Amélie,Mercier,66.0,Préfère ne pas dire,Pansexuel(le),Allemand,Lecture,Roman,Religion|Politique,Drôle,Sérieux(se),2025-05-17T15:04:02.807583
+c12debd8-04c5-4c74-be3a-bede4bb578df,Laurence,Sauvage,60.0,Homme,Autre,Espagnol|Allemand,Cuisine|Jeux vidéo|Entrepreneuriat,Cuisine du monde|RPG|Développement web,Politique|Autre,Sérieux(se),Peu importe,2024-12-31T15:04:02.807605
+7fcb1c15-74a7-46db-941d-e339ba5932aa,Grégoire,Verdier,64.0,Préfère ne pas dire,Pansexuel(le),Autre|Italien|Espagnol,Photographie,Paysage,Politique|Argent,Calme,Autre,2025-05-04T15:04:02.807645
+7ed50555-e812-4e55-a6a5-408336a01607,Laurence,Neveu,60.0,Femme,Bisexuel(le),Italien|Allemand|Français,Entrepreneuriat|Voyage,Développement web|Randonnée,Argent,Extraverti(e),Introverti(e),2025-10-21T15:04:02.807676
+e3a864aa-b75e-4cd5-906d-fb5875422f8f,Clémence,Dumas,49.0,Homme,Asexuel(le),Autre|Italien,Arts & culture,Théâtre,Sexe,Autre,Peu importe,2025-02-15T15:04:02.807699
+e507345d-2984-46b0-97cd-f52f0fa96478,Zoé,Delaunay,16.0,Femme,Hétérosexuel(le),Français,Entrepreneuriat|Lecture,Innovation|BD,Santé|Sexe,Autre,Extraverti(e),2025-02-16T15:04:02.807739
+06a31d91-6290-4297-8c1b-9aacc65848da,Anastasie,Clerc,40.0,Préfère ne pas dire,Asexuel(le),Autre|Anglais|Français,Podcasts|Voyage,Culture|Randonnée,Sexe,Peu importe,Calme,2024-12-25T15:04:02.807776
+d4a72c4a-0307-40b3-a298-6f08d8d14da3,Claude,Lemonnier,46.0,Homme,Bisexuel(le),Allemand|Italien|Autre,Arts & culture|Jeux vidéo,Cinéma|RPG,Argent,Drôle,Calme,2025-02-21T15:04:02.807830
+19c4bab7-9404-4d0d-8ee7-af331e58f71c,Gabrielle,Lambert,18.0,Préfère ne pas dire,Asexuel(le),Espagnol|Français|Italien,Technologie,IA,Autre,Sérieux(se),Autre,2024-11-20T15:04:02.807860
+b0e7e14c-9f00-47a8-9d1b-ea053034aa66,Anne,Philippe,55.0,Femme,Autre,Espagnol,Technologie|Podcasts|Voyage,IA|Culture|Road trip,Religion,Peu importe,Peu importe,2025-05-27T15:04:02.807885
+07a9348e-2352-4f0a-991b-a8c5650f3470,Claudine,Gillet,44.0,Préfère ne pas dire,Autre,Français|Autre,Sport|Musique,Tennis|Classique,Religion|Autre,Introverti(e),Autre,2025-01-05T15:04:02.807910
+e8c43d0f-269e-4c85-9f62-f374e03f1df4,Bernard,Pruvost,55.0,Femme,Asexuel(le),Anglais|Italien|Autre,Cuisine,Pâtisserie,Sexe|Politique,Extraverti(e),Autre,2025-05-27T15:04:02.807933
+b773a3bd-935f-49f4-8392-fa33c6a63700,Marie,Maréchal,53.0,Homme,Autre,Autre|Espagnol,Musique|Arts & culture,Pop|Théâtre,Religion,Autre,Introverti(e),2025-04-21T15:04:02.807957
+042632c9-b4c3-4ef2-afec-d4832dd0845c,Lucy,Lemaire,,Non-binaire,Asexuel(le),Italien|Espagnol|Anglais,Voyage|Arts & culture|Lecture,Randonnée|Cinéma|Manga,Autre,Drôle,Peu importe,2024-11-25T15:04:02.807987
+8f7afae9-527a-4621-95bb-d2b060ed951e,Marie,Renard,63.0,Femme,Homosexuel(le),Anglais,Voyage|Technologie|Lecture,Randonnée|IA|BD,Sexe|Autre,Extraverti(e),Drôle,2025-02-24T15:04:02.808014
+efe0f38b-39f4-4815-8524-692a5e529fe1,Tristan,Gauthier,39.0,Non-binaire,Préfère ne pas dire,Français|Espagnol,Entrepreneuriat|Cuisine|Voyage,Développement web|Pâtisserie|Randonnée,Autre,Sérieux(se),Autre,2025-10-09T15:04:02.808038
+2039002e-60d5-4372-ab14-bb3207ba3dab,Élise,Pruvost,56.0,Femme,Autre,Autre|Italien,Sciences,Biologie,Sexe,Autre,Drôle,2025-09-02T15:04:02.808059
+eadba68b-19cc-4657-a070-0edc8e9f78ba,Frédérique,Rossi,58.0,Femme,Asexuel(le),Autre|Anglais|Italien,Entrepreneuriat|Cuisine|Photographie,Data science|Pâtisserie|Portrait,Religion|Argent,Autre,Sérieux(se),2025-04-19T15:04:02.808082
+18c28732-8f93-483e-975a-c6032a0e9a80,Anne,Pierre,41.0,Homme,Homosexuel(le),Italien,Lecture,Roman,Politique,Extraverti(e),Calme,2025-06-19T15:04:02.808106
+79cead42-e047-47fe-8fda-33fc6a17af5d,Sabine,Becker,53.0,Préfère ne pas dire,Préfère ne pas dire,Espagnol,Photographie,Portrait,Religion|Autre,Introverti(e),Calme,2025-07-24T15:04:02.808127
+ce314a45-49b0-4cd1-90cd-98c027f7fed5,Gabrielle,Rémy,66.0,Préfère ne pas dire,Asexuel(le),Français|Anglais,Sport|Sciences,Cyclisme|Physique,Autre,Drôle,Autre,2025-03-06T15:04:02.808149
+0f222467-6ad7-4669-936c-49f987f4bc1e,Gilbert,Sanchez,55.0,Non-binaire,Autre,Allemand|Espagnol|Italien,Sport|Jeux vidéo|Cuisine,Natation|RPG|Cuisine du monde,Autre|Argent,Drôle,Drôle,2025-05-10T15:04:02.808172
+a34d89c4-42a8-4cc4-92aa-1309d0aeaaa2,Camille,Breton,56.0,Homme,Pansexuel(le),Allemand|Espagnol|Italien,Photographie|Podcasts|Entrepreneuriat,Portrait|Culture|Innovation,Argent|Religion,Autre,Calme,2025-03-03T15:04:02.808196
+ecb86678-41dc-4ab7-b36d-311d107e64d8,Paulette,Dufour,58.0,Homme,Bisexuel(le),Autre,Entrepreneuriat|Jeux vidéo,Startup|FPS,Politique|Sexe,Extraverti(e),Sérieux(se),2025-01-10T15:04:02.808217
+4eb487a9-3cc0-47b7-be11-f382b6584a0e,Arthur,Gonzalez,58.0,Femme,Préfère ne pas dire,Français|Espagnol|Allemand,Entrepreneuriat|Photographie,Innovation|Portrait,Religion|Politique,Calme,Extraverti(e),2025-01-10T15:04:02.808240
+81a189c3-83f0-433c-b976-7ed9b06f05cf,Thierry,Boucher,70.0,Non-binaire,Asexuel(le),Autre|Espagnol|Français,Musique,Classique,Sexe|Politique,Sérieux(se),Extraverti(e),2025-08-09T15:04:02.808262
+ce5fdc6c-4c2f-4489-a5d4-36bcae366c41,Margot,Legrand,21.0,Préfère ne pas dire,Pansexuel(le),Italien|Espagnol,Voyage,Randonnée,Santé|Autre,Drôle,Drôle,2025-08-03T15:04:02.808283
+35bc00ce-9459-40a2-977a-cb0d2fce1f29,Anastasie,Fabre,58.0,Femme,Pansexuel(le),Italien|Autre|Espagnol,Technologie,IA,Argent|Politique,Calme,Peu importe,2024-11-08T15:04:02.808304
+e1e127fc-5e1e-479d-89e5-06a4927a0ff5,Bernard,Cohen,54.0,Non-binaire,Hétérosexuel(le),Espagnol,Sciences,Physique,Sexe|Politique,Drôle,Autre,2025-03-15T15:04:02.808324
+d161821f-c216-4848-bd55-6289dbf6d818,Claire,Langlois,51.0,Homme,Hétérosexuel(le),Autre|Français,Sport|Cuisine,Football|Pâtisserie,Santé|Argent,Peu importe,Peu importe,2025-03-22T15:04:02.808349
+20b6c802-e119-4d5c-8989-4e104c8e65a3,Susanne,Mallet,67.0,Femme,Préfère ne pas dire,Espagnol|Français|Italien,Arts & culture,Théâtre,Santé|Politique,Autre,Extraverti(e),2025-05-16T15:04:02.808371
+717c45c4-a232-4779-ae86-c7cee40738c5,Bernadette,Millet,48.0,Non-binaire,Asexuel(le),Anglais|Espagnol|Allemand,Lecture|Sciences|Arts & culture,Roman|Biologie|Théâtre,Religion,Introverti(e),Sérieux(se),2024-11-20T15:04:02.808393
+5884ccc5-50c7-4b51-a35d-a2c848a133d8,Thérèse,Fournier,44.0,Homme,Préfère ne pas dire,Espagnol|Anglais|Italien,Cuisine,Pâtisserie,Sexe|Santé,Drôle,Calme,2025-02-04T15:04:02.808459
+1982a4e3-b58a-4e53-b80e-1c904834a1db,Frédéric,Boulay,39.0,Homme,Hétérosexuel(le),Français|Allemand|Italien,Photographie|Technologie,Portrait|IA,Sexe,Introverti(e),Autre,2025-02-07T15:04:02.808491
+df0456a1-278c-45eb-85e3-7157312c1af9,Gérard,Menard,61.0,Non-binaire,Asexuel(le),Anglais|Français|Autre,Cuisine|Jeux vidéo|Technologie,Cuisine du monde|RPG|IA,Argent|Autre,Extraverti(e),Calme,2024-11-08T15:04:02.808516
+8dcb9eee-cfef-4eb2-a176-c959032c21ea,Margot,Klein,51.0,Femme,Bisexuel(le),Autre|Allemand,Voyage,Road trip,Sexe,Calme,Peu importe,2024-10-29T15:04:02.808539
+3739e870-33c8-4480-bcfe-b56f80c524a8,André,Hernandez,51.0,Femme,Autre,Anglais|Allemand,Lecture,Manga,Santé|Sexe,Drôle,Calme,2025-05-16T15:04:02.808560
+2d3e83cd-e36d-4ee4-8bd4-e8ac4fb1517b,Céline,Laporte,30.0,Préfère ne pas dire,Homosexuel(le),Espagnol,Technologie,IA,Santé|Religion,Introverti(e),Autre,2025-08-04T15:04:02.808582
+e118b9e1-8d72-4234-a5f2-f5fa964f7a17,Corinne,Marion,39.0,Préfère ne pas dire,Pansexuel(le),Espagnol|Italien|Anglais,Arts & culture|Musique|Cuisine,Peinture|Classique|Pâtisserie,Sexe|Argent,Introverti(e),Introverti(e),2025-03-21T15:04:02.808606
+ff648797-c1c2-4a15-b05f-99f0949dc5d8,Aimée,Muller,19.0,Femme,Préfère ne pas dire,Allemand|Français,Technologie|Entrepreneuriat|Musique,IA|Innovation|Classique,Santé|Religion,Extraverti(e),Autre,2025-09-05T15:04:02.808632
+45243317-a1fc-47f7-aafa-ef6d60224f20,Caroline,Renault,42.0,Non-binaire,Pansexuel(le),Espagnol|Anglais|Italien,Voyage,Road trip,Sexe,Drôle,Extraverti(e),2024-10-21T15:04:02.808654
+c2eafd90-970c-4e28-90d8-31383dcceb9a,Maurice,Pruvost,69.0,Femme,Autre,Autre,Cuisine|Photographie,Cuisine du monde|Portrait,Sexe,Sérieux(se),Extraverti(e),2025-08-06T15:04:02.808676
+6823d994-881e-42c1-b928-79374b54ee83,Étienne,Thierry,35.0,Non-binaire,Hétérosexuel(le),Italien,Photographie|Cuisine|Entrepreneuriat,Portrait|Pâtisserie|Startup,Autre,Sérieux(se),Calme,2025-03-16T15:04:02.808698
+ad37ce98-98fe-42b5-b7d6-ea5da4bf416c,Lorraine,Vidal,20.0,Non-binaire,Pansexuel(le),Français|Italien,Musique|Sport,Classique|Football,Religion|Politique,Extraverti(e),Introverti(e),2025-05-04T15:04:02.808721
+6299079c-c85d-43a1-9b06-83cc8aeab410,Sébastien,Hoarau,69.0,Femme,Autre,Autre|Anglais,Entrepreneuriat,Data science,Sexe,Sérieux(se),Drôle,2025-07-11T15:04:02.808745
+91029d1c-7bde-4ad3-8bcb-6db67bc646c3,Martine,Guillon,68.0,Femme,Bisexuel(le),Autre,Musique,Classique,Autre,Calme,Calme,2025-08-19T15:04:02.808766
+79027723-bd73-47a8-b497-a23e21b3f10c,David,Maurice,37.0,Préfère ne pas dire,Pansexuel(le),Italien|Espagnol|Allemand,Jeux vidéo,RPG,Argent,Introverti(e),Extraverti(e),2025-07-21T15:04:02.808787
+ae41c794-fe01-49cb-9eba-2e8cd337948e,Sylvie,Masson,58.0,Homme,Bisexuel(le),Allemand|Italien,Jeux vidéo,RPG,Argent|Politique,Peu importe,Extraverti(e),2025-04-24T15:04:02.808807
+542910a6-91d7-4cc9-a26f-4f19d0a61e29,Monique,Le Goff,58.0,Femme,Bisexuel(le),Autre|Anglais|Français,Photographie,Paysage,Religion,Drôle,Sérieux(se),2024-11-25T15:04:02.808828
+608359b7-62e4-462d-8f20-d6b7970c242f,Alix,Gallet,25.0,Femme,Bisexuel(le),Italien|Français,Sciences|Technologie|Voyage,Physique|IA|Randonnée,Politique,Drôle,Peu importe,2025-07-18T15:04:02.808850
+3dea02f4-d746-437c-97a8-ee693252e1ca,Margot,Cordier,65.0,Homme,Autre,Anglais|Allemand,Jeux vidéo|Cuisine,FPS|Cuisine du monde,Politique,Autre,Sérieux(se),2024-10-21T15:04:02.808873
+271d4457-81dc-476b-8063-8ae9e86e1817,Zoé,Marin,51.0,Homme,Bisexuel(le),Autre,Jeux vidéo|Lecture|Sciences,RPG|Manga|Biologie,Religion,Extraverti(e),Sérieux(se),2025-06-22T15:04:02.808895
+3fa7982d-ec1c-46b2-8eb3-1ab2d5398dd0,Aurore,Jean,39.0,Femme,Préfère ne pas dire,Anglais|Allemand|Français,Musique,Pop,Santé|Argent,Extraverti(e),Autre,2024-12-31T15:04:02.808916
+41de8b33-24b1-4be0-9885-1e15a29b5edc,François,Jacob,59.0,Homme,Homosexuel(le),Autre|Allemand|Anglais,Podcasts,Culture,Politique,Introverti(e),Sérieux(se),2025-05-19T15:04:02.808937
+cc878e64-a5bb-43b8-8a01-fa67f54b2cf7,Vincent,Valentin,34.0,Non-binaire,Bisexuel(le),Autre,Musique|Sciences|Jeux vidéo,Rap|Chimie|FPS,Santé,Introverti(e),Sérieux(se),2025-07-26T15:04:02.808959
+47978613-b889-47ff-a56c-82bd5ceedc16,Grégoire,Delattre,21.0,Non-binaire,Autre,Espagnol|Anglais|Italien,Lecture|Sport|Cuisine,Manga|Running|Pâtisserie,Argent|Religion,Extraverti(e),Extraverti(e),2024-11-05T15:04:02.808982
+8c35ae70-177e-48a0-8aa2-9d7d02fee2f7,Antoinette,Joseph,44.0,Femme,Pansexuel(le),Anglais|Espagnol,Sciences|Voyage|Lecture,Chimie|Randonnée|BD,Sexe,Introverti(e),Introverti(e),2025-08-28T15:04:02.809004
+d69d90fc-8a83-4b1b-b02c-3e81abf47e55,Augustin,Vasseur,31.0,Préfère ne pas dire,Hétérosexuel(le),Espagnol,Photographie|Podcasts,Portrait|Développement perso,Santé|Sexe,Sérieux(se),Extraverti(e),2025-08-01T15:04:02.809026
+18ff6a9a-402b-46c7-a8f6-adb2f17f56fc,Isabelle,Renaud,17.0,Non-binaire,Pansexuel(le),Italien|Anglais|Allemand,Voyage|Sport|Lecture,Randonnée|Natation|Manga,Sexe|Santé,Drôle,Extraverti(e),2025-08-27T15:04:02.809048
+84f68441-c435-4281-9c72-8e2ea67a5f4f,Céline,Camus,18.0,Femme,Hétérosexuel(le),Allemand|Anglais|Espagnol,Musique|Entrepreneuriat|Podcasts,Rap|Data science|Culture,Santé|Autre,Drôle,Sérieux(se),2025-09-02T15:04:02.809071
+7bfad361-c654-4e24-a740-e4c79c61943a,Louis,Jacques,28.0,Femme,Asexuel(le),Français,Sciences,Chimie,Argent|Santé,Autre,Sérieux(se),2024-12-15T15:04:02.809091
+c94b6db0-5e0e-4426-b383-e39bc8a048f5,Matthieu,Pinto,26.0,Femme,Asexuel(le),Espagnol|Allemand|Autre,Technologie|Jeux vidéo|Cuisine,IA|RPG|Cuisine du monde,Sexe|Politique,Autre,Introverti(e),2025-05-17T15:04:02.809120
+04ffb730-2ba9-4bc1-9c76-0c3bb7d1d798,Gilles,Delattre,57.0,Préfère ne pas dire,Autre,Allemand,Sciences|Technologie,Chimie|IA,Autre,Sérieux(se),Drôle,2025-01-01T15:04:02.809143
+9850110c-646e-4d86-9977-2d5986e44aad,Luc,Antoine,36.0,Femme,Homosexuel(le),Autre|Anglais,Technologie|Photographie,IA|Portrait,Santé,Sérieux(se),Introverti(e),2025-05-08T15:04:02.809164
+aa546f86-9d4a-4db6-b88d-6e58f3ef222c,Virginie,Thomas,27.0,Femme,Asexuel(le),Allemand|Espagnol,Jeux vidéo|Lecture|Musique,Stratégie|BD|Jazz,Sexe,Introverti(e),Calme,2025-06-28T15:04:02.809186
+f778ce1d-0b28-4177-a2be-b0203ca27a4f,Xavier,Grondin,36.0,Femme,Bisexuel(le),Autre|Espagnol|Allemand,Photographie,Paysage,Sexe|Religion,Calme,Drôle,2025-05-27T15:04:02.809207
+b5bd2645-278a-49f7-ae27-97c5650a0ab5,Grégoire,Guibert,63.0,Femme,Homosexuel(le),Allemand,Technologie|Musique,IA|Rock,Religion,Drôle,Peu importe,2025-01-23T15:04:02.809229
+927a1f82-15f6-46f0-a907-7dc3bee01769,Roger,Blanc,37.0,Femme,Hétérosexuel(le),Anglais|Français|Autre,Lecture|Cuisine,BD|Cuisine du monde,Sexe|Autre,Peu importe,Drôle,2025-09-06T15:04:02.809251
+523d68d8-d14b-4032-b57e-135f9e9d5548,Marine,Maurice,42.0,Préfère ne pas dire,Hétérosexuel(le),Italien|Anglais,Musique|Sport|Lecture,Classique|Running|Manga,Sexe,Calme,Autre,2024-11-27T15:04:02.809274
+d7c074f1-b775-4cfc-b213-b533e8a2c40f,Josette,Hubert,33.0,Préfère ne pas dire,Préfère ne pas dire,Espagnol,Jeux vidéo,RPG,Autre|Religion,Drôle,Peu importe,2025-05-02T15:04:02.809297
+36743ee9-bf49-40c5-bb80-feae29adf861,Michèle,Royer,68.0,Femme,Asexuel(le),Français|Italien,Entrepreneuriat|Sciences|Lecture,Data science|Physique|Roman,Sexe,Autre,Sérieux(se),2025-03-07T15:04:02.809319
+9f21642c-0e89-40ea-a93e-6d465e531c87,Julie,Hervé,16.0,Homme,Autre,Autre|Anglais,Lecture,Roman,Sexe|Religion,Autre,Peu importe,2025-02-06T15:04:02.809340
+05443d12-5743-49ff-8f20-33751910ea49,Éléonore,Maréchal,55.0,Préfère ne pas dire,Homosexuel(le),Italien,Cuisine,Pâtisserie,Autre|Santé,Autre,Extraverti(e),2025-01-19T15:04:02.809375
+b587428f-f169-4ed9-a35a-4e6935bed9bf,Alfred,Boulay,49.0,Femme,Asexuel(le),Espagnol|Français|Allemand,Technologie,IA,Religion,Calme,Extraverti(e),2025-01-28T15:04:02.809397
+f6be2569-1751-4065-9e5c-8ab2616bf33f,Martin,Gaillard,48.0,Femme,Préfère ne pas dire,Italien,Technologie,IA,Santé|Politique,Introverti(e),Autre,2024-11-11T15:04:02.809418
+165b6a04-1bf4-4f84-a753-8067747239eb,Georges,Arnaud,63.0,Préfère ne pas dire,Asexuel(le),Français,Voyage|Entrepreneuriat,Road trip|Startup,Politique|Sexe,Autre,Sérieux(se),2025-08-13T15:04:02.809440
+d679a650-2479-48e5-8208-8f0568dfd42f,Patrick,Masson,40.0,Femme,Hétérosexuel(le),Autre|Allemand|Anglais,Voyage|Entrepreneuriat|Sciences,Randonnée|Innovation|Chimie,Politique,Extraverti(e),Drôle,2025-05-22T15:04:02.809464
+49061456-8018-4c10-a8a4-7b5743596662,Christelle,Chrétien,31.0,Femme,Bisexuel(le),Espagnol,Jeux vidéo,FPS,Autre,Autre,Introverti(e),2025-10-13T15:04:02.809486
+1da59d12-f269-4fc6-8176-0bf9a7c0f65f,Corinne,Henry,44.0,Non-binaire,Homosexuel(le),Français|Italien|Allemand,Technologie,IA,Religion,Introverti(e),Calme,2025-06-24T15:04:02.809511
+341ed506-f072-4cdc-bc95-45b4bf543441,Anaïs,Lecoq,31.0,Homme,Homosexuel(le),Allemand|Anglais|Italien,Musique|Sport,Rap|Running,Autre,Peu importe,Autre,2025-01-10T15:04:02.809533
+4b8681c9-a397-4167-b7b4-7910608622bb,Élisabeth,Barbier,60.0,Femme,Pansexuel(le),Espagnol,Sciences|Technologie,Physique|IA,Sexe,Extraverti(e),Peu importe,2025-08-09T15:04:02.809558
+56be31a8-2272-492c-9a60-aac7b3f23773,Benoît,Pottier,51.0,Préfère ne pas dire,Pansexuel(le),Espagnol,Voyage,Road trip,Sexe|Politique,Introverti(e),Peu importe,2025-07-16T15:04:02.809580
+118e6cef-c4e5-4c93-81fe-a7174d673c03,Guy,Leleu,20.0,Préfère ne pas dire,Préfère ne pas dire,Autre|Allemand|Anglais,Arts & culture|Voyage,Théâtre|Road trip,Religion,Peu importe,Drôle,2025-02-18T15:04:02.809606
+184e6232-aa10-479a-a372-43fa8cb59dc0,Françoise,Guérin,36.0,Homme,Pansexuel(le),Allemand|Espagnol,Musique|Voyage,Rap|Randonnée,Politique|Argent,Extraverti(e),Extraverti(e),2025-05-11T15:04:02.809629
+f28ebf22-119d-43f2-b9d6-a3b5d4c0721f,Alain,Coulon,52.0,Préfère ne pas dire,Autre,Français,Technologie|Photographie,IA|Paysage,Religion,Calme,Sérieux(se),2025-04-10T15:04:02.809650
+3cbb8264-2edf-47dc-810e-48a3852d885f,Denis,Baudry,32.0,Femme,Autre,Autre|Italien|Allemand,Jeux vidéo,RPG,Religion,Peu importe,Introverti(e),2025-02-13T15:04:02.809671
+362e6727-ab2a-468b-bbfc-d7d36bce7273,Alexandrie,Dupuy,68.0,Non-binaire,Préfère ne pas dire,Italien,Lecture,Roman,Autre,Sérieux(se),Drôle,2025-07-02T15:04:02.809692
+dfb2a844-1109-4ca4-b214-6bab376d2fb7,Théophile,Richard,46.0,Femme,Hétérosexuel(le),Allemand,Podcasts|Sport|Lecture,Culture|Cyclisme|BD,Politique|Santé,Extraverti(e),Peu importe,2024-11-10T15:04:02.809714
+2d434ab3-9322-42bf-99c2-dbe427ca9d84,Guy,Bourdon,25.0,Préfère ne pas dire,Homosexuel(le),Allemand|Espagnol|Autre,Podcasts|Entrepreneuriat,Tech|Data science,Santé|Religion,Peu importe,Sérieux(se),2025-05-21T15:04:02.809737
+292d6731-fedb-4739-bf8d-8998842a0df7,Charles,Paul,40.0,Femme,Asexuel(le),Français|Autre,Sciences|Entrepreneuriat|Cuisine,Physique|Développement web|Cuisine du monde,Religion,Sérieux(se),Extraverti(e),2024-11-01T15:04:02.809760
+4481ff07-31f5-4f8c-9b41-364aa72e5770,Margaret,Chauveau,59.0,Homme,Asexuel(le),Autre|Français|Anglais,Sport|Arts & culture,Running|Peinture,Politique|Sexe,Sérieux(se),Introverti(e),2025-06-20T15:04:02.809783
+156d8073-24d0-43dc-ae02-847b32227142,Claire,Mathieu,64.0,Préfère ne pas dire,Préfère ne pas dire,Autre|Français|Espagnol,Entrepreneuriat,Data science,Politique,Calme,Introverti(e),2024-12-11T15:04:02.809834
+047aa9ae-656d-48e3-98aa-9012ed57020a,François,Roy,66.0,Femme,Pansexuel(le),Espagnol,Podcasts|Jeux vidéo|Sciences,Culture|Stratégie|Chimie,Politique|Santé,Calme,Extraverti(e),2025-06-17T15:04:02.809928
+a11a59ab-6b9d-46e9-b2d9-4ff55c1b12f3,Sylvie,Loiseau,61.0,Préfère ne pas dire,Autre,Espagnol|Autre,Entrepreneuriat,Startup,Argent|Sexe,Extraverti(e),Calme,2025-08-30T15:04:02.809960
+03c2cea8-c984-4173-acde-b74e30b20254,Hélène,Paris,51.0,Femme,Hétérosexuel(le),Français,Technologie|Entrepreneuriat,IA|Data science,Sexe,Autre,Autre,2025-09-08T15:04:02.809984
+55d8c188-9cde-40f9-b4f0-5b44a20b342d,Christiane,Dijoux,59.0,Femme,Homosexuel(le),Espagnol,Musique|Cuisine,Jazz|Cuisine du monde,Argent,Calme,Autre,2025-05-21T15:04:02.810007
+d7bd0c5d-32fe-476a-bac8-a8eb02a73690,Valentine,Maréchal,62.0,Femme,Asexuel(le),Anglais|Italien|Français,Musique,Rock,Sexe|Santé,Autre,Extraverti(e),2025-05-06T15:04:02.810033
+80cfd9e5-860c-43eb-9cfa-ab52f9ec4e48,Margaret,Maréchal,36.0,Préfère ne pas dire,Pansexuel(le),Anglais|Italien,Musique|Lecture,Pop|Manga,Sexe,Autre,Calme,2025-04-03T15:04:02.810057
+16b47c1e-2ffe-4440-b986-807792dcd3df,Henri,Reynaud,59.0,Non-binaire,Autre,Autre|Anglais,Musique|Entrepreneuriat,Pop|Data science,Autre,Calme,Sérieux(se),2025-06-14T15:04:02.810082
+7dac8fb1-f63f-4239-9a89-bf4c9dfe6597,Charlotte,Gautier,54.0,Femme,Asexuel(le),Allemand|Autre,Podcasts|Technologie|Sport,Tech|IA|Football,Autre,Peu importe,Calme,2025-07-28T15:04:02.810106
+8293b105-72cc-48b3-bdbd-b60b853612a7,Jean,Gilbert,66.0,Femme,Hétérosexuel(le),Français,Arts & culture|Technologie,Cinéma|IA,Sexe|Argent,Autre,Extraverti(e),2024-11-08T15:04:02.810132
+12237d61-c5d3-427e-aad2-1c43f5f29e26,Françoise,Humbert,22.0,Homme,Pansexuel(le),Français,Sciences|Voyage|Musique,Physique|Randonnée|Jazz,Sexe|Argent,Drôle,Autre,2024-10-30T15:04:02.810156
+e733a324-f1da-416d-a0c1-89e9ae9b48eb,Clémence,Monnier,17.0,Homme,Autre,Autre,Jeux vidéo,FPS,Santé,Sérieux(se),Calme,2025-01-08T15:04:02.810178
+d822969a-f96e-46b0-9aa0-213c9ed1a9b2,Nicole,Vidal,27.0,Femme,Pansexuel(le),Autre,Arts & culture|Cuisine|Photographie,Théâtre|Pâtisserie|Portrait,Religion,Calme,Extraverti(e),2024-10-26T15:04:02.810201
+ab92a267-07a4-43bd-b75e-d2d74ecfc7f7,Yves,Lebon,27.0,Homme,Bisexuel(le),Italien,Musique,Pop,Santé|Argent,Introverti(e),Autre,2024-12-25T15:04:02.810238
+eaee412d-7956-47b3-83da-13db48bb6041,Mathilde,Hardy,68.0,Homme,Asexuel(le),Français|Anglais|Espagnol,Arts & culture,Théâtre,Religion,Calme,Peu importe,2025-08-10T15:04:02.810261
+13f5808c-c90e-4082-a5eb-91a4f15c6f06,Nicole,Clément,40.0,Femme,Homosexuel(le),Autre|Allemand,Lecture|Sciences|Technologie,Roman|Physique|IA,Religion,Calme,Extraverti(e),2025-03-05T15:04:02.810284
+8071b231-7986-48c4-93b3-2990f0a3391c,Josette,Huet,28.0,Femme,Asexuel(le),Autre|Italien|Allemand,Cuisine|Podcasts|Jeux vidéo,Pâtisserie|Développement perso|FPS,Religion,Calme,Drôle,2025-06-03T15:04:02.810307
+28220f67-520e-4227-a6e9-48476efc09ba,Tristan,Martin,63.0,Femme,Asexuel(le),Français|Allemand|Autre,Technologie|Voyage,IA|Randonnée,Argent,Drôle,Peu importe,2024-11-21T15:04:02.810330
+8060731a-b4e2-466f-bdb0-0865ffe258b9,Cécile,Pelletier,38.0,Non-binaire,Pansexuel(le),Anglais,Jeux vidéo,Stratégie,Autre|Santé,Peu importe,Autre,2025-07-29T15:04:02.810352
+dbe52d09-6417-47b5-8045-f220cbc6d53e,Alexandre,Baudry,38.0,Homme,Asexuel(le),Anglais|Espagnol|Allemand,Photographie|Musique,Portrait|Jazz,Politique|Sexe,Extraverti(e),Peu importe,2025-08-18T15:04:02.810375
+3f0fb313-250d-4582-af85-974593acd12c,Gabrielle,Lucas,69.0,Préfère ne pas dire,Préfère ne pas dire,Italien|Autre|Anglais,Lecture|Musique|Podcasts,BD|Pop|Développement perso,Argent,Introverti(e),Peu importe,2025-06-01T15:04:02.810399
+828c5e78-8b84-412a-8d11-5a1e89c14b4c,William,Grégoire,53.0,Non-binaire,Préfère ne pas dire,Français|Italien|Espagnol,Technologie,IA,Argent,Extraverti(e),Sérieux(se),2025-02-10T15:04:02.810421
+5a8d9ce4-06f8-47f3-9988-8543183ee385,Alfred,Bertin,24.0,Femme,Préfère ne pas dire,Autre|Français,Entrepreneuriat,Data science,Politique,Extraverti(e),Sérieux(se),2025-03-10T15:04:02.810442
+bfd3833c-32b9-4f87-bb41-477b182696c3,Odette,Renault,26.0,Homme,Hétérosexuel(le),Espagnol|Autre|Français,Lecture|Jeux vidéo,Roman|FPS,Autre|Sexe,Peu importe,Peu importe,2025-06-24T15:04:02.810465
+61efd143-9065-480d-a0e2-f8088993de18,Dorothée,Perret,46.0,Non-binaire,Homosexuel(le),Anglais|Allemand|Italien,Sport,Cyclisme,Politique|Argent,Peu importe,Sérieux(se),2025-02-19T15:04:02.810486
+ad4b3d15-9fc9-4692-a631-819e9502e5b4,Christophe,Marchand,36.0,Homme,Bisexuel(le),Italien,Lecture,Manga,Politique,Introverti(e),Introverti(e),2025-10-17T15:04:02.810507
+c05fd671-b360-488a-8fdb-d8eda98021d1,Philippe,Rémy,56.0,Préfère ne pas dire,Pansexuel(le),Autre|Italien|Anglais,Entrepreneuriat,Innovation,Santé,Peu importe,Autre,2025-04-25T15:04:02.810528
+a67435a5-77ea-4c42-a304-c3d7e7138ee0,Charles,Rousset,57.0,Non-binaire,Homosexuel(le),Allemand|Autre|Espagnol,Sport|Lecture|Musique,Basketball|Manga|Rap,Autre,Autre,Calme,2024-11-25T15:04:02.810553
+94a7692d-06f7-4687-8dab-67564ccf41e2,Joseph,Berthelot,31.0,Femme,Autre,Français|Allemand|Autre,Voyage|Sciences,Randonnée|Chimie,Sexe|Santé,Peu importe,Sérieux(se),2025-02-22T15:04:02.810577
+8e3eed6b-c317-44fd-baf2-66cd8b8b0054,Michèle,Baron,16.0,Homme,Homosexuel(le),Français,Technologie|Musique,IA|Pop,Politique|Santé,Introverti(e),Introverti(e),2025-08-04T15:04:02.810602
+26c0a0fa-e1f1-484b-b085-9341354add90,Hugues,Peron,67.0,Préfère ne pas dire,Asexuel(le),Italien|Allemand,Lecture|Jeux vidéo|Entrepreneuriat,BD|Stratégie|Data science,Politique,Sérieux(se),Drôle,2025-03-13T15:04:02.810626
+9795ed51-f837-4868-9b79-6817f3dae352,Valentine,Colas,16.0,Préfère ne pas dire,Autre,Anglais,Voyage|Technologie,Randonnée|IA,Religion|Sexe,Peu importe,Drôle,2025-10-06T15:04:02.810648
+8a497600-62c4-4b3f-9f3b-524476137fd5,Véronique,Descamps,32.0,Non-binaire,Pansexuel(le),Allemand|Espagnol,Cuisine,Cuisine du monde,Religion|Sexe,Extraverti(e),Drôle,2025-01-01T15:04:02.810670
+c01fb96a-b135-42b9-b375-065fd6d3afa5,Gilbert,Nicolas,18.0,Non-binaire,Homosexuel(le),Italien,Podcasts|Sciences,Développement perso|Biologie,Religion|Sexe,Sérieux(se),Autre,2025-05-11T15:04:02.810693
+1c6e735e-c7a5-4bfd-a7f0-f00c183d7d61,Dominique,Chevallier,48.0,Non-binaire,Homosexuel(le),Allemand,Podcasts,Développement perso,Sexe|Autre,Calme,Drôle,2025-01-11T15:04:02.810714
+f964462d-512b-4054-a706-e775d4957fed,Sabine,Fabre,66.0,Homme,Autre,Anglais|Italien|Espagnol,Cuisine|Arts & culture|Technologie,Cuisine du monde|Peinture|IA,Politique|Religion,Introverti(e),Calme,2024-11-30T15:04:02.810738
+c281ee78-2071-49c2-89a2-88c192694517,Margot,Martin,70.0,Homme,Hétérosexuel(le),Allemand,Podcasts,,Religion,Peu importe,Calme,2025-09-04T15:04:02.810759
+2f929007-59a7-4579-994d-5f1ca4d6e568,Colette,Raymond,22.0,Préfère ne pas dire,Autre,Français|Allemand,Sport|Podcasts|Sciences,Basketball|Tech|Physique,Argent|Sexe,Calme,Autre,2025-06-04T15:04:02.810784
+dce6f37f-a039-44a1-a56c-d2e5ecdaeb4f,Jacqueline,Leconte,25.0,Non-binaire,Homosexuel(le),Italien|Espagnol,Entrepreneuriat|Technologie,Développement web|IA,Sexe|Argent,Calme,Extraverti(e),2025-08-21T15:04:02.810806
+69ec69ab-3048-4f53-a1d7-5617da0c44b0,Stéphanie,Pottier,69.0,Homme,Homosexuel(le),Autre,Voyage,Randonnée,Autre,Calme,Calme,2025-07-24T15:04:02.810828
+813aef3a-0a36-4ea1-b762-fc3b85c3714b,Honoré,Fournier,67.0,Préfère ne pas dire,Hétérosexuel(le),Français,Sciences,Biologie,Sexe|Politique,Introverti(e),Introverti(e),2025-06-11T15:04:02.810850
+a3f51e8f-b07f-4837-9394-ed54cf0e4cef,Vincent,Navarro,57.0,Femme,Préfère ne pas dire,Français,Entrepreneuriat|Sport,Data science|Football,Santé,Autre,Extraverti(e),2025-04-02T15:04:02.810871
+9b05ae02-80b0-48d7-9404-21b812c369f8,Emmanuel,Benoit,29.0,Préfère ne pas dire,Bisexuel(le),Italien|Anglais,Photographie,Portrait,Argent|Autre,Introverti(e),Autre,2025-09-20T15:04:02.810892
+c3db7169-b343-4bbb-b40d-29c9641ff3fa,Zoé,Royer,57.0,Préfère ne pas dire,Autre,Français|Italien|Espagnol,Technologie|Cuisine,IA|Pâtisserie,Sexe|Religion,Drôle,Calme,2024-12-20T15:04:02.810915
+bec3394f-f7de-4ba1-9938-5c46dcfe1e1e,Frédéric,Da Silva,38.0,Préfère ne pas dire,Homosexuel(le),Anglais,Arts & culture|Musique|Technologie,Cinéma|Rock|IA,Sexe|Religion,Sérieux(se),Sérieux(se),2024-12-22T15:04:02.810938
+a2c43fc8-9df1-4b8c-95ff-0e5a1c803c78,Josette,Delorme,52.0,Préfère ne pas dire,Asexuel(le),Italien,Musique|Sciences|Cuisine,Rock|Biologie|Cuisine du monde,Santé,Sérieux(se),Drôle,2025-01-25T15:04:02.810964
+ba1a3cde-06ef-4f93-bdcf-dfd03e480209,Nicole,Aubry,37.0,Préfère ne pas dire,Préfère ne pas dire,Français|Autre,Photographie,Portrait,Santé,Extraverti(e),Calme,2025-09-14T15:04:02.810986
+bb94aa65-025e-4cb6-b17f-9d9c20e0447f,Célina,Dos Santos,35.0,Homme,Homosexuel(le),Autre,Lecture|Cuisine,Manga|Pâtisserie,Autre,Introverti(e),Peu importe,2024-12-11T15:04:02.811008
+48083ec5-91c6-4320-a0c2-2d809cdf05ce,Sophie,Ollivier,35.0,Homme,Homosexuel(le),Autre,Jeux vidéo,Stratégie,Santé|Politique,Sérieux(se),Introverti(e),2025-05-12T15:04:02.811030
+ee3007d5-b0df-4aee-b3ca-e18a3beb2525,Marguerite,Tanguy,25.0,Homme,Autre,Anglais,Voyage|Sciences,Road trip|Chimie,Argent|Politique,Calme,Sérieux(se),2025-06-16T15:04:02.811102
+dfff22cb-1a6d-4fad-b4da-b4b3debf9ef1,Marie,Garcia,19.0,Femme,Pansexuel(le),Italien|Anglais|Autre,Podcasts|Voyage,Culture|Randonnée,Argent,Extraverti(e),Extraverti(e),2024-12-30T15:04:02.811134
+091abded-6ca1-4610-8e60-4779fa629754,Luce,Coulon,67.0,Non-binaire,Bisexuel(le),Espagnol,Entrepreneuriat|Jeux vidéo,Développement web|FPS,Religion|Politique,Introverti(e),Drôle,2025-05-01T15:04:02.811159
+deacb5bb-b156-451b-bd3b-63e8020fbcd2,Jeannine,Laporte,54.0,Femme,Homosexuel(le),Français,Arts & culture|Jeux vidéo,Théâtre|Stratégie,Autre|Sexe,Calme,Sérieux(se),2025-09-02T15:04:02.811183
+e211d044-1f38-4cd2-8a5e-464fe70ff824,Auguste,Vincent,43.0,Non-binaire,Bisexuel(le),Autre|Allemand|Italien,Entrepreneuriat,Startup,Religion,Peu importe,Calme,2025-09-10T15:04:02.811206
+f9b13536-7563-4ac0-a9e4-edf1307d554d,Juliette,Reynaud,47.0,Homme,Hétérosexuel(le),Allemand|Italien|Anglais,Podcasts|Voyage,Développement perso|Randonnée,Sexe,Autre,Autre,2025-06-09T15:04:02.811228
+7ca4fa52-360e-4505-ae42-2467326e20f6,Marc,Verdier,64.0,Non-binaire,Hétérosexuel(le),Espagnol|Allemand|Italien,Arts & culture|Technologie|Sport,Théâtre|IA|Running,Santé|Religion,Autre,Calme,2025-09-11T15:04:02.811252
+abedf426-e115-4d57-9bb2-e8758daa2e50,Mathilde,Picard,67.0,Préfère ne pas dire,Hétérosexuel(le),Anglais|Autre,Arts & culture,Peinture,Argent,Drôle,Peu importe,2025-03-13T15:04:02.811274
+4bf02eb8-b4b6-4acc-94b6-fd5fe0ffd73f,Augustin,Marty,62.0,Non-binaire,Hétérosexuel(le),Allemand|Italien,Voyage|Musique|Technologie,Randonnée|Rock|IA,Argent,Sérieux(se),Sérieux(se),2025-01-04T15:04:02.811298
+d50b4d33-78f0-4553-83c2-f2ba33a0429b,Zoé,Valentin,66.0,Homme,Préfère ne pas dire,Espagnol|Italien|Autre,Lecture|Cuisine,Manga|Pâtisserie,Religion,Calme,Autre,2025-08-09T15:04:02.811321
+de53554b-74e5-440d-b06c-251810c433dd,Valentine,Garcia,60.0,Préfère ne pas dire,Hétérosexuel(le),Italien|Espagnol|Allemand,Voyage,Randonnée,Sexe|Argent,Extraverti(e),Peu importe,2024-11-05T15:04:02.811344
+d9204b78-5b21-44bc-9327-919e58c121c2,Geneviève,Lebrun,65.0,Homme,Bisexuel(le),Italien|Allemand|Français,Cuisine,Cuisine du monde,Autre|Argent,Extraverti(e),Introverti(e),2025-04-13T15:04:02.811366
+08a30faa-374d-4c01-b5d1-b4e332826544,Jacqueline,Mathieu,41.0,Préfère ne pas dire,Préfère ne pas dire,Allemand|Français|Anglais,Arts & culture,Peinture,Politique,Autre,Drôle,2025-04-20T15:04:02.811388
+74836913-16bf-4652-855d-1180f963e284,Paulette,Georges,41.0,Non-binaire,Autre,Anglais,Cuisine|Photographie,Pâtisserie|Portrait,Santé|Autre,Calme,Calme,2025-07-30T15:04:02.811429
+7407a20b-2dfb-4a36-9ca3-6b5d58a08633,Arthur,Lombard,40.0,Non-binaire,Homosexuel(le),Anglais|Autre|Allemand,Arts & culture|Musique|Podcasts,Cinéma|Rock|Culture,Argent,Sérieux(se),Peu importe,2025-07-25T15:04:02.811454
+b828c6c1-8d87-423d-b248-7bb317da7aac,Alice,Collet,67.0,Homme,Autre,Autre|Espagnol|Italien,Voyage|Cuisine,Randonnée|Cuisine du monde,Sexe|Santé,Extraverti(e),Introverti(e),2025-04-01T15:04:02.811478
+ef5f49bf-5765-4cdc-b6e6-c12359061591,Noël,Dos Santos,57.0,Homme,Bisexuel(le),Français|Italien|Autre,Musique|Lecture,Classique|BD,Autre|Sexe,Sérieux(se),Sérieux(se),2025-01-30T15:04:02.811501
+79ae6a90-bfb5-47ca-b70c-74864f556087,David,Noël,59.0,Préfère ne pas dire,Autre,Autre,Musique|Jeux vidéo,Pop|RPG,Autre|Politique,Introverti(e),Peu importe,2025-01-02T15:04:02.811525
+1cd2bbc9-13e0-4835-be88-9eeb88954713,Noémi,Torres,58.0,Homme,Asexuel(le),Anglais|Allemand,Musique,Rock,Religion|Sexe,Peu importe,Extraverti(e),2025-01-08T15:04:02.811549
+6c80053c-20a9-4f19-942f-0702124845c8,Bertrand,Julien,38.0,Préfère ne pas dire,Autre,Italien|Espagnol,Musique|Photographie,Classique|Paysage,Argent,Drôle,Extraverti(e),2024-12-01T15:04:02.811575
+8733f488-0c60-48e5-800f-c5c2e390c509,Sabine,Loiseau,23.0,Femme,Asexuel(le),Italien|Français,Sciences,Biologie,Argent|Santé,Autre,Sérieux(se),2025-05-13T15:04:02.811600
+b2ce8920-1206-432f-ba10-aa3dbf4fd07d,Caroline,Meunier,56.0,Préfère ne pas dire,Bisexuel(le),Français|Autre|Italien,Arts & culture|Sciences,Cinéma|Biologie,Politique|Religion,Introverti(e),Autre,2024-12-01T15:04:02.811627
+56a41d11-595d-474f-a4ef-306731a84e84,Denis,Barre,18.0,Préfère ne pas dire,Autre,Français|Espagnol,Arts & culture|Sport|Lecture,Cinéma|Cyclisme|Roman,Autre,Calme,Calme,2025-08-16T15:04:02.811653
+ed1a61b3-62a6-4ad8-a0b4-373936d129ca,Monique,Thierry,35.0,Homme,Pansexuel(le),Allemand|Autre|Espagnol,Lecture|Sciences,BD|Physique,Religion|Autre,Extraverti(e),Autre,2025-10-12T15:04:02.811680
+8aaeb4bd-0622-4cef-bb5d-fe2322fb87dc,Emmanuelle,Tessier,48.0,Préfère ne pas dire,Hétérosexuel(le),Autre|Français,Lecture|Musique,Manga|Rap,Santé,Drôle,Peu importe,2025-08-27T15:04:02.811706
+cdd31e9f-af57-48dd-8bb5-f9bf6e4ab4a1,Victor,Raymond,44.0,Femme,Hétérosexuel(le),Espagnol|Italien|Anglais,Jeux vidéo,Stratégie,Sexe,Autre,Peu importe,2025-08-31T15:04:02.811729
+8279dac1-53d2-4b18-990f-5a9c35bcf5ab,Sylvie,Mace,42.0,Non-binaire,Asexuel(le),Allemand|Français|Espagnol,Entrepreneuriat,Data science,Santé,Sérieux(se),Extraverti(e),2025-06-09T15:04:02.811752
+c6fec038-bd7f-4bd7-bbf5-a163bdcaf22a,Éléonore,Loiseau,26.0,Non-binaire,Asexuel(le),Anglais|Italien,Arts & culture|Sport,Peinture|Cyclisme,Politique,Extraverti(e),Introverti(e),2024-11-13T15:04:02.811775
+0fa3572e-83f1-45d9-98f2-f4508fc0e82f,Hélène,Brunel,32.0,Préfère ne pas dire,Pansexuel(le),Espagnol|Italien,Entrepreneuriat,Innovation,Sexe,Calme,Extraverti(e),2024-11-09T15:04:02.811798
+5882f488-e1f9-467b-96df-45d4ea61cb4b,Marianne,Fernandez,70.0,Préfère ne pas dire,Autre,Anglais|Espagnol|Allemand,Photographie|Musique,Portrait|Classique,Religion|Politique,Autre,Autre,2025-03-02T15:04:02.811822
+f0d2c279-550d-4e44-96ec-b9b0e716a27c,Michel,Cousin,23.0,Préfère ne pas dire,Autre,Français|Anglais|Autre,Photographie|Cuisine,Paysage|Cuisine du monde,Sexe|Santé,Drôle,Extraverti(e),2024-11-05T15:04:02.811849
+b1a417d4-a3cc-4d07-9a01-505b9fa5ea6d,Aimée,Garnier,42.0,Femme,Hétérosexuel(le),Espagnol,Voyage|Sport|Technologie,Road trip|Cyclisme|IA,Argent,Peu importe,Peu importe,2025-06-16T15:04:02.811903
+c3f41102-69fe-45ef-ab90-240b7bca1034,Alain,Hamel,19.0,Non-binaire,Autre,Allemand,Cuisine|Sciences,Cuisine du monde|Physique,Religion|Sexe,Calme,Drôle,2025-02-04T15:04:02.811938
+0697128a-1f9a-4dd1-8346-985c5a7784af,Honoré,Renaud,45.0,Femme,Préfère ne pas dire,Italien|Français|Autre,Voyage|Entrepreneuriat,Randonnée|Startup,Argent,Autre,Drôle,2025-01-09T15:04:02.811964
+940a7285-2148-473d-b3c2-9b1daaad1b3d,Christelle,Fabre,48.0,Préfère ne pas dire,Autre,Italien|Espagnol|Allemand,Arts & culture,Théâtre,Santé|Autre,Introverti(e),Autre,2024-11-19T15:04:02.811988
+c183a22d-c44e-4ae6-83f3-b5b4a598da96,Tristan,Bonnet,16.0,Homme,Bisexuel(le),Espagnol|Allemand|Autre,Entrepreneuriat|Sport|Sciences,Data science|Basketball|Chimie,Politique|Sexe,Introverti(e),Sérieux(se),2025-07-17T15:04:02.812013
+4b3b0328-9364-4ea7-af79-1fa4a027d85c,Joseph,Poirier,61.0,Homme,Hétérosexuel(le),Français|Allemand,Cuisine,Pâtisserie,Argent,Drôle,Introverti(e),2025-09-27T15:04:02.812040
+6847a236-ca32-4311-88d0-b24327c33595,Stéphanie,Alexandre,65.0,Préfère ne pas dire,Autre,Anglais|Autre|Français,Lecture|Photographie,Manga|Paysage,Argent|Santé,Peu importe,Extraverti(e),2025-06-16T15:04:02.812064
+8aa83369-a301-4db2-9b97-66659ec14c94,Emmanuel,Marion,24.0,Femme,Asexuel(le),Autre|Allemand|Espagnol,Technologie|Voyage|Jeux vidéo,IA|Road trip|FPS,Autre|Sexe,Peu importe,Sérieux(se),2024-10-23T15:04:02.812091
+26274acf-34af-493a-8adb-9c97fa0c6887,Benjamin,Texier,61.0,Non-binaire,Préfère ne pas dire,Allemand|Italien,Photographie|Lecture|Podcasts,Paysage|BD|Développement perso,Politique,Autre,Sérieux(se),2025-09-24T15:04:02.812116
+ee171a54-7c0f-45a7-993f-4e4c57382f3b,Christelle,Charrier,59.0,Homme,Homosexuel(le),Autre,Arts & culture|Technologie,Peinture|IA,Politique|Santé,Extraverti(e),Peu importe,2025-01-07T15:04:02.812139
+99d6fae5-c76e-4546-ac68-d5f87c6cd1f1,Juliette,Reynaud,60.0,Non-binaire,Pansexuel(le),Italien|Espagnol,Sport|Jeux vidéo|Musique,Basketball|Stratégie|Pop,Autre,Peu importe,Peu importe,2024-11-24T15:04:02.812164
+bc41f860-b4b1-4eff-ab78-10e3b523f51f,Patricia,Olivier,27.0,Non-binaire,Homosexuel(le),Autre,Entrepreneuriat|Podcasts|Sport,Data science|Tech|Running,Religion|Autre,Introverti(e),Extraverti(e),2025-06-13T15:04:02.812187
+01e5b159-bfaf-4dc2-b1df-042b12526c00,Patrick,Maurice,19.0,Homme,Pansexuel(le),Allemand|Espagnol|Français,Voyage|Technologie|Arts & culture,Road trip|IA|Cinéma,Argent,Introverti(e),Introverti(e),2025-03-29T15:04:02.812212
+a65fe2ef-db4d-4780-a614-eee28fc3a71f,Henri,Dupuy,39.0,Homme,Homosexuel(le),Allemand|Italien|Français,Lecture,BD,Religion|Santé,Introverti(e),Sérieux(se),2025-10-01T15:04:02.812235
+aee75882-7859-40f9-a06b-781deb992d6c,Denis,Baudry,32.0,Homme,Hétérosexuel(le),Espagnol|Allemand|Italien,Sport|Musique,Cyclisme|Jazz,Santé|Politique,Drôle,Sérieux(se),2025-01-19T15:04:02.812262
+49933eff-b788-4ae3-8ce5-5fbf0e7e458d,Frédéric,Couturier,69.0,Non-binaire,Homosexuel(le),Autre|Italien|Français,Lecture|Sciences|Sport,BD|Chimie|Tennis,Politique,Drôle,Drôle,2025-07-22T15:04:02.812288
+ca5fcbf6-c887-4128-913f-26d62dd95f29,Richard,Joly,42.0,Femme,Pansexuel(le),Italien|Autre|Espagnol,Podcasts,Culture,Santé,Drôle,Peu importe,2024-12-09T15:04:02.812311
+e9266f25-e434-423a-ba86-0fd65921928e,Suzanne,Jacquet,22.0,Homme,Préfère ne pas dire,Espagnol|Allemand|Français,Cuisine|Podcasts,Pâtisserie|Culture,Argent,Sérieux(se),Introverti(e),2025-07-01T15:04:02.812334
+efd2f9c9-d7ae-4e42-b11d-9adafe0e3e81,Inès,Devaux,35.0,Homme,Hétérosexuel(le),Allemand|Anglais|Français,Sport,Running,Santé|Autre,Drôle,Calme,2025-07-06T15:04:02.812375
+c087b276-8bef-40aa-a1e0-bb452694af8e,Édouard,Buisson,25.0,Préfère ne pas dire,Homosexuel(le),Allemand,Arts & culture|Entrepreneuriat,Peinture|Startup,Autre|Santé,Drôle,Calme,2024-11-12T15:04:02.812407
+8efe5587-728a-4cd0-a33c-c6e620d72590,Alice,Lefort,37.0,Homme,Homosexuel(le),Autre|Anglais|Français,Photographie|Entrepreneuriat,Portrait|Développement web,Argent|Sexe,Introverti(e),Peu importe,2025-05-18T15:04:02.812432
+52418603-e402-431c-b863-9e4a4ff5d647,Marcelle,Merle,67.0,Homme,Pansexuel(le),Français,Arts & culture|Jeux vidéo,Cinéma|Stratégie,Sexe|Autre,Sérieux(se),Peu importe,2025-05-05T15:04:02.812455
+b5aae116-5680-44dd-b0f6-181a99b3d619,Geneviève,Mallet,47.0,Non-binaire,Homosexuel(le),Allemand|Français|Espagnol,Technologie,IA,Autre|Politique,Peu importe,Drôle,2025-10-12T15:04:02.812478
+0e8e3483-5e8a-4ac4-b602-008a1885bc1e,Stéphane,Collet,65.0,Préfère ne pas dire,Hétérosexuel(le),Espagnol|Allemand|Italien,Sciences|Voyage|Podcasts,Biologie|Randonnée|Développement perso,Santé|Autre,Drôle,Autre,2025-04-18T15:04:02.812504
+2552ddbd-616c-47bf-9e35-4c0cf261da18,Georges,Chartier,24.0,Femme,Homosexuel(le),Allemand,Lecture|Sciences|Cuisine,,Religion|Politique,Calme,Calme,2025-06-24T15:04:02.812527
+be6723b7-824d-4ad6-a533-bad0aa824929,Noël,Perret,22.0,Homme,Préfère ne pas dire,Espagnol|Allemand|Anglais,Lecture|Podcasts,BD|Culture,Santé,Calme,Autre,2025-06-29T15:04:02.812554
+bf68b5cc-3f56-43c1-8b84-08f4b6fa0068,Julie,Ribeiro,54.0,Non-binaire,Asexuel(le),Italien,Arts & culture,Peinture,Religion|Autre,Sérieux(se),Sérieux(se),2025-04-19T15:04:02.812576
+e2099b2e-afd7-44ea-9c8c-1d2ad488065e,Margaud,Breton,62.0,Non-binaire,Pansexuel(le),Italien|Autre|Anglais,Sciences|Lecture|Podcasts,Biologie|Roman|Développement perso,Santé,Introverti(e),Sérieux(se),2025-08-14T15:04:02.812600
+4c642006-cf76-417b-872b-061a80bc7fb5,Océane,Dupré,26.0,Homme,Homosexuel(le),Italien|Allemand|Français,Jeux vidéo|Lecture|Musique,FPS|Roman|Pop,Argent|Religion,Sérieux(se),Extraverti(e),2025-03-25T15:04:02.812628
+6bc4daad-bbdd-4cd0-8894-73ee8a1690d0,Maggie,Maurice,26.0,Homme,Pansexuel(le),Allemand|Français|Anglais,Podcasts|Sciences,Développement perso|Biologie,Santé,Extraverti(e),Introverti(e),2024-11-05T15:04:02.812652
+f1350776-a798-48c0-ae4e-6b6cdea75a46,Anastasie,Brunet,46.0,Non-binaire,Préfère ne pas dire,Allemand|Français|Autre,Lecture|Sciences,Manga|Chimie,Autre,Peu importe,Autre,2025-01-27T15:04:02.812676
+1c0a60c7-a3cb-4742-b4e9-9a1c15deab27,Lorraine,Noël,67.0,Femme,Préfère ne pas dire,Espagnol|Allemand,Jeux vidéo|Photographie|Entrepreneuriat,RPG|Portrait|Développement web,Religion|Politique,Calme,Introverti(e),2025-01-16T15:04:02.812702
+cc950a7c-8438-4308-b3f2-337f8ee0d984,Agathe,Huet,49.0,Non-binaire,Asexuel(le),Italien,Arts & culture|Voyage|Podcasts,Théâtre|Road trip|Développement perso,Autre|Santé,Calme,Calme,2025-01-20T15:04:02.812726
+8d111a47-df27-4e0d-adca-02dce9a13904,Andrée,Maillot,64.0,Préfère ne pas dire,Pansexuel(le),Allemand|Italien|Anglais,Technologie|Jeux vidéo,IA|RPG,Santé|Sexe,Extraverti(e),Peu importe,2025-04-01T15:04:02.812750
+1903ae8e-f584-4094-a1d8-c4f4f6b9f6d5,Louise,Guilbert,22.0,Préfère ne pas dire,Asexuel(le),Espagnol|Allemand,Jeux vidéo|Lecture|Sport,FPS|BD|Cyclisme,Politique,Extraverti(e),Sérieux(se),2025-02-22T15:04:02.812774
+f7a40c48-0c2e-4ab4-a131-551a722cb197,Danielle,Marie,30.0,Homme,Hétérosexuel(le),Français|Italien|Allemand,Lecture|Technologie|Musique,Manga|IA|Jazz,Argent|Politique,Sérieux(se),Extraverti(e),2024-11-19T15:04:02.812798
+2c7cadc7-f0b0-4691-b49d-409c5220f888,Tristan,Boucher,48.0,Préfère ne pas dire,Asexuel(le),Autre,Voyage,Road trip,Religion,Drôle,Calme,2025-03-31T15:04:02.812819
+d116c910-9244-4e06-b7d8-ea2fa720deac,Théodore,Chauvet,49.0,Non-binaire,Autre,Français|Autre|Espagnol,Technologie|Photographie|Voyage,IA|Paysage|Road trip,Argent,Autre,Introverti(e),2025-10-19T15:04:02.812844
+a06bb4df-dfe9-4944-83fc-746a686f194b,Océane,Verdier,20.0,Homme,Bisexuel(le),Allemand,Technologie|Photographie,IA|Paysage,Santé|Argent,Extraverti(e),Sérieux(se),2025-05-01T15:04:02.812867
+8c742ac3-4d43-457c-8b55-c8bbb8662f02,Bertrand,Pasquier,46.0,Non-binaire,Bisexuel(le),Italien,Arts & culture|Lecture|Jeux vidéo,Théâtre|BD|RPG,Autre,Extraverti(e),Calme,2025-06-16T15:04:02.812890
+70b3cff7-6fb2-4160-bedb-251b2e090f27,Margot,Pons,27.0,Femme,Bisexuel(le),Anglais|Allemand,Sciences|Lecture,Biologie|BD,Religion,Peu importe,Sérieux(se),2025-06-08T15:04:02.812913
+7b5991aa-d5d6-405d-9f15-2657688b0067,Corinne,Bourgeois,25.0,Non-binaire,Hétérosexuel(le),Autre,Cuisine|Photographie|Sport,Cuisine du monde|Paysage|Tennis,Argent|Santé,Extraverti(e),Calme,2025-02-12T15:04:02.812937
+700a97e8-e6ef-48fa-bad4-d86b1b5804f9,Richard,Faivre,24.0,Non-binaire,Asexuel(le),Italien|Allemand,Technologie,IA,Autre|Religion,Autre,Drôle,2024-10-29T15:04:02.812961
+2e511300-8107-44db-bc31-6165b44a5107,Diane,Renard,40.0,Non-binaire,Bisexuel(le),Allemand|Espagnol,Technologie,IA,Sexe,Autre,Introverti(e),2025-04-29T15:04:02.812984
+39f50b5a-463e-4c52-bbe6-e77d04704809,Arnaude,Bruneau,60.0,Homme,Bisexuel(le),Espagnol|Italien,Photographie,Portrait,Politique,Peu importe,Calme,2025-06-23T15:04:02.813006
+7455e827-7667-4c6f-9407-244d945cd7b4,Claude,Godard,46.0,Non-binaire,Homosexuel(le),Italien|Anglais,Technologie|Jeux vidéo|Voyage,IA|RPG|Randonnée,Argent,Drôle,Peu importe,2025-07-30T15:04:02.813029
+89eadcd2-3171-4cad-8a8c-01e31f71bec3,Hortense,Humbert,63.0,Homme,Bisexuel(le),Espagnol|Allemand,Musique|Voyage|Sport,Pop|Road trip|Tennis,Santé,Introverti(e),Peu importe,2024-11-23T15:04:02.813052
+80c3f529-d81f-44f2-a8b2-122393429f45,Léon,Fleury,47.0,Femme,Hétérosexuel(le),Allemand|Espagnol,Lecture|Sciences,Roman|Chimie,Argent|Santé,Introverti(e),Autre,2025-09-15T15:04:02.813078
+626c6ec4-ac23-4056-a4ad-478aaa9860ba,Olivier,Raynaud,57.0,Homme,Autre,Allemand|Italien,Cuisine|Voyage,Pâtisserie|Randonnée,Religion,Extraverti(e),Drôle,2025-08-18T15:04:02.813104
+be460aa0-b23b-4e11-89e4-e9a3303b304c,Bertrand,Chauveau,41.0,Non-binaire,Hétérosexuel(le),Italien,Sport|Jeux vidéo|Podcasts,Running|FPS|Développement perso,Santé|Religion,Drôle,Peu importe,2025-04-05T15:04:02.813128
+6a72b686-8e35-4e1d-9911-6367c8dd7808,Lucie,Le Roux,24.0,Préfère ne pas dire,Hétérosexuel(le),Autre,Voyage|Cuisine,Randonnée|Pâtisserie,Religion|Santé,Sérieux(se),Introverti(e),2024-12-20T15:04:02.813154
+c41f4724-5062-44c4-95af-112d35b3fc56,Paul,Roger,38.0,Femme,Asexuel(le),Français,Musique|Voyage,Pop|Randonnée,Sexe,Drôle,Drôle,2025-01-27T15:04:02.813177
+ae40fab5-9ed8-48e4-8979-7f9bb345fca7,Gilles,Hamon,50.0,Non-binaire,Autre,Italien|Espagnol,Podcasts,Tech,Politique,Introverti(e),Calme,2025-07-17T15:04:02.813199
+9128b547-135f-49f2-9de2-5b8aa46c9d2e,Émilie,Julien,61.0,Femme,Préfère ne pas dire,Anglais|Espagnol,Podcasts,Culture,Santé,Extraverti(e),Extraverti(e),2024-12-12T15:04:02.813221
+aeefb836-b416-4ea6-b020-ca07ffcf0545,Jules,Michel,42.0,Préfère ne pas dire,Préfère ne pas dire,Anglais,Musique,Rock,Santé|Argent,Calme,Peu importe,2024-12-07T15:04:02.813243
+a688bf9e-465d-4a46-b5ef-7410ca2dd0d1,Véronique,Aubert,50.0,Non-binaire,Homosexuel(le),Espagnol,Sciences|Cuisine,Chimie|Cuisine du monde,Politique,Sérieux(se),Drôle,2025-02-11T15:04:02.813266
+b8ce78c8-b798-474c-96d1-6d67186daa5c,Louis,Lebreton,45.0,Non-binaire,Bisexuel(le),Anglais,Musique,Pop,Santé,Autre,Sérieux(se),2025-07-15T15:04:02.813287
+51a55dee-52dd-4c63-8861-45f066c1a56c,Virginie,Gay,65.0,Préfère ne pas dire,Pansexuel(le),Anglais|Français,Cuisine,Cuisine du monde,Argent,Autre,Peu importe,2025-05-15T15:04:02.813309
+87674158-92e2-40b3-8aa0-ec4050fcc668,Frédérique,Humbert,23.0,Homme,Pansexuel(le),Espagnol|Anglais|Autre,Lecture,Roman,Religion,Peu importe,Autre,2025-05-08T15:04:02.813331
+49609c41-209c-4578-82b9-7b3fd0e63d87,Nicole,Delorme,53.0,Femme,Autre,Anglais|Espagnol|Français,Sciences,Physique,Autre,Introverti(e),Calme,2024-12-05T15:04:02.813353
+3a92f257-7601-4dff-b5b6-41d311acbbee,Sophie,Caron,24.0,Femme,Homosexuel(le),Allemand|Espagnol,Jeux vidéo|Arts & culture,FPS|Cinéma,Sexe|Religion,Calme,Drôle,2025-02-15T15:04:02.813390
+fc3f945a-676b-400a-b4d5-4a74f142ae93,Isabelle,Leroux,52.0,Préfère ne pas dire,Asexuel(le),Espagnol|Italien,Photographie|Technologie,Portrait|IA,Argent,Calme,Extraverti(e),2025-06-09T15:04:02.813412
+539e9e6a-b001-447a-b320-a7607992237d,Caroline,Brunet,62.0,Préfère ne pas dire,Hétérosexuel(le),Espagnol|Allemand|Anglais,Jeux vidéo|Entrepreneuriat,Stratégie|Data science,Santé,Peu importe,Autre,2025-01-12T15:04:02.813434
+05d99c6c-2f85-49ba-9d2c-b0f4deaf9f81,Sébastien,Boyer,23.0,Non-binaire,Asexuel(le),Français|Autre|Anglais,Sport,Basketball,Argent,Sérieux(se),Drôle,2025-10-05T15:04:02.813455
+a271c967-23c6-46dd-89aa-476564cae33c,Jacqueline,Guillou,60.0,Homme,Hétérosexuel(le),Anglais|Allemand,Entrepreneuriat|Sport|Arts & culture,Data science|Football|Théâtre,Sexe,Introverti(e),Peu importe,2025-03-23T15:04:02.813478
+2e498612-4acc-4cd3-8db8-bb53e4e41754,Océane,Lévy,18.0,Non-binaire,Préfère ne pas dire,Français|Anglais,Entrepreneuriat|Jeux vidéo|Arts & culture,Data science|FPS|Peinture,Santé,Peu importe,Sérieux(se),2025-01-09T15:04:02.813500
+750f4f19-1473-4616-aaec-9010519a3ab6,Josette,Salmon,59.0,Femme,Autre,Italien|Français|Anglais,Technologie,IA,Autre|Religion,Introverti(e),Introverti(e),2025-03-09T15:04:02.813524
+66384c84-a8c6-4b8d-a79e-917a0465331e,Alice,Riou,42.0,Femme,Préfère ne pas dire,Espagnol|Allemand|Anglais,Technologie|Arts & culture|Podcasts,IA|Théâtre|Tech,Argent|Politique,Peu importe,Drôle,2025-05-29T15:04:02.813552
+a416f362-7c7e-462d-b9e2-3598466d4b12,Gérard,Dufour,30.0,Préfère ne pas dire,Préfère ne pas dire,Français|Espagnol,Technologie|Jeux vidéo|Photographie,IA|FPS|Portrait,Sexe|Religion,Sérieux(se),Calme,2025-04-17T15:04:02.813575
+b86e711a-6fc0-4ac6-855d-43d76d52f44a,Frédérique,Berthelot,21.0,Femme,Asexuel(le),Autre,Jeux vidéo,RPG,Religion|Argent,Extraverti(e),Peu importe,2024-10-27T15:04:02.813634
+b74f1b79-2f49-4b8a-9c54-3771516ca648,Élise,Cousin,62.0,Femme,Hétérosexuel(le),Espagnol,Podcasts|Jeux vidéo,Développement perso|FPS,Autre,Extraverti(e),Peu importe,2025-04-09T15:04:02.813671
+507fe4c3-4bd0-4f40-9201-6d3433073d80,Adrien,Maury,25.0,Homme,Asexuel(le),Anglais|Autre|Français,Jeux vidéo|Podcasts|Cuisine,Stratégie|Culture|Cuisine du monde,Argent,Calme,Extraverti(e),2025-04-03T15:04:02.813696
+08dec6f1-a8a5-462c-bbf1-3ee6ba5529c7,Louis,Paris,63.0,Non-binaire,Asexuel(le),Espagnol|Français,Technologie|Podcasts,IA|Développement perso,Santé|Religion,Autre,Autre,2024-11-22T15:04:02.813725
+c899d9a8-db5b-4409-b3f6-8622dc1a40d8,Juliette,Prévost,65.0,Femme,Bisexuel(le),Allemand|Français|Autre,Podcasts|Jeux vidéo|Voyage,Tech|FPS|Randonnée,Santé|Politique,Extraverti(e),Calme,2025-07-27T15:04:02.813750
+80fe7641-b087-4454-9343-fd0b75cd19a5,Simone,Chauveau,,Préfère ne pas dire,Homosexuel(le),Espagnol|Anglais|Français,Jeux vidéo,FPS,Santé,Sérieux(se),Extraverti(e),2025-05-27T15:04:02.813772
+2254461c-66f7-47d1-8043-32753f3f0b6a,Benjamin,Guillaume,63.0,Préfère ne pas dire,Homosexuel(le),Allemand|Espagnol|Italien,Jeux vidéo|Sciences|Sport,RPG|Chimie|Cyclisme,Sexe,Sérieux(se),Drôle,2025-05-29T15:04:02.813797
+e2175329-0a67-491b-bfd7-ca422c79be55,Aurore,Germain,20.0,Femme,Autre,Autre|Espagnol,Sport,Tennis,Religion|Argent,Introverti(e),Peu importe,2025-09-01T15:04:02.813820
+f6ebf5ba-3a78-4a28-950b-b75462e858ab,Margot,Marchand,27.0,Préfère ne pas dire,Asexuel(le),Allemand|Français,Arts & culture,Cinéma,Sexe|Argent,Autre,Peu importe,2025-08-02T15:04:02.813845
+404e09fa-de77-4f6e-ae88-8c127a051470,Audrey,Maillard,67.0,Non-binaire,Autre,Italien|Français,Musique|Arts & culture|Sciences,Classique|Théâtre|Chimie,Politique,Peu importe,Autre,2025-01-28T15:04:02.813868
+9fcb9119-2a0b-4661-b05e-a8556d7a8b69,Sabine,Blondel,25.0,Femme,Bisexuel(le),Espagnol|Italien|Anglais,Lecture,Roman,Religion,Calme,Peu importe,2024-10-25T15:04:02.813934
+8d99816d-d598-4f76-8f5b-e2809dfad779,Capucine,Laurent,26.0,Homme,Hétérosexuel(le),Allemand|Français|Anglais,Sciences|Sport,Physique|Natation,Sexe|Argent,Peu importe,Extraverti(e),2024-11-29T15:04:02.813963
+eb175bd9-ac38-4666-99c6-30c6e46082f0,Geneviève,Millet,24.0,Préfère ne pas dire,Hétérosexuel(le),Allemand|Espagnol|Anglais,Arts & culture|Jeux vidéo|Sport,Théâtre|FPS|Cyclisme,Religion|Santé,Extraverti(e),Introverti(e),2025-02-23T15:04:02.813991
+967a8616-caa8-4cd7-8eab-2e66e7edc44f,Noël,Garnier,46.0,Préfère ne pas dire,Homosexuel(le),Anglais,Podcasts,Développement perso,Argent|Religion,Peu importe,Peu importe,2025-07-10T15:04:02.814015
+9d40f582-ea7f-43dc-9423-f992a6cb81b4,Laurent,Morin,47.0,Homme,Préfère ne pas dire,Anglais|Italien,Sport|Photographie,Cyclisme|Paysage,Argent|Santé,Peu importe,Introverti(e),2024-12-21T15:04:02.814038
+4332cc65-f6e7-453b-aa1a-344ec6bacc92,Simone,Aubry,45.0,Non-binaire,Homosexuel(le),Allemand|Italien|Français,Podcasts|Technologie|Sport,Développement perso|IA|Natation,Sexe|Autre,Autre,Sérieux(se),2025-03-19T15:04:02.814062
+0a4f94e9-e223-471e-820d-625ec66bc992,Michelle,Rousseau,69.0,Femme,Hétérosexuel(le),Allemand|Français|Anglais,Jeux vidéo|Technologie|Sciences,RPG|IA|Physique,Politique|Religion,Autre,Introverti(e),2024-10-22T15:04:02.814086
+f4059259-d185-48bd-a328-9f8cba426c2a,Thomas,Bourgeois,60.0,Préfère ne pas dire,Autre,Français|Autre|Allemand,Cuisine|Lecture|Voyage,Cuisine du monde|Manga|Randonnée,Argent,Introverti(e),Autre,2025-09-29T15:04:02.814109
+51a42587-6263-4601-8058-e7632eac58d2,Éléonore,Valette,25.0,Préfère ne pas dire,Préfère ne pas dire,Français|Italien|Espagnol,Jeux vidéo|Cuisine,RPG|Cuisine du monde,Religion,Sérieux(se),Drôle,2024-12-07T15:04:02.814132
+ba9fec37-3a3f-4fad-bf76-1d224beb115a,Élisabeth,Guillaume,50.0,Non-binaire,Asexuel(le),Anglais|Autre,Lecture|Cuisine|Jeux vidéo,BD|Pâtisserie|FPS,Religion,Introverti(e),Calme,2024-12-08T15:04:02.814154
+8a9768cb-eb8f-4157-a635-f5a4d59a8604,Julie,Dos Santos,19.0,Homme,Hétérosexuel(le),Français,Photographie|Jeux vidéo|Musique,Paysage|FPS|Rock,Argent,Sérieux(se),Sérieux(se),2024-11-11T15:04:02.814177
+ce98ebc4-667e-4c26-9966-55754626c06f,André,Leroy,18.0,Non-binaire,Préfère ne pas dire,Espagnol|Autre,Entrepreneuriat|Podcasts,Startup|Tech,Religion|Politique,Peu importe,Extraverti(e),2025-06-03T15:04:02.814203
+92197271-b1c0-4a92-a91e-c92f98c890fd,Céline,Marin,55.0,Non-binaire,Hétérosexuel(le),Autre|Allemand|Français,Jeux vidéo|Photographie,Stratégie|Paysage,Santé|Sexe,Calme,Introverti(e),2024-12-31T15:04:02.814227
+fe7ce79a-bc52-490a-a2e4-17b4a5737113,Éric,Leclerc,47.0,Femme,Pansexuel(le),Allemand,Jeux vidéo,RPG,Politique,Drôle,Drôle,2025-02-25T15:04:02.814248
+e72b71c5-47a8-467b-a08c-c63b433d7c71,Corinne,Bonnin,42.0,Non-binaire,Bisexuel(le),Allemand|Anglais,Lecture,Roman,Sexe|Politique,Calme,Calme,2025-02-04T15:04:02.814270
+c709cca4-72af-44c3-a343-014ec6cae961,Henriette,Devaux,41.0,Non-binaire,Préfère ne pas dire,Anglais,Voyage|Lecture,Randonnée|BD,Autre,Sérieux(se),Autre,2025-08-03T15:04:02.814292
+eaea802c-18e3-47c1-b760-005c64406757,Christine,Grondin,69.0,Homme,Asexuel(le),Autre|Espagnol|Français,Photographie,Paysage,Politique|Religion,Calme,Extraverti(e),2025-10-06T15:04:02.814315
+9efa5f36-fefc-4ff3-8ad7-80daf8f94217,Corinne,Diaz,54.0,Femme,Homosexuel(le),Français|Espagnol|Allemand,Sport|Musique|Podcasts,Football|Pop|Développement perso,Argent|Sexe,Sérieux(se),Introverti(e),2025-05-20T15:04:02.814339
+9e3eade1-adab-438d-80f0-2f27f7fdad3d,Virginie,Lucas,44.0,Non-binaire,Préfère ne pas dire,Allemand|Anglais,Voyage,Randonnée,Sexe|Religion,Extraverti(e),Extraverti(e),2025-09-01T15:04:02.814361
+1888e315-1232-4924-94d6-b383a90312fa,Brigitte,Lefebvre,40.0,Non-binaire,Hétérosexuel(le),Français|Allemand,Voyage,Randonnée,Politique,Introverti(e),Extraverti(e),2024-11-18T15:04:02.814382
+7b45c301-d7df-4cb4-9e91-3be7025283c9,Françoise,Lefebvre,36.0,Préfère ne pas dire,Homosexuel(le),Espagnol|Allemand,Cuisine|Lecture,Cuisine du monde|BD,Religion,Calme,Drôle,2025-10-14T15:04:02.814405
+671f2dbb-f34a-49d4-87ca-437ba13e5e85,Laetitia,Techer,51.0,Homme,Bisexuel(le),Autre,Photographie|Arts & culture,Portrait|Peinture,Santé|Sexe,Introverti(e),Autre,2025-09-26T15:04:02.814432
+f77e59ca-d782-485a-a5b6-f97e7fcb9f5e,Hélène,Camus,19.0,Non-binaire,Pansexuel(le),Anglais|Allemand,Lecture|Cuisine|Photographie,BD|Pâtisserie|Paysage,Autre,Extraverti(e),Peu importe,2025-01-21T15:04:02.814455
+d247fbd7-82e7-481e-96be-1e9cd5451be8,Benjamin,Andre,68.0,Femme,Hétérosexuel(le),Espagnol|Italien,Arts & culture|Jeux vidéo,Peinture|Stratégie,Sexe|Argent,Sérieux(se),Peu importe,2024-11-15T15:04:02.814478
+14d79a95-903c-4d9f-97f4-75bae7352257,Diane,Gaillard,20.0,Femme,Hétérosexuel(le),Italien|Autre,Musique,Classique,Santé,Drôle,Autre,2024-10-21T15:04:02.814500
+08ae816b-6f51-4307-974e-72143399e51b,Odette,Le Goff,50.0,Femme,Pansexuel(le),Italien|Anglais|Allemand,Sciences|Cuisine|Podcasts,Biologie|Pâtisserie|Développement perso,Argent|Santé,Extraverti(e),Calme,2025-01-16T15:04:02.814523
+dc7ddc7b-9b37-4472-8afc-f8e2444f57e9,Anne,Rodriguez,23.0,Femme,Bisexuel(le),Français|Italien|Anglais,Podcasts|Entrepreneuriat,Culture|Startup,Sexe|Argent,Peu importe,Peu importe,2025-09-20T15:04:02.814547
+22bc0962-73aa-4a44-8cc2-5a1ffa9a33ed,Margot,Launay,58.0,Préfère ne pas dire,Pansexuel(le),Espagnol|Italien|Allemand,Arts & culture,Cinéma,Sexe|Santé,Extraverti(e),Peu importe,2025-05-19T15:04:02.814569
+a41a81e8-3710-4c14-9668-ce2c1bcda293,Matthieu,Bonnin,16.0,Femme,Préfère ne pas dire,Espagnol,Voyage,Road trip,Autre,Introverti(e),Extraverti(e),2025-04-21T15:04:02.814590
+a8f1db59-2853-4bcc-82e0-a4cb87321512,Marianne,Barthelemy,60.0,Femme,Autre,Autre|Italien,Podcasts|Jeux vidéo,Culture|FPS,Argent,Sérieux(se),Sérieux(se),2025-01-10T15:04:02.814612
+d41a973a-f8eb-493d-91c4-b708065699b4,Agathe,Robert,58.0,Préfère ne pas dire,Homosexuel(le),Français,Sport|Sciences|Cuisine,Cyclisme|Physique|Cuisine du monde,Religion,Peu importe,Extraverti(e),2025-03-23T15:04:02.814635
+7ff6c077-9bbf-410b-88d3-9d314381af3d,Christiane,Fischer,48.0,Femme,Asexuel(le),Italien|Espagnol,Sciences,Physique,Santé,Autre,Extraverti(e),2025-06-22T15:04:02.814658
+801b1966-f274-4da9-bf1f-9cb25c6a76e1,Christophe,Renaud,39.0,Non-binaire,Hétérosexuel(le),Italien|Espagnol|Français,Cuisine|Entrepreneuriat|Sciences,Pâtisserie|Data science|Chimie,Santé,Introverti(e),Drôle,2025-06-18T15:04:02.814683
+7fd0ac55-18ca-47e6-96c0-a07efbb89b05,Eugène,Da Costa,55.0,Non-binaire,Bisexuel(le),Français|Italien|Allemand,Cuisine|Photographie|Voyage,Pâtisserie|Paysage|Randonnée,Religion|Politique,Peu importe,Introverti(e),2025-05-19T15:04:02.814707
+74742cc2-82c0-4ab0-b0a7-eb9659731112,Tristan,Le Goff,26.0,Non-binaire,Autre,Autre|Allemand,Musique,Pop,Religion,Introverti(e),Drôle,2025-06-01T15:04:02.814731
+98a9913f-687e-4891-be04-5cc4eaf51fb0,William,Traore,63.0,Non-binaire,Asexuel(le),Allemand,Sciences|Lecture|Cuisine,Physique|Roman|Pâtisserie,Argent,Sérieux(se),Extraverti(e),2025-01-24T15:04:02.814754
+dd228fee-b32f-46c1-9481-990995b889de,Noël,Robin,68.0,Préfère ne pas dire,Préfère ne pas dire,Italien|Autre,Lecture,BD,Religion,Introverti(e),Peu importe,2025-04-28T15:04:02.814776
+ac0624a4-0300-4695-ad4e-edcafe85e644,Marthe,Marin,45.0,Femme,Pansexuel(le),Italien|Allemand,Podcasts,Culture,Argent|Sexe,Sérieux(se),Introverti(e),2025-03-13T15:04:02.814797
+47cc536d-ca11-4569-9332-d5c6ac1f45e1,Raymond,Caron,50.0,Homme,Préfère ne pas dire,Allemand|Espagnol,Musique|Jeux vidéo,Rock|RPG,Argent|Religion,Peu importe,Peu importe,2024-12-24T15:04:02.814823
+bb8fb8ef-0d01-4a6c-95af-99efe48e0ae8,Marguerite,Fournier,16.0,Non-binaire,Préfère ne pas dire,Français,Entrepreneuriat|Technologie,,Religion|Sexe,Calme,Sérieux(se),2025-10-04T15:04:02.814846
+924389fa-2e05-483e-9736-cb6a997e0b77,Pénélope,Deschamps,21.0,Préfère ne pas dire,Pansexuel(le),Autre|Allemand|Anglais,Jeux vidéo,FPS,Sexe|Argent,Peu importe,Drôle,2024-11-28T15:04:02.814870
+96b08795-024b-463a-a08a-773abeef4d2e,Zoé,Marie,26.0,Non-binaire,Bisexuel(le),Italien,Voyage|Sport,Randonnée|Tennis,Argent,Drôle,Autre,2025-07-11T15:04:02.814892
+01f785cf-a3e7-42cb-80db-9ec836b1e693,André,Masse,50.0,Femme,Homosexuel(le),Autre|Français|Italien,Musique|Entrepreneuriat|Sport,Rock|Startup|Running,Argent|Politique,Autre,Sérieux(se),2024-11-21T15:04:02.814915
+91e5b9f1-3373-462e-90f7-6d4066d3c64e,Geneviève,Laine,60.0,Homme,Pansexuel(le),Français|Allemand|Italien,Podcasts|Jeux vidéo,Culture|FPS,Politique,Autre,Peu importe,2025-02-17T15:04:02.814937
+35fcc8fc-626f-4c2d-a333-742b253748d4,Madeleine,Julien,19.0,Non-binaire,Bisexuel(le),Espagnol|Français|Italien,Lecture|Arts & culture,Roman|Cinéma,Argent,Peu importe,Sérieux(se),2025-05-21T15:04:02.814961
+f08e30cd-0fed-44aa-95d2-dfd11ed159e5,Françoise,Chauvet,56.0,Femme,Autre,Anglais,Arts & culture,Peinture,Argent,Autre,Drôle,2025-01-18T15:04:02.814982
+698df45d-d7af-4517-8f8b-95c6804ea4a7,Luce,Bodin,18.0,Homme,Hétérosexuel(le),Autre|Français,Entrepreneuriat|Arts & culture,,Autre,Introverti(e),Sérieux(se),2025-09-15T15:04:02.815004
+50f4c0fc-aa64-4d96-b7d3-0f24bba9a300,Pénélope,Moreno,27.0,Non-binaire,Bisexuel(le),Italien,Sciences|Photographie|Entrepreneuriat,Biologie|Portrait|Data science,Politique,Extraverti(e),Sérieux(se),2025-03-17T15:04:02.815029
+019cb068-6895-4616-93ba-b3f9f48e1d20,Marie,Ribeiro,50.0,Préfère ne pas dire,Bisexuel(le),Français,Sciences|Voyage|Entrepreneuriat,Biologie|Randonnée|Innovation,Religion|Sexe,Introverti(e),Sérieux(se),2025-03-11T15:04:02.815052
+a9081006-e4de-4bdb-9367-5b97b3ac0c56,Émilie,Guichard,40.0,Préfère ne pas dire,Hétérosexuel(le),Français|Autre,Sciences,Biologie,Argent|Autre,Peu importe,Sérieux(se),2025-07-08T15:04:02.815073
+16ac24a7-785f-468f-9469-a107b189d065,Benoît,Dupuis,31.0,Préfère ne pas dire,Asexuel(le),Français|Allemand|Anglais,Cuisine|Photographie|Entrepreneuriat,Pâtisserie|Paysage|Data science,Santé,Sérieux(se),Sérieux(se),2025-08-22T15:04:02.815097
+86754b04-2b2a-4d4a-91fb-7e380795ad0e,Honoré,Guyon,48.0,Préfère ne pas dire,Pansexuel(le),Autre|Anglais|Espagnol,Arts & culture,Peinture,Autre,Extraverti(e),Autre,2025-02-09T15:04:02.815118
+6faf7f60-d20d-4011-9d2f-46e8e2c15431,Hugues,Laroche,29.0,Femme,Bisexuel(le),Allemand|Italien,Entrepreneuriat,Startup,Religion,Extraverti(e),Drôle,2025-02-15T15:04:02.815140
+08ade9cc-e84e-4d00-b202-7a2eb66c9877,Augustin,Guérin,53.0,Homme,Pansexuel(le),Autre,Voyage|Arts & culture|Entrepreneuriat,Randonnée|Peinture|Startup,Autre,Autre,Extraverti(e),2025-07-11T15:04:02.815164
+a82f03e3-8435-477c-888d-6a3714e7e591,Nathalie,Petit,47.0,Non-binaire,Pansexuel(le),Anglais,Cuisine|Sciences|Podcasts,Pâtisserie|Biologie|Tech,Autre,Calme,Calme,2025-07-10T15:04:02.815187
+7c551421-52cb-4c66-b7b6-9a7b6b141449,Véronique,Gaillard,24.0,Non-binaire,Préfère ne pas dire,Italien|Autre,Voyage,Road trip,Santé|Religion,Extraverti(e),Extraverti(e),2024-11-29T15:04:02.815208
+686297bc-00d9-4a79-ada5-29fdb9668ab1,Mathilde,Brunel,21.0,Femme,Préfère ne pas dire,Italien|Anglais|Autre,Musique|Sport,Pop|Cyclisme,Religion,Calme,Autre,2024-12-29T15:04:02.815235
+4b88786a-c73b-43c1-a1c5-93eec9670b24,Franck,Diaz,18.0,Non-binaire,Pansexuel(le),Allemand|Français|Italien,Podcasts|Cuisine|Entrepreneuriat,Tech|Pâtisserie|Innovation,Santé,Extraverti(e),Drôle,2024-11-01T15:04:02.815259
+54e14ab3-2f5d-4195-8f0a-bd93389e7c78,Arnaude,Grenier,31.0,Non-binaire,Hétérosexuel(le),Autre|Espagnol,Jeux vidéo,RPG,Argent,Autre,Extraverti(e),2025-08-12T15:04:02.815280
+df8d32d9-f30a-40c6-866b-7f1a0e7d8768,Stéphanie,Gimenez,61.0,Non-binaire,Préfère ne pas dire,Français|Italien|Espagnol,Sport|Musique|Podcasts,Tennis|Rap|Culture,Autre,Drôle,Introverti(e),2025-05-03T15:04:02.815305
+88c1554f-2e40-4d4d-9b22-4078453a1d56,Joséphine,Maurice,23.0,Femme,Bisexuel(le),Allemand|Français,Voyage|Sciences,Road trip|Chimie,Religion,Calme,Sérieux(se),2025-01-18T15:04:02.815328
+d3f97f03-4efb-4e14-b755-3da73db1eb2b,Jean,Monnier,36.0,Homme,Bisexuel(le),Autre|Italien|Espagnol,Entrepreneuriat,Développement web,Argent|Autre,Introverti(e),Introverti(e),2025-08-20T15:04:02.815350
+63a21aa3-a6d5-4a81-bc14-c9a5ea5cb780,Adèle,Morvan,67.0,Non-binaire,Homosexuel(le),Français|Autre,Sciences|Musique,Biologie|Rock,Sexe,Drôle,Peu importe,2025-08-07T15:04:02.815373
+cac8792c-736a-49ad-b055-729e04c11cbc,Thérèse,David,42.0,Préfère ne pas dire,Pansexuel(le),Italien|Autre,Lecture|Sport|Musique,Roman|Football|Rock,Santé,Peu importe,Calme,2025-03-25T15:04:02.815395
+603d2cbe-910d-4ec8-af20-1134c394e010,Henri,Lemonnier,69.0,Femme,Pansexuel(le),Allemand|Anglais,Sciences|Musique,Biologie|Pop,Sexe|Politique,Sérieux(se),Calme,2025-05-29T15:04:02.815434
+0ba3f439-c0c7-4445-a66d-080f8038e982,Adélaïde,Maury,34.0,Préfère ne pas dire,Homosexuel(le),Autre|Anglais|Allemand,Entrepreneuriat,Startup,Santé|Religion,Autre,Calme,2025-04-15T15:04:02.815457
+8407280f-e543-4114-8dbc-b45fd74e64d9,Élodie,Dupuis,39.0,Femme,Asexuel(le),Allemand,Entrepreneuriat|Sport,Data science|Natation,Argent,Calme,Sérieux(se),2025-10-19T15:04:02.815479
+ccb353d5-881b-435f-8cbe-f32adcfb300b,Alfred,Gauthier,64.0,Préfère ne pas dire,Préfère ne pas dire,Autre|Italien|Espagnol,Entrepreneuriat|Cuisine|Sport,Innovation|Cuisine du monde|Tennis,Argent,Introverti(e),Extraverti(e),2025-07-01T15:04:02.815504
+6f2e3ca9-3aa6-4974-bd58-283df332df2d,Pierre,Devaux,57.0,Préfère ne pas dire,Asexuel(le),Anglais|Espagnol|Autre,Entrepreneuriat,Data science,Santé,Autre,Sérieux(se),2025-02-12T15:04:02.815526
+199356d5-88bf-431f-bca5-bd53bb93282b,Édouard,Lopez,61.0,Femme,Bisexuel(le),Espagnol|Français,Voyage|Jeux vidéo,Randonnée|RPG,Religion,Peu importe,Autre,2025-03-23T15:04:02.815550
+7f4b0a0e-7576-467e-9906-0ca08417fc3b,Christiane,Jean,24.0,Non-binaire,Homosexuel(le),Espagnol,Technologie|Voyage,IA|Randonnée,Politique,Autre,Peu importe,2025-06-04T15:04:02.815576
+9744d286-0cf9-48dc-8581-567d7121bf33,Rémy,Gomes,27.0,Femme,Bisexuel(le),Italien|Français|Espagnol,Musique|Cuisine|Technologie,Pop|Cuisine du monde|IA,Religion,Calme,Calme,2024-11-28T15:04:02.815601
+c2f6f697-95e1-4462-ac3e-75a4ad34afc7,Xavier,Julien,27.0,Femme,Autre,Anglais|Français|Allemand,Cuisine|Entrepreneuriat,Pâtisserie|Data science,Sexe|Argent,Peu importe,Extraverti(e),2025-08-21T15:04:02.815628
+0291a64f-48d6-4da4-957c-852f6642a2c5,Adélaïde,Lacroix,19.0,Préfère ne pas dire,Bisexuel(le),Autre|Anglais,Sciences|Sport,Physique|Tennis,Autre|Sexe,Drôle,Calme,2025-05-25T15:04:02.815653
+ca3c4104-bfe0-4c73-84b4-4171311bc489,Maryse,Renault,64.0,Non-binaire,Asexuel(le),Allemand,Voyage|Lecture,Randonnée|BD,Politique|Santé,Introverti(e),Calme,2025-08-09T15:04:02.815679
+a263f02d-e140-4547-b33d-44f9d3954737,Éléonore,Bouvet,22.0,Préfère ne pas dire,Homosexuel(le),Anglais|Autre|Français,Cuisine|Entrepreneuriat,Cuisine du monde|Innovation,Argent,Calme,Calme,2024-11-02T15:04:02.815704
+52913720-87a8-4735-ac55-7d6905465ef1,Andrée,Hamel,27.0,Homme,Hétérosexuel(le),Français|Anglais|Allemand,Sciences|Arts & culture|Musique,Biologie|Peinture|Jazz,Argent,Peu importe,Extraverti(e),2025-08-25T15:04:02.815731
+eef68030-ec0d-4eee-8f49-b363bff44a42,Constance,Maillot,22.0,Non-binaire,Préfère ne pas dire,Allemand|Autre|Français,Entrepreneuriat|Musique,Startup|Rock,Autre|Politique,Extraverti(e),Drôle,2025-08-19T15:04:02.815755
+ae2d5d61-6d1b-468e-926c-07f1e8b087b2,Marine,Bouvier,58.0,Homme,Hétérosexuel(le),Anglais,Musique|Photographie|Voyage,Classique|Portrait|Road trip,Politique,Extraverti(e),Introverti(e),2025-10-14T15:04:02.815779
+8d9a5608-650e-43a9-92dd-992448c73ba1,Christelle,Leleu,16.0,Non-binaire,Homosexuel(le),Autre|Italien|Espagnol,Photographie|Sciences|Cuisine,Portrait|Biologie|Pâtisserie,Argent|Religion,Introverti(e),Sérieux(se),2025-03-27T15:04:02.815803
+61973c01-65d9-4a3c-966d-f1d11bb33db6,Maggie,Baudry,49.0,Préfère ne pas dire,Pansexuel(le),Autre|Espagnol,Jeux vidéo|Sport|Entrepreneuriat,RPG|Natation|Startup,Sexe|Argent,Introverti(e),Peu importe,2025-05-15T15:04:02.815826
+f41f93eb-0502-466f-af83-8397eed59679,Marc,Clerc,34.0,Femme,Homosexuel(le),Italien,Voyage|Sciences|Sport,Randonnée|Chimie|Football,Argent|Santé,Peu importe,Peu importe,2025-09-08T15:04:02.815850
+981b4706-1ff0-4f06-b15e-9713148e5483,Françoise,Dumas,63.0,Préfère ne pas dire,Hétérosexuel(le),Anglais|Espagnol,Photographie,Paysage,Religion,Extraverti(e),Autre,2025-02-08T15:04:02.815871
+6abc32a6-a6f1-449d-b257-0e0bd993acdb,Paulette,Bouchet,58.0,Femme,Pansexuel(le),Espagnol|Anglais|Italien,Entrepreneuriat,Développement web,Argent|Religion,Peu importe,Sérieux(se),2025-10-06T15:04:02.815894
+e4a5e6f0-3610-4dcb-bd63-171953cfe5f3,Christine,Lamy,27.0,Femme,Asexuel(le),Espagnol|Anglais|Autre,Photographie|Entrepreneuriat|Lecture,Paysage|Data science|Roman,Autre|Argent,Autre,Introverti(e),2025-06-10T15:04:02.815917
+0f370162-db98-4047-bec2-7ef3454d0c1f,Susanne,Carlier,40.0,Femme,Bisexuel(le),Italien|Autre,Sport,Basketball,Autre|Religion,Autre,Autre,2025-08-14T15:04:02.815940
+d01d9b75-8fc5-4505-8097-cc0e913d9015,Julien,Clerc,59.0,Femme,Autre,Autre|Allemand|Italien,Technologie|Sciences,IA|Physique,Argent|Santé,Autre,Introverti(e),2024-11-09T15:04:02.815964
+bf39ba24-57bf-471d-b14b-241d3890d248,Adélaïde,Dupont,53.0,Non-binaire,Homosexuel(le),Espagnol|Allemand,Lecture,BD,Politique|Argent,Calme,Calme,2025-03-25T15:04:02.815987
+9fc80cd7-ac9b-4398-9ba7-8146ba4c2161,Rémy,Gilles,53.0,Non-binaire,Autre,Espagnol,Voyage,Road trip,Santé,Calme,Drôle,2025-02-28T15:04:02.816009
+a068b847-00cf-41b2-a28a-b08fc4bb675d,Valérie,Marques,33.0,Non-binaire,Autre,Allemand|Français,Podcasts|Photographie,Tech|Paysage,Argent,Drôle,Peu importe,2024-11-10T15:04:02.816081
+383bd326-0802-431d-867c-6d0e6e711eae,Suzanne,Guyot,55.0,Homme,Bisexuel(le),Anglais|Italien,Entrepreneuriat|Technologie|Arts & culture,Développement web|IA|Peinture,Santé|Argent,Extraverti(e),Sérieux(se),2024-12-06T15:04:02.816114
+5ad9764d-31e6-40a1-b016-c7bb70c6371d,Laurent,Leblanc,37.0,Homme,Hétérosexuel(le),Allemand|Italien|Autre,Voyage,Road trip,Santé|Sexe,Autre,Peu importe,2025-01-18T15:04:02.816140
+9c61420e-8330-4fa7-ba22-ab9dfc8da60b,Matthieu,Ferrand,48.0,Femme,Autre,Anglais|Français|Autre,Cuisine|Arts & culture|Jeux vidéo,Pâtisserie|Cinéma|Stratégie,Santé|Politique,Introverti(e),Sérieux(se),2025-04-18T15:04:02.816169
+5f66c9d5-3cda-4f1e-9427-4664279953b8,Danielle,Pierre,42.0,Homme,Préfère ne pas dire,Autre,Podcasts,Tech,Autre|Religion,Calme,Peu importe,2024-12-18T15:04:02.816194
+13022fd9-772f-4818-bc0b-fe348fbce8ce,Sébastien,Pascal,17.0,Préfère ne pas dire,Préfère ne pas dire,Italien|Autre,Podcasts|Jeux vidéo|Sport,Développement perso|FPS|Tennis,Politique,Calme,Extraverti(e),2025-06-01T15:04:02.816218
+ce7a04ca-18b7-4c77-9fb7-59db6cb79016,Suzanne,Potier,19.0,Non-binaire,Bisexuel(le),Espagnol|Français|Italien,Lecture|Jeux vidéo,Roman|RPG,Religion,Drôle,Introverti(e),2025-02-07T15:04:02.816242
+c2c6158d-6189-451d-a79f-6b32fe08458b,Océane,Jacquot,54.0,Non-binaire,Préfère ne pas dire,Espagnol|Allemand,Podcasts|Arts & culture|Jeux vidéo,Développement perso|Peinture|FPS,Religion,Calme,Autre,2025-03-26T15:04:02.816267
+acabd8e8-05ae-4ca3-b1cf-ff78012b08e2,Amélie,Bouvet,60.0,Non-binaire,Bisexuel(le),Italien|Autre|Anglais,Sciences|Voyage,Physique|Randonnée,Politique|Santé,Drôle,Extraverti(e),2024-11-16T15:04:02.816291
+4b32e034-22eb-4bf1-84ea-55da4aa1b724,André,Rodrigues,40.0,Homme,Autre,Espagnol|Français|Anglais,Podcasts|Sport,Tech|Tennis,Politique|Religion,Calme,Sérieux(se),2025-07-31T15:04:02.816316
+da9f941a-fd2d-4eef-8f15-2d0a4c5de366,Alphonse,Leleu,21.0,Femme,Pansexuel(le),Italien|Espagnol|Autre,Sciences,Chimie,Santé|Politique,Calme,Autre,2024-12-17T15:04:02.816340
+e4592b50-d9e0-4111-b1ae-bfc539284f3d,Célina,Moulin,57.0,Préfère ne pas dire,Autre,Autre|Anglais,Podcasts,Développement perso,Sexe|Santé,Drôle,Drôle,2025-08-02T15:04:02.816363
+65987c4a-27bd-446c-a952-c93317a2ec7a,Aurélie,Picard,44.0,Femme,Préfère ne pas dire,Anglais|Espagnol|Autre,Photographie|Voyage|Musique,Portrait|Road trip|Pop,Religion|Argent,Autre,Extraverti(e),2025-01-02T15:04:02.816387
+b28abf03-25c5-4765-b216-9847f123959e,Capucine,Gauthier,21.0,Femme,Homosexuel(le),Autre|Anglais,Podcasts,Culture,Santé|Sexe,Sérieux(se),Drôle,2025-04-16T15:04:02.816410
+8b08d6f9-ebff-474f-84a8-1784e599bd01,Adèle,Gay,65.0,Femme,Préfère ne pas dire,Italien|Français|Anglais,Arts & culture|Jeux vidéo|Musique,Théâtre|Stratégie|Pop,Religion|Argent,Extraverti(e),Sérieux(se),2024-12-18T15:04:02.816434
+20c605ef-940f-4521-a5c2-c734c97f9df4,Rémy,Valentin,42.0,Préfère ne pas dire,Hétérosexuel(le),Espagnol|Anglais,Cuisine|Arts & culture|Voyage,Pâtisserie|Peinture|Road trip,Religion|Sexe,Peu importe,Autre,2024-11-04T15:04:02.816458
+d7013a50-7754-44ef-a839-ad09fd57189d,Michel,Mercier,20.0,Non-binaire,Asexuel(le),Français,Arts & culture|Cuisine,Théâtre|Cuisine du monde,Sexe,Introverti(e),Introverti(e),2025-04-09T15:04:02.816481
+0af72245-7f83-415d-9ec7-700e766a5281,William,Laporte,18.0,Préfère ne pas dire,Bisexuel(le),Allemand,Voyage|Cuisine,Road trip|Cuisine du monde,Autre|Santé,Autre,Sérieux(se),2025-06-10T15:04:02.816505
+6ef8191e-6334-4746-9ecb-5fb865484f70,Nicole,Bertin,63.0,Homme,Pansexuel(le),Espagnol|Allemand,Technologie|Voyage,IA|Road trip,Autre|Argent,Extraverti(e),Sérieux(se),2025-01-10T15:04:02.816533
+c6e16d73-2a89-40af-bf6e-58db72fe3811,Françoise,Maillet,19.0,Préfère ne pas dire,Homosexuel(le),Italien,Sciences|Cuisine,Physique|Cuisine du monde,Politique|Argent,Calme,Peu importe,2025-01-07T15:04:02.816558
+77755388-13ab-40cc-9ada-015ee25956fd,Alfred,Lefèvre,38.0,Non-binaire,Homosexuel(le),Anglais|Autre,Technologie|Musique|Photographie,IA|Rap|Portrait,Argent,Drôle,Sérieux(se),2025-02-08T15:04:02.816582
+ab7f208b-46fb-433f-b800-d428de227870,Nath,Carre,41.0,Homme,Asexuel(le),Espagnol,Sport,Football,Autre|Argent,Autre,Peu importe,2025-06-06T15:04:02.816607
+8e8a35e3-01d3-4d6f-84f9-53664aca3a01,Michelle,Roy,44.0,Homme,Autre,Allemand|Anglais|Autre,Lecture,BD,Politique|Autre,Introverti(e),Introverti(e),2025-04-09T15:04:02.816630
+96119369-de50-4167-af08-f6570baf99db,Alfred,Grondin,21.0,Non-binaire,Préfère ne pas dire,Anglais,Podcasts|Musique,Culture|Jazz,Sexe,Autre,Extraverti(e),2025-03-14T15:04:02.816653
+7b40fae4-8ad1-46c8-a777-211899218453,Adrienne,Carlier,58.0,Non-binaire,Préfère ne pas dire,Allemand|Anglais,Cuisine|Podcasts,Pâtisserie|Tech,Politique|Argent,Extraverti(e),Calme,2024-12-11T15:04:02.816676
+67b55140-f8f1-40a8-9f3b-3c90ac8b5e8a,Aurélie,Lebon,37.0,Femme,Autre,Autre,Jeux vidéo|Sciences|Cuisine,Stratégie|Chimie|Cuisine du monde,Argent|Autre,Drôle,Extraverti(e),2025-02-19T15:04:02.816699
+094af155-cdd1-41f3-95cb-39f422fc11c8,Éléonore,Blanchard,43.0,Homme,Asexuel(le),Allemand,Sport,Running,Santé,Autre,Autre,2025-09-03T15:04:02.816721
+4cde004c-2b84-4683-99aa-b1e5507601ed,Arnaude,Bigot,21.0,Non-binaire,Hétérosexuel(le),Autre|Italien|Anglais,Podcasts,Développement perso,Argent,Peu importe,Calme,2025-05-14T15:04:02.816744
+29a5bf50-de7e-4574-92f2-0999ee635488,Capucine,Toussaint,37.0,Préfère ne pas dire,Homosexuel(le),Français,Photographie|Musique|Entrepreneuriat,Paysage|Rap|Startup,Argent,Drôle,Drôle,2025-07-26T15:04:02.816766
+eb8a733e-7dce-420c-961f-cabbd4236f3d,Claire,Blot,35.0,Homme,Autre,Autre|Italien|Espagnol,Sciences,Biologie,Religion,Drôle,Extraverti(e),2025-10-13T15:04:02.816789
+3bc0a54c-82eb-463c-a856-f0e8af142190,Paulette,Hernandez,57.0,Préfère ne pas dire,Autre,Italien,Technologie|Arts & culture|Entrepreneuriat,IA|Théâtre|Innovation,Argent|Politique,Drôle,Sérieux(se),2025-08-04T15:04:02.816838
+b75b5b2a-21ed-4c59-adcd-358916137149,Frédéric,Lemonnier,44.0,Préfère ne pas dire,Homosexuel(le),Allemand|Italien,Voyage,Road trip,Autre,Extraverti(e),Peu importe,2025-03-14T15:04:02.816865
+801e3d76-462e-469c-b252-4f288d70c969,Michel,Giraud,34.0,Non-binaire,Pansexuel(le),Italien|Allemand,Jeux vidéo|Photographie|Cuisine,FPS|Portrait|Cuisine du monde,Santé|Sexe,Introverti(e),Drôle,2025-06-06T15:04:02.816891
+a20de065-ba4d-49ee-9d09-7fa6a93f8134,Marcel,Guillot,55.0,Homme,Pansexuel(le),Italien|Français|Anglais,Jeux vidéo|Arts & culture,RPG|Théâtre,Religion|Santé,Sérieux(se),Introverti(e),2024-11-05T15:04:02.816916
+6e5027b2-8687-4576-88ad-7210581a62be,Gabrielle,Valette,42.0,Homme,Préfère ne pas dire,Anglais|Allemand,Musique,Rock,Religion|Autre,Sérieux(se),Sérieux(se),2024-12-15T15:04:02.816940
+489b6e67-1eb1-487e-b10f-83b4a6f855eb,Frédéric,Leclercq,29.0,Non-binaire,Hétérosexuel(le),Espagnol|Autre,Sciences|Jeux vidéo|Technologie,Biologie|FPS|IA,Politique|Santé,Sérieux(se),Drôle,2025-01-07T15:04:02.816964
+2cf3ac68-f3db-49c4-8098-6e985a7104ef,Antoinette,Pasquier,65.0,Homme,Homosexuel(le),Allemand|Autre|Français,Sport|Cuisine|Lecture,Football|Cuisine du monde|Manga,Santé,Drôle,Introverti(e),2025-08-29T15:04:02.816990
+9cadc8b3-e947-4a67-ab73-5622c77c9ef6,Frédérique,Gérard,62.0,Homme,Autre,Allemand|Italien,Entrepreneuriat|Sciences|Voyage,Développement web|Biologie|Road trip,Argent,Autre,Extraverti(e),2025-10-18T15:04:02.817018
+3ac4c6f2-8e00-45df-a8dc-f46ceed45deb,Clémence,Marin,26.0,Non-binaire,Bisexuel(le),Autre|Italien,Lecture|Jeux vidéo,Roman|FPS,Religion|Autre,Extraverti(e),Autre,2025-03-24T15:04:02.817043
+93f01e5a-13bb-4ccd-a6b5-572c6cbdb382,Valentine,Guyot,44.0,Préfère ne pas dire,Préfère ne pas dire,Autre,Entrepreneuriat|Jeux vidéo|Voyage,Développement web|RPG|Road trip,Politique|Argent,Extraverti(e),Drôle,2024-11-17T15:04:02.817067
+a9d192db-957d-4a47-aa32-ba796dc4028a,Roland,Chauvin,34.0,Femme,Pansexuel(le),Autre|Allemand|Espagnol,Jeux vidéo|Voyage|Lecture,FPS|Randonnée|Manga,Autre,Autre,Autre,2024-11-26T15:04:02.817092
+43f17408-33d4-421c-be36-f60fa8a39965,Henri,Bernier,35.0,Non-binaire,Hétérosexuel(le),Espagnol|Italien|Anglais,Technologie|Musique|Arts & culture,IA|Rap|Cinéma,Santé|Sexe,Extraverti(e),Peu importe,2025-08-01T15:04:02.817121
+049eb653-270f-4ee8-b855-aeae460476db,Simone,Thibault,48.0,Non-binaire,Autre,Espagnol,Lecture|Technologie,BD|IA,Autre,Drôle,Autre,2025-05-22T15:04:02.817145
+d297bd7d-2dc4-4fa2-8be0-209ee540638e,Théophile,Leroux,67.0,Préfère ne pas dire,Bisexuel(le),Espagnol|Allemand,Sciences|Podcasts|Technologie,Chimie|Développement perso|IA,Santé|Autre,Sérieux(se),Extraverti(e),2025-04-20T15:04:02.817170
+2aa17efa-5a35-41ee-911e-d5a2212bd04b,Alfred,Marchal,21.0,Non-binaire,Pansexuel(le),Italien,Cuisine,Cuisine du monde,Autre|Santé,Autre,Introverti(e),2025-01-08T15:04:02.817192
+f41dde53-d518-4e3f-9965-6b9925dafddf,Mathilde,Diallo,56.0,Femme,Pansexuel(le),Italien|Autre|Anglais,Technologie,IA,Autre|Argent,Sérieux(se),Peu importe,2025-02-01T15:04:02.817214
+2e9bea36-a099-434e-a721-be74ee979781,Jean,Neveu,18.0,Préfère ne pas dire,Asexuel(le),Français|Allemand,Entrepreneuriat|Jeux vidéo,Développement web|Stratégie,Politique|Santé,Sérieux(se),Drôle,2025-04-14T15:04:02.817237
+3f74dcb3-81bd-46ff-951b-16223240c8a2,Jacques,Maurice,17.0,Préfère ne pas dire,Homosexuel(le),Italien|Français|Espagnol,Arts & culture|Sciences,Cinéma|Physique,Politique,Introverti(e),Calme,2025-09-17T15:04:02.817260
+f1d5951b-a7f1-4431-9be5-cdbcd899c09f,Luce,Traore,52.0,Femme,Bisexuel(le),Italien|Allemand,Sciences,Chimie,Argent|Autre,Sérieux(se),Extraverti(e),2025-05-08T15:04:02.817282
+e873bd15-b204-44e5-b1a1-c0496e48f0ee,Étienne,Delorme,37.0,Non-binaire,Autre,Autre|Espagnol,Entrepreneuriat|Sciences|Sport,Développement web|Chimie|Cyclisme,Autre,Introverti(e),Drôle,2025-07-15T15:04:02.817306
+680f79d3-1645-4b1d-92c2-3586171bbbad,Gilbert,Letellier,64.0,Femme,Asexuel(le),Français,Technologie|Sciences|Sport,IA|Biologie|Basketball,Politique|Santé,Introverti(e),Calme,2025-03-30T15:04:02.817329
+ce1adfa0-7e1f-477c-ac19-c8d53d773d7a,Nicolas,Durand,27.0,Femme,Hétérosexuel(le),Espagnol|Italien|Autre,Entrepreneuriat,Startup,Sexe,Sérieux(se),Sérieux(se),2025-06-13T15:04:02.817352
+5b11cd7d-9e7a-4372-9b03-a3eac256bba9,Maggie,Merle,19.0,Homme,Homosexuel(le),Autre,Musique,Pop,Sexe,Sérieux(se),Autre,2025-05-09T15:04:02.817387
+9b138d4a-66dd-4771-9370-da96697762f9,Sylvie,Hubert,64.0,Préfère ne pas dire,Pansexuel(le),Allemand|Italien|Français,Sport|Voyage,Natation|Randonnée,Argent,Drôle,Autre,2024-12-01T15:04:02.817410
+4ff76026-8504-4d77-b3dd-286e4bea961c,Hugues,Mathieu,59.0,Non-binaire,Homosexuel(le),Autre|Anglais|Espagnol,Podcasts|Cuisine|Entrepreneuriat,Culture|Cuisine du monde|Innovation,Santé|Religion,Extraverti(e),Sérieux(se),2025-01-19T15:04:02.817437
+af7e1a55-8036-4149-853f-fb71b0b60ae1,Georges,Laporte,69.0,Homme,Autre,Français,Cuisine,Pâtisserie,Autre|Argent,Calme,Extraverti(e),2024-12-02T15:04:02.817460
+bcecb033-6b25-422b-967f-ff3e20bc4996,Adélaïde,Poirier,52.0,Non-binaire,Bisexuel(le),Italien,Entrepreneuriat|Sciences|Technologie,Développement web|Physique|IA,Autre|Sexe,Peu importe,Calme,2024-10-24T15:04:02.817483
+0930d7b2-4aa0-44ec-a71a-51dfdf9a3626,Audrey,Rocher,45.0,Homme,Hétérosexuel(le),Anglais|Français|Italien,Sport,Cyclisme,Argent,Introverti(e),Peu importe,2024-10-26T15:04:02.817509
+23580f9f-0eeb-4fec-b909-67d8d7d77642,Olivie,Hamon,50.0,Non-binaire,Préfère ne pas dire,Italien|Français|Espagnol,Photographie|Voyage,Paysage|Road trip,Politique,Autre,Calme,2025-07-15T15:04:02.817532
+71733d51-9f22-4424-82be-2be8b9b5b49e,Nath,Verdier,28.0,Non-binaire,Préfère ne pas dire,Autre|Espagnol|Anglais,Cuisine,Pâtisserie,Sexe,Autre,Peu importe,2024-10-25T15:04:02.817558
+fc50bfe7-a3e6-44e7-a5ea-0677a90ed5db,Arthur,Faivre,33.0,Femme,Homosexuel(le),Anglais|Allemand|Autre,Photographie,Portrait,Religion,Calme,Introverti(e),2025-06-27T15:04:02.817580
+f6036622-df6e-4271-8b9d-1a0bfa20265e,Joséphine,Vallet,55.0,Homme,Autre,Italien|Français|Autre,Lecture|Jeux vidéo|Sport,BD|RPG|Natation,Politique|Santé,Autre,Autre,2025-04-19T15:04:02.817604
+c4cdc05e-2cb8-4fc9-a76f-4d571d6c4cd5,Guy,Renault,42.0,Femme,Bisexuel(le),Italien,Voyage,Road trip,Autre,Sérieux(se),Peu importe,2025-03-19T15:04:02.817625
+a8c1cd44-86f2-462d-add0-008204d5cd05,Claude,Morel,35.0,Non-binaire,Autre,Français|Autre|Italien,Sport|Photographie,Cyclisme|Paysage,Religion|Politique,Autre,Sérieux(se),2025-04-30T15:04:02.817647
+3d79df0b-3c82-40eb-a8a0-ab5c3cb71f1c,Georges,Pons,65.0,Femme,Préfère ne pas dire,Autre,Photographie|Entrepreneuriat,Portrait|Startup,Argent,Calme,Extraverti(e),2024-10-31T15:04:02.817669
+0f2bfe58-54c4-4a7a-bdb3-0d636046499d,Jérôme,Klein,35.0,Femme,Hétérosexuel(le),Autre,Technologie,IA,Argent|Autre,Drôle,Introverti(e),2025-03-25T15:04:02.817691
+96d198b1-94f6-4158-a1d7-671faf7824a8,Jacques,Rousset,66.0,Femme,Asexuel(le),Français|Espagnol|Autre,Technologie|Voyage,IA|Road trip,Politique,Introverti(e),Peu importe,2025-09-17T15:04:02.817713
+2ff58bff-ba92-431a-a5c2-d35241e0bc1f,Aimée,Marie,32.0,Homme,Pansexuel(le),Autre|Allemand,Sciences|Arts & culture,Biologie|Peinture,Religion,Calme,Introverti(e),2025-03-12T15:04:02.817735
+20e3b887-733d-4baf-8a09-92e8a579395f,Claire,Lecoq,65.0,Préfère ne pas dire,Homosexuel(le),Espagnol|Allemand,Musique|Voyage,Rock|Road trip,Religion,Introverti(e),Extraverti(e),2025-01-08T15:04:02.817756
+05b857d0-99b9-4264-80c1-b9bf3c0d5353,Maggie,Rolland,56.0,Préfère ne pas dire,Préfère ne pas dire,Espagnol,Lecture,BD,Santé|Sexe,Extraverti(e),Introverti(e),2025-01-05T15:04:02.817778
+b51ae7b7-e4ad-4bc5-9c6f-48e9a2f726e1,Robert,Buisson,22.0,Femme,Préfère ne pas dire,Italien,Sport,Cyclisme,Autre,Sérieux(se),Autre,2024-12-06T15:04:02.817799
+746f68c2-da4f-4fed-a7ca-25f47a50ccb8,Eugène,Bernier,41.0,Préfère ne pas dire,Préfère ne pas dire,Espagnol,Entrepreneuriat,Développement web,Santé,Drôle,Sérieux(se),2025-05-26T15:04:02.817822
+30a2f2d8-6384-4b48-8f0c-59f3d3a59005,Zacharie,Bazin,28.0,Homme,Homosexuel(le),Espagnol,Sciences|Voyage|Technologie,Biologie|Road trip|IA,Religion,Extraverti(e),Calme,2025-08-31T15:04:02.817845
+523805b7-679f-45fa-a55b-0c2b261f8bb3,Anouk,Vasseur,45.0,Préfère ne pas dire,Bisexuel(le),Autre|Anglais,Photographie|Podcasts|Entrepreneuriat,Portrait|Développement perso|Innovation,Religion,Introverti(e),Autre,2024-10-31T15:04:02.817868
+2dbc3635-191b-4a96-a252-d12d4669b111,Nicole,Joly,53.0,Préfère ne pas dire,Préfère ne pas dire,Espagnol|Anglais|Autre,Sport,Cyclisme,Religion|Santé,Introverti(e),Autre,2025-07-06T15:04:02.817967
+a5299b51-0989-44ca-8613-f662ff45c091,Gabrielle,Delorme,48.0,Femme,Préfère ne pas dire,Allemand|Espagnol|Italien,Cuisine|Sciences|Voyage,Pâtisserie|Chimie|Randonnée,Argent|Sexe,Introverti(e),Autre,2024-11-29T15:04:02.817995
+66ea37b3-b5e7-45e5-821e-23f978a865e1,Stéphanie,Lebreton,44.0,Préfère ne pas dire,Pansexuel(le),Espagnol,Podcasts|Photographie,Développement perso|Paysage,Santé|Politique,Sérieux(se),Extraverti(e),2025-09-08T15:04:02.818021
+39c20c58-ceaa-4649-b428-74f0bed49907,Frédéric,Colin,45.0,Homme,Pansexuel(le),Italien|Autre,Voyage|Cuisine,Randonnée|Pâtisserie,Politique|Religion,Autre,Sérieux(se),2025-06-08T15:04:02.818047
+2030ed23-11e8-4342-ad25-588d45766afe,Margaux,Pineau,48.0,Non-binaire,Préfère ne pas dire,Anglais|Français,Entrepreneuriat,Développement web,Santé,Sérieux(se),Calme,2025-07-13T15:04:02.818071
+59b42489-9bab-4822-85c6-f9af8a212a79,Jacques,Lagarde,61.0,Préfère ne pas dire,Préfère ne pas dire,Autre|Allemand|Espagnol,Musique,Classique,Argent|Autre,Extraverti(e),Introverti(e),2024-11-20T15:04:02.818094
+a0992482-b743-4555-bbe8-dc88ae10a0e2,Alain,Laporte,62.0,Préfère ne pas dire,Pansexuel(le),Allemand,Technologie|Cuisine|Lecture,IA|Cuisine du monde|BD,Argent,Extraverti(e),Peu importe,2025-03-22T15:04:02.818117
+c5bee06a-ec79-42c9-8565-ea9c7823ef09,Hélène,Besson,24.0,Préfère ne pas dire,Bisexuel(le),Français|Italien|Espagnol,Arts & culture|Podcasts,Théâtre|Culture,Autre|Santé,Calme,Calme,2024-12-25T15:04:02.818141
+4d19808c-0fd9-4ca8-8ec8-bef39d2df654,Alexandre,Fournier,54.0,Femme,Pansexuel(le),Italien,Technologie,IA,Argent,Drôle,Calme,2025-01-03T15:04:02.818162
+9983a61b-58c9-45fd-a167-653dc7b6a77e,Isabelle,Rolland,59.0,Préfère ne pas dire,Hétérosexuel(le),Allemand|Italien|Français,Arts & culture,Peinture,Sexe|Religion,Sérieux(se),Calme,2024-11-18T15:04:02.818185
+05fadf63-780b-41f6-9a67-7e8c2fb3ce3f,Maryse,Chevallier,16.0,Préfère ne pas dire,Bisexuel(le),Italien|Anglais,Sciences,Chimie,Argent|Politique,Autre,Extraverti(e),2025-07-08T15:04:02.818207
+73905f2c-66d8-414b-9f62-af5665ac4b58,Jeannine,Lemonnier,26.0,Homme,Asexuel(le),Allemand,Lecture|Cuisine|Musique,Roman|Cuisine du monde|Jazz,Politique|Argent,Introverti(e),Extraverti(e),2025-06-17T15:04:02.818230
+7c2144fd-95bc-4cf4-832a-12ae9a9be1c7,Margaret,Chauveau,18.0,Non-binaire,Bisexuel(le),Italien|Espagnol|Allemand,Photographie|Sciences,Paysage|Biologie,Santé,Peu importe,Autre,2025-03-01T15:04:02.818252
+3681bf81-0435-420a-bfff-742c450455bb,Bernadette,Deschamps,60.0,Non-binaire,Homosexuel(le),Espagnol,Technologie|Musique|Entrepreneuriat,IA|Pop|Data science,Sexe,Drôle,Extraverti(e),2025-08-29T15:04:02.818275
+1c45b094-afc0-4d62-b3af-79dd89152967,Bertrand,Guérin,32.0,Préfère ne pas dire,Asexuel(le),Italien,Entrepreneuriat,,Sexe|Argent,Extraverti(e),Sérieux(se),2025-04-01T15:04:02.818297
+a9d2388b-0513-4912-aa24-94f4d7dcd464,Marcel,Thierry,21.0,Préfère ne pas dire,Autre,Anglais|Italien,Sciences|Jeux vidéo,Biologie|Stratégie,Religion,Calme,Drôle,2025-01-21T15:04:02.818322
+3b9889c9-b4cb-4c4d-bb2e-626897181d5a,Gabriel,Mace,25.0,Femme,Bisexuel(le),Anglais,Sport|Lecture|Technologie,Basketball|BD|IA,Argent,Peu importe,Calme,2025-03-08T15:04:02.818347
+369e778f-95bc-4d3c-ad40-2f5eceae6990,Georges,Lucas,31.0,Homme,Homosexuel(le),Français,Podcasts,Développement perso,Sexe,Extraverti(e),Sérieux(se),2024-11-07T15:04:02.818369
+e432e647-5eb3-44e7-ac22-2db91abfb450,Philippine,Leduc,18.0,Femme,Asexuel(le),Espagnol,Technologie|Lecture,IA|Manga,Santé,Autre,Autre,2025-08-21T15:04:02.818391
+90ed612a-0a99-47aa-9367-69ac2c15b8f5,Stéphane,Maréchal,16.0,Femme,Autre,Français|Italien,Cuisine,Cuisine du monde,Autre,Extraverti(e),Calme,2024-11-23T15:04:02.818412
+4b4b7d8d-feb0-4377-ad5f-4afea5ee5f71,Denis,Bigot,35.0,Femme,Hétérosexuel(le),Allemand|Autre|Anglais,Entrepreneuriat|Photographie,Développement web|Paysage,Sexe,Sérieux(se),Peu importe,2024-11-03T15:04:02.818436
+36d370e0-90c6-4246-b236-b3f7f0568125,André,Cohen,54.0,Femme,Pansexuel(le),Autre|Anglais|Français,Sport,Running,Sexe,Sérieux(se),Peu importe,2025-03-16T15:04:02.818462
+45639462-d732-4159-9936-a95962f5b085,Margot,Charrier,47.0,Homme,Homosexuel(le),Italien,Lecture,Roman,Autre,Introverti(e),Autre,2025-05-06T15:04:02.818484
+38d4db35-4335-48be-987b-07202f6cee77,Augustin,Lefebvre,57.0,Homme,Préfère ne pas dire,Anglais,Voyage|Jeux vidéo|Arts & culture,Road trip|Stratégie|Peinture,Autre,Peu importe,Peu importe,2025-06-30T15:04:02.818507
+400e4a2f-9776-41b7-87e1-38246afb39da,Constance,Jourdan,44.0,Non-binaire,Hétérosexuel(le),Français|Anglais,Lecture,Roman,Religion,Drôle,Sérieux(se),2024-12-22T15:04:02.818529
+cdbf2ad8-e9b6-45e8-9e4d-0180457667c7,Mathilde,Guyon,43.0,Femme,Bisexuel(le),Autre,Arts & culture,Théâtre,Santé,Sérieux(se),Calme,2025-05-28T15:04:02.818550
+8d65cdf1-0011-49f4-ae77-f53c8e590d81,Charles,Didier,39.0,Femme,Pansexuel(le),Italien,Podcasts|Technologie,Culture|IA,Argent,Drôle,Extraverti(e),2025-04-09T15:04:02.818611
+b36bd2b6-e8cb-4622-bd86-fd2e2ba596a3,Raymond,Maurice,25.0,Préfère ne pas dire,Bisexuel(le),Italien|Espagnol,Musique|Podcasts,Rap|Culture,Politique|Sexe,Sérieux(se),Peu importe,2025-02-23T15:04:02.818650
+22dd857f-fcda-4ed3-b64f-2849d5902170,Clémence,Morel,62.0,Homme,Pansexuel(le),Italien|Autre,Voyage|Podcasts|Cuisine,Randonnée|Culture|Cuisine du monde,Politique|Autre,Autre,Introverti(e),2025-07-30T15:04:02.818677
+f40dc799-d462-44a8-bfc0-e29d7daeb267,Susan,Ollivier,,Femme,Autre,Espagnol|Français|Italien,Jeux vidéo|Arts & culture,FPS|Théâtre,Sexe,Peu importe,Peu importe,2024-11-09T15:04:02.818701
+e092b3b8-d949-4ab3-969b-f7a998203923,Benoît,Petit,54.0,Préfère ne pas dire,Hétérosexuel(le),Français,Jeux vidéo|Podcasts|Lecture,Stratégie|Culture|Roman,Argent,Sérieux(se),Extraverti(e),2025-03-17T15:04:02.818727
+4875135b-e9ec-4752-975c-f5beaf243b0c,Thérèse,Delorme,53.0,Homme,Autre,Autre|Français,Lecture,Manga,Religion|Sexe,Peu importe,Sérieux(se),2025-04-01T15:04:02.818750
+91c0b94a-d5f7-4244-a463-ab0e2e96831d,Marthe,Georges,22.0,Non-binaire,Préfère ne pas dire,Italien|Allemand|Autre,Musique|Podcasts|Sciences,Jazz|Tech|Biologie,Religion,Autre,Sérieux(se),2025-02-06T15:04:02.819022
+177df282-0d18-43b5-a1aa-0d3563c7d278,Alexandria,Bernier,28.0,Non-binaire,Autre,Anglais,Podcasts|Cuisine,Culture|Cuisine du monde,Politique,Calme,Drôle,2025-04-11T15:04:02.819057
+0d459f26-a72e-42f8-86e1-ff845fcbf87b,Richard,Gonzalez,31.0,Femme,Pansexuel(le),Français|Autre|Allemand,Sport|Lecture,Running|Roman,Religion,Introverti(e),Extraverti(e),2025-10-18T15:04:02.819083
+b25dc597-ac74-40a7-938a-b61bea25c60c,Inès,Duhamel,54.0,Femme,Bisexuel(le),Autre|Espagnol,Arts & culture|Voyage,Cinéma|Randonnée,Santé|Politique,Calme,Extraverti(e),2025-05-05T15:04:02.819108
+83ffd6e1-c48e-4a84-94d9-f4264a18b5a6,Louis,Philippe,,Non-binaire,Préfère ne pas dire,Espagnol|Anglais|Autre,Photographie|Lecture,Paysage|Manga,Autre|Religion,Drôle,Peu importe,2025-05-10T15:04:02.819132
+2af17938-0d83-4204-9168-9376c1672739,Michelle,Martin,47.0,Femme,Autre,Français|Espagnol|Italien,Lecture|Entrepreneuriat,Manga|Data science,Santé|Religion,Peu importe,Sérieux(se),2025-01-28T15:04:02.819157
+40ffe83a-3b33-4383-9bf3-f2b3dcded673,Thérèse,Sanchez,35.0,Femme,Homosexuel(le),Français|Italien,Technologie|Arts & culture|Lecture,IA|Peinture|Manga,Politique,Autre,Peu importe,2025-10-07T15:04:02.819181
+b5789c8a-5565-44f9-8733-8a01168da8c9,Laetitia,Pasquier,62.0,Homme,Autre,Autre|Français,Sciences|Technologie|Cuisine,Biologie|IA|Cuisine du monde,Autre,Calme,Autre,2025-04-09T15:04:02.819206
+cf0c4a73-ccde-4302-b7ea-7201dffec5b3,Marine,Rossi,23.0,Homme,Hétérosexuel(le),Français,Jeux vidéo|Photographie,FPS|Portrait,Religion|Sexe,Autre,Introverti(e),2025-10-21T15:04:02.819237
+3bdf538e-f176-4f2f-9f26-1b1f8da51504,Luce,Camus,65.0,Homme,Préfère ne pas dire,Anglais|Allemand|Autre,Podcasts,Développement perso,Sexe|Religion,Extraverti(e),Calme,2025-07-01T15:04:02.819260
+0be2ebeb-b907-4f5c-9650-9050736e83da,Alexandre,Delorme,25.0,Non-binaire,Asexuel(le),Espagnol|Allemand,Entrepreneuriat|Musique|Photographie,Data science|Jazz|Paysage,Autre|Argent,Drôle,Extraverti(e),2025-05-04T15:04:02.819285
+4b17a662-ca09-4228-bdaa-ae1f27c07d65,Lucie,Leclerc,70.0,Femme,Autre,Espagnol|Anglais,Technologie,IA,Argent|Autre,Calme,Extraverti(e),2025-04-04T15:04:02.819311
+b146c6c7-61af-4b0d-9438-50e9627e2c61,Cécile,Camus,41.0,Non-binaire,Homosexuel(le),Allemand|Français,Musique|Cuisine|Sciences,Rap|Cuisine du monde|Physique,Sexe|Religion,Sérieux(se),Sérieux(se),2025-07-13T15:04:02.819335
+f5296c8f-ce27-4c0b-ae89-af83b38967b9,Alix,Royer,59.0,Préfère ne pas dire,Pansexuel(le),Autre|Anglais,Entrepreneuriat,Développement web,Religion|Politique,Drôle,Introverti(e),2024-11-23T15:04:02.819357
+2db92e0d-9435-4a9b-846c-8294ba74c61b,Frédérique,Gautier,18.0,Non-binaire,Homosexuel(le),Italien|Espagnol,Photographie|Sciences|Podcasts,Portrait|Physique|Culture,Sexe|Argent,Calme,Drôle,2025-08-21T15:04:02.819382
+65a4977a-17be-41f3-926f-ba07c3260a3f,Denis,Launay,17.0,Femme,Bisexuel(le),Autre|Français|Anglais,Cuisine|Lecture,Pâtisserie|BD,Politique,Calme,Drôle,2024-10-21T15:04:02.819405
+0225da7e-39ee-4461-9086-468a6f7ed864,Anne,Bernier,51.0,Femme,Hétérosexuel(le),Allemand|Autre|Français,Lecture,Roman,Santé,Peu importe,Sérieux(se),2025-10-19T15:04:02.819428
+57336e71-c726-4ca3-b695-96da98ca4e33,Grégoire,Coulon,52.0,Préfère ne pas dire,Autre,Français,Musique|Sport|Entrepreneuriat,Rock|Running|Développement web,Santé|Religion,Autre,Peu importe,2025-10-21T15:04:02.819450
+de8f866b-1cd1-4606-bdb5-81febac6fc85,Emmanuel,Blondel,44.0,Préfère ne pas dire,Asexuel(le),Autre|Espagnol,Voyage|Photographie|Technologie,Road trip|Portrait|IA,Politique,Sérieux(se),Sérieux(se),2025-05-21T15:04:02.819474
+f6c08599-025f-4b64-978e-55988b5e9dc2,Aurore,Hamon,29.0,Homme,Bisexuel(le),Autre,Podcasts|Entrepreneuriat|Technologie,Tech|Développement web|IA,Argent,Autre,Drôle,2025-06-13T15:04:02.819497
+58939af1-6ebf-4b7a-aac6-fc046cb6e6d3,Véronique,Cousin,,Homme,Autre,Autre|Anglais|Espagnol,Lecture|Jeux vidéo|Technologie,Manga|FPS|IA,Sexe,Extraverti(e),Autre,2025-04-10T15:04:02.819523
+53de4cea-2589-4219-af20-c918557b4fb5,Thérèse,Cordier,37.0,Non-binaire,Bisexuel(le),Espagnol|Anglais,Musique,Rock,Argent,Sérieux(se),Autre,2025-08-29T15:04:02.819546
+b2b3eb0f-b7d8-418e-ac9e-00fb9b8a6260,Marine,Leclerc,53.0,Femme,Hétérosexuel(le),Espagnol|Allemand|Autre,Musique|Photographie|Entrepreneuriat,Rock|Portrait|Développement web,Religion|Sexe,Extraverti(e),Peu importe,2024-11-08T15:04:02.819570
+12922372-51eb-4c23-a37c-cc23839d03c4,Philippe,Blin,32.0,Non-binaire,Autre,Autre|Anglais|Allemand,Podcasts,Culture,Politique|Sexe,Peu importe,Extraverti(e),2025-06-16T15:04:02.819593
+c41406df-ab80-496a-aaf6-cf7e79775f9c,Hugues,Ramos,38.0,Femme,Asexuel(le),Espagnol|Italien,Jeux vidéo|Arts & culture|Musique,Stratégie|Peinture|Classique,Sexe|Politique,Peu importe,Drôle,2025-09-12T15:04:02.819617
+f280ac89-ea05-489a-b1af-5fca2edff5f0,Susanne,Rolland,21.0,Homme,Asexuel(le),Français|Italien,Technologie|Sciences|Cuisine,IA|Chimie|Cuisine du monde,Politique|Santé,Sérieux(se),Extraverti(e),2025-10-18T15:04:02.819644
+978dfa40-6fce-4b81-bb01-b9834d2f8fa5,Virginie,Adam,18.0,Femme,Homosexuel(le),Allemand|Anglais|Autre,Voyage,Road trip,Politique|Argent,Autre,Autre,2025-07-26T15:04:02.819668
+1e2d149d-2f27-4573-a4be-6391c2a41c24,Anouk,Cordier,70.0,Non-binaire,Bisexuel(le),Italien|Espagnol,Arts & culture|Sport,Cinéma|Cyclisme,Religion|Sexe,Peu importe,Introverti(e),2025-10-03T15:04:02.819691
+fae6b0d7-68c3-4954-a3e0-74d10fd43c49,Christelle,Daniel,55.0,Femme,Bisexuel(le),Espagnol|Français,Voyage,Road trip,Sexe|Politique,Drôle,Autre,2025-02-12T15:04:02.819713
+6bc0eb75-6cb3-4a3f-9150-d73e17515659,Jeanne,Duval,16.0,Préfère ne pas dire,Préfère ne pas dire,Espagnol|Anglais|Italien,Voyage|Musique,Randonnée|Pop,Santé,Extraverti(e),Calme,2025-08-27T15:04:02.819735
+aaaf5ed3-0807-4337-a089-19d91c974cbf,Maurice,Faure,63.0,Femme,Hétérosexuel(le),Autre|Anglais,Arts & culture,Théâtre,Religion,Autre,Autre,2025-05-05T15:04:02.819759
+bcf0b1f4-840c-4bab-acfb-bde65c26c67a,Pauline,Le Goff,23.0,Femme,Pansexuel(le),Italien|Anglais|Espagnol,Technologie|Podcasts,IA|Développement perso,Politique,Sérieux(se),Sérieux(se),2025-04-28T15:04:02.819784
+6d30de31-ccd4-4e87-903e-3005a41442d6,Édouard,Bertrand,54.0,Non-binaire,Pansexuel(le),Espagnol|Autre,Entrepreneuriat|Podcasts,Innovation|Culture,Autre,Introverti(e),Sérieux(se),2025-06-16T15:04:02.819807
+5a478931-3c1b-4e9c-8cfb-f3b3e555eb11,Pauline,Paris,28.0,Femme,Autre,Autre,Technologie|Photographie|Sciences,IA|Portrait|Biologie,Religion,Autre,Drôle,2025-06-03T15:04:02.819832
+ec98a88b-54f5-41d7-9ff9-ad823862d119,Astrid,Martel,28.0,Non-binaire,Préfère ne pas dire,Italien,Technologie|Musique,IA|Jazz,Argent|Autre,Drôle,Introverti(e),2025-03-17T15:04:02.819855
+f4b6e6f2-34a2-45bb-935f-e13242f60926,Charlotte,Pierre,33.0,Homme,Autre,Anglais|Espagnol,Sciences,Biologie,Politique,Peu importe,Peu importe,2025-05-10T15:04:02.819876
+7fcf0c31-8ea7-4b30-a76b-4cd3f5915197,Thomas,Renard,43.0,Préfère ne pas dire,Bisexuel(le),Espagnol|Autre,Entrepreneuriat|Jeux vidéo,Startup|Stratégie,Sexe,Calme,Peu importe,2025-04-19T15:04:02.819900
+41aad4f6-eb4c-4b30-a988-ee193b337f5a,Bernard,Berthelot,53.0,Femme,Hétérosexuel(le),Anglais,Jeux vidéo|Photographie|Entrepreneuriat,FPS|Portrait|Innovation,Politique|Autre,Introverti(e),Introverti(e),2025-04-29T15:04:02.819969
+6fbbfad9-6cee-42b7-8598-ad7bf12778f0,Arthur,Maillard,18.0,Préfère ne pas dire,Homosexuel(le),Allemand|Espagnol,Voyage|Jeux vidéo|Cuisine,Road trip|RPG|Cuisine du monde,Argent|Santé,Introverti(e),Extraverti(e),2025-10-10T15:04:02.820035
+a755eeb6-05ba-4145-9d5a-022d4c0436ae,Grégoire,Mary,52.0,Non-binaire,Préfère ne pas dire,Anglais|Italien|Allemand,Technologie|Jeux vidéo|Entrepreneuriat,IA|RPG|Data science,Argent|Santé,Calme,Sérieux(se),2025-07-19T15:04:02.820071
+9764b0e6-2ea9-4d35-995d-e4a1c750994c,Madeleine,Ramos,61.0,Homme,Bisexuel(le),Espagnol,Musique|Technologie|Entrepreneuriat,Jazz|IA|Startup,Sexe,Drôle,Peu importe,2025-08-07T15:04:02.820097
+4def1027-47f5-4fbe-a9ed-ce91a1fead6d,Édith,Barre,57.0,Préfère ne pas dire,Préfère ne pas dire,Allemand,Sport,Cyclisme,Autre|Santé,Calme,Calme,2025-09-09T15:04:02.820125
+142b92ca-9ccd-475b-a6c5-3f6f83a0b782,Alexandre,Techer,34.0,Homme,Hétérosexuel(le),Français|Espagnol|Anglais,Musique|Sciences|Jeux vidéo,Rock|Chimie|Stratégie,Autre,Peu importe,Peu importe,2025-04-09T15:04:02.820151
+b75a4d71-8d12-4fc1-b30f-652a6e868362,Maryse,Regnier,68.0,Femme,Homosexuel(le),Espagnol|Anglais,Lecture|Podcasts|Sciences,BD|Développement perso|Chimie,Sexe|Religion,Autre,Drôle,2025-02-10T15:04:02.820176
+6e0b64b9-fc10-46ea-bbd1-13ba6f426fa0,Virginie,Maury,47.0,Préfère ne pas dire,Autre,Français|Espagnol,Sciences,Physique,Politique,Sérieux(se),Drôle,2025-03-17T15:04:02.820199
+bb680079-0649-44a3-95d5-51b4f8b06b0e,Manon,Payet,62.0,Non-binaire,Asexuel(le),Italien,Sport|Entrepreneuriat,Football|Startup,Religion,Extraverti(e),Drôle,2025-06-06T15:04:02.820222
+20468b27-3d96-4869-a871-98a563292bb5,Frédérique,Merle,63.0,Homme,Préfère ne pas dire,Français|Anglais|Allemand,Photographie|Cuisine,Portrait|Pâtisserie,Argent|Religion,Sérieux(se),Drôle,2025-01-16T15:04:02.820245
+38f2918f-1ad9-4036-934d-e66972f6f6fe,Yves,Fouquet,50.0,Homme,Hétérosexuel(le),Italien|Anglais|Français,Sport,Basketball,Argent|Religion,Calme,Peu importe,2025-05-28T15:04:02.820268
+33f82bfe-75d3-45df-854f-0f99f3d40721,David,Torres,23.0,Préfère ne pas dire,Hétérosexuel(le),Espagnol|Français,Voyage|Entrepreneuriat|Jeux vidéo,Road trip|Startup|Stratégie,Religion,Autre,Introverti(e),2025-05-03T15:04:02.820292
+ad79b0d7-a69a-4b33-8317-5bab5bbce786,Marthe,Gros,68.0,Homme,Bisexuel(le),Espagnol,Lecture|Voyage,BD|Road trip,Religion,Extraverti(e),Peu importe,2025-08-07T15:04:02.820319
+cdd8733d-fafd-4d60-8047-7de3867e0400,Emmanuel,Gaillard,23.0,Femme,Autre,Anglais|Français,Sciences|Jeux vidéo,Physique|RPG,Argent|Autre,Autre,Peu importe,2025-03-24T15:04:02.820346
+fa968a49-0731-48a9-a6f2-5a794c089f76,Jérôme,Clément,42.0,Femme,Asexuel(le),Italien|Allemand|Anglais,Entrepreneuriat|Photographie,Data science|Portrait,Religion,Calme,Drôle,2025-07-09T15:04:02.820374
+f3c41013-3c86-48e9-a2cf-fe6224aeb53b,Monique,Gauthier,24.0,Non-binaire,Hétérosexuel(le),Espagnol|Anglais,Cuisine|Sciences,Pâtisserie|Biologie,Religion,Drôle,Peu importe,2025-08-12T15:04:02.820400
+ed4a26d3-b3b8-49ed-87f0-65e0135e0ff7,Valentine,Garnier,39.0,Non-binaire,Autre,Autre,Entrepreneuriat|Cuisine|Photographie,Innovation|Cuisine du monde|Portrait,Religion|Politique,Sérieux(se),Drôle,2025-10-15T15:04:02.820424
+285d0cc8-fcdb-41f7-87eb-443d6253f912,Josette,Garnier,63.0,Préfère ne pas dire,Autre,Autre|Espagnol|Italien,Jeux vidéo|Voyage,RPG|Road trip,Politique|Religion,Drôle,Peu importe,2025-10-05T15:04:02.820448
+6507a4c7-8d0e-48e2-9369-519072c6eba6,Gérard,Le Gall,41.0,Femme,Autre,Allemand|Espagnol,Technologie|Musique|Arts & culture,IA|Jazz|Théâtre,Santé,Autre,Sérieux(se),2025-07-05T15:04:02.820472
+3ed3a194-20bc-4f7a-b45e-095ae91485e8,Manon,Legendre,68.0,Non-binaire,Préfère ne pas dire,Italien|Autre|Espagnol,Lecture|Podcasts|Jeux vidéo,Roman|Développement perso|RPG,Religion|Sexe,Drôle,Drôle,2025-09-12T15:04:02.820496
+9403c4a5-d525-4b50-b6cc-5f4fc6372616,Jean,Ferreira,26.0,Non-binaire,Hétérosexuel(le),Allemand,Musique,Jazz,Autre,Drôle,Sérieux(se),2025-06-06T15:04:02.820521
+b29e0661-b846-4131-b613-a82c8ed88da6,Henri,Morel,19.0,Homme,Hétérosexuel(le),Français|Espagnol,Podcasts|Technologie,Développement perso|IA,Autre|Sexe,Sérieux(se),Peu importe,2024-11-10T15:04:02.820547
+dcae613a-9e97-4460-b918-5e894f57ef62,Océane,Dias,67.0,Préfère ne pas dire,Hétérosexuel(le),Italien|Autre|Français,Sciences|Jeux vidéo,Chimie|RPG,Autre,Drôle,Peu importe,2025-06-25T15:04:02.820573
+753dbc6b-6453-40bd-8587-9c91c5b64a91,Théodore,Jourdan,62.0,Homme,Pansexuel(le),Espagnol,Voyage|Photographie,Randonnée|Portrait,Religion|Autre,Introverti(e),Introverti(e),2025-09-13T15:04:02.820597
+1570e878-ca3f-4d07-a2c7-2e7d5e327491,Pénélope,Alves,65.0,Homme,Asexuel(le),Italien,Cuisine,Pâtisserie,Sexe,Sérieux(se),Drôle,2025-05-31T15:04:02.820619
+1e8f368e-36e2-4c22-9df5-2730f2246ade,Alexandria,Gillet,61.0,Femme,Bisexuel(le),Espagnol|Italien,Sciences|Entrepreneuriat|Photographie,Physique|Startup|Paysage,Argent|Autre,Extraverti(e),Introverti(e),2024-11-07T15:04:02.820644
+9ac652a0-259a-4ccb-98e7-c6c47e6bb96a,Thomas,Bègue,39.0,Non-binaire,Autre,Allemand|Italien,Lecture|Sport,Manga|Cyclisme,Autre,Extraverti(e),Sérieux(se),2024-10-28T15:04:02.820668
+89430767-4d36-4318-82ce-2178c0cb1eef,Philippine,Sauvage,40.0,Préfère ne pas dire,Asexuel(le),Français|Anglais,Cuisine|Lecture,Cuisine du monde|BD,Argent|Santé,Extraverti(e),Autre,2025-08-27T15:04:02.820692
+a7545057-592f-4212-9edb-6204c1f5ec22,Margaud,Langlois,41.0,Homme,Hétérosexuel(le),Espagnol|Allemand,Arts & culture|Cuisine,Peinture|Pâtisserie,Politique|Santé,Sérieux(se),Autre,2025-08-08T15:04:02.820716
+d3c4ae3c-9e5e-4697-b43e-75f4482efabb,Anastasie,Regnier,65.0,Femme,Hétérosexuel(le),Italien|Autre,Sport,Basketball,Autre,Autre,Calme,2025-06-14T15:04:02.820739
+36562af6-96f3-4b26-8206-5c0e91d16a00,Emmanuelle,Da Silva,41.0,Non-binaire,Bisexuel(le),Italien|Autre|Anglais,Musique|Sciences|Sport,Rock|Physique|Tennis,Religion|Autre,Calme,Autre,2025-02-17T15:04:02.820765
+15bfc247-be72-4340-884e-4ebb225b3b51,Élodie,Joubert,40.0,Non-binaire,Asexuel(le),Anglais|Français|Autre,Lecture|Voyage,Roman|Road trip,Religion|Argent,Extraverti(e),Calme,2025-08-24T15:04:02.820794
+13fafbe0-14d0-4903-b681-6bdfb293759a,Tristan,Lacombe,44.0,Préfère ne pas dire,Autre,Autre|Allemand,Sport,Basketball,Argent,Peu importe,Introverti(e),2025-07-28T15:04:02.820823
+a6b914c5-dd5f-4c02-8385-85ebbf015f12,Emmanuel,Lopez,59.0,Non-binaire,Bisexuel(le),Français|Espagnol,Technologie|Entrepreneuriat,IA|Data science,Argent|Sexe,Calme,Extraverti(e),2025-01-17T15:04:02.820884
+abcc3b6d-31f6-44a2-9781-095a49280359,Monique,Grondin,43.0,Homme,Homosexuel(le),Allemand|Anglais|Italien,Musique|Lecture,Pop|Manga,Autre|Santé,Extraverti(e),Drôle,2025-09-07T15:04:02.820912
+3f7267ba-4aba-4aa0-9dd4-754f309e8d63,Constance,Perrin,42.0,Non-binaire,Pansexuel(le),Allemand|Autre|Français,Cuisine|Technologie|Photographie,Cuisine du monde|IA|Paysage,Religion,Extraverti(e),Autre,2025-01-12T15:04:02.820937
+7a17a867-78a5-4683-9497-722521dfaaa4,Éric,Martinez,66.0,Femme,Pansexuel(le),Autre|Italien|Français,Arts & culture|Technologie,Théâtre|IA,Sexe|Argent,Peu importe,Sérieux(se),2025-10-19T15:04:02.820963
+e14c430f-4cdf-4a0b-96c9-ef2ec8456dbf,Sabine,Pelletier,25.0,Homme,Préfère ne pas dire,Autre|Allemand|Espagnol,Sciences|Photographie,Physique|Portrait,Religion|Santé,Peu importe,Autre,2025-09-25T15:04:02.820993
+ff1093b5-a800-4711-82e2-60c86b959315,Alain,Da Costa,41.0,Homme,Asexuel(le),Italien,Entrepreneuriat,Innovation,Autre,Introverti(e),Extraverti(e),2025-04-04T15:04:02.821016
+fbdf8d5a-5b0d-4314-b7aa-b51b4aea2517,Marcelle,Ledoux,29.0,Non-binaire,Hétérosexuel(le),Italien,Lecture,Manga,Politique,Introverti(e),Peu importe,2025-01-16T15:04:02.821038
+a0fd9d1b-da43-455b-a584-f36d676810b2,René,Perez,63.0,Préfère ne pas dire,Pansexuel(le),Autre|Espagnol|Anglais,Lecture,Roman,Religion|Santé,Extraverti(e),Sérieux(se),2025-04-11T15:04:02.821061
+323455cd-18a8-4db6-abec-060b486a9529,Théophile,Voisin,56.0,Non-binaire,Autre,Français|Autre|Italien,Entrepreneuriat|Jeux vidéo|Sciences,Développement web|RPG|Biologie,Politique,Autre,Extraverti(e),2025-04-19T15:04:02.821086
+0c68775d-d4fe-4965-a78e-bef2fe6300d8,Corinne,Charrier,66.0,Non-binaire,Pansexuel(le),Italien,Entrepreneuriat|Arts & culture|Podcasts,Data science|Théâtre|Culture,Religion|Autre,Calme,Drôle,2025-07-22T15:04:02.821110
+0591191e-460d-4aac-99b7-a9db0c978b99,François,Prévost,46.0,Non-binaire,Homosexuel(le),Autre|Espagnol|Français,Photographie,Portrait,Santé,Introverti(e),Extraverti(e),2025-08-04T15:04:02.821133
+fd62ab41-57d9-4a46-b4f3-eb8378a5771a,Patricia,Blanchet,36.0,Préfère ne pas dire,Homosexuel(le),Autre,Sciences|Musique|Lecture,Physique|Jazz|Roman,Autre|Santé,Peu importe,Calme,2025-02-24T15:04:02.821157
+ce749bf9-101e-4d1b-b85a-c0248d98af64,Camille,Muller,28.0,Homme,Homosexuel(le),Autre,Musique|Podcasts|Entrepreneuriat,Rap|Culture|Développement web,Religion,Peu importe,Autre,2025-03-14T15:04:02.821180
+2ce66c07-daf0-4459-8479-c91f3904eb55,Antoinette,Vaillant,55.0,Non-binaire,Asexuel(le),Italien|Anglais,Voyage|Jeux vidéo|Entrepreneuriat,Randonnée|FPS|Startup,Santé|Argent,Calme,Introverti(e),2024-11-25T15:04:02.821204
+d517f861-5f1f-4537-a5c4-533c5b6036b5,Julien,Charpentier,27.0,Homme,Pansexuel(le),Espagnol,Entrepreneuriat,Innovation,Sexe|Religion,Extraverti(e),Calme,2025-08-20T15:04:02.821244
+618ee18e-3888-4c6e-aba3-6ab3596bc0f0,Victoire,Julien,30.0,Non-binaire,Pansexuel(le),Allemand|Anglais,Arts & culture|Entrepreneuriat|Technologie,Théâtre|Startup|IA,Sexe|Autre,Sérieux(se),Sérieux(se),2025-09-26T15:04:02.821282
+aeea9d7e-6ba9-40dd-9027-60a610eede74,Xavier,Schneider,23.0,Non-binaire,Pansexuel(le),Allemand,Photographie|Podcasts,Portrait|Culture,Sexe,Drôle,Peu importe,2024-12-31T15:04:02.821307
+704a9799-a427-4f9b-922e-3431200f1e3a,Timothée,Fernandes,18.0,Non-binaire,Bisexuel(le),Français|Autre|Italien,Podcasts,Culture,Sexe|Autre,Extraverti(e),Calme,2025-03-31T15:04:02.821332
+d34c862c-0906-4f3f-b4ed-ef75b0480992,Xavier,Jourdan,41.0,Homme,Autre,Italien|Français,Photographie|Entrepreneuriat,Portrait|Innovation,Politique,Sérieux(se),Drôle,2025-05-09T15:04:02.821359
+48ba10b8-8a69-41da-9977-8a69d4e85066,Christiane,Berthelot,28.0,Homme,Préfère ne pas dire,Français|Autre|Espagnol,Entrepreneuriat,Startup,Politique|Sexe,Calme,Peu importe,2024-12-12T15:04:02.821384
+61510486-52f5-4686-971b-6d3de37299c0,Noël,Gillet,53.0,Femme,Hétérosexuel(le),Espagnol,Photographie,Paysage,Autre|Politique,Introverti(e),Introverti(e),2025-06-20T15:04:02.821407
+f660daee-1dd9-4617-8967-115a00d521f7,Alex,Martineau,,Non-binaire,Bisexuel(le),Autre|Français,Technologie|Arts & culture,,Politique,Autre,Drôle,2025-07-05T15:04:02.821436
+11332ae1-ec81-4025-8a6b-2bfa7609bf37,Alexandrie,Morvan,48.0,Homme,Préfère ne pas dire,Autre|Italien,Sciences|Technologie|Entrepreneuriat,Biologie|IA|Développement web,Argent|Santé,Introverti(e),Sérieux(se),2025-03-31T15:04:02.821465
+34a686c3-8167-4461-8675-81bc42698db5,Michel,Barthelemy,52.0,Non-binaire,Homosexuel(le),Français|Autre,Sport,Natation,Sexe,Drôle,Autre,2024-11-17T15:04:02.821491
+c268939d-786b-4c48-aa5d-c3a39cb37302,Théodore,Langlois,21.0,Homme,Pansexuel(le),Anglais,Technologie|Podcasts,IA|Développement perso,Sexe|Autre,Drôle,Drôle,2024-11-23T15:04:02.821515
+9fd4374d-5f23-4aa5-957e-904b3e030580,Suzanne,Ribeiro,41.0,Préfère ne pas dire,Asexuel(le),Allemand|Autre,Technologie|Podcasts,IA|Culture,Autre,Sérieux(se),Drôle,2025-07-01T15:04:02.821538
+06a467a6-16da-46ea-9f42-5f3316efd085,Zoé,Cohen,20.0,Non-binaire,Bisexuel(le),Allemand,Jeux vidéo|Podcasts|Lecture,RPG|Développement perso|Roman,Argent|Religion,Sérieux(se),Extraverti(e),2025-07-09T15:04:02.821561
+e297e0d4-b4f9-4973-98ed-a0750bca26fb,Pénélope,Roche,22.0,Préfère ne pas dire,Asexuel(le),Allemand|Italien|Espagnol,Arts & culture|Sciences|Voyage,Cinéma|Biologie|Road trip,Sexe,Autre,Sérieux(se),2025-10-15T15:04:02.821585
+87fc7dac-e8c0-4cfb-8a6e-d027e70474cf,Paul,Fouquet,32.0,Non-binaire,Homosexuel(le),Français|Allemand|Espagnol,Photographie|Sport,Paysage|Basketball,Politique|Autre,Extraverti(e),Drôle,2025-01-04T15:04:02.821609
+fa41f1bf-1394-4c50-9971-05b389094dec,Denise,Lenoir,26.0,Préfère ne pas dire,Préfère ne pas dire,Français,Jeux vidéo|Voyage,RPG|Randonnée,Santé|Sexe,Peu importe,Autre,2025-06-14T15:04:02.821632
+bf3edd32-1fb9-4588-84c6-9768a573e823,Danielle,Parent,49.0,Femme,Hétérosexuel(le),Autre|Allemand,Lecture|Sport|Sciences,BD|Basketball|Chimie,Sexe,Autre,Drôle,2025-06-18T15:04:02.821656
+74a175cb-e510-4fcb-a5c0-c020d12284f5,Michelle,Verdier,28.0,Femme,Autre,Espagnol,Lecture|Technologie|Cuisine,Manga|IA|Pâtisserie,Sexe|Argent,Introverti(e),Autre,2025-06-02T15:04:02.821681
+b42e2d9d-d8e5-4f73-aca2-1416f1d2012c,Agnès,Bernard,69.0,Non-binaire,Pansexuel(le),Allemand|Espagnol,Entrepreneuriat|Sport,Data science|Cyclisme,Argent,Peu importe,Sérieux(se),2025-01-27T15:04:02.821704
+1d3fea4a-078f-4584-b48f-5dfbfbe96cd2,Matthieu,Duhamel,20.0,Homme,Hétérosexuel(le),Français|Anglais,Photographie|Entrepreneuriat,,Politique|Argent,Calme,Peu importe,2025-10-21T15:04:02.821727
+a210b0e2-91c8-436f-b95b-7e99230891e2,Louis,Gillet,62.0,Préfère ne pas dire,Pansexuel(le),Français|Espagnol|Anglais,Cuisine,Pâtisserie,Autre,Peu importe,Autre,2025-03-19T15:04:02.821811
+006705bc-0897-44b7-851d-43ae354baeba,Olivier,Joubert,35.0,Préfère ne pas dire,Asexuel(le),Autre|Espagnol,Sciences|Lecture|Arts & culture,Physique|Roman|Théâtre,Sexe,Calme,Drôle,2025-05-22T15:04:02.821905
+b2cc288e-3a96-4684-b037-1d28d6968275,Zacharie,Lopez,66.0,Femme,Hétérosexuel(le),Allemand,Jeux vidéo|Voyage,Stratégie|Randonnée,Sexe|Argent,Autre,Autre,2025-03-25T15:04:02.821940
+d90f992f-8125-4c9d-a469-592edbcbc782,Marie,Martins,55.0,Homme,Préfère ne pas dire,Allemand,Voyage|Sciences|Photographie,Randonnée|Biologie|Paysage,Argent,Peu importe,Drôle,2025-02-27T15:04:02.821971
+c71616d6-b7ab-4b16-ac07-396ac198162b,Odette,Petit,33.0,Non-binaire,Bisexuel(le),Français|Espagnol|Italien,Voyage|Sport|Entrepreneuriat,Road trip|Cyclisme|Innovation,Santé,Peu importe,Autre,2025-08-13T15:04:02.821997
+b17df24b-e334-4900-8319-2c40c5caa006,Marguerite,Vallée,67.0,Femme,Asexuel(le),Anglais|Français|Allemand,Sciences,Chimie,Santé,Drôle,Sérieux(se),2025-07-09T15:04:02.822025
+dea7dd3c-f1e9-408d-8ebd-44e15ee40545,Eugène,Lelièvre,19.0,Non-binaire,Bisexuel(le),Italien|Anglais,Technologie,IA,Autre|Santé,Drôle,Autre,2025-08-08T15:04:02.822050
+19972836-f21e-42fa-933e-cfeb96b35f9b,Claude,Joseph,48.0,Préfère ne pas dire,Pansexuel(le),Espagnol|Autre,Entrepreneuriat|Photographie|Cuisine,Développement web|Paysage|Pâtisserie,Autre|Politique,Autre,Autre,2025-03-18T15:04:02.822075
+127f74c5-8023-47e3-9a1a-b495f657998e,Nathalie,Seguin,40.0,Non-binaire,Asexuel(le),Français|Allemand,Sport|Voyage,Basketball|Randonnée,Sexe|Politique,Sérieux(se),Calme,2025-02-07T15:04:02.822100
+5f39ca48-ec1c-4f56-b56f-b2908e906ade,Anouk,Gonzalez,48.0,Non-binaire,Homosexuel(le),Anglais|Espagnol|Allemand,Jeux vidéo|Sciences,RPG|Chimie,Argent|Politique,Extraverti(e),Peu importe,2025-02-16T15:04:02.822124
+6147793c-b3ee-4df4-bd15-251d6b9a807d,Gabriel,Lombard,61.0,Homme,Homosexuel(le),Espagnol|Allemand|Autre,Photographie|Podcasts|Entrepreneuriat,Portrait|Développement perso|Innovation,Politique,Peu importe,Drôle,2025-02-08T15:04:02.822148
+b81b275c-1367-4ae4-8c64-6b0d3452edb9,Danielle,Jourdan,22.0,Préfère ne pas dire,Autre,Italien|Français,Photographie,Paysage,Politique,Extraverti(e),Peu importe,2025-09-14T15:04:02.822171
+f2ac7bf9-8685-401d-acc7-c4b4669fe87e,Alexandre,Guilbert,36.0,Non-binaire,Autre,Italien|Anglais,Photographie|Technologie|Arts & culture,Portrait|IA|Théâtre,Autre|Sexe,Sérieux(se),Sérieux(se),2025-07-31T15:04:02.822195
+8070d5ac-9f80-47b5-a9a5-ef3334fb75bf,Brigitte,De Oliveira,56.0,Non-binaire,Homosexuel(le),Anglais,Voyage,Randonnée,Sexe,Sérieux(se),Peu importe,2024-11-27T15:04:02.822217
+e713ba28-f3e9-4c90-b856-cafaadd59275,Roland,Rolland,48.0,Homme,Bisexuel(le),Allemand|Anglais|Français,Podcasts|Lecture,Tech|Roman,Religion,Extraverti(e),Introverti(e),2025-05-22T15:04:02.822241
+3c016214-af33-499d-a922-8d4e5e6d6146,Margot,Pires,50.0,Homme,Hétérosexuel(le),Espagnol,Podcasts|Voyage,Développement perso|Road trip,Politique|Santé,Introverti(e),Sérieux(se),2025-01-29T15:04:02.822265
+42d566f9-0086-44dd-ac15-d3e575ab86d2,Guy,Roussel,50.0,Non-binaire,Asexuel(le),Espagnol|Français,Voyage,Randonnée,Religion|Sexe,Extraverti(e),Drôle,2025-08-11T15:04:02.822289
+a835bfab-a632-47e7-8cdd-adf4771054b3,Matthieu,Boyer,20.0,Non-binaire,Bisexuel(le),Italien,Jeux vidéo|Photographie|Entrepreneuriat,Stratégie|Paysage|Innovation,Autre|Politique,Drôle,Drôle,2025-02-09T15:04:02.822312
+15445c27-d350-4af7-849f-b293b6970bb7,Patricia,Pires,66.0,Préfère ne pas dire,Hétérosexuel(le),Français,Technologie,IA,Santé,Autre,Drôle,2025-04-06T15:04:02.822335
+3aef146f-4dc4-493a-90fd-54123d0b4639,Bernard,Hardy,24.0,Non-binaire,Pansexuel(le),Allemand,Voyage|Arts & culture,Randonnée|Théâtre,Religion,Sérieux(se),Drôle,2024-12-24T15:04:02.822358
+c7cea7e8-a4ad-4973-9914-5d181c75bbe8,Pierre,Langlois,20.0,Non-binaire,Homosexuel(le),Anglais|Espagnol,Voyage,Randonnée,Sexe,Sérieux(se),Introverti(e),2025-04-01T15:04:02.822381
+2a87f460-282a-4b91-8faa-6f9f7181bfa1,Martine,Chauveau,50.0,Préfère ne pas dire,Pansexuel(le),Autre|Espagnol|Anglais,Jeux vidéo|Musique,RPG|Rap,Autre|Religion,Introverti(e),Calme,2025-05-11T15:04:02.822409
+de66b52a-9617-4d24-870a-b74e403d352b,Eugène,Monnier,61.0,Femme,Bisexuel(le),Anglais,Technologie,IA,Autre|Santé,Sérieux(se),Drôle,2025-04-14T15:04:02.822431
+2e1b6578-2000-402e-ad8c-60d18c891ae5,Jacqueline,Marques,57.0,Femme,Hétérosexuel(le),Italien,Musique,Classique,Sexe|Politique,Drôle,Calme,2024-12-13T15:04:02.822466
+d2c39f2d-d3cf-4f14-8a1c-e698e7e1b59d,Luce,Besnard,18.0,Préfère ne pas dire,Homosexuel(le),Anglais|Italien,Sport|Lecture|Musique,Football|Manga|Classique,Santé,Extraverti(e),Calme,2025-06-09T15:04:02.822490
+85a43aff-4aff-4383-987c-ccfd55f64048,Joseph,Torres,43.0,Femme,Préfère ne pas dire,Autre|Français|Allemand,Podcasts|Lecture|Musique,Culture|BD|Pop,Religion|Argent,Autre,Peu importe,2025-06-22T15:04:02.822523
+eb92b6a2-e8f5-48df-bd3e-803389a5ad3f,Benoît,Germain,31.0,Homme,Bisexuel(le),Italien|Français|Espagnol,Musique|Lecture,Classique|Manga,Politique,Calme,Introverti(e),2024-11-17T15:04:02.822554
+f17bf56d-e131-4c84-985d-3ebfc0b65d86,Andrée,Huet,17.0,Femme,Hétérosexuel(le),Français|Espagnol,Lecture|Technologie,Roman|IA,Santé,Drôle,Calme,2024-12-13T15:04:02.822593
+19055521-0a50-4e7c-ba9c-7fb69c08c475,Charlotte,Imbert,65.0,Homme,Bisexuel(le),Anglais|Autre,Sciences|Jeux vidéo|Photographie,Chimie|FPS|Portrait,Autre,Drôle,Sérieux(se),2024-11-05T15:04:02.822639
+777fa7b8-67cb-4176-ab82-8a43e304bd66,Mathilde,Guilbert,51.0,Préfère ne pas dire,Hétérosexuel(le),Espagnol|Autre|Français,Voyage|Technologie|Sport,Road trip|IA|Football,Santé,Autre,Drôle,2025-02-02T15:04:02.822694
+a35c3f98-9e0a-4160-95c1-6570ba8c981c,Adèle,Hamel,69.0,Femme,Hétérosexuel(le),Italien|Espagnol|Anglais,Voyage,Randonnée,Argent|Sexe,Autre,Calme,2024-12-07T15:04:02.822755
+a394ffff-1f1a-47d2-adcc-9dccec316347,Arnaude,Bernard,54.0,Préfère ne pas dire,Préfère ne pas dire,Allemand|Autre,Jeux vidéo|Voyage|Arts & culture,RPG|Road trip|Cinéma,Argent,Extraverti(e),Peu importe,2025-09-11T15:04:02.822828
+baa6b55e-da86-4467-b4db-6774c0dee54d,Christophe,Carpentier,56.0,Femme,Asexuel(le),Français|Allemand|Autre,Cuisine|Lecture|Technologie,Pâtisserie|BD|IA,Santé,Calme,Sérieux(se),2025-05-06T15:04:02.822861
+b303e318-e3ce-4d45-b867-7f0f10a1f61a,Gilles,Masse,63.0,Non-binaire,Autre,Italien,Podcasts|Voyage|Entrepreneuriat,Tech|Road trip|Développement web,Santé|Religion,Autre,Extraverti(e),2025-03-21T15:04:02.822886
+63948b52-0291-48a7-86ba-c02cf8c2c9d2,Philippine,Lecoq,59.0,Préfère ne pas dire,Asexuel(le),Espagnol|Autre,Entrepreneuriat|Jeux vidéo,Data science|RPG,Santé,Autre,Peu importe,2025-07-12T15:04:02.822912
+4b6a7b8f-8e3c-4af7-a10b-019f5bf7f01c,Denis,Morel,42.0,Homme,Préfère ne pas dire,Autre|Italien|Français,Sport,Natation,Autre,Sérieux(se),Drôle,2025-08-15T15:04:02.822937
+4e50740a-21b6-420c-82cd-f823d0767a0f,Étienne,Dias,41.0,Préfère ne pas dire,Autre,Français|Espagnol,Photographie|Jeux vidéo,Portrait|Stratégie,Politique,Peu importe,Calme,2025-03-06T15:04:02.822961
+50e4c94b-e2a6-4d41-9712-21d008f82b86,Colette,Jean,60.0,Préfère ne pas dire,Autre,Autre,Technologie|Entrepreneuriat|Sciences,IA|Développement web|Chimie,Argent|Sexe,Autre,Sérieux(se),2025-02-03T15:04:02.822997
+e69c76fb-f17e-4320-a68e-dbf26b1af0d5,Matthieu,Langlois,47.0,Homme,Hétérosexuel(le),Allemand|Autre|Italien,Voyage|Podcasts,Randonnée|Développement perso,Politique,Extraverti(e),Peu importe,2025-07-06T15:04:02.823023
+73f3ed92-a962-4ee9-bc66-8001c8cce699,Aurélie,Vaillant,22.0,Homme,Bisexuel(le),Français,Musique|Cuisine,Pop|Cuisine du monde,Sexe,Calme,Introverti(e),2025-08-28T15:04:02.823046
+53219ef4-e58f-4315-afab-47fdba81233f,Margot,Perret,51.0,Préfère ne pas dire,Hétérosexuel(le),Français|Allemand|Anglais,Cuisine,Cuisine du monde,Religion|Sexe,Introverti(e),Autre,2025-03-08T15:04:02.823070
+6e36f7be-860c-4d58-89de-85db264f84df,Aimée,Caron,44.0,Femme,Pansexuel(le),Français|Anglais,Jeux vidéo|Lecture,FPS|BD,Autre,Extraverti(e),Sérieux(se),2025-09-13T15:04:02.823094
+9ad070f8-e577-4987-921c-9ee66910ff33,Jacques,Blondel,,Non-binaire,Autre,Espagnol|Français|Italien,Jeux vidéo,Stratégie,Religion|Santé,Peu importe,Extraverti(e),2024-12-05T15:04:02.823117
+6687c2cb-adf2-4b52-9f34-503706f90e2e,Clémence,Leduc,46.0,Préfère ne pas dire,Pansexuel(le),Autre,Musique|Sciences,,Santé,Extraverti(e),Peu importe,2025-07-04T15:04:02.823142
+fb6ef580-7092-4948-b276-3bd5b51dd775,Zoé,Guyot,55.0,Femme,Autre,Anglais|Espagnol|Italien,Lecture|Sciences|Musique,Roman|Physique|Pop,Autre|Argent,Introverti(e),Calme,2025-01-16T15:04:02.823168
+b02e389e-aa20-435b-bb19-2c75cbb2ebb7,Madeleine,Maillet,42.0,Femme,Bisexuel(le),Autre,Entrepreneuriat|Sciences,Data science|Physique,Sexe,Peu importe,Autre,2024-10-26T15:04:02.823192
+429ab2b9-d2a1-4850-be28-56a55f179195,Émilie,Guibert,59.0,Préfère ne pas dire,Hétérosexuel(le),Espagnol|Allemand,Podcasts,Développement perso,Sexe|Autre,Autre,Autre,2025-03-09T15:04:02.823218
+a28d9ec2-8508-4e01-9b72-1a40c07f475e,Roland,Garcia,62.0,Préfère ne pas dire,Bisexuel(le),Français|Espagnol|Italien,Arts & culture|Photographie,Peinture|Portrait,Santé,Introverti(e),Calme,2025-08-16T15:04:02.823243
+a2386859-efa3-46a4-b7d4-3bb9975da8c6,Charlotte,Pierre,65.0,Homme,Bisexuel(le),Français|Autre|Anglais,Technologie|Arts & culture,IA|Cinéma,Autre|Religion,Calme,Extraverti(e),2025-07-31T15:04:02.823267
+54785d92-d718-4cf6-a783-cb0fa02cbdc9,Richard,Meunier,62.0,Préfère ne pas dire,Hétérosexuel(le),Français,Entrepreneuriat|Technologie|Podcasts,Data science|IA|Développement perso,Sexe|Politique,Sérieux(se),Peu importe,2024-11-03T15:04:02.823291
+d9a4253c-286e-4e8f-864a-a5325fe1b4a6,Josette,Chauvin,24.0,Homme,Préfère ne pas dire,Français,Technologie,IA,Politique,Peu importe,Extraverti(e),2025-01-17T15:04:02.823314
+c977143b-5ec7-420f-87d7-2856c11e37aa,Brigitte,Adam,28.0,Homme,Préfère ne pas dire,Italien|Allemand,Sport|Musique|Lecture,Natation|Jazz|Roman,Autre|Santé,Autre,Autre,2025-05-25T15:04:02.823338
+dc5c5f52-c7f7-4a01-963a-3d2c0ca0485a,Émilie,Lecoq,46.0,Homme,Autre,Allemand|Anglais|Italien,Cuisine,Pâtisserie,Santé|Politique,Autre,Sérieux(se),2024-12-30T15:04:02.823362
+64a27da4-5e95-4e5d-a05c-6dd65f04fb08,Margot,Weber,46.0,Non-binaire,Autre,Espagnol|Anglais,Entrepreneuriat|Jeux vidéo|Technologie,Innovation|FPS|IA,Politique,Sérieux(se),Autre,2024-12-10T15:04:02.823387
+2032c809-3d84-4b7d-93cc-c8835246037c,Clémence,Pasquier,42.0,Homme,Autre,Anglais|Français,Jeux vidéo|Photographie,Stratégie|Paysage,Sexe,Peu importe,Sérieux(se),2025-01-07T15:04:02.823415
+7027bd33-ca1e-4a97-aea1-d5909e7d5efb,Nathalie,Mallet,45.0,Femme,Asexuel(le),Autre|Français|Allemand,Jeux vidéo|Entrepreneuriat,RPG|Innovation,Religion,Introverti(e),Peu importe,2025-08-20T15:04:02.823440
+cc477cba-a15b-4e13-9044-988332a861dd,Nath,Evrard,47.0,Préfère ne pas dire,Autre,Italien|Anglais|Autre,Sport|Musique,Football|Pop,Autre|Sexe,Introverti(e),Calme,2024-12-11T15:04:02.823464
+c03baf3b-56a1-47be-845f-58131652e2f2,Bernard,Pinto,,Préfère ne pas dire,Préfère ne pas dire,Autre|Espagnol|Allemand,Cuisine|Arts & culture,Pâtisserie|Cinéma,Religion,Introverti(e),Peu importe,2025-02-21T15:04:02.823487
+5b6d580c-da93-4e8e-8c73-37bc7f4cda8f,Anaïs,Normand,60.0,Non-binaire,Asexuel(le),Espagnol|Français,Photographie,Paysage,Politique,Calme,Peu importe,2025-01-08T15:04:02.823511
+76df122b-24e3-4e95-8a84-4464861d3397,Isabelle,Pruvost,34.0,Femme,Asexuel(le),Espagnol|Autre|Italien,Technologie|Jeux vidéo,IA|FPS,Politique,Peu importe,Sérieux(se),2025-05-31T15:04:02.823535
+8366c942-115f-4574-966c-1f7b6f9d4384,Suzanne,Michaud,57.0,Femme,Bisexuel(le),Allemand|Autre|Espagnol,Photographie|Lecture|Cuisine,Portrait|Roman|Cuisine du monde,Religion,Drôle,Extraverti(e),2024-12-11T15:04:02.823559
+76399a14-73ff-47e0-8cb0-c9e3a8cf86e5,François,Simon,20.0,Non-binaire,Homosexuel(le),Italien|Autre|Allemand,Musique|Technologie,Rock|IA,Argent|Autre,Peu importe,Autre,2025-04-23T15:04:02.823585
+6eeb7f62-5b04-4c02-96bf-b229aac28ed5,Patrick,Coste,69.0,Préfère ne pas dire,Homosexuel(le),Espagnol|Anglais|Italien,Cuisine|Jeux vidéo|Musique,Cuisine du monde|Stratégie|Pop,Religion|Politique,Extraverti(e),Calme,2025-02-25T15:04:02.823611
+f5399535-fca2-4caa-a19b-4e34e8232f35,Amélie,Renault,51.0,Préfère ne pas dire,Pansexuel(le),Anglais|Français,Cuisine,Pâtisserie,Politique,Introverti(e),Calme,2025-05-06T15:04:02.823668
+842747f3-4b61-418b-8c41-fc6ef3a64a50,Margot,Le Goff,54.0,Homme,Hétérosexuel(le),Espagnol|Italien|Allemand,Jeux vidéo,Stratégie,Sexe|Politique,Introverti(e),Extraverti(e),2025-10-06T15:04:02.823735
+320370c6-37b6-4045-9c1b-fd24c9d91ef0,Roland,Cousin,27.0,Femme,Autre,Allemand|Français|Autre,Sport|Photographie,Cyclisme|Portrait,Religion,Drôle,Autre,2025-08-21T15:04:02.823788
+0d1b83a8-52be-4164-a271-ca17ac4d6858,Marthe,Toussaint,33.0,Préfère ne pas dire,Autre,Autre|Français|Espagnol,Voyage|Sciences|Photographie,Randonnée|Chimie|Portrait,Argent|Politique,Drôle,Sérieux(se),2025-02-07T15:04:02.823836
+3e2b1156-c735-4943-bcab-8324707c65fe,Hugues,Fernandes,18.0,Homme,Asexuel(le),Autre,Podcasts|Sciences|Sport,Tech|Physique|Running,Politique|Sexe,Autre,Introverti(e),2024-10-30T15:04:02.823878
+5adf981a-5162-4636-8a1f-b628dee0d1f6,Manon,Samson,27.0,Non-binaire,Homosexuel(le),Allemand|Français,Sport,Basketball,Argent|Politique,Peu importe,Sérieux(se),2025-05-17T15:04:02.823919
+a13dc7b2-1188-4c98-b272-cbadead1a7e9,Philippine,Perrot,40.0,Homme,Homosexuel(le),Anglais|Allemand,Podcasts|Arts & culture,Développement perso|Théâtre,Religion,Calme,Calme,2024-10-29T15:04:02.823962
+30765377-ab71-4e83-ab37-e79fd4f47d6d,Catherine,Joly,39.0,Homme,Préfère ne pas dire,Allemand|Italien|Anglais,Photographie,Paysage,Santé,Introverti(e),Sérieux(se),2024-10-27T15:04:02.823990
+2cdcd669-30ac-4b68-8787-c668ee4b8394,Auguste,Girard,51.0,Homme,Hétérosexuel(le),Anglais|Espagnol|Autre,Musique|Sport,Rock|Running,Argent,Sérieux(se),Autre,2024-12-25T15:04:02.824015
+2b1b9d6e-4b04-410a-abd9-ffc579e79848,Jacques,Fleury,60.0,Non-binaire,Autre,Français|Anglais,Cuisine|Voyage,Pâtisserie|Road trip,Sexe,Calme,Sérieux(se),2025-02-24T15:04:02.824046
+666f88e1-7312-4f40-be00-e7bfbe960091,Laure,Teixeira,53.0,Femme,Autre,Italien|Anglais,Jeux vidéo|Voyage,Stratégie|Randonnée,Autre|Argent,Calme,Drôle,2025-06-24T15:04:02.824070
+0c94268d-efb2-4f1d-99f9-513a1e1fc892,Henri,Maillot,52.0,Femme,Asexuel(le),Anglais,Sciences|Musique|Photographie,Chimie|Rap|Portrait,Religion,Peu importe,Calme,2025-09-24T15:04:02.824094
+fa338872-1e9d-4f6c-a26b-848389607fc3,Gilbert,Bouvier,41.0,Préfère ne pas dire,Pansexuel(le),Autre,Arts & culture,Peinture,Sexe|Politique,Sérieux(se),Sérieux(se),2025-07-09T15:04:02.824117
+d5cb641e-36e5-4f74-99b8-eb75637a3464,Émile,Lebreton,16.0,Femme,Homosexuel(le),Français|Italien,Lecture|Podcasts|Arts & culture,BD|Culture|Théâtre,Autre|Religion,Extraverti(e),Drôle,2025-04-06T15:04:02.824141
+99b40043-bc14-4c03-a2d2-e65c589a7f6e,Émilie,Weber,68.0,Femme,Asexuel(le),Allemand|Français,Cuisine|Lecture,Cuisine du monde|Roman,Religion,Calme,Calme,2025-04-30T15:04:02.824164
+cddd5c0f-a046-4cc0-be6b-1220e598a7eb,Roger,Raynaud,20.0,Préfère ne pas dire,Homosexuel(le),Anglais|Français,Musique,Pop,Sexe,Autre,Peu importe,2025-07-21T15:04:02.824186
+fc4947fe-f603-4a06-8c0f-195e24f84533,Marcelle,Martins,18.0,Homme,Pansexuel(le),Anglais,Lecture|Technologie,Roman|IA,Sexe,Peu importe,Peu importe,2025-08-31T15:04:02.824209
+fd3f957b-e300-46ba-a387-903e29ecc53d,Colette,Didier,24.0,Femme,Autre,Français|Italien,Lecture|Podcasts|Jeux vidéo,Roman|Tech|RPG,Autre|Politique,Introverti(e),Extraverti(e),2025-03-05T15:04:02.824233
+52e63ca5-73ea-4ef9-b488-f4087818154f,Valentine,Paul,23.0,Préfère ne pas dire,Pansexuel(le),Italien|Français|Anglais,Voyage,Randonnée,Santé,Extraverti(e),Introverti(e),2025-03-03T15:04:02.824258
+0d843522-414e-456a-9079-bc987606beb2,Hélène,Gaudin,47.0,Femme,Bisexuel(le),Allemand,Voyage|Musique|Podcasts,Randonnée|Classique|Développement perso,Religion|Sexe,Calme,Autre,2025-10-13T15:04:02.824282
+e339d297-5870-4004-8aa0-b19066f16ff8,Chantal,Descamps,38.0,Non-binaire,Asexuel(le),Italien|Anglais|Allemand,Technologie,IA,Autre,Sérieux(se),Peu importe,2025-02-11T15:04:02.824304
+2856c4e7-c2e9-4f76-8866-9b7e22f78b00,Éric,Brunet,31.0,Femme,Hétérosexuel(le),Espagnol,Sport|Sciences,Running|Chimie,Argent,Introverti(e),Peu importe,2025-09-11T15:04:02.824334
+9be2fd26-5f06-4417-b53b-fc68f8526c21,Marcelle,Gautier,27.0,Homme,Autre,Autre|Français|Italien,Arts & culture,Cinéma,Sexe|Santé,Introverti(e),Introverti(e),2025-06-19T15:04:02.824360
+eb17b67f-5173-4c88-861a-893d36433410,Emmanuel,Vincent,29.0,Femme,Bisexuel(le),Autre|Anglais|Espagnol,Lecture|Sport|Photographie,BD|Basketball|Paysage,Politique|Argent,Sérieux(se),Drôle,2025-03-23T15:04:02.824385
+70d6dffa-0827-46c9-a20f-95d97c1851bb,Marcel,Blin,66.0,Homme,Hétérosexuel(le),Anglais,Jeux vidéo,RPG,Politique,Introverti(e),Calme,2024-10-22T15:04:02.824408
+04823c5f-cae0-4655-949e-997bd7e6599a,Marianne,Diallo,37.0,Femme,Pansexuel(le),Français|Espagnol|Allemand,Voyage|Cuisine,Road trip|Pâtisserie,Religion|Santé,Peu importe,Sérieux(se),2024-11-11T15:04:02.824432
+fbb069ee-b77c-4942-adf1-89f6703ff5c9,Pénélope,Verdier,56.0,Femme,Asexuel(le),Français|Anglais,Technologie|Voyage|Musique,IA|Randonnée|Pop,Politique|Religion,Introverti(e),Introverti(e),2025-07-28T15:04:02.824459
+cf374490-eb05-4b1e-88a6-3d1313d1b7f6,Brigitte,Bouvier,51.0,Femme,Homosexuel(le),Allemand|Anglais,Photographie|Entrepreneuriat,Portrait|Data science,Religion,Drôle,Introverti(e),2025-05-26T15:04:02.824483
+b47b147c-9f53-46af-8b4e-60e2ed1280ec,Émile,Collet,38.0,Préfère ne pas dire,Pansexuel(le),Espagnol|Autre|Allemand,Entrepreneuriat|Lecture|Voyage,Data science|Roman|Randonnée,Argent|Sexe,Extraverti(e),Autre,2025-08-02T15:04:02.824507
+515ba5a1-d2a9-41a5-99d6-6e222de75440,Gilles,Lefebvre,50.0,Homme,Préfère ne pas dire,Autre|Anglais,Entrepreneuriat|Podcasts|Photographie,Data science|Tech|Paysage,Autre,Drôle,Introverti(e),2025-06-29T15:04:02.824531
+32442419-6a0f-4ff7-b7ec-47b0ecdb5850,Alphonse,Gros,17.0,Homme,Asexuel(le),Anglais,Lecture|Cuisine|Entrepreneuriat,BD|Cuisine du monde|Data science,Religion,Autre,Calme,2025-06-21T15:04:02.824554
+dc0f85e7-63d7-4103-bb40-a654f5a0a8c2,Luc,Maillard,20.0,Non-binaire,Homosexuel(le),Italien|Autre|Anglais,Photographie|Cuisine|Arts & culture,Portrait|Pâtisserie|Cinéma,Santé,Extraverti(e),Calme,2025-08-01T15:04:02.824578
+6cfabfc9-ea6f-4286-b86c-64822ef2c852,Céline,Chauvin,49.0,Femme,Préfère ne pas dire,Français|Italien,Jeux vidéo|Technologie,FPS|IA,Argent|Politique,Calme,Extraverti(e),2025-04-01T15:04:02.824602
+3635f5ef-30e5-4039-a366-a9633424a6ba,Olivier,Hardy,56.0,Femme,Pansexuel(le),Français,Musique,Rap,Autre,Sérieux(se),Calme,2025-03-24T15:04:02.824624
+2a02eafa-4953-49c7-9f19-c0b9b59193d8,Sylvie,Blin,32.0,Non-binaire,Bisexuel(le),Autre|Français|Italien,Cuisine|Arts & culture|Musique,,Argent|Sexe,Introverti(e),Calme,2024-12-21T15:04:02.824648
+21ba39d6-ec0f-4394-ad94-1031e37c5f36,Alexandria,Maillard,61.0,Homme,Bisexuel(le),Anglais|Allemand|Espagnol,Jeux vidéo|Cuisine,Stratégie|Pâtisserie,Autre,Extraverti(e),Peu importe,2025-08-17T15:04:02.824676
+562b5315-5862-4b36-969a-5db0954c8643,Antoine,Dupuis,17.0,Préfère ne pas dire,Asexuel(le),Anglais|Allemand,Musique,Classique,Argent|Santé,Sérieux(se),Calme,2024-11-26T15:04:02.824732
+80719f08-e523-469e-8fb1-b5643e8e9126,Adrien,Aubry,47.0,Préfère ne pas dire,Préfère ne pas dire,Italien|Anglais|Autre,Sport|Lecture,Football|BD,Sexe,Sérieux(se),Sérieux(se),2025-08-06T15:04:02.824763
+ea961347-2ab4-41c8-8495-27812f55879e,Susanne,Charles,45.0,Non-binaire,Préfère ne pas dire,Allemand|Anglais|Autre,Lecture|Sport,BD|Cyclisme,Sexe,Introverti(e),Drôle,2025-06-05T15:04:02.824790
+7b34caed-ebdb-4664-9f9c-23724353bd23,Thibault,Rolland,49.0,Préfère ne pas dire,Homosexuel(le),Autre|Anglais,Lecture|Arts & culture|Jeux vidéo,Manga|Cinéma|RPG,Politique,Introverti(e),Calme,2025-01-12T15:04:02.824814
+115cba55-9fe8-46cf-91ab-fa2d23854870,Emmanuelle,Breton,35.0,Non-binaire,Homosexuel(le),Anglais,Photographie|Cuisine|Lecture,Portrait|Cuisine du monde|BD,Religion,Autre,Drôle,2025-03-09T15:04:02.824839
+ec40d83b-bb42-4685-8bf0-b928d9fba783,Olivier,Fernandez,29.0,Femme,Bisexuel(le),Français|Allemand|Italien,Jeux vidéo,RPG,Santé,Extraverti(e),Peu importe,2024-12-11T15:04:02.824928
+4edb247c-5e22-4c44-afd3-4c361207560b,Adrienne,Brunel,33.0,Femme,Autre,Espagnol,Cuisine|Technologie|Musique,Pâtisserie|IA|Rap,Sexe,Calme,Peu importe,2025-01-07T15:04:02.824965
+b52be7b5-59b0-4105-abab-7f87b5eb2b1e,Vincent,Valette,16.0,Homme,Asexuel(le),Italien|Anglais,Entrepreneuriat,Data science,Politique|Argent,Calme,Peu importe,2024-11-04T15:04:02.824991
+77035add-c16a-48a1-aacf-e5649f79aa20,Margot,Martins,29.0,Homme,Asexuel(le),Espagnol|Allemand,Entrepreneuriat|Lecture,Développement web|Manga,Santé,Peu importe,Sérieux(se),2025-05-09T15:04:02.825015
+f05c7055-8480-4407-be54-674bf6710e64,Auguste,Bonnet,58.0,Préfère ne pas dire,Bisexuel(le),Italien|Allemand|Autre,Musique|Arts & culture|Jeux vidéo,Pop|Théâtre|RPG,Sexe,Calme,Peu importe,2025-04-23T15:04:02.825040
+a3fddd23-732e-4c45-879a-e5cb3ceaa0c5,Agathe,Jacques,52.0,Femme,Préfère ne pas dire,Français|Italien,Podcasts,Tech,Argent,Extraverti(e),Calme,2025-10-12T15:04:02.825062
+9057f14c-7c37-4b61-808f-f18ee28a8f17,Louise,Salmon,69.0,Homme,Hétérosexuel(le),Italien|Autre,Technologie|Jeux vidéo,IA|FPS,Sexe|Politique,Drôle,Sérieux(se),2025-07-31T15:04:02.825086
+13ea4e36-2e63-42ba-bdd6-d2d270862900,Gabriel,Leleu,65.0,Femme,Autre,Italien|Anglais|Espagnol,Photographie|Podcasts|Sport,Portrait|Développement perso|Cyclisme,Sexe|Santé,Calme,Autre,2025-05-29T15:04:02.825111
+aa8d5b0a-38c9-4c40-bf19-5ee80a0d18a3,Lucas,Jacob,68.0,Préfère ne pas dire,Préfère ne pas dire,Allemand,Photographie|Arts & culture,Portrait|Théâtre,Sexe,Introverti(e),Introverti(e),2024-11-17T15:04:02.825134
+b082c532-e6ac-499b-b891-091591d781d1,Valentine,Maurice,66.0,Homme,Préfère ne pas dire,Italien|Anglais,Voyage,Randonnée,Argent,Calme,Calme,2025-07-12T15:04:02.825157
+951a739c-eed4-49df-9fb1-f64d988f823c,Françoise,Parent,24.0,Non-binaire,Autre,Italien|Autre,Sport|Technologie,Football|IA,Santé,Autre,Drôle,2025-02-05T15:04:02.825181
+b37250ec-7ab1-4d8d-95b1-6e8ecd672f12,Tristan,Bruneau,52.0,Homme,Autre,Autre,Photographie,Portrait,Santé,Sérieux(se),Extraverti(e),2025-02-01T15:04:02.825202
+efc1e0f7-83c3-4244-b967-e5f9a8779f6d,Émile,Cordier,57.0,Préfère ne pas dire,Préfère ne pas dire,Autre,Musique|Cuisine,Pop|Cuisine du monde,Politique|Religion,Peu importe,Introverti(e),2025-05-01T15:04:02.825226
+36a28def-7978-4468-b75a-dde4f23cef97,Louise,Bodin,34.0,Non-binaire,Asexuel(le),Français|Autre,Voyage,Randonnée,Sexe,Extraverti(e),Sérieux(se),2024-12-26T15:04:02.825248
+6880541b-2568-41ba-9f08-c1b81bc061a9,Nathalie,Dubois,65.0,Homme,Autre,Anglais|Autre|Allemand,Musique,Jazz,Politique,Introverti(e),Introverti(e),2025-10-01T15:04:02.825271
+7d44d33a-d345-4cbd-9fc2-f43bc7f3284a,Marine,Hervé,30.0,Préfère ne pas dire,Homosexuel(le),Anglais|Italien,Arts & culture|Jeux vidéo,Théâtre|FPS,Argent,Drôle,Extraverti(e),2025-04-12T15:04:02.825294
+b2d712aa-80e2-437f-acfe-d0bfb7d5b8b8,Stéphanie,Albert,44.0,Femme,Homosexuel(le),Italien,Entrepreneuriat|Jeux vidéo|Sciences,Startup|FPS|Biologie,Argent,Peu importe,Introverti(e),2025-04-21T15:04:02.825318
+0a5ddf5c-8911-47f0-ac91-2f1e3d924f82,Odette,Monnier,21.0,Homme,Pansexuel(le),Allemand|Français,Sport|Jeux vidéo,Natation|RPG,Politique|Sexe,Calme,Calme,2025-09-18T15:04:02.825355
+b0518904-165f-4d3a-874f-ad412a1a0e2e,Daniel,Ribeiro,46.0,Non-binaire,Bisexuel(le),Autre|Espagnol|Français,Arts & culture,Peinture,Religion,Introverti(e),Sérieux(se),2025-08-11T15:04:02.825382
+c7952c19-7687-4839-9403-e4ec49420bfb,Gabriel,Maillot,63.0,Homme,Bisexuel(le),Italien|Anglais|Autre,Sciences,Chimie,Autre,Extraverti(e),Extraverti(e),2024-11-13T15:04:02.825404
+be2dc7c3-81f6-4c18-862a-2521c036965d,Sébastien,Poulain,29.0,Homme,Pansexuel(le),Espagnol|Autre|Allemand,Sport,Tennis,Argent,Drôle,Peu importe,2025-08-09T15:04:02.825428
+c22c447d-3cdc-4602-9eb6-4f6fb43eefcd,Laetitia,Petitjean,62.0,Préfère ne pas dire,Homosexuel(le),Français,Arts & culture|Entrepreneuriat,Théâtre|Startup,Argent,Autre,Autre,2025-01-20T15:04:02.825451
+20ae16bb-3813-450b-848f-42f44f5d9d4d,André,Laine,32.0,Préfère ne pas dire,Bisexuel(le),Allemand|Espagnol|Français,Cuisine|Photographie,Cuisine du monde|Portrait,Santé,Sérieux(se),Extraverti(e),2025-08-09T15:04:02.825480
+2c32305a-832a-4dc2-b8c5-2b6018d06559,Franck,Marques,55.0,Non-binaire,Homosexuel(le),Espagnol,Jeux vidéo,Stratégie,Sexe|Argent,Peu importe,Introverti(e),2025-01-28T15:04:02.825539
+187515bd-aaaf-4d0b-81d0-b0bd89cc9b3b,Isabelle,Martins,39.0,Préfère ne pas dire,Asexuel(le),Français|Italien|Autre,Sciences,Biologie,Autre,Drôle,Extraverti(e),2025-06-22T15:04:02.825562
+114fcbcc-f74e-40cf-b987-9780abafc374,Michelle,Leconte,46.0,Homme,Homosexuel(le),Allemand|Italien|Autre,Cuisine,Pâtisserie,Politique|Sexe,Peu importe,Extraverti(e),2025-01-31T15:04:02.825586
+9474f9cc-ad7e-4507-88a4-cf6e1514cdff,Christophe,Lelièvre,67.0,Femme,Préfère ne pas dire,Italien|Français|Espagnol,Musique|Entrepreneuriat|Voyage,Pop|Startup|Road trip,Religion,Autre,Extraverti(e),2025-08-26T15:04:02.825610
+45105ebe-9a63-461e-a5b0-c0fb5174566b,Marianne,Dumas,44.0,Femme,Asexuel(le),Allemand,Podcasts,Culture,Religion,Extraverti(e),Peu importe,2025-06-30T15:04:02.825633
+23a1d552-c513-4024-9c47-95d9e5976436,Gérard,Pinto,65.0,Préfère ne pas dire,Asexuel(le),Allemand|Français|Espagnol,Arts & culture|Technologie|Sciences,Théâtre|IA|Biologie,Autre,Peu importe,Extraverti(e),2024-12-09T15:04:02.825657
+77af2df2-3df1-43c1-a7a8-76ff02708055,Gilles,Marchal,70.0,Préfère ne pas dire,Bisexuel(le),Italien,Podcasts|Technologie,Tech|IA,Sexe|Religion,Peu importe,Calme,2025-10-21T15:04:02.825682
+7f646ff3-ee31-47d6-9ec2-671b605d78f8,Céline,Marty,20.0,Non-binaire,Préfère ne pas dire,Anglais|Autre,Sciences|Arts & culture,Physique|Peinture,Argent|Santé,Sérieux(se),Sérieux(se),2025-04-25T15:04:02.825738
+e2ae68d5-7bd8-442f-9718-cb54643c7f58,Joseph,Pages,62.0,Préfère ne pas dire,Homosexuel(le),Anglais|Espagnol,Sport|Lecture,Football|Manga,Santé|Politique,Extraverti(e),Peu importe,2024-12-19T15:04:02.825767
+1616ca79-3f84-4da8-a234-0d1e70b4465f,Aurélie,Paul,63.0,Femme,Homosexuel(le),Autre,Musique|Sport,Pop|Tennis,Autre,Autre,Autre,2024-12-26T15:04:02.825792
+0a836335-08fc-499e-a876-ee112cf08557,Bertrand,Lacroix,22.0,Non-binaire,Autre,Allemand|Espagnol|Anglais,Cuisine|Podcasts|Lecture,Cuisine du monde|Culture|Roman,Autre|Sexe,Calme,Peu importe,2025-02-03T15:04:02.825818
+34180008-f136-4c9b-af73-5f227dc97583,Hugues,Pascal,22.0,Femme,Homosexuel(le),Italien|Anglais|Autre,Musique|Entrepreneuriat|Cuisine,Rap|Data science|Pâtisserie,Santé,Drôle,Introverti(e),2024-11-26T15:04:02.825844
+5122670a-d72f-4062-b58e-4d451ccb48e8,Robert,Carre,53.0,Femme,Préfère ne pas dire,Autre|Français,Lecture|Cuisine,BD|Cuisine du monde,Autre|Argent,Peu importe,Drôle,2025-07-03T15:04:02.825872
+31976c41-1a4b-46ae-84aa-a42fda8215bd,Sébastien,Gomes,42.0,Non-binaire,Autre,Espagnol|Autre,Voyage|Jeux vidéo|Arts & culture,Randonnée|RPG|Peinture,Argent|Sexe,Extraverti(e),Extraverti(e),2025-07-31T15:04:02.825982
+f6c32253-4fdd-47d2-a2db-e3b1c159cfbb,Corinne,Rodrigues,70.0,Femme,Préfère ne pas dire,Espagnol,Photographie|Technologie,Portrait|IA,Politique|Autre,Peu importe,Autre,2025-05-14T15:04:02.826008
+ebb7da22-10ff-4a1b-9413-be8b24b8168b,Adrienne,Bonnin,70.0,Femme,Bisexuel(le),Italien|Espagnol,Sciences,Physique,Politique,Sérieux(se),Introverti(e),2025-05-16T15:04:02.826032
+dda05f1a-de80-4103-9ed0-f3b58af59c95,Marcelle,Leconte,41.0,Non-binaire,Homosexuel(le),Français,Photographie|Lecture|Podcasts,Paysage|Roman|Culture,Santé|Sexe,Autre,Sérieux(se),2025-04-07T15:04:02.826056
+83312d66-cb58-445e-b13d-920cdc545f8c,Virginie,Pages,36.0,Préfère ne pas dire,Pansexuel(le),Anglais,Sciences|Lecture|Musique,Biologie|BD|Jazz,Religion,Sérieux(se),Autre,2024-11-24T15:04:02.826081
+21476d2c-5665-4d97-9c7e-e3af4d8b461a,Noël,Delahaye,17.0,Femme,Préfère ne pas dire,Italien|Allemand,Photographie|Arts & culture|Podcasts,Portrait|Cinéma|Culture,Autre|Santé,Autre,Peu importe,2025-06-10T15:04:02.826143
+a2779ecb-6ab3-4ab2-a416-04a104e01a71,Élise,Marin,39.0,Préfère ne pas dire,Bisexuel(le),Espagnol|Français|Anglais,Jeux vidéo|Arts & culture,Stratégie|Cinéma,Politique,Extraverti(e),Introverti(e),2024-10-24T15:04:02.826216
+b9645592-fee9-4657-9ee7-86e426f92eb6,Colette,Payet,62.0,Homme,Autre,Autre|Allemand|Anglais,Musique|Photographie,Rock|Paysage,Argent|Santé,Autre,Drôle,2025-07-26T15:04:02.826264
+f4276083-534f-4792-9980-307ebf77c8b0,Philippine,Hardy,59.0,Homme,Hétérosexuel(le),Espagnol|Allemand|Autre,Sport|Photographie|Cuisine,Natation|Portrait|Pâtisserie,Autre,Autre,Calme,2025-01-19T15:04:02.826318
+796752cd-ff72-4acc-ada9-b309c1273f02,Sylvie,Lopes,67.0,Femme,Homosexuel(le),Autre|Allemand|Espagnol,Photographie,Portrait,Santé|Politique,Extraverti(e),Drôle,2024-12-11T15:04:02.826360
+d7cc280e-baeb-4d75-9c70-70d4effaa530,Margaud,Chauvin,54.0,Préfère ne pas dire,Préfère ne pas dire,Français,Cuisine|Entrepreneuriat|Voyage,Cuisine du monde|Startup|Randonnée,Argent|Autre,Peu importe,Autre,2025-08-12T15:04:02.826402
+60b2526d-9625-477f-b642-891cf8644710,Astrid,Devaux,27.0,Femme,Bisexuel(le),Français|Anglais,Podcasts|Arts & culture,Développement perso|Théâtre,Sexe,Autre,Extraverti(e),2025-09-03T15:04:02.826444
+4dcb469b-8310-41c3-99a1-2e1cec5fe2fe,Alice,Blanchard,19.0,Homme,Hétérosexuel(le),Français,Sport|Jeux vidéo|Voyage,Natation|RPG|Road trip,Politique|Religion,Sérieux(se),Peu importe,2024-12-08T15:04:02.826491
+d39c2d16-25bb-43b5-b8de-26baa011a328,Roland,Pottier,54.0,Homme,Asexuel(le),Italien,Sciences|Technologie|Jeux vidéo,Physique|IA|Stratégie,Santé,Extraverti(e),Drôle,2025-05-15T15:04:02.826549
+8710a439-70fb-4912-8ce8-a8a06ea25aa8,Pénélope,Peron,49.0,Préfère ne pas dire,Hétérosexuel(le),Anglais|Allemand,Photographie,Paysage,Autre|Santé,Extraverti(e),Autre,2025-03-06T15:04:02.826603
+34217540-e460-4d89-9fed-92f0b76a110c,Charlotte,Grégoire,25.0,Préfère ne pas dire,Préfère ne pas dire,Anglais|Italien,Voyage,Road trip,Autre|Santé,Drôle,Extraverti(e),2025-01-28T15:04:02.826660
+c18f4e4a-54b6-45a9-9809-fa2359f92342,Dominique,Pons,60.0,Femme,Préfère ne pas dire,Autre|Anglais|Espagnol,Sciences|Cuisine,,Argent|Autre,Autre,Drôle,2025-02-12T15:04:02.826725
+7fe6e05b-1dd6-4899-a490-5f6a8f5d1a17,Anaïs,Olivier,65.0,Non-binaire,Asexuel(le),Anglais,Musique,Rap,Autre,Calme,Peu importe,2025-09-27T15:04:02.826775
+bf68a639-d4d4-4008-851f-be8405ffefa4,Margot,Germain,38.0,Non-binaire,Préfère ne pas dire,Italien|Allemand|Anglais,Voyage|Lecture|Sport,Road trip|Roman|Natation,Religion,Peu importe,Calme,2025-09-14T15:04:02.826819
+c28d8fb7-96eb-4a4e-b30d-49740cdd4258,Julien,Joubert,16.0,Non-binaire,Pansexuel(le),Autre,Musique,Rock,Autre,Extraverti(e),Extraverti(e),2025-05-05T15:04:02.826863
+23b19409-b8e8-49cb-952d-77990ec572a0,Philippe,Vaillant,18.0,Préfère ne pas dire,Homosexuel(le),Anglais|Allemand|Espagnol,Lecture|Photographie,Manga|Paysage,Autre,Peu importe,Calme,2025-03-26T15:04:02.826907
+1c932776-6312-4f54-a87e-9cb0fc2af8c5,Théophile,Renard,69.0,Préfère ne pas dire,Préfère ne pas dire,Espagnol|Allemand,Lecture,Manga,Politique|Argent,Sérieux(se),Peu importe,2024-11-02T15:04:02.826949
+0d594f3e-7b6e-4250-a9c5-44d70c8ab59c,Inès,Chrétien,20.0,Préfère ne pas dire,Asexuel(le),Anglais|Espagnol,Jeux vidéo|Podcasts|Musique,Stratégie|Tech|Classique,Politique|Autre,Autre,Extraverti(e),2025-07-10T15:04:02.826993
+65f88ac3-9440-4cb6-b1c1-56a1e120cfd6,Caroline,Guilbert,18.0,Femme,Pansexuel(le),Français,Sport,Natation,Politique,Extraverti(e),Peu importe,2025-09-17T15:04:02.827036
+8140d3b8-33d0-4019-bba7-cbf86682a058,Martine,Hoareau,54.0,Non-binaire,Autre,Anglais|Autre|Espagnol,Photographie,Portrait,Sexe,Extraverti(e),Calme,2025-07-24T15:04:02.827075
+0d0f1795-5497-4491-97ce-bfaa82fedd0c,Guy,Perez,25.0,Homme,Asexuel(le),Anglais,Lecture,Roman,Autre|Argent,Drôle,Extraverti(e),2025-03-10T15:04:02.827126
+95b48868-259a-4085-83de-abfc37542280,Valérie,Hamel,51.0,Préfère ne pas dire,Homosexuel(le),Espagnol|Français|Allemand,Entrepreneuriat|Podcasts|Technologie,Startup|Culture|IA,Sexe|Politique,Sérieux(se),Drôle,2024-11-05T15:04:02.827171
+9ab82127-2c06-410a-ba24-adc2bda498eb,Lucas,Daniel,68.0,Femme,Préfère ne pas dire,Français|Anglais|Autre,Technologie|Entrepreneuriat|Sport,IA|Data science|Tennis,Argent|Religion,Peu importe,Autre,2024-12-12T15:04:02.827220
+31cdeef2-83ce-4e57-9c0f-cc4f5d2d6452,Odette,Carlier,50.0,Homme,Homosexuel(le),Espagnol,Jeux vidéo|Sciences|Podcasts,RPG|Biologie|Tech,Argent,Extraverti(e),Calme,2025-08-09T15:04:02.827260
+7c945bd0-5268-4ba6-951d-530c4b9e8b18,Antoine,Masse,29.0,Femme,Pansexuel(le),Italien|Autre,Podcasts|Cuisine,Tech|Pâtisserie,Autre|Argent,Sérieux(se),Peu importe,2025-01-23T15:04:02.827290
+4603adfd-2b6d-4c76-8723-abd7b6f1dded,Élisabeth,Gomez,62.0,Homme,Pansexuel(le),Italien|Espagnol|Allemand,Podcasts,Développement perso,Politique|Santé,Peu importe,Autre,2025-05-21T15:04:02.827334
+ec139f36-376b-4190-be8f-0f4717916779,Marianne,Rousseau,37.0,Préfère ne pas dire,Autre,Allemand|Italien,Cuisine,Cuisine du monde,Argent,Introverti(e),Peu importe,2025-07-25T15:04:02.827364
+4f747758-9705-4233-b2fa-c0530454a270,Diane,Leblanc,25.0,Femme,Bisexuel(le),Anglais|Autre,Voyage|Photographie,Road trip|Portrait,Politique,Drôle,Drôle,2025-09-24T15:04:02.827388
+5b3a4f27-22e3-4682-bbf0-7f92bf0752d7,Marianne,Pasquier,63.0,Préfère ne pas dire,Homosexuel(le),Français|Espagnol,Voyage|Photographie|Cuisine,Randonnée|Paysage|Cuisine du monde,Sexe|Politique,Extraverti(e),Introverti(e),2025-08-01T15:04:02.827413
+c55b1d4d-d1a2-4ce8-b5b5-3ece4376d42c,Suzanne,Lelièvre,50.0,Femme,Homosexuel(le),Allemand|Italien|Espagnol,Arts & culture|Entrepreneuriat|Sciences,Théâtre|Startup|Biologie,Argent,Autre,Autre,2025-02-19T15:04:02.827439
+e14fe32a-5816-469b-a806-25fd02903e70,Timothée,Ferreira,53.0,Préfère ne pas dire,Pansexuel(le),Italien,Photographie|Voyage|Lecture,Portrait|Randonnée|Roman,Religion,Introverti(e),Calme,2024-11-09T15:04:02.827472
+7f687153-deb5-4653-b5ad-d709e5593136,Denis,Roche,34.0,Non-binaire,Bisexuel(le),Italien|Français|Autre,Voyage,Randonnée,Santé,Calme,Introverti(e),2025-10-09T15:04:02.827498
+b1489bc5-5def-4ea4-a793-0477f653ad36,Nicolas,Peron,32.0,Femme,Pansexuel(le),Français|Espagnol,Lecture|Cuisine|Entrepreneuriat,BD|Cuisine du monde|Innovation,Autre,Introverti(e),Drôle,2025-05-20T15:04:02.827523
+ca1405a6-1221-46dd-8f16-80ebbbb4834e,Guy,Wagner,60.0,Homme,Autre,Espagnol|Autre,Podcasts|Jeux vidéo|Voyage,Développement perso|RPG|Randonnée,Argent,Calme,Calme,2025-09-09T15:04:02.827547
+fef231db-89b3-4540-8a82-2879c463e105,Aurore,Leroy,17.0,Préfère ne pas dire,Préfère ne pas dire,Anglais,Sciences,Physique,Religion,Introverti(e),Extraverti(e),2025-06-22T15:04:02.827569
+ffb51da3-ff4e-4582-92a1-0d033ff5d8da,Alix,Gaudin,55.0,Non-binaire,Homosexuel(le),Autre|Italien|Espagnol,Entrepreneuriat|Photographie|Jeux vidéo,Startup|Portrait|FPS,Religion,Drôle,Peu importe,2025-09-05T15:04:02.827594
+d47184b0-4849-4a35-8f44-a9d20809ddb6,Pauline,Chevalier,56.0,Préfère ne pas dire,Pansexuel(le),Autre,Photographie|Sciences,Paysage|Physique,Argent,Sérieux(se),Introverti(e),2025-10-18T15:04:02.827618
+79c64afb-24ef-4603-badb-ce21b036d2c7,Élise,Gillet,52.0,Préfère ne pas dire,Autre,Autre,Arts & culture,Peinture,Religion|Autre,Autre,Peu importe,2024-12-22T15:04:02.827641
+bf67de7a-d857-41a6-a327-cd76b28deeed,Alice,Moreau,43.0,Homme,Préfère ne pas dire,Autre|Anglais,Sport|Lecture|Musique,Tennis|Roman|Rock,Politique,Autre,Calme,2025-09-21T15:04:02.827665
+d2f5c91f-fe4c-4b97-9190-9ee602a743be,Marcelle,Lebon,63.0,Non-binaire,Bisexuel(le),Espagnol|Allemand|Français,Musique|Voyage|Cuisine,Classique|Randonnée|Pâtisserie,Sexe|Argent,Calme,Introverti(e),2025-07-16T15:04:02.827691
+a2ca79f5-c068-4430-b77b-be1c189595d8,Margaux,Prévost,45.0,Femme,Bisexuel(le),Italien|Autre,Sciences|Jeux vidéo,Chimie|RPG,Politique|Religion,Extraverti(e),Calme,2025-04-09T15:04:02.827719
+358a3bbc-62df-4a10-b33a-fdef346d94ad,Eugène,Briand,43.0,Préfère ne pas dire,Homosexuel(le),Anglais|Autre|Français,Podcasts,Tech,Sexe,Calme,Sérieux(se),2025-10-10T15:04:02.827743
+5f110cb0-67e7-41bb-afc3-e69cd65e8726,Constance,Dias,30.0,Préfère ne pas dire,Pansexuel(le),Autre|Italien|Allemand,Sciences|Cuisine,Chimie|Cuisine du monde,Politique|Autre,Calme,Peu importe,2025-02-19T15:04:02.827770
+c315aae1-4e6a-467b-bc3d-5de652701245,Christiane,Lefort,67.0,Préfère ne pas dire,Pansexuel(le),Français|Espagnol,Sciences|Voyage|Musique,Chimie|Randonnée|Rap,Santé,Sérieux(se),Introverti(e),2025-05-30T15:04:02.827795
+326a307f-875b-4a9a-81dd-5bd55f29a03c,Élodie,Gomes,46.0,Non-binaire,Hétérosexuel(le),Espagnol|Italien,Arts & culture,Théâtre,Sexe,Peu importe,Autre,2025-05-31T15:04:02.827820
+46729df7-46c8-4a7f-b136-132cfd391c8d,Élodie,Roger,66.0,Préfère ne pas dire,Autre,Allemand|Anglais|Autre,Photographie|Cuisine,Portrait|Pâtisserie,Argent,Extraverti(e),Sérieux(se),2024-12-06T15:04:02.827844
+5a6259b1-1866-4fa2-8f61-c948583a3265,Océane,Foucher,20.0,Femme,Pansexuel(le),Espagnol,Sciences|Voyage|Sport,Physique|Road trip|Basketball,Sexe,Calme,Extraverti(e),2024-12-08T15:04:02.827868
+a264550b-d565-4ab7-8684-f99d129c7b45,Aurélie,Leclercq,36.0,Préfère ne pas dire,Préfère ne pas dire,Anglais|Allemand|Français,Jeux vidéo|Sport,Stratégie|Basketball,Religion|Argent,Autre,Peu importe,2025-10-16T15:04:02.827893
+9eef65ce-5723-4c40-81d3-0e684042d820,Josette,Cohen,17.0,Femme,Hétérosexuel(le),Italien|Anglais,Lecture|Podcasts,Manga|Développement perso,Sexe|Politique,Calme,Autre,2025-06-02T15:04:02.827916
+48b2159d-0dd4-4904-a22d-cade4b6c029e,Michelle,Menard,24.0,Homme,Hétérosexuel(le),Français,Technologie|Cuisine,IA|Cuisine du monde,Autre|Argent,Introverti(e),Drôle,2024-12-04T15:04:02.827942
+33db17ea-7b76-4546-a261-a48e94b7689c,Lorraine,Marion,55.0,Non-binaire,Autre,Espagnol|Allemand,Sport|Technologie|Jeux vidéo,Cyclisme|IA|RPG,Politique,Sérieux(se),Sérieux(se),2025-08-30T15:04:02.827968
+11be73de-c4e0-4f4f-aa30-0cc2b3616345,Françoise,Morel,37.0,Non-binaire,Pansexuel(le),Français|Italien,Technologie|Sport,IA|Cyclisme,Autre|Religion,Introverti(e),Extraverti(e),2025-09-06T15:04:02.827992
+5a42b589-e6f1-4e51-a5e3-3320dd292670,Antoinette,Lejeune,30.0,Préfère ne pas dire,Hétérosexuel(le),Autre|Allemand|Français,Lecture,Manga,Argent,Drôle,Drôle,2025-07-01T15:04:02.828014
+d2624b7d-df25-49c7-8cf7-4aca0cbe711e,Laure,Leroy,36.0,Femme,Préfère ne pas dire,Autre|Italien|Français,Musique|Cuisine|Sport,Pop|Cuisine du monde|Football,Santé,Drôle,Sérieux(se),2025-06-26T15:04:02.828037
+bc947e25-d6fa-476b-bd20-3bca9d0904aa,Luce,Jacob,39.0,Préfère ne pas dire,Pansexuel(le),Anglais,Sport|Lecture|Photographie,Tennis|BD|Paysage,Religion|Autre,Extraverti(e),Introverti(e),2025-06-12T15:04:02.828061
+fd38cf55-b34f-45b8-8d20-31850b541406,Anastasie,Meyer,57.0,Homme,Pansexuel(le),Italien,Lecture|Jeux vidéo|Technologie,BD|FPS|IA,Politique,Autre,Extraverti(e),2025-08-28T15:04:02.828085
+9d86f8cb-8453-4a0b-b1f6-30ba3a101338,Eugène,Blot,69.0,Préfère ne pas dire,Asexuel(le),Espagnol|Italien,Lecture,Manga,Santé,Extraverti(e),Calme,2025-07-02T15:04:02.828107
+6b394bca-0f2f-4557-aafd-9b7f9e922441,Odette,Royer,37.0,Préfère ne pas dire,Pansexuel(le),Italien|Espagnol|Autre,Photographie|Sciences,Paysage|Physique,Autre|Religion,Drôle,Introverti(e),2025-08-28T15:04:02.828218
+22624796-e3d9-4ec3-9eed-3d117330e28b,Bertrand,Leduc,33.0,Non-binaire,Bisexuel(le),Italien|Allemand,Entrepreneuriat,Startup,Religion|Autre,Autre,Peu importe,2025-04-14T15:04:02.828251
+498608a4-1e96-44cc-9192-9da2697689e5,Adrienne,Roux,23.0,Homme,Homosexuel(le),Italien|Anglais,Lecture,Manga,Argent,Sérieux(se),Drôle,2025-08-25T15:04:02.828276
+9eb0164f-4645-42b3-8767-39250a49945b,Margaud,Prévost,33.0,Homme,Hétérosexuel(le),Allemand|Italien|Français,Jeux vidéo|Sciences|Arts & culture,FPS|Physique|Cinéma,Politique|Autre,Autre,Autre,2025-02-25T15:04:02.828303
+132e225f-f3f3-480e-af75-ba4876620e57,Juliette,Foucher,65.0,Homme,Autre,Autre|Italien,Musique,Rock,Religion|Autre,Peu importe,Autre,2025-10-21T15:04:02.828330
+e7800245-5b53-48fb-bfbb-8aebdb5d64c9,Andrée,Gomez,60.0,Femme,Préfère ne pas dire,Autre,Sport|Musique|Voyage,Football|Rap|Randonnée,Argent|Santé,Sérieux(se),Calme,2024-11-18T15:04:02.828356
+9113bd76-951d-4df5-b61c-b4608358f880,Éric,Roy,27.0,Femme,Bisexuel(le),Espagnol|Autre,Lecture,BD,Sexe|Argent,Drôle,Introverti(e),2025-06-14T15:04:02.828381
+d6c1dd89-e122-40a1-b598-9680ae10a3bf,Gilbert,Clément,64.0,Préfère ne pas dire,Hétérosexuel(le),Allemand|Anglais,Voyage|Technologie|Sciences,,Politique|Argent,Drôle,Introverti(e),2025-01-16T15:04:02.828406
+0ccc7b0f-d263-43d3-a872-341bc6d6140b,Bernard,Joubert,23.0,Homme,Autre,Allemand|Italien,Lecture|Podcasts|Arts & culture,Manga|Tech|Cinéma,Autre|Politique,Sérieux(se),Peu importe,2024-11-26T15:04:02.828434
+8f68d384-610f-4fe8-a6be-d750ffddfef7,Étienne,Guillou,47.0,Préfère ne pas dire,Hétérosexuel(le),Espagnol|Anglais|Italien,Arts & culture|Technologie,Cinéma|IA,Politique,Drôle,Drôle,2025-05-23T15:04:02.828459
+ff16f5fa-0861-44b7-900d-fabba20d6117,Roger,Coulon,44.0,Non-binaire,Pansexuel(le),Autre|Italien,Jeux vidéo,Stratégie,Sexe|Argent,Calme,Sérieux(se),2025-05-19T15:04:02.828483
+48f41357-f803-4fc3-9e1c-316b06d59a81,Astrid,Joubert,59.0,Femme,Hétérosexuel(le),Espagnol|Autre,Musique,Pop,Santé|Politique,Autre,Peu importe,2024-12-25T15:04:02.828510
+6330c2f4-64eb-4757-89a5-7947976e72d3,Michèle,Humbert,18.0,Femme,Préfère ne pas dire,Italien,Technologie|Entrepreneuriat,IA|Innovation,Argent,Autre,Peu importe,2025-05-02T15:04:02.828535
+9ef6afb6-b87c-4dbd-8691-cc09041aabdf,Benjamin,Camus,51.0,Femme,Homosexuel(le),Italien|Français|Allemand,Sciences|Photographie|Sport,Chimie|Paysage|Football,Argent,Calme,Peu importe,2025-01-05T15:04:02.828559
+4d2ecaa3-fef7-4d84-805f-44b5e7085da4,David,Aubert,60.0,Femme,Homosexuel(le),Espagnol|Anglais,Musique,Rap,Argent|Politique,Peu importe,Sérieux(se),2025-09-12T15:04:02.828584
+ad3bec1a-83e6-466b-b211-e9c158c25fe6,Anne,Guichard,65.0,Préfère ne pas dire,Préfère ne pas dire,Français|Espagnol,Arts & culture,Théâtre,Religion|Argent,Extraverti(e),Peu importe,2025-08-23T15:04:02.828607
+dec39be5-49d4-4467-b454-66185a169c90,Jean,Hamel,17.0,Femme,Pansexuel(le),Autre|Italien,Jeux vidéo,Stratégie,Autre|Santé,Drôle,Autre,2025-02-21T15:04:02.828631
+ac88572a-79b5-426f-91d3-542742d4df52,Inès,Guillon,58.0,Homme,Pansexuel(le),Allemand|Anglais,Entrepreneuriat,Startup,Politique,Introverti(e),Sérieux(se),2024-11-15T15:04:02.828654
+12337daa-41c2-424c-b768-80f23dd7fd29,Josette,Laurent,20.0,Préfère ne pas dire,Asexuel(le),Français|Allemand,Arts & culture,Peinture,Sexe,Sérieux(se),Peu importe,2024-10-27T15:04:02.828679
+8b323720-fcb2-4ae6-9832-7e1ab50a0860,Thierry,Jacques,23.0,Homme,Asexuel(le),Français|Espagnol|Anglais,Arts & culture|Cuisine,Peinture|Cuisine du monde,Argent|Autre,Sérieux(se),Drôle,2025-07-25T15:04:02.828705
+42f75022-786e-4df1-83b1-2a56a0f3a962,Arthur,Blondel,25.0,Non-binaire,Pansexuel(le),Français|Allemand|Anglais,Lecture,BD,Religion|Sexe,Autre,Drôle,2025-03-14T15:04:02.828729
+8386e01f-e232-4df9-ba20-612c230e37b9,Anne,Masson,54.0,Préfère ne pas dire,Autre,Italien,Technologie|Podcasts|Sciences,IA|Culture|Chimie,Argent|Politique,Autre,Introverti(e),2025-10-06T15:04:02.828755
+688089c5-456c-4545-8f91-c3c05efff585,Aurore,Bouchet,33.0,Femme,Bisexuel(le),Autre|Espagnol,Technologie|Photographie,IA|Paysage,Santé|Argent,Autre,Extraverti(e),2024-11-03T15:04:02.828779
+669915ce-247f-4a9f-b297-ed35c8e71fdb,Adélaïde,Legrand,60.0,Femme,Bisexuel(le),Allemand|Autre|Français,Lecture|Musique,BD|Classique,Sexe,Calme,Sérieux(se),2025-01-05T15:04:02.828804
+e9429b7a-413f-4a3f-8749-9cfc85a87679,Sylvie,Baudry,59.0,Femme,Bisexuel(le),Allemand|Italien,Lecture|Arts & culture|Photographie,Roman|Cinéma|Paysage,Autre,Peu importe,Calme,2024-10-22T15:04:02.828828
+3a0540f8-4e48-4c4c-a670-366036a52fd4,Vincent,Jacques,49.0,Préfère ne pas dire,Hétérosexuel(le),Autre|Espagnol|Anglais,Photographie,Paysage,Autre,Extraverti(e),Autre,2025-04-13T15:04:02.828850
+09550b93-c6e5-4434-b1b6-bd286b5dafbd,Émile,Grenier,50.0,Homme,Homosexuel(le),Allemand|Français,Entrepreneuriat|Podcasts,Data science|Développement perso,Religion,Extraverti(e),Calme,2025-02-10T15:04:02.828874
+32fc7003-11bb-4c77-a448-b73b208e7cdb,Stéphane,Bousquet,28.0,Homme,Hétérosexuel(le),Autre|Italien,Entrepreneuriat|Cuisine|Podcasts,,Religion,Drôle,Calme,2025-09-24T15:04:02.828898
+4dc42f68-af60-4064-b093-c3a115548a40,Roland,Briand,29.0,Non-binaire,Autre,Français|Autre|Allemand,Photographie|Musique,Paysage|Pop,Religion,Sérieux(se),Introverti(e),2024-12-16T15:04:02.828927
+990115c8-cdd7-4a55-84ca-47fe2f050dcc,Étienne,Marty,25.0,Non-binaire,Asexuel(le),Espagnol|Anglais|Allemand,Arts & culture|Technologie,Cinéma|IA,Politique,Introverti(e),Peu importe,2024-12-11T15:04:02.828951
+9ffcdf0a-9731-455a-b5d0-841dac627a7b,Daniel,Didier,31.0,Femme,Homosexuel(le),Italien,Sciences|Jeux vidéo|Arts & culture,Physique|FPS|Peinture,Autre,Calme,Autre,2024-12-29T15:04:02.828974
+69819e90-2bb9-4d32-99aa-72a3775cd6ee,Constance,Guyot,22.0,Non-binaire,Pansexuel(le),Italien|Autre|Anglais,Podcasts|Photographie|Jeux vidéo,Développement perso|Paysage|FPS,Argent|Santé,Calme,Calme,2025-10-11T15:04:02.828998
+b42c8ce1-d64e-4429-9159-7bc8b3fa76bb,Margot,Diaz,39.0,Préfère ne pas dire,Autre,Allemand,Lecture|Podcasts|Sciences,BD|Développement perso|Biologie,Sexe|Argent,Calme,Sérieux(se),2025-05-26T15:04:02.829021
+a41b2e91-667b-4ca9-96d7-b257b8d80e43,Sylvie,Pruvost,59.0,Préfère ne pas dire,Autre,Français|Italien|Autre,Photographie|Voyage,Paysage|Randonnée,Argent,Autre,Peu importe,2025-03-07T15:04:02.829045
+ea46d355-1861-423f-92e1-ea627ed04ade,Sébastien,Arnaud,30.0,Homme,Bisexuel(le),Italien|Anglais,Arts & culture,Cinéma,Politique,Autre,Calme,2025-09-27T15:04:02.829067
+76b43e05-6e1b-4222-a438-d187fe3e810e,Constance,Alexandre,60.0,Non-binaire,Bisexuel(le),Allemand,Cuisine|Sciences,Pâtisserie|Biologie,Sexe|Religion,Sérieux(se),Autre,2025-05-15T15:04:02.829090
+94ed9a39-f3b6-4a78-a27a-f1f88a4d1d49,Nicole,Garcia,19.0,Préfère ne pas dire,Bisexuel(le),Italien|Autre|Anglais,Sport,Basketball,Politique,Extraverti(e),Drôle,2025-06-06T15:04:02.829113
+f7eeb776-1f27-4053-a5da-bb8775287146,Julien,Barbier,51.0,Homme,Autre,Anglais,Sciences|Arts & culture|Sport,Physique|Peinture|Tennis,Santé,Introverti(e),Drôle,2025-04-03T15:04:02.829136
+090b4c5b-c875-4dd7-b3b0-1ace2be9e56b,Constance,Bruneau,31.0,Homme,Asexuel(le),Italien|Anglais,Sciences|Entrepreneuriat,Chimie|Innovation,Autre,Introverti(e),Extraverti(e),2025-09-30T15:04:02.829162
+951dd000-cbac-48d5-89ed-7853953c2eed,Paul,Dubois,45.0,Femme,Autre,Allemand|Autre,Podcasts|Technologie|Cuisine,Culture|IA|Pâtisserie,Santé|Argent,Sérieux(se),Introverti(e),2025-02-08T15:04:02.829188
+33add61c-0a5d-4c62-b64d-e3a911750f41,Simone,Gomez,39.0,Homme,Hétérosexuel(le),Italien|Autre|Allemand,Voyage|Sport,Randonnée|Natation,Politique,Sérieux(se),Autre,2024-11-29T15:04:02.829212
+61a52345-3762-4c4d-b707-6979dfa0f089,Chantal,Monnier,41.0,Préfère ne pas dire,Homosexuel(le),Anglais,Musique|Cuisine,Pop|Pâtisserie,Sexe|Religion,Autre,Sérieux(se),2025-03-23T15:04:02.829239
+6e0ff188-2cdb-4db2-a914-d966c6c3390c,Marc,Sauvage,39.0,Non-binaire,Bisexuel(le),Italien|Autre,Photographie,Paysage,Santé|Autre,Autre,Drôle,2025-02-18T15:04:02.829262
+721b0c0f-0ca8-4212-8d76-ee4f663c3fe7,Sophie,Grégoire,26.0,Non-binaire,Hétérosexuel(le),Autre,Technologie|Musique|Sport,IA|Rap|Basketball,Politique|Argent,Autre,Calme,2024-12-12T15:04:02.829286
+d148208e-28ac-457c-a4b0-6d0f557d1c7c,Antoinette,Lenoir,67.0,Non-binaire,Pansexuel(le),Italien|Allemand,Lecture,Manga,Religion,Extraverti(e),Autre,2025-05-05T15:04:02.829311
+9eb2d724-9e89-4693-adb4-44e7a8e2f21b,Philippe,Perrier,64.0,Préfère ne pas dire,Hétérosexuel(le),Italien|Espagnol|Autre,Sport,Football,Politique|Religion,Sérieux(se),Autre,2025-01-03T15:04:02.829339
+7082ec79-f545-4847-ad69-3ac642f8c05d,Élodie,Coste,32.0,Préfère ne pas dire,Hétérosexuel(le),Anglais,Musique,Pop,Religion,Autre,Sérieux(se),2024-11-11T15:04:02.829362
+8c8f93e8-a153-4688-972c-cb31f086f1a2,Nathalie,Payet,62.0,Homme,Préfère ne pas dire,Espagnol|Allemand,Technologie|Voyage|Lecture,IA|Randonnée|Manga,Religion,Extraverti(e),Drôle,2025-03-13T15:04:02.829388
+38b3843e-200a-4d5c-b616-3747e8d599a5,Christine,Becker,62.0,Femme,Hétérosexuel(le),Espagnol|Autre|Français,Technologie,IA,Religion,Autre,Sérieux(se),2025-09-01T15:04:02.829413
+159424ec-f82f-4aa8-b253-744f4b99bbdd,Corinne,Merle,52.0,Homme,Bisexuel(le),Anglais,Photographie,Paysage,Sexe,Drôle,Autre,2025-03-28T15:04:02.829436
+effa3144-d00c-4593-85a3-2f295425f5d0,Dorothée,Vallet,37.0,Homme,Hétérosexuel(le),Anglais|Italien,Podcasts|Photographie,Développement perso|Paysage,Religion|Sexe,Sérieux(se),Introverti(e),2025-07-29T15:04:02.829459
+6ca13e7f-b557-43de-b2fa-4013e31ec196,Margaux,Sauvage,22.0,Non-binaire,Hétérosexuel(le),Français|Anglais|Italien,Entrepreneuriat|Lecture,Innovation|Roman,Argent,Sérieux(se),Drôle,2025-08-14T15:04:02.829483
+7bf28eb9-5cf2-40d2-a14e-af7ffdd64167,Marianne,Bruneau,18.0,Préfère ne pas dire,Bisexuel(le),Français|Autre,Entrepreneuriat|Sport|Photographie,Startup|Basketball|Portrait,Argent|Politique,Calme,Introverti(e),2025-05-25T15:04:02.829507
+b39f4a7d-5a88-4ed6-a106-7e1b723ba728,David,Leblanc,20.0,Femme,Asexuel(le),Anglais|Allemand,Cuisine,Cuisine du monde,Politique|Argent,Extraverti(e),Calme,2024-11-15T15:04:02.829530
+67c1e43d-bfe3-41e0-bc4b-fd1d4399e044,Théodore,Vasseur,35.0,Homme,Autre,Italien|Autre|Anglais,Lecture|Voyage,Roman|Road trip,Religion|Autre,Drôle,Drôle,2025-09-21T15:04:02.829554
+8e43dbf9-c7a9-4e58-bed8-8d4d2cae0e0a,Aurélie,Sauvage,24.0,Préfère ne pas dire,Autre,Espagnol,Jeux vidéo|Voyage,Stratégie|Road trip,Argent|Autre,Drôle,Peu importe,2024-11-13T15:04:02.829577
+e4aa5037-2903-4d47-af53-4a153a8d4b3c,Aurore,Vincent,39.0,Préfère ne pas dire,Pansexuel(le),Espagnol,Sport,Football,Argent|Religion,Extraverti(e),Autre,2025-02-26T15:04:02.829600
+8f8a2d0c-f15a-4c86-b316-d61c73930d99,Alexandrie,Tanguy,68.0,Homme,Autre,Italien|Espagnol|Anglais,Sciences,Physique,Politique|Argent,Calme,Sérieux(se),2025-09-30T15:04:02.829627
+13755730-0d93-49a3-9eb2-374c2eb1e8b8,Yves,Hoareau,33.0,Préfère ne pas dire,Autre,Italien,Sport,Cyclisme,Autre|Sexe,Extraverti(e),Introverti(e),2025-04-14T15:04:02.829649
+8335e69c-ff85-474e-b75b-f6670e4cce05,Lucas,Fouquet,29.0,Préfère ne pas dire,Bisexuel(le),Autre|Allemand|Espagnol,Podcasts|Technologie|Photographie,Culture|IA|Paysage,Argent,Peu importe,Introverti(e),2025-01-14T15:04:02.829673
+0b17e0bc-1197-45cf-8e5b-547f9fdbdd78,Luc,Aubert,17.0,Femme,Asexuel(le),Français|Italien|Allemand,Photographie|Jeux vidéo,Portrait|RPG,Argent,Calme,Calme,2024-11-22T15:04:02.829698
+7d7293ba-af90-4287-9979-2ef74c907999,André,Gimenez,32.0,Non-binaire,Asexuel(le),Français,Cuisine,Cuisine du monde,Politique|Argent,Drôle,Drôle,2025-06-03T15:04:02.829721
+3a5d3f40-6a45-4595-9259-dd782d789ebd,Céline,Laine,65.0,Non-binaire,Pansexuel(le),Anglais|Allemand|Espagnol,Arts & culture,Théâtre,Religion|Santé,Peu importe,Sérieux(se),2025-10-14T15:04:02.829745
+84a5041d-06cb-465c-90bb-2e5edabf9715,Benjamin,Gros,17.0,Non-binaire,Homosexuel(le),Autre|Espagnol|Anglais,Musique|Lecture|Jeux vidéo,Pop|Roman|RPG,Autre,Sérieux(se),Calme,2025-09-02T15:04:02.829771
+4c1f1cda-adf5-4bb1-9e94-44d5ebbc1ac3,Marie,Lefebvre,56.0,Non-binaire,Hétérosexuel(le),Français,Arts & culture,Peinture,Religion|Politique,Extraverti(e),Autre,2025-05-02T15:04:02.829794
+38053c3c-0e6e-4675-a4e8-7fb75152fd1f,Isaac,Blanchet,58.0,Homme,Préfère ne pas dire,Espagnol,Voyage,Road trip,Religion|Santé,Calme,Peu importe,2025-10-12T15:04:02.829816
+2e0fc20a-443e-4e3b-858c-923de87df0b2,Henri,Faivre,37.0,Préfère ne pas dire,Asexuel(le),Allemand|Anglais|Italien,Voyage|Sport|Jeux vidéo,Randonnée|Natation|FPS,Religion|Autre,Sérieux(se),Introverti(e),2024-11-29T15:04:02.829840
+4e011a13-d3db-40ee-915b-d1fddb73d398,Thibault,Hardy,65.0,Femme,Pansexuel(le),Autre|Espagnol,Sport,Football,Religion|Politique,Introverti(e),Calme,2025-10-13T15:04:02.829865
+c6f5e5d2-e304-4869-a9ec-6d1a18dbdce5,Agnès,Jacob,36.0,Femme,Hétérosexuel(le),Français,Technologie|Jeux vidéo|Entrepreneuriat,IA|RPG|Data science,Politique|Santé,Extraverti(e),Drôle,2024-11-29T15:04:02.829907
+d4741d9d-62a3-4ec3-b2fc-64d981fd16ba,Andrée,Marchal,18.0,Non-binaire,Hétérosexuel(le),Autre|Anglais,Musique|Podcasts|Sciences,Classique|Tech|Physique,Santé,Calme,Drôle,2025-02-08T15:04:02.829938
+286c4d99-4a74-45a1-a69c-c79141f741c3,Caroline,Sanchez,34.0,Homme,Homosexuel(le),Français|Anglais|Autre,Entrepreneuriat|Jeux vidéo,Développement web|RPG,Politique|Religion,Introverti(e),Sérieux(se),2024-12-27T15:04:02.829965
+8c6e2f01-253c-44db-b870-81003963185b,William,Legendre,69.0,Non-binaire,Préfère ne pas dire,Allemand|Autre|Espagnol,Lecture|Musique|Entrepreneuriat,BD|Rock|Développement web,Politique|Sexe,Calme,Peu importe,2025-09-25T15:04:02.829993
+03970d88-2023-4dee-9b03-ba3d73f67236,Jacques,Gomes,46.0,Non-binaire,Pansexuel(le),Italien|Allemand,Musique,Jazz,Politique,Calme,Sérieux(se),2025-07-19T15:04:02.830019
+d48bfbd2-5e25-405d-99ab-8374264f35e6,Stéphanie,Hubert,62.0,Préfère ne pas dire,Homosexuel(le),Autre|Allemand|Anglais,Sport|Lecture,Running|BD,Argent,Introverti(e),Sérieux(se),2025-09-21T15:04:02.830062
+e0134803-9c4c-410f-8f2a-c266f463ceb8,Céline,Bertrand,38.0,Préfère ne pas dire,Pansexuel(le),Italien|Allemand|Espagnol,Arts & culture|Photographie,Peinture|Paysage,Autre|Santé,Autre,Drôle,2025-08-24T15:04:02.830153
+78fe4221-222c-45db-b0cb-94075e716c96,Antoine,Lopez,27.0,Non-binaire,Autre,Anglais,Sport|Arts & culture|Lecture,Cyclisme|Peinture|Manga,Autre,Autre,Sérieux(se),2025-07-02T15:04:02.830190
+62a83320-ea61-4e9c-a132-84088f26ee8a,Alexandre,Da Costa,61.0,Non-binaire,Préfère ne pas dire,Français|Italien|Autre,Arts & culture|Cuisine,Peinture|Cuisine du monde,Sexe,Calme,Autre,2025-04-11T15:04:02.830223
+39f3186c-f571-406a-803e-3087757f5fd9,Auguste,Lagarde,29.0,Femme,Bisexuel(le),Autre,Arts & culture|Cuisine|Lecture,Théâtre|Pâtisserie|Roman,Politique|Argent,Autre,Sérieux(se),2025-09-20T15:04:02.830253
+73c5844e-a0c1-4f18-8592-1c07d078367b,Maurice,Le Gall,29.0,Femme,Hétérosexuel(le),Anglais|Espagnol,Sciences|Podcasts,Biologie|Tech,Santé,Autre,Calme,2025-05-19T15:04:02.830279
+f4c7a4ed-0736-4da8-865f-db050b25d2de,Grégoire,Foucher,40.0,Homme,Homosexuel(le),Anglais|Italien,Sport,Basketball,Argent|Religion,Introverti(e),Introverti(e),2024-11-27T15:04:02.830303
+37bd7985-ad9c-4d32-8ff9-aacfcc8dc711,Marianne,Jean,32.0,Non-binaire,Bisexuel(le),Allemand|Espagnol|Italien,Entrepreneuriat,Startup,Sexe,Calme,Extraverti(e),2025-06-18T15:04:02.830330
+686aa8ee-d874-406b-9bb3-e9327299ed31,Eugène,Samson,25.0,Non-binaire,Bisexuel(le),Allemand|Italien|Espagnol,Cuisine,Cuisine du monde,Politique,Peu importe,Calme,2025-03-18T15:04:02.830355
+3d774675-06a4-4517-b4b2-6a9e3445bbe4,Simone,Grenier,58.0,Homme,Hétérosexuel(le),Italien|Allemand,Arts & culture,Théâtre,Sexe,Calme,Autre,2025-06-20T15:04:02.830378
+5e722fdc-5035-4f53-a96f-0cd2fe0ad37b,Diane,Hernandez,17.0,Non-binaire,Hétérosexuel(le),Anglais|Autre|Italien,Arts & culture,Théâtre,Santé|Politique,Drôle,Peu importe,2025-01-14T15:04:02.830401
+80f60608-9530-4586-afc1-6434b32f74ba,Denise,Gauthier,39.0,Non-binaire,Hétérosexuel(le),Français|Allemand,Entrepreneuriat|Musique,Data science|Jazz,Sexe,Sérieux(se),Introverti(e),2025-08-22T15:04:02.830425
+244700e5-102c-4fc5-8ec5-c098b7b49c55,Joseph,Thierry,18.0,Femme,Autre,Allemand|Anglais,Jeux vidéo|Sport|Cuisine,FPS|Natation|Pâtisserie,Politique,Introverti(e),Introverti(e),2025-06-26T15:04:02.830449
+693a1c6f-bddf-4f59-a394-aa9ea269a3f6,Élise,Marion,38.0,Femme,Asexuel(le),Anglais|Français|Allemand,Photographie|Sport|Musique,Portrait|Basketball|Jazz,Autre,Drôle,Peu importe,2025-07-22T15:04:02.830476
+6b2509dc-8f0e-4f94-bd0f-b780ba128577,Frédérique,Faure,45.0,Non-binaire,Autre,Anglais|Allemand,Sport,Football,Sexe,Peu importe,Extraverti(e),2025-05-21T15:04:02.830498
+08915668-3cc3-4fc5-b76b-0a3fcde873ea,Louise,Benoit,46.0,Femme,Hétérosexuel(le),Espagnol,Technologie,IA,Politique|Autre,Extraverti(e),Sérieux(se),2025-07-05T15:04:02.830521
+45699d22-8c25-4c9a-ae72-7c47eb6b52a2,Grégoire,Mallet,60.0,Préfère ne pas dire,Bisexuel(le),Allemand|Autre|Espagnol,Sciences|Photographie,Chimie|Portrait,Argent|Religion,Introverti(e),Extraverti(e),2025-03-08T15:04:02.830545
+c88a484e-7352-4f1f-9dd1-cadc75c925f6,Gérard,Guichard,28.0,Femme,Bisexuel(le),Allemand|Italien,Photographie,Portrait,Politique,Sérieux(se),Peu importe,2024-10-28T15:04:02.830568
+d0d07af4-6b23-47d5-bd96-8d52e30762e8,Capucine,Jacob,57.0,Préfère ne pas dire,Hétérosexuel(le),Anglais|Allemand|Autre,Arts & culture,Peinture,Religion,Introverti(e),Introverti(e),2025-09-09T15:04:02.830591
+e3eedb9d-3bf6-42aa-85cc-11fac262ee9f,Alix,Vaillant,51.0,Préfère ne pas dire,Préfère ne pas dire,Français,Cuisine|Arts & culture,Cuisine du monde|Peinture,Santé,Sérieux(se),Introverti(e),2025-03-09T15:04:02.830614
+59484a22-bcac-4bf3-bd30-2e4563a8fd28,Laetitia,Philippe,59.0,Homme,Préfère ne pas dire,Français|Autre,Sport,Cyclisme,Autre,Drôle,Drôle,2025-05-09T15:04:02.830636
+803d24ab-d28c-4747-b4e0-25954540e5ab,Tristan,Bègue,67.0,Non-binaire,Pansexuel(le),Autre|Espagnol|Français,Jeux vidéo|Photographie|Sport,Stratégie|Portrait|Tennis,Argent|Politique,Extraverti(e),Introverti(e),2024-11-25T15:04:02.830661
+5b436acd-558f-4bce-bd12-c0cdae0f9f0f,Honoré,Rocher,50.0,Préfère ne pas dire,Asexuel(le),Allemand|Autre|Italien,Cuisine|Technologie,Cuisine du monde|IA,Sexe,Introverti(e),Introverti(e),2025-09-30T15:04:02.830685
+7ed1c2de-88bc-44b1-855a-0a00dd5765c2,Matthieu,Boyer,45.0,Non-binaire,Hétérosexuel(le),Français|Autre|Espagnol,Podcasts,Tech,Politique|Sexe,Peu importe,Introverti(e),2025-06-03T15:04:02.830710
+dd096958-79f5-44eb-8716-3d7df41b5697,Simone,Gaillard,31.0,Femme,Homosexuel(le),Allemand|Anglais,Voyage|Lecture,Road trip|BD,Religion|Santé,Autre,Peu importe,2025-09-30T15:04:02.830735
+c0234a27-11bc-47c3-8951-bef896472171,Éléonore,Lefebvre,29.0,Préfère ne pas dire,Pansexuel(le),Allemand|Autre|Italien,Voyage|Sport|Photographie,Road trip|Basketball|Portrait,Sexe,Extraverti(e),Drôle,2025-08-20T15:04:02.830761
+6c8d983b-bcc4-4044-92bf-52b9dcf331f4,Éléonore,Barthelemy,49.0,Non-binaire,Bisexuel(le),Autre|Espagnol|Anglais,Cuisine|Jeux vidéo|Arts & culture,Cuisine du monde|RPG|Cinéma,Santé,Peu importe,Drôle,2025-03-31T15:04:02.830842
+2c90e25a-d89a-4dca-97cb-f65b111d920d,Jeannine,Lopes,55.0,Homme,Autre,Allemand,Lecture|Jeux vidéo|Musique,BD|RPG|Jazz,Religion,Autre,Extraverti(e),2025-08-16T15:04:02.830874
+78e92144-6711-42c9-b453-0ed5b364c4a5,Madeleine,Leconte,65.0,Homme,Hétérosexuel(le),Français|Italien,Lecture|Podcasts,Roman|Tech,Sexe|Politique,Sérieux(se),Autre,2025-06-26T15:04:02.830901
+2888b0ae-6d45-4e68-8b85-932876acd6cf,Monique,Traore,34.0,Préfère ne pas dire,Préfère ne pas dire,Français|Autre|Italien,Musique|Podcasts,Classique|Tech,Religion,Peu importe,Drôle,2025-04-16T15:04:02.830925
+dbeb1c13-0e5a-4929-ab9f-029dabf9217f,Denise,Dubois,45.0,Non-binaire,Autre,Espagnol|Français|Autre,Lecture|Sport|Musique,Roman|Basketball|Jazz,Sexe,Sérieux(se),Extraverti(e),2025-01-25T15:04:02.830951
+422b566a-b469-4ed1-947a-4addbd89587b,Susanne,Lopes,67.0,Préfère ne pas dire,Préfère ne pas dire,Français,Jeux vidéo,Stratégie,Santé|Argent,Peu importe,Extraverti(e),2025-08-19T15:04:02.830974
+60a5e35c-97c9-4299-abee-4c4bc4ef6269,Gilbert,Roger,56.0,Préfère ne pas dire,Pansexuel(le),Anglais,Lecture|Voyage,Roman|Road trip,Politique|Autre,Drôle,Extraverti(e),2024-12-12T15:04:02.830997
+75e46287-f03b-4e10-9c39-c466913aa4e1,Lorraine,Masson,45.0,Femme,Préfère ne pas dire,Autre|Allemand|Français,Sciences,Biologie,Politique,Introverti(e),Drôle,2025-05-03T15:04:02.831021
+59637ca4-4f33-4ab7-8041-2260c8b0de59,Louise,Lenoir,49.0,Non-binaire,Homosexuel(le),Italien|Espagnol|Autre,Jeux vidéo|Cuisine|Musique,Stratégie|Pâtisserie|Rap,Autre,Autre,Drôle,2024-12-08T15:04:02.831044
+53e85393-f72d-468e-b009-292655011eb1,Robert,Antoine,24.0,Non-binaire,Hétérosexuel(le),Allemand|Français,Technologie,IA,Santé,Calme,Sérieux(se),2025-06-25T15:04:02.831067
+7c18bdad-4502-4e65-bd76-efebbb258b15,Hortense,Bourdon,24.0,Femme,Homosexuel(le),Autre,Arts & culture,Cinéma,Politique,Sérieux(se),Autre,2025-06-03T15:04:02.831089
+071510b5-18d1-4e25-b03a-7ef6b72b07d4,Clémence,Lecoq,18.0,Homme,Homosexuel(le),Allemand|Italien|Français,Lecture|Sport,BD|Basketball,Argent|Autre,Autre,Extraverti(e),2025-09-28T15:04:02.831113
+fed1a313-e9bc-40dc-8d29-dfb297aa921c,Céline,Leleu,65.0,Non-binaire,Hétérosexuel(le),Français,Arts & culture|Voyage|Podcasts,Théâtre|Road trip|Développement perso,Religion|Argent,Drôle,Calme,2025-07-05T15:04:02.831138
+3b3cf8e3-398f-427d-8855-c4fe3ad38ac8,Zacharie,Raymond,38.0,Non-binaire,Préfère ne pas dire,Allemand|Autre,Podcasts,Culture,Argent,Peu importe,Extraverti(e),2025-02-15T15:04:02.831160
+b0d7f217-faaf-4d64-89c1-18bff2d0299a,Agnès,Jourdan,69.0,Homme,Bisexuel(le),Français|Autre|Anglais,Technologie|Sport,IA|Basketball,Sexe|Religion,Autre,Extraverti(e),2024-11-14T15:04:02.831188
+7b37f67d-02ac-46a8-9092-637815318bdc,Théophile,Lebon,30.0,Homme,Asexuel(le),Français|Autre|Allemand,Voyage|Cuisine|Sport,Road trip|Pâtisserie|Running,Sexe,Calme,Introverti(e),2025-07-20T15:04:02.831213
+a90372e8-8848-462a-b08d-e489d0f89e4c,Laure,Blanchet,41.0,Femme,Préfère ne pas dire,Allemand|Italien|Espagnol,Lecture|Photographie|Jeux vidéo,Manga|Paysage|FPS,Religion|Santé,Extraverti(e),Calme,2024-12-29T15:04:02.831243
+068bcd2a-1063-4c77-a9bf-6b53a5c37558,Joseph,Chevalier,22.0,Homme,Hétérosexuel(le),Espagnol|Allemand|Anglais,Arts & culture,Peinture,Religion,Calme,Extraverti(e),2025-08-10T15:04:02.831269
+82f72e52-fabc-4328-9395-8c7ffa8f5c17,Bertrand,Lemoine,19.0,Femme,Asexuel(le),Français|Allemand|Italien,Podcasts,Culture,Argent,Extraverti(e),Autre,2025-10-06T15:04:02.831292
+80ab85c6-1efa-4d0e-af54-fe395ed3a961,Louis,Chevallier,62.0,Préfère ne pas dire,Asexuel(le),Anglais|Espagnol|Allemand,Arts & culture|Technologie|Sciences,Cinéma|IA|Physique,Sexe,Autre,Peu importe,2025-08-22T15:04:02.831320
+71584222-4f29-4cc6-928c-d5d94d8b2268,Marcel,Joly,67.0,Préfère ne pas dire,Pansexuel(le),Espagnol|Allemand|Anglais,Lecture|Musique,Roman|Rap,Santé|Argent,Calme,Autre,2024-12-03T15:04:02.831346
+6a192b03-1bb2-4759-93b8-846c81875c83,Clémence,Riou,67.0,Femme,Hétérosexuel(le),Autre|Anglais|Allemand,Voyage|Photographie|Jeux vidéo,Road trip|Paysage|FPS,Argent|Santé,Sérieux(se),Sérieux(se),2024-12-25T15:04:02.831371
+dacb9bd2-3366-4720-a6f9-43cecf3813eb,Margaud,Rivière,70.0,Non-binaire,Préfère ne pas dire,Italien,Sport,Football,Santé|Argent,Autre,Drôle,2025-09-23T15:04:02.831395
+57dac143-005e-4a3a-928d-1c0bb6c97a34,Capucine,Valentin,21.0,Préfère ne pas dire,Préfère ne pas dire,Espagnol|Français|Allemand,Podcasts,Culture,Santé,Peu importe,Calme,2025-09-10T15:04:02.831418
+62816c0c-20cd-42ca-8464-de2df562b738,Hugues,Lambert,42.0,Préfère ne pas dire,Préfère ne pas dire,Allemand|Anglais|Italien,Podcasts|Lecture|Sciences,Développement perso|Manga|Physique,Autre,Calme,Calme,2025-10-13T15:04:02.831442
+f1ce6b09-5ddb-4476-87e0-c1166844ea58,Zacharie,Charrier,41.0,Préfère ne pas dire,Hétérosexuel(le),Italien|Anglais|Autre,Lecture|Sciences,Manga|Biologie,Politique|Santé,Extraverti(e),Drôle,2025-02-12T15:04:02.831465
+dc524677-b1fe-4460-8afe-d4bece0a7d6a,Joséphine,Charpentier,52.0,Non-binaire,Préfère ne pas dire,Français|Italien,Lecture|Technologie|Musique,Roman|IA|Jazz,Argent,Sérieux(se),Drôle,2025-08-15T15:04:02.831489
+3196ce3f-20ee-4b74-800e-05b8ef23d00b,Louise,Lopez,38.0,Femme,Hétérosexuel(le),Allemand|Français,Sport|Arts & culture,Basketball|Cinéma,Politique,Introverti(e),Sérieux(se),2025-10-21T15:04:02.831512
+7ae862fb-8794-486a-aacc-5a82a3089eea,Émilie,Huet,58.0,Homme,Homosexuel(le),Italien|Allemand,Voyage|Podcasts|Entrepreneuriat,Road trip|Développement perso|Data science,Autre,Introverti(e),Calme,2025-05-17T15:04:02.831536
+1b4be043-ebe0-4843-a93b-63cea1ba24ec,Rémy,Sanchez,19.0,Préfère ne pas dire,Préfère ne pas dire,Espagnol|Allemand,Entrepreneuriat,Data science,Sexe|Politique,Sérieux(se),Autre,2025-07-09T15:04:02.831559
+7a0b449c-cc31-48af-ad42-f97f62221855,Gilbert,De Sousa,22.0,Préfère ne pas dire,Pansexuel(le),Italien|Allemand|Anglais,Entrepreneuriat,Startup,Autre,Drôle,Autre,2024-12-24T15:04:02.831581
+b9794ce3-bc26-4fd1-96c9-fdb6f122797c,Jeanne,Mallet,49.0,Femme,Homosexuel(le),Allemand|Espagnol|Italien,Lecture|Photographie|Cuisine,Roman|Paysage|Cuisine du monde,Politique,Extraverti(e),Introverti(e),2025-07-23T15:04:02.831606
+2903d2f6-82c0-4f60-91cc-4d4cdf653e4f,Diane,Legros,30.0,Femme,Autre,Italien,Photographie|Technologie|Podcasts,Paysage|IA|Tech,Autre|Politique,Autre,Extraverti(e),2025-02-09T15:04:02.831630
+a71fec60-44f5-4307-b1c9-4c5a8ab5a699,Bertrand,Martins,39.0,Non-binaire,Pansexuel(le),Anglais|Français|Autre,Arts & culture,Cinéma,Sexe|Religion,Drôle,Autre,2024-11-08T15:04:02.831652
+eb10b3e0-07c1-4f83-870c-a9708fdf0b5b,Michelle,Legros,44.0,Non-binaire,Autre,Italien|Allemand,Jeux vidéo,FPS,Politique,Introverti(e),Sérieux(se),2025-05-07T15:04:02.831675
+05efcd0b-d8eb-45b5-899e-6904c19f8259,Lucy,Giraud,53.0,Homme,Homosexuel(le),Allemand|Autre,Musique|Technologie|Sport,Jazz|IA|Football,Politique|Santé,Peu importe,Peu importe,2025-06-26T15:04:02.831703
+dc06e081-25c8-4789-90c1-83cfcaf9e8ee,David,Lemonnier,34.0,Préfère ne pas dire,Bisexuel(le),Espagnol|Allemand|Français,Entrepreneuriat|Musique|Voyage,Data science|Rap|Randonnée,Autre,Peu importe,Autre,2025-09-05T15:04:02.831729
+15321274-1793-4f76-8423-fe6b79931a61,Margot,Gérard,44.0,Femme,Pansexuel(le),Allemand,Sciences|Sport|Photographie,Physique|Tennis|Paysage,Santé,Drôle,Peu importe,2024-12-04T15:04:02.831754
+4034aa64-972e-424f-80cf-e92ab618297d,Caroline,Chevallier,47.0,Femme,Asexuel(le),Allemand,Podcasts|Technologie|Cuisine,Culture|IA|Cuisine du monde,Santé|Autre,Sérieux(se),Autre,2025-10-02T15:04:02.831779
+78202bc9-6022-41ec-ac32-7682e683288c,Amélie,Hamon,57.0,Préfère ne pas dire,Autre,Anglais|Espagnol|Français,Musique|Sport|Voyage,Pop|Natation|Randonnée,Santé|Politique,Drôle,Peu importe,2025-08-19T15:04:02.831803
+9135dc0a-9d1c-4c54-a633-98218ad02006,Thibault,David,32.0,Préfère ne pas dire,Asexuel(le),Italien|Allemand,Arts & culture|Sciences,Théâtre|Chimie,Religion|Autre,Peu importe,Sérieux(se),2024-11-06T15:04:02.831827
+697aea0d-15cc-4c4e-989f-cedfce13c731,Suzanne,Poulain,50.0,Non-binaire,Bisexuel(le),Anglais|Espagnol,Lecture,Manga,Religion|Santé,Extraverti(e),Calme,2025-02-16T15:04:02.831850
+b69c8f43-50b4-4346-8672-7819a00d5624,Manon,Perrier,26.0,Femme,Asexuel(le),Autre,Voyage,Randonnée,Religion,Extraverti(e),Introverti(e),2025-08-28T15:04:02.831873
+963f1494-2ed5-49d4-8365-ffb808985492,Hélène,Guibert,57.0,Femme,Asexuel(le),Italien|Allemand,Sport|Photographie,Tennis|Paysage,Sexe|Religion,Drôle,Sérieux(se),2025-05-18T15:04:02.831896
+4d80fbe5-dbd9-4332-bdb1-be543a1c7122,Roger,Marques,69.0,Non-binaire,Pansexuel(le),Italien|Anglais|Français,Technologie,IA,Sexe,Extraverti(e),Drôle,2025-09-07T15:04:02.831919
+40d2aa29-f88b-4013-ad78-9b92c7fcd91c,Brigitte,Gautier,36.0,Homme,Pansexuel(le),Espagnol,Arts & culture|Entrepreneuriat,Peinture|Innovation,Santé|Religion,Extraverti(e),Autre,2025-02-20T15:04:02.831942
+dbdc21df-482e-4e18-9227-64473f3147c7,Marie,Verdier,70.0,Homme,Hétérosexuel(le),Allemand,Sciences|Lecture,Biologie|BD,Politique,Extraverti(e),Calme,2025-07-23T15:04:02.831965
+81d4e45e-c0cb-4a83-9a7b-122cefde62a5,Aurélie,Bourgeois,51.0,Non-binaire,Asexuel(le),Anglais|Italien|Français,Voyage|Sciences,Road trip|Chimie,Argent|Religion,Sérieux(se),Calme,2025-01-09T15:04:02.831988
+dd3d4a92-f20a-4ebf-9c24-a0a6b07cce81,Eugène,Baudry,65.0,Femme,Préfère ne pas dire,Allemand|Italien,Musique|Sciences,Jazz|Physique,Santé|Sexe,Peu importe,Peu importe,2025-05-31T15:04:02.832012
+67aa8178-7f85-40bd-9be7-9fee0a23e97f,Lucas,Verdier,66.0,Homme,Préfère ne pas dire,Allemand|Espagnol|Anglais,Sciences|Musique|Photographie,Biologie|Rock|Paysage,Politique|Religion,Extraverti(e),Drôle,2025-10-01T15:04:02.832039
+7d20462d-e1ae-448b-ab48-7dfe9697b29c,Capucine,Fabre,31.0,Préfère ne pas dire,Autre,Espagnol,Entrepreneuriat|Arts & culture,Startup|Théâtre,Argent|Politique,Introverti(e),Sérieux(se),2024-12-01T15:04:02.832063
+ca981376-a797-4588-89c1-9701ea8bd154,Pénélope,Antoine,34.0,Femme,Pansexuel(le),Allemand|Italien|Anglais,Jeux vidéo|Arts & culture,RPG|Théâtre,Autre|Sexe,Peu importe,Autre,2025-08-06T15:04:02.832090
+594f7861-8e5a-4f75-b0e8-53b62e75ffb5,Margaux,Faivre,39.0,Homme,Homosexuel(le),Allemand,Sciences,Chimie,Autre,Sérieux(se),Sérieux(se),2025-09-19T15:04:02.832113
+6066000e-fcd8-4dfc-9909-b5cf9fbaf80e,Marcelle,Chauveau,21.0,Non-binaire,Pansexuel(le),Français|Autre|Anglais,Musique|Cuisine,Jazz|Cuisine du monde,Sexe|Politique,Introverti(e),Sérieux(se),2025-02-22T15:04:02.832136
+7da62b18-ae88-43b3-83e3-11c3b5ed1ee8,Alexandre,Chartier,38.0,Femme,Pansexuel(le),Espagnol|Autre,Lecture|Musique|Cuisine,Roman|Pop|Cuisine du monde,Sexe,Sérieux(se),Introverti(e),2025-09-05T15:04:02.832163
+ed493585-5034-48dd-9427-c6bfedd45d69,Jean,Michaud,62.0,Non-binaire,Pansexuel(le),Allemand,Jeux vidéo,RPG,Autre,Autre,Sérieux(se),2025-09-19T15:04:02.832199
+c0052b1f-4311-4570-ac56-44265884039e,Sylvie,Hubert,52.0,Préfère ne pas dire,Préfère ne pas dire,Espagnol,Sciences,Biologie,Autre,Autre,Sérieux(se),2025-08-31T15:04:02.832223
+d9367afc-c8d1-4082-9b91-5358fd3a7102,Julie,Boutin,31.0,Préfère ne pas dire,Homosexuel(le),Espagnol,Voyage|Arts & culture|Photographie,Road trip|Théâtre|Paysage,Argent|Politique,Autre,Peu importe,2024-11-25T15:04:02.832247
+b8468841-c35a-42c5-bb60-a7051cec9a65,Margot,Barbier,34.0,Préfère ne pas dire,Hétérosexuel(le),Espagnol|Autre|Allemand,Cuisine|Photographie|Entrepreneuriat,Cuisine du monde|Paysage|Data science,Religion,Introverti(e),Sérieux(se),2025-03-10T15:04:02.832270
+9fc44267-4f1f-421c-8ffb-406327be442e,Margaux,Martin,45.0,Femme,Autre,Anglais,Jeux vidéo|Voyage,FPS|Road trip,Religion,Drôle,Extraverti(e),2024-11-10T15:04:02.832292
+eb9bf178-dee3-4bf5-8d35-dc0b7349743a,Sylvie,Boulanger,62.0,Non-binaire,Asexuel(le),Anglais,Sport,Tennis,Santé|Argent,Introverti(e),Introverti(e),2025-02-04T15:04:02.832314
+b704edb9-2684-4b59-9220-77c8ce7a70c0,Adrien,Maury,58.0,Homme,Homosexuel(le),Autre,Podcasts|Sport|Lecture,Développement perso|Football|BD,Religion|Argent,Peu importe,Drôle,2025-01-01T15:04:02.832338
+be663c23-0e7d-4bd7-a6e1-641873b936e3,Hélène,Marchand,38.0,Préfère ne pas dire,Homosexuel(le),Allemand|Français|Autre,Lecture,Manga,Autre,Introverti(e),Peu importe,2025-04-26T15:04:02.832360
+765ade31-5a22-4e72-9fbc-ea3c6aaaf76a,Lucy,Leclercq,33.0,Préfère ne pas dire,Hétérosexuel(le),Anglais|Français|Italien,Entrepreneuriat|Arts & culture,Data science|Peinture,Religion,Autre,Drôle,2024-12-01T15:04:02.832383
+952d5c87-deb5-49ef-91cd-72a1bbd193b3,Christiane,Guillou,23.0,Femme,Pansexuel(le),Autre|Anglais,Entrepreneuriat,Startup,Politique,Autre,Autre,2025-08-29T15:04:02.832404
+f1e8918f-3843-4134-824d-200e8625bad2,Richard,Gomez,62.0,Non-binaire,Pansexuel(le),Autre,Lecture|Technologie,BD|IA,Santé,Peu importe,Peu importe,2025-07-04T15:04:02.832426
+aa4142b9-1168-4849-af0f-ebef6c6af22c,Amélie,Alves,58.0,Préfère ne pas dire,Pansexuel(le),Autre|Espagnol|Français,Musique,Jazz,Politique,Calme,Drôle,2025-01-09T15:04:02.832448
+628549b7-4162-4426-9b83-aede196c8b71,Valérie,Lesage,58.0,Homme,Homosexuel(le),Allemand,Podcasts|Sciences,Développement perso|Chimie,Autre,Extraverti(e),Calme,2025-04-25T15:04:02.832471
+d4e61f63-9e8d-4624-adde-3f7f3d7e0c47,Roland,Bodin,54.0,Homme,Homosexuel(le),Allemand|Italien|Français,Arts & culture,Théâtre,Religion,Calme,Sérieux(se),2025-03-18T15:04:02.832493
+131fa610-fa0f-4096-8de5-5bf21f28878b,Frédérique,Girard,35.0,Préfère ne pas dire,Homosexuel(le),Espagnol,Jeux vidéo,FPS,Religion,Autre,Drôle,2025-03-19T15:04:02.832514
+541092c1-c3d8-4c7d-a3b4-bd37e567d098,Jacques,Daniel,47.0,Homme,Hétérosexuel(le),Allemand,Sport|Cuisine|Entrepreneuriat,Natation|Pâtisserie|Startup,Religion|Autre,Sérieux(se),Extraverti(e),2025-05-30T15:04:02.832540
+903983ec-2213-43af-b8e9-a74387a6a2f0,Robert,Lemaître,26.0,Non-binaire,Homosexuel(le),Autre|Espagnol|Français,Sport,Football,Santé,Calme,Autre,2025-02-09T15:04:02.832563
+72f9e04e-9d67-4d79-beb7-ab6cc392cbed,René,Lacroix,55.0,Non-binaire,Bisexuel(le),Allemand|Espagnol,Musique|Podcasts,Jazz|Développement perso,Argent|Politique,Sérieux(se),Extraverti(e),2025-06-15T15:04:02.832586
+680513c9-8f39-48b2-9fae-372239675288,Christiane,Muller,19.0,Non-binaire,Préfère ne pas dire,Français|Autre|Anglais,Jeux vidéo,RPG,Politique,Autre,Autre,2025-06-02T15:04:02.832624
+a04972fa-8685-440c-96c6-2056572ae0a2,Anne,Hernandez,49.0,Non-binaire,Asexuel(le),Allemand,Jeux vidéo,Stratégie,Argent|Politique,Sérieux(se),Introverti(e),2025-10-06T15:04:02.832665
+44c191d0-81a7-4050-b146-76a26c00543c,Susan,Gautier,21.0,Préfère ne pas dire,Asexuel(le),Italien,Entrepreneuriat|Arts & culture,Startup|Théâtre,Sexe,Drôle,Drôle,2025-05-27T15:04:02.832714
+41426712-4fbb-4acf-912f-e95c78975abd,Simone,Hernandez,67.0,Femme,Homosexuel(le),Autre,Sport,Football,Religion|Sexe,Introverti(e),Extraverti(e),2025-01-24T15:04:02.832740
+81bf0067-436e-474f-9609-9ff2982e8818,Marine,Duval,32.0,Femme,Hétérosexuel(le),Français,Sport|Voyage|Arts & culture,Cyclisme|Road trip|Cinéma,Religion|Argent,Calme,Extraverti(e),2025-03-12T15:04:02.832765
+eaf91fb9-9b83-45ab-9790-11be6883a73f,Éléonore,Picard,53.0,Non-binaire,Asexuel(le),Anglais,Cuisine|Sport|Lecture,Cuisine du monde|Tennis|BD,Argent|Politique,Calme,Calme,2024-12-05T15:04:02.832790
+2c09584e-156a-46bc-85a9-91875a597a40,Laetitia,Leleu,53.0,Femme,Autre,Français|Espagnol,Sport,Cyclisme,Santé|Religion,Introverti(e),Extraverti(e),2025-01-12T15:04:02.832818
+5a2a54e3-eb5e-4ee7-b565-281f56b698ad,Nathalie,Navarro,31.0,Non-binaire,Bisexuel(le),Français,Photographie|Jeux vidéo,Portrait|Stratégie,Autre|Santé,Extraverti(e),Autre,2025-04-02T15:04:02.832844
+19211048-7019-4c03-b349-d6d1d1ecd1f1,Marine,Garcia,45.0,Femme,Autre,Italien,Photographie|Technologie,Paysage|IA,Argent|Politique,Sérieux(se),Sérieux(se),2025-02-15T15:04:02.832868
+eaf1e78d-59dc-496a-8040-82139b69b5ce,Benoît,Poulain,33.0,Préfère ne pas dire,Homosexuel(le),Espagnol,Sciences|Arts & culture,Chimie|Cinéma,Santé|Autre,Drôle,Introverti(e),2025-03-07T15:04:02.832892
+a2c73a25-cf43-4887-9f89-249dc952624e,Brigitte,Rolland,70.0,Préfère ne pas dire,Hétérosexuel(le),Italien,Technologie,IA,Politique,Drôle,Autre,2025-09-23T15:04:02.832914
+e43c6fbd-b122-417f-9f71-f0350ce0347f,Marthe,Breton,67.0,Non-binaire,Homosexuel(le),Autre|Allemand,Technologie|Photographie|Jeux vidéo,IA|Portrait|FPS,Argent,Drôle,Peu importe,2025-01-19T15:04:02.832938
+975b8b93-0f50-43c4-ab10-9927e3ab3fe4,Éric,Rocher,50.0,Femme,Bisexuel(le),Allemand|Anglais,Entrepreneuriat,Data science,Santé|Autre,Peu importe,Sérieux(se),2025-01-02T15:04:02.832961
+4d364cee-75a1-4853-8e0f-96f2aae2b802,Chantal,Laurent,27.0,Non-binaire,Préfère ne pas dire,Espagnol,Sport|Podcasts|Cuisine,Tennis|Tech|Cuisine du monde,Religion,Autre,Introverti(e),2025-09-08T15:04:02.832988
+52afc9c3-2f83-479d-a60c-d51e3a2dfcce,Luc,Chrétien,48.0,Femme,Autre,Espagnol|Anglais|Italien,Technologie|Sciences|Cuisine,IA|Chimie|Pâtisserie,Sexe,Drôle,Introverti(e),2025-04-23T15:04:02.833016
+2ecbd6bb-35ea-4396-8f0d-1bc1733d5f3a,Jacqueline,Chauvin,43.0,Non-binaire,Bisexuel(le),Français|Italien,Lecture|Arts & culture|Sciences,BD|Théâtre|Chimie,Sexe,Peu importe,Autre,2025-04-23T15:04:02.833041
+52412860-8c65-4911-a412-193004abbb72,Amélie,Lambert,34.0,Non-binaire,Asexuel(le),Autre|Espagnol,Podcasts|Jeux vidéo|Technologie,Développement perso|Stratégie|IA,Politique|Sexe,Autre,Introverti(e),2025-05-15T15:04:02.833066
+491b6b35-837d-4904-b1d4-4c9fac1218d9,Nath,Humbert,37.0,Non-binaire,Pansexuel(le),Anglais,Photographie|Arts & culture,Paysage|Théâtre,Politique,Introverti(e),Introverti(e),2025-06-30T15:04:02.833089
+d80c5fbf-03fb-47da-b75f-a3c9e642676b,Rémy,Aubry,55.0,Non-binaire,Pansexuel(le),Espagnol,Cuisine|Sciences,Pâtisserie|Chimie,Argent,Drôle,Introverti(e),2025-09-19T15:04:02.833112
+630e7e01-67a5-4bd2-be2f-c1f44dbf91b7,Marcel,Lamy,64.0,Préfère ne pas dire,Bisexuel(le),Allemand|Anglais|Autre,Podcasts|Entrepreneuriat|Arts & culture,Développement perso|Data science|Cinéma,Politique|Sexe,Sérieux(se),Sérieux(se),2025-09-29T15:04:02.833136
+1d48f492-a0f8-4ca9-b71c-d5045e36a433,Marcel,Mercier,41.0,Homme,Préfère ne pas dire,Français|Anglais|Espagnol,Musique|Cuisine,Jazz|Pâtisserie,Santé,Drôle,Autre,2025-05-12T15:04:02.833160
+700747c9-78ad-4701-a7c1-412cdc11b1eb,Luc,Fernandes,66.0,Femme,Pansexuel(le),Italien,Cuisine|Entrepreneuriat|Technologie,Cuisine du monde|Développement web|IA,Argent,Autre,Extraverti(e),2025-01-12T15:04:02.833184
+00513ce2-7a98-437b-9113-756a57398cdf,Michelle,Coulon,42.0,Non-binaire,Préfère ne pas dire,Espagnol,Sciences|Podcasts|Lecture,Physique|Culture|BD,Autre,Introverti(e),Autre,2024-10-30T15:04:02.833208
+9e2398b0-2b79-41e9-b1c2-8d821005bd02,Adrienne,Philippe,52.0,Homme,Autre,Espagnol,Photographie|Musique,Paysage|Rock,Politique,Introverti(e),Sérieux(se),2024-12-19T15:04:02.833231
+799e2946-e49a-48d7-8be1-60a66cbc5d81,Astrid,Da Costa,60.0,Femme,Autre,Espagnol,Entrepreneuriat,Data science,Argent,Peu importe,Peu importe,2025-09-20T15:04:02.833253
+de248fd4-20eb-4801-9fc3-9f411ad9cecf,Nicolas,Jean,31.0,Femme,Autre,Anglais|Français|Espagnol,Voyage|Photographie,Road trip|Paysage,Politique|Autre,Drôle,Introverti(e),2024-11-20T15:04:02.833276
+d44ea4f1-56e8-43ee-a7d0-34145f73a275,Zacharie,Gallet,53.0,Homme,Homosexuel(le),Espagnol,Podcasts|Lecture,Tech|Manga,Argent|Autre,Autre,Drôle,2025-05-07T15:04:02.833299
+4d560242-2c46-4459-b813-1c0106baeffe,René,Noël,36.0,Femme,Préfère ne pas dire,Italien|Autre,Technologie|Sport,,Religion|Autre,Extraverti(e),Introverti(e),2024-12-14T15:04:02.833325
+987df3c4-dae9-4740-a3e3-bae2aa121b5f,Anaïs,Masse,65.0,Femme,Bisexuel(le),Espagnol|Français|Allemand,Lecture|Voyage,Manga|Randonnée,Politique,Drôle,Peu importe,2024-11-10T15:04:02.833351
+4cb8f38b-37d9-4ed4-bb38-7c3dfb1a3656,Jacques,Sanchez,34.0,Préfère ne pas dire,Préfère ne pas dire,Italien|Autre,Lecture|Cuisine|Musique,BD|Cuisine du monde|Classique,Argent,Drôle,Drôle,2025-09-11T15:04:02.833375
+47a7b755-cdc1-4c9b-9daf-d58060100a4f,Thérèse,Roux,68.0,Homme,Asexuel(le),Autre|Italien|Français,Technologie,IA,Argent,Introverti(e),Introverti(e),2025-04-02T15:04:02.833398
+fb4e38c0-1f16-4961-8669-6d392725aa77,Gabriel,Breton,21.0,Préfère ne pas dire,Asexuel(le),Espagnol|Italien|Français,Cuisine|Sciences,Pâtisserie|Physique,Autre,Extraverti(e),Autre,2025-09-13T15:04:02.833421
+898d5843-d5bf-4717-b430-6d6bcc4c00e7,Laurence,Neveu,49.0,Homme,Homosexuel(le),Italien|Espagnol|Anglais,Voyage|Photographie,Randonnée|Portrait,Santé|Sexe,Extraverti(e),Peu importe,2025-07-27T15:04:02.833447
+cbca9775-5ec1-4946-8820-562ea9a269b8,William,Couturier,24.0,Non-binaire,Autre,Autre|Anglais|Espagnol,Voyage|Musique,Road trip|Rock,Sexe|Autre,Peu importe,Calme,2025-05-28T15:04:02.833470
