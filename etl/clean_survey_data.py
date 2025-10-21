@@ -4,12 +4,6 @@ import os
 import re
 
 
-# Charger le CSV
-profiles = pd.read_csv("data/users_profiles.csv")
-print(f"Dataset original: {profiles.shape[0]} lignes, {profiles.shape[1]} colonnes")
-travels = pd.read_csv("data/users_travels.csv")
-print(f"Dataset original: {travels.shape[0]} lignes, {travels.shape[1]} colonnes")
-
 # ==================== NETTOYAGE PAR COLONNE ====================
 
 def clean_data_profiles(df):
@@ -211,15 +205,25 @@ def clean_data_travels(df):
 
 # ==================== EXÉCUTION ====================
 
-# Nettoyer les données
-profiles_clean = clean_data_profiles(profiles)
-travels_clean = clean_data_travels(travels)
+def clean():
+    # Charger le CSV
+    profiles = pd.read_csv("data/users_profiles.csv")
+    print(f"Dataset original: {profiles.shape[0]} lignes, {profiles.shape[1]} colonnes")
+    travels = pd.read_csv("data/users_travels.csv")
+    print(f"Dataset original: {travels.shape[0]} lignes, {travels.shape[1]} colonnes")
 
-print(f"Dataset nettoyé: {profiles_clean.shape[0]} lignes, {profiles_clean.shape[1]} colonnes")
-profiles_clean.to_csv("data/data_profiles_clean.csv", index=False)
-print("Données nettoyées enregistrées dans data_profiles_clean.csv")
 
-print(f"Dataset nettoyé: {travels_clean.shape[0]} lignes, {travels_clean.shape[1]} colonnes")
-travels_clean.to_csv("data/data_travels_clean.csv", index=False)
-print("Données nettoyées enregistrées dans data_travels_clean.csv")
+    # Nettoyer les données
+    profiles_clean = clean_data_profiles(profiles)
+    travels_clean = clean_data_travels(travels)
+
+    print(f"Dataset nettoyé: {profiles_clean.shape[0]} lignes, {profiles_clean.shape[1]} colonnes")
+    profiles_clean.to_csv("data/data_profiles_clean.csv", index=False)
+    print("Données nettoyées enregistrées dans data_profiles_clean.csv")
+
+    print(f"Dataset nettoyé: {travels_clean.shape[0]} lignes, {travels_clean.shape[1]} colonnes")
+    travels_clean.to_csv("data/data_travels_clean.csv", index=False)
+    print("Données nettoyées enregistrées dans data_travels_clean.csv")
+
+clean()
 

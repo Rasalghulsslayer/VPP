@@ -10,8 +10,8 @@ import os
 
 # Database connection configuration (edit or use environment variables)
 DATABASE_CONFIG = {
-	'username': 'postgres',
-	'password': 'voyage_presque_parfait',
+	'username': 'lescaron',
+	'password': 'Y=9k1aDF',
 	'host': 'localhost',
 	'port': '5432',
 	'database': 'vpp_db'
