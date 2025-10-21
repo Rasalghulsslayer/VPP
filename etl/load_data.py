@@ -76,7 +76,10 @@ if __name__ == "__main__":
 		print("❌ Direct SQLAlchemy connection failed:", e)
 
 	if test_database_connection():
-		load_to_database("data/data_survey.csv")
+		# Load user profiles
+		load_to_database("data/users_profiles.csv", table_name="users_profiles")
+		# Load user travels
+		load_to_database("data/users_travels.csv", table_name="users_travels")
 	else:
 		print("Fix database connection before loading data.")
 
