@@ -37,3 +37,48 @@ Pour run notre pipeine, les versions suivantes sont nécessaires dans votre syst
 - **PostgreSQL 12** ou version plus récente
 
 
+## Setup 
+
+1. **Fork** le repository sur votre Github account
+2. **Clone** votre fork localement avec :
+
+```bash
+git clone https://github.com/YOUR_USERNAME/VPP.git
+cd VPP
+```
+3. Installez les dépendances de Python nécessaires :
+   
+ ```bash
+ pip install -r requirements.txt
+ ```
+4. Créez la **PostgreSQL database** :
+
+```bash
+# Connect to PostgreSQL
+psql -U your_username -d postgres
+   
+# Create database
+CREATE DATABASE vpp_users_db;
+   
+# Exit and reconnect to new database
+\q
+psql -U your_username -d vpp_users_db
+
+# Create tables
+\i database_setup.sql
+```
+
+## Configuration de la connexion à la database
+
+Modifiez la database dans `src/load_data.py` :
+
+```python
+DATABASE_CONFIG = {
+    'username': 'your_username',      # Replace with your PostgreSQL username
+    'password': 'your_password',      # Replace with your PostgreSQL password
+    'host': 'localhost',
+    'port': '5432',
+    'database': 'airlife_db'
+}
+```
+
