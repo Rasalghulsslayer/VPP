@@ -54,17 +54,20 @@ cd VPP
 4. Créez la **PostgreSQL database** :
 
 ```bash
-# Connect to PostgreSQL
-psql -U your_username -d postgres
+# Vérifier qu'on a bien les dépendances
+python3 -m pip install psycopg2-binary sqlalchemy pandas
+
+# Se connecter :
+sudo -u postgres psql
    
-# Create database
+# Dans PSQLn créer la database
 CREATE DATABASE vpp_users_db;
    
-# Exit and reconnect to new database
+# Quitter et se reconnecter à la nouvelle database
 \q
 psql -U your_username -d vpp_users_db
 
-# Create tables
+# Créer des tables
 \i database_setup.sql
 ```
 
