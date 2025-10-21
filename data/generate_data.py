@@ -4,13 +4,15 @@ import uuid
 from datetime import datetime, timedelta
 from faker import Faker
 
+
 def generate_interests(interests):
     chosen_main = random.sample(list(interests.keys()), random.randint(1, 3))
     chosen_sub = []
     for main in chosen_main:
         sub = random.choice(interests[main])
-        chosen_sub.append(f"{main}:{sub}")
+        chosen_sub.append(sub)  # on garde uniquement le sous-intérêt, sans "main:"
     return "|".join(chosen_main), "|".join(chosen_sub)
+
 
 def generate_data():
     """
@@ -23,35 +25,38 @@ def generate_data():
     # Paramètres
     n_users = 1000
 
-    # Options
-    travel_reasons = ['Travail/études', 'Autre', 'Visite famille/amis', 'Loisirs/vacances']
-    expectations = ['Discussion sympa', 'Rester tranquille', 'Réseautage pro', 'Échanger sur un sujet commun', 'Autre']
-    conversation_triggers = ['Ça dépend', 'Jamais', 'Le trajet est long', 'La conversation est légère', 'Il/elle partage mes centres d\'intérêt']
-    personalities = ['Drôle', 'Sérieux(se)', 'Calme', 'Autre', 'Introverti(e)', 'Peu importe', 'Extraverti(e)']
-    topics = ['Politique', 'Religion', 'Sexe', 'Argent', 'Santé', 'Autre']
-    languages = ['Français', 'Anglais', 'Espagnol', 'Italien', 'Allemand', 'Autre']
-    genders = ['Non-binaire', 'Préfère ne pas dire', 'Homme', 'Femme']
-    orientations = ['Hétérosexuel(le)', 'Homosexuel(le)', 'Bisexuel(le)', 'Pansexuel(le)', 'Asexuel(le)', 'Autre', 'Préfère ne pas dire']
+    # Options avec erreurs potentielles
+    travel_reasons = ['Travail/études', 'Autre', 'Visite famille/amis', 'Loisirs/vacances', None]
+    expectations = ['Discussion sympa', 'Rester tranquille', 'Réseautage pro', 'Échanger sur un sujet commun', 'Autre', '???']
+    conversation_triggers = ['Ça dépend', 'Jamais', 'Le trajet est long', 'La conversation est légère',
+                            'Il/elle partage mes centres d\'intérêt']
+    personalities = ['Drôle', 'Sérieux(se)', 'Calme', 'Autre', 'Introverti(e)', 'Peu importe', 'Extraverti(e)', '']
+    topics = ['Politique', 'Religion', 'Sexe', 'Argent', 'Santé', 'Autre', 'Unknown']
+    languages = ['Français', 'Anglais', 'Espagnol', 'Italien', 'Allemand', 'Autre', '123']
+    genders = ['Non-binaire', 'Préfère ne pas dire', 'Homme', 'Femme','Alien']
+    orientations = ['Hétérosexuel(le)', 'Homosexuel(le)', 'Bisexuel(le)', 'Pansexuel(le)',
+                    'Asexuel(le)', 'Autre', 'Préfère ne pas dire']
 
-    # Centres d'intérêts
+    
+    # Centres d'intérêts avec erreurs potentielles
     interests = {
-        "Lecture": ["Romans", "Essais", "Développement personnel", "BD/Mangas"],
-        "Musique": ["Pop", "Rock", "Rap/Hip-hop", "Électro", "Jazz/Blues", "Classique", "World"],
-        "Technologie": ["Programmation", "IA", "Gadgets", "Cybersécurité", "Innovation"],
-        "Entrepreneuriat": ["Création", "Investissement", "Marketing", "Design produit"],
-        "Sport": ["Football", "Basket", "Rugby", "Running", "Cyclisme", "Yoga", "Randonnée", "Escalade", "Ski"],
-        "Cuisine": ["Gastronomie FR", "Cuisine du monde", "Végétarien/vegan", "Pâtisserie"],
-        "Voyage": ["Road trip", "City trip", "Nature", "Culture & musées"],
-        "Jeux vidéo": ["Action", "FPS", "RPG", "Casual", "Retro"],
-        "Photographie": ["Portrait", "Paysage", "Urbain", "Édition"],
-        "Arts & culture": ["Cinéma", "Théâtre", "Arts visuels", "Histoire"],
-        "Sciences": ["Biologie", "Physique", "Santé", "Sciences sociales"],
-        "Podcasts": ["Actualité", "True crime", "Développement perso", "Tech", "Culture"]
+        "Sport": ["Football", "Basketball", "Tennis", "Natation", "Running", "Cyclisme", ""],
+        "Entrepreneuriat": ["Startup", "Innovation", "Développement web", "Data science"],
+        "Sciences": ["Biologie", "Physique", "Chimie", "None"],
+        "Arts & culture": ["Peinture", "Théâtre", "Cinéma"],
+        "Musique": ["Rock", "Jazz", "Classique", "Pop", "Rap"],
+        "Voyage": ["Road trip", "Randonnée", ""],
+        "Podcasts": ["Développement perso", "Tech", "Culture"],
+        "Cuisine": ["Cuisine du monde", "Pâtisserie"],
+        "Technologie": ["IA"],
+        "Photographie": ["Portrait", "Paysage"],
+        "Lecture": ["Roman", "BD", "Manga", "Invalide", "53"],
+        "Jeux vidéo": ["FPS", "RPG", "Stratégie"]
     }
 
 
-# Taux d’erreurs simulées
-error_rate = 0.05
+    # Taux d’erreurs simulées
+    error_rate = 0.05
 
     # Containers
     profiles = []
