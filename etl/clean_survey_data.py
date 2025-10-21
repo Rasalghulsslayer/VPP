@@ -5,14 +5,16 @@ import re
 
 
 # Charger le CSV
-df = pd.read_csv("data/data_survey.csv")
-print(f"Dataset original: {df.shape[0]} lignes, {df.shape[1]} colonnes")
+profiles = pd.read_csv("data/users_profiles.csv")
+print(f"Dataset original: {profiles.shape[0]} lignes, {profiles.shape[1]} colonnes")
+travels = pd.read_csv("data/users_travels.csv")
+print(f"Dataset original: {travels.shape[0]} lignes, {travels.shape[1]} colonnes")
 
 # ==================== NETTOYAGE PAR COLONNE ====================
 
-def clean_data(df):
+def clean_data_profiles(df):
     """
-    Nettoie toutes les colonnes du dataset pour préparer l'entraînement ML
+    Nettoie toutes les colonnes du dataset profiles pour préparer l'entraînement ML
     """
     df_clean = df.copy()
     
@@ -41,19 +43,6 @@ def clean_data(df):
 
     df_clean['first_name'] = df_clean['first_name'].apply(clean_name)
     df_clean['last_name'] = df_clean['last_name'].apply(clean_name)
-    
-    # 3. TRAVEL_REASON - Nettoyer les codes incorrects
-    valid_travel_reasons = ['Travail/études', 'Autre', 'Visite famille/amis', 'Loisirs/vacances']
-    # Remplacer les codes TRV_* par NaN
-    df_clean['travel_reason'] = df_clean['travel_reason'].apply(
-        lambda x: x if x in valid_travel_reasons else np.nan
-    )
-
-    # 4. EXPECTATIONS_FROM_NEIGHBOR - Nettoyer les valeurs incorrectes
-    valid_expectations = ['Discussion sympa', 'Rester tranquille', 'Réseautage pro', 'Échanger sur un sujet commun', 'Autre']
-    df_clean['expectations_from_neighbor'] = df_clean['expectations_from_neighbor'].apply(
-        lambda x: x if x in valid_expectations else np.nan
-    )
 
     # 5. INTERESTS_MAIN - Nettoyer les valeurs incorrectes
     valid_main_interests = [
@@ -73,12 +62,6 @@ def clean_data(df):
     ]
     df_clean['interests_sub'] = df_clean['interests_sub'].apply(
         lambda x: x if x in valid_sub_interests else np.nan
-    )
-
-    # 7. CONVERSATION_TRIGGER - Nettoyer les valeurs incorrectes
-    valid_triggers = ['Ça dépend', 'Jamais', 'Le trajet est long', 'La conversation est légère', 'Il/elle partage mes centres d\'intérêt']
-    df_clean['conversation_trigger'] = df_clean['conversation_trigger'].apply(
-        lambda x: x if x in valid_triggers else np.nan
     )
 
     # 8. PREFERRED_PERSONALITY - Nettoyer les valeurs incorrectes
@@ -102,13 +85,6 @@ def clean_data(df):
     valid_languages = ['Français', 'Anglais', 'Espagnol', 'Italien', 'Allemand', 'Autre']
     df_clean['languages_spoken'] = df_clean['languages_spoken'].apply(
         lambda x: x if x in valid_languages else np.nan
-    )
-
-    # 13. OPENNESS_SCORE - Nettoyer les valeurs incorrectes
-    # Les valeurs valides sont 0, 1, 2, 3, 4, 5, 6
-    valid_scores = [0, 1, 2, 3, 4, 5, 6]
-    df_clean['openness_score'] = df_clean['openness_score'].apply(
-        lambda x: x if x in valid_scores else np.nan
     )
 
     # 11. AGE - Convertir en numérique et nettoyer
@@ -135,12 +111,64 @@ def clean_data(df):
     
     return df_clean
 
+def clean_data_travels(df):
+    """
+    Nettoie toutes les colonnes du dataset travels pour préparer l'entraînement ML
+    """
+    df_clean = df.copy()
+
+    # 1. USER_ID - Vérifier le format UUID (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx)
+    uuid_pattern = re.compile(r'^[a-fA-F0-9]{8}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{12}$')
+    def is_valid_uuid(uid):
+        return bool(uuid_pattern.match(str(uid)))
+    
+    invalid_user_ids = ~df_clean['user_id'].apply(is_valid_uuid)
+    if invalid_user_ids.any():
+        for idx in df_clean[invalid_user_ids].index:
+            fname = df_clean.at[idx, 'first_name']
+            lname = df_clean.at[idx, 'last_name']
+            print(f"{fname} {lname} veuillez vous reconnecter")
+        df_clean = df_clean[~invalid_user_ids].reset_index(drop=True)
+
+    # 3. TRAVEL_REASON - Nettoyer les codes incorrects
+    valid_travel_reasons = ['Travail/études', 'Autre', 'Visite famille/amis', 'Loisirs/vacances']
+    # Remplacer les codes TRV_* par NaN
+    df_clean['travel_reason'] = df_clean['travel_reason'].apply(
+        lambda x: x if x in valid_travel_reasons else np.nan
+    )
+
+    # 4. EXPECTATIONS_FROM_NEIGHBOR - Nettoyer les valeurs incorrectes
+    valid_expectations = ['Discussion sympa', 'Rester tranquille', 'Réseautage pro', 'Échanger sur un sujet commun', 'Autre']
+    df_clean['expectations_from_neighbor'] = df_clean['expectations_from_neighbor'].apply(
+        lambda x: x if x in valid_expectations else np.nan
+    )
+
+    # 7. CONVERSATION_TRIGGER - Nettoyer les valeurs incorrectes
+    valid_triggers = ['Ça dépend', 'Jamais', 'Le trajet est long', 'La conversation est légère', 'Il/elle partage mes centres d\'intérêt']
+    df_clean['conversation_trigger'] = df_clean['conversation_trigger'].apply(
+        lambda x: x if x in valid_triggers else np.nan
+    )
+
+    # 13. OPENNESS_SCORE - Nettoyer les valeurs incorrectes
+    # Les valeurs valides sont 0, 1, 2, 3, 4, 5, 6
+    valid_scores = [0, 1, 2, 3, 4, 5, 6]
+    df_clean['openness_score'] = df_clean['openness_score'].apply(
+        lambda x: x if x in valid_scores else np.nan
+    )
+    
+    return df_clean
+
 # ==================== EXÉCUTION ====================
 
 # Nettoyer les données
-df_clean = clean_data(df)
+profiles_clean = clean_data_profiles(profiles)
+travels_clean = clean_data_travels(travels)
 
-print(f"Dataset nettoyé: {df_clean.shape[0]} lignes, {df_clean.shape[1]} colonnes")
-df_clean.to_csv("data/data_survey_clean.csv", index=False)
-print("Données nettoyées enregistrées dans data_survey_clean.csv")
+print(f"Dataset nettoyé: {profiles_clean.shape[0]} lignes, {profiles_clean.shape[1]} colonnes")
+profiles_clean.to_csv("data/data_profiles_clean.csv", index=False)
+print("Données nettoyées enregistrées dans data_profiles_clean.csv")
+
+print(f"Dataset nettoyé: {travels_clean.shape[0]} lignes, {travels_clean.shape[1]} colonnes")
+travels_clean.to_csv("data/data_travels_clean.csv", index=False)
+print("Données nettoyées enregistrées dans data_travels_clean.csv")
 
