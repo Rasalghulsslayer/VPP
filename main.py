@@ -6,3 +6,9 @@ Ce script permet de run complétement notre pipeline ETL avec les étapes suivan
 
 A run avec: python main.py
 """
+
+### Modifications à faire selon votre environnement
+
+"""
+Dans generate_data.py, modifier la ligne 90 pour enregistrer le CSV dans le bon dossier de votre environnement 
+"""
