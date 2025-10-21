@@ -120,11 +120,7 @@ def clean_data(df):
     df_clean['age'] = df_clean['age'].clip(16, 120)
   
     # 14. GENDER - Standardiser les valeurs
-    valid_gender = {
-        'Non-binar': 'Non-binaire',
-        'Prefere pas': 'Préfère ne pas dire',
-        'Hommee': 'Homme'
-    }
+    valid_gender = {'Non-binaire', 'Préfère ne pas dire', 'Homme', 'Femme'}
     df_clean['gender'] = df_clean['gender'].apply(
         lambda x: x if x in valid_gender else np.nan
     )
