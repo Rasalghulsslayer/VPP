@@ -1,0 +1,1001 @@
+user_id,first_name,last_name,age,gender,sexual_orientation,languages_spoken,interests_main,interests_sub,topics_to_avoid,created_at
+ace115bb-222b-4f71-af26-123c7df78c7e,Chantal,Langlois,56,Femme,Hétéro,Espagnol|Anglais|Italien,Podcasts,3812,Aucun,2025-03-19T14:09:11.487625
+f91b0abb-6653-46d0-8d30-70271a4f2e36,Hélène,Brun,42,Homme,Pan,Espagnol|Français|Anglais,Voyage|Cuisine|Sport,Voyage:City trip|Cuisine:Cuisine du monde|Sport:Yoga,Politique,2025-04-10T14:09:11.487734
+2616bb83-a49f-455c-807d-343853691143,Marguerite,Delannoy,62,Préfère ne pas dire,Préfère ne pas dire,Allemand,Photographie,Photographie:Urbain,Aucun|Religion,2024-10-26T14:09:11.487796
+e91b29ad-2303-4680-8509-79beb19a03f9,Danielle,Lelièvre,22,Préfère ne pas dire,Bi,Autre|Espagnol,Cuisine,Cuisine:Végétarien/vegan,Actualité sensible,2024-10-27T14:09:11.487847
+e135997e-c151-4aa2-857d-9b0cd1722a01,Adélaïde,Teixeira,62,Homme,Homo,Allemand|Espagnol,Podcasts|Photographie|Entrepreneuriat,Podcasts:Développement perso|Photographie:Portrait|Entrepreneuriat:Investissement,Actualité sensible,2025-03-30T14:09:11.487921
+1ce6c3df-8ffa-4011-b536-2b1c542f2243,Maurice,Martin,57,Préfère ne pas dire,Pan,Allemand|Anglais|Espagnol,Entrepreneuriat,Entrepreneuriat:Marketing,Aucun|Vie privée,2025-04-19T14:09:11.487999
+6d0ec4b8-435e-4cfd-a6f8-870da4bd0777,Madeleine,Jean,64,Femme,Hétéro,Autre,Sciences,Sciences:Sciences sociales,Vie privée,2025-04-09T14:09:11.488048
+91ae885f-0d30-455f-b88d-abd4af8d3221,Julien,Carlier,16,Femme,Préfère ne pas dire,Autre|Espagnol,Sport,Sport:Randonnée,Vie privée,2025-10-20T14:09:11.488093
+bf0f2914-664d-4476-b9d8-f33817eb658e,Clémence,Leroux,22,Non-binaire,Préfère ne pas dire,Anglais|Autre|Espagnol,Photographie,Photographie:Portrait,Vie privée|Politique,2025-08-25T14:09:11.488176
+f2dd17a3-4d2b-40ae-b904-63ff1d8eac8c,Constance,Perret,52,Femme,Hétéro,Allemand|Français|Anglais,Sciences,Sciences:Sciences sociales,Actualité sensible,2025-01-24T14:09:11.488245
+375a1bab-72f0-4c2e-b372-b899fff6cedc,Marie,Prévost,61,Non-binaire,Pan,Autre|Espagnol|Allemand,Jeux vidéo|Musique|Entrepreneuriat,Jeux vidéo:FPS|Musique:Pop|Entrepreneuriat:Marketing,Aucun,2025-01-11T14:09:11.488297
+616ce897-d49b-4eeb-8d1d-8551d7f437fe,Emmanuelle,Nicolas,30,Femme,Hétéro,Français|Italien,Sport,Sport:Escalade,Aucun,2025-08-15T14:09:11.488345
+0c70b92e-880f-42eb-b85f-7906de18a3b4,Gilbert,Vaillant,28,Femme,Hétéro,Allemand|Espagnol|Autre,Jeux vidéo|Lecture,Jeux vidéo:Action|Lecture:Romans,Actualité sensible|Politique,2025-06-16T14:09:11.488393
+1fe20014-dae1-4b88-88d8-e017620447f2,Éléonore,Dias,33,Préfère ne pas dire,Homo,Allemand,Musique|Lecture|Photographie,Musique:World|Lecture:Romans|Photographie:Portrait,Religion,2025-03-27T14:09:11.488442
+bac07db1-2a93-4aa8-aca6-6767a9721cf7,Gabrielle,Gilles,40,Femme,Pan,Allemand|Espagnol,Podcasts|Photographie,Podcasts:Tech|Photographie:Paysage,Actualité sensible,2025-07-02T14:09:11.488493
+123bfca0-e52e-4015-b2a7-27fb2b7dcc42,Monique,Mary,53,Préfère ne pas dire,Préfère ne pas dire,Anglais|Français|Italien,Musique,Musique:Jazz/Blues,Religion,2025-03-29T14:09:11.488539
+5f72b3d2-2ca4-4b56-87af-81cb72fbf48d,Pauline,Gosselin,55,Femme,Pan,Italien|Autre|Espagnol,Entrepreneuriat|Sciences,Entrepreneuriat:Marketing|Sciences:Physique,Vie privée|Religion,2024-11-12T14:09:11.488583
+f80779d8-054f-4145-8fd8-6fec70256139,Amélie,Marie,45,Femme,Hétéro,Anglais|Italien|Espagnol,Cuisine,Cuisine:Gastronomie FR,Actualité sensible,2025-05-29T14:09:11.488627
+bd813397-eea1-4cc4-90d9-e0c580ca2924,Marguerite,Bousquet,58,Non-binaire,Hétéro,Espagnol,Musique,Musique:Classique,Actualité sensible,2025-05-30T14:09:11.488669
+8eda1142-38f3-47fa-b887-3c4f3d0b376b,Thomas,Guibert,47,Non-binaire,Hétéro,Autre,Sport|Lecture,Sport:Football|Lecture:Développement personnel,Actualité sensible,2025-07-31T14:09:11.488712
+5d85461b-e91b-4e62-aa25-c99ddd3a0cf0,Stéphanie,Grondin,20,Homme,Préfère ne pas dire,Espagnol,Photographie|Technologie|Voyage,Photographie:Paysage|Technologie:Programmation|Voyage:Nature,Politique|Actualité sensible,2025-07-06T14:09:11.488767
+4e25dced-f5db-43b9-bba7-bd4fa61aadc9,Clémence,Fernandez,55,Homme,Homo,Anglais,Lecture|Technologie,Lecture:Développement personnel|Technologie:Cybersécurité,Actualité sensible,2025-08-01T14:09:11.488814
+3778de79-fe58-4272-aab6-71ac20202295,Michèle,Mathieu,30,Homme,Pan,Espagnol|Anglais,Lecture,Lecture:Essais,Actualité sensible|Aucun,2025-09-16T14:09:11.488862
+811a53ad-5390-46c1-9611-688d93355577,Matthieu,Fernandes,59,Non-binaire,Hétéro,Espagnol,Arts & culture,Arts & culture:Arts visuels,Politique,2024-12-20T14:09:11.488929
+06bcce16-5796-432d-acc8-265a3647c2bf,Margot,Leroy,23,Préfère ne pas dire,Préfère ne pas dire,Espagnol,Podcasts,Podcasts:Tech,Aucun,2025-01-19T14:09:11.488996
+33df16d8-1229-4212-9251-223e320e0b42,Richard,Martel,58,Non-binaire,Préfère ne pas dire,Autre|Français,Sport|Photographie|Podcasts,Sport:Randonnée|Photographie:Urbain|Podcasts:Tech,Aucun|Religion,2025-07-15T14:09:11.489049
+e60d0d9a-1857-4844-8a4d-82344e0cb2cf,Pauline,Marchal,35,Préfère ne pas dire,Préfère ne pas dire,Espagnol,Entrepreneuriat|Voyage,Entrepreneuriat:Marketing|Voyage:Culture & musées,Vie privée|Religion,2025-02-02T14:09:11.489096
+b7bb8f9d-7e27-4e60-8662-65a9df312b71,Zacharie,Imbert,58,Non-binaire,Hétéro,Autre,Entrepreneuriat|Podcasts,Entrepreneuriat:Investissement|Podcasts:Actualité,Religion,2025-02-20T14:09:11.489140
+ebdf3e7c-2b99-4bf7-afb2-9b170e8ac58f,Audrey,Pages,28,Préfère ne pas dire,Pan,Anglais|Autre,Podcasts|Lecture|Musique,Podcasts:Tech|Lecture:Essais|Musique:Rock,Politique|Religion,2025-08-20T14:09:11.489187
+9a78be7f-40c1-48af-9ba0-1d5575063a21,Thibault,Noël,36,Préfère ne pas dire,Préfère ne pas dire,Italien|Allemand|Autre,Podcasts,Podcasts:Tech,Actualité sensible|Religion,2024-11-29T14:09:11.489231
+56fe9238-6284-44c6-bf1a-2cb82490d7a7,Vincent,Mathieu,20,Non-binaire,Homo,Espagnol|Autre,Musique|Technologie|Sciences,Musique:Rock|Technologie:Cybersécurité|Sciences:Physique,Politique,2025-03-23T14:09:11.489283
+84d25ee8-8f28-44ff-af98-e1092cefd547,Alex,Laporte,69,Préfère ne pas dire,Pan,Autre|Français|Allemand,Lecture|Cuisine,Lecture:Développement personnel|Cuisine:Pâtisserie,Aucun|Religion,2025-02-14T14:09:11.489329
+5efeda04-0be5-4cb7-a745-2d0cba54a900,Denis,Nicolas,37,Préfère ne pas dire,Homo,Anglais|Italien,Lecture|Voyage|Arts & culture,Lecture:Romans|Voyage:Road trip|Arts & culture:Histoire,Vie privée,2025-07-20T14:09:11.489373
+9c5287d4-ee5c-42d8-a78c-50b4db1e8669,Adrien,Barthelemy,36,Non-binaire,Pan,Allemand|Espagnol,Jeux vidéo,Jeux vidéo:Action,Actualité sensible,2025-06-29T14:09:11.489419
+8bd2e2ff-9f00-4bbf-b5e7-b5d350b46e07,Arthur,Lebrun,69,Femme,Préfère ne pas dire,Anglais,Jeux vidéo,Jeux vidéo:Action,Vie privée,2024-10-28T14:09:11.489459
+d4c89158-57f8-469f-8d34-9864f4bedb85,Pierre,Goncalves,63,Femme,Homo,Français|Italien,Sport,Sport:Randonnée,Religion|Politique,2024-12-22T14:09:11.489507
+1fa988d5-d31e-4733-9db4-0e89950361c7,Étienne,Godard,67,Femme,Préfère ne pas dire,Espagnol,Voyage|Sciences|Cuisine,Voyage:Road trip|Sciences:Santé|Cuisine:Gastronomie FR,Vie privée|Politique,2025-03-14T14:09:11.489552
+994fecc1-d0bb-4020-82a4-d1e8ca455b45,Charles,Hervé,62,Non-binaire,Préfère ne pas dire,Allemand|Autre|Italien,Arts & culture|Sport|Cuisine,Arts & culture:Théâtre|Sport:Basket|Cuisine:Végétarien/vegan,Religion|Vie privée,2025-01-03T14:09:11.489598
+85e44b31-dd37-48cc-997f-cde9b2d2ee80,Gilbert,Foucher,70,Non-binaire,Homo,Anglais|Espagnol,Cuisine|Sport,Cuisine:Végétarien/vegan|Sport:Ski,Aucun,2025-07-16T14:09:11.489640
+fc660f36-f2d3-461f-afc3-b99f077ebd8e,Jérôme,Gallet,60,Préfère ne pas dire,Pan,Français|Autre,Entrepreneuriat|Voyage,Entrepreneuriat:Investissement|Voyage:Nature,Vie privée|Actualité sensible,2025-03-18T14:09:11.489683
+c6243fac-4633-4a88-8d8b-b690a37fe645,Claudine,Martinez,35,Non-binaire,Homo,Autre,Cuisine,Cuisine:Gastronomie FR,Religion,2025-07-03T14:09:11.489723
+9087b934-1648-4609-8be5-72653890273d,William,Faure,34,Femme,Homo,Anglais|Espagnol,Sport,Sport:Football,Actualité sensible,2025-09-28T14:09:11.489763
+93a97123-b305-4ab2-9e7d-a02043d0f506,Virginie,Fouquet,16,Non-binaire,Pan,Allemand|Espagnol,Lecture,Lecture:Développement personnel,Politique|Aucun,2025-03-30T14:09:11.489804
+94447633-0ab2-438a-988a-02860ccd04be,Margaud,Chevallier,35,Femme,Homo,Italien,Arts & culture|Podcasts,Arts & culture:Théâtre|Podcasts:Culture,Vie privée|Aucun,2025-05-22T14:09:11.489845
+f763b218-2fb1-4156-a9cd-fceffcc2a299,Geneviève,Gautier,19,Femme,Homo,Anglais|Espagnol|Français,Entrepreneuriat,Entrepreneuriat:Investissement,Religion,2025-10-20T14:09:11.489927
+a627bf90-2769-48d1-9e0c-83519d5e87ca,Pierre,Pichon,34,Non-binaire,Pan,Autre,Sport,Sport:Running,Politique|Religion,2024-11-24T14:09:11.489997
+f9a8f850-0f11-42fc-a51a-78d7c1938b4c,Arnaude,Mary,26,Non-binaire,Préfère ne pas dire,Italien|Espagnol|Allemand,Jeux vidéo,Jeux vidéo:RPG,Actualité sensible|Vie privée,2025-03-11T14:09:11.490044
+638200bd-72b2-446f-b1d1-c6707e98d28a,Thibault,Payet,32,Femme,Hétéro,Autre,Arts & culture|Lecture|Sport,Arts & culture:Cinéma|Lecture:Essais|Sport:Escalade,Actualité sensible|Religion,2024-12-26T14:09:11.490132
+e1d6bece-616f-4c16-b1fb-2fe6719593dd,Nathalie,Lecoq,42,Non-binaire,Bi,Français|Anglais|Espagnol,Podcasts|Jeux vidéo,Podcasts:Développement perso|Jeux vidéo:Casual,Vie privée,2025-09-06T14:09:11.490185
+99ad5096-ed3d-4e08-9b0a-12e5652531ac,Margaux,Schneider,68,Femme,Préfère ne pas dire,Allemand|Français,Photographie,Photographie:Urbain,Vie privée|Politique,2025-07-09T14:09:11.490230
+a2efae5b-a07b-4084-9828-fb4d867f064e,Margaux,Pasquier,23,Femme,Préfère ne pas dire,Autre,Sport,Sport:Ski,Aucun,2025-03-27T14:09:11.490271
+232e01f9-56ca-40b8-960f-6d687e8d0124,Sébastien,Riou,47,Non-binaire,Préfère ne pas dire,Espagnol|Allemand|Italien,Entrepreneuriat|Jeux vidéo,Entrepreneuriat:Investissement|Jeux vidéo:Casual,Aucun,2025-02-03T14:09:11.490325
+569d8634-8faa-4d6a-b3da-e355556c8aec,Thérèse,Techer,37,Non-binaire,Hétéro,Autre|Espagnol,Arts & culture|Sciences|Jeux vidéo,Arts & culture:Théâtre|Sciences:Sciences sociales|Jeux vidéo:Retro,Actualité sensible|Aucun,2025-01-12T14:09:11.490373
+4fb9b860-2e9f-4165-9d75-f03cbaab86a6,Grégoire,Hamon,60,Homme,Préfère ne pas dire,Anglais|Allemand,Cuisine,Cuisine:Pâtisserie,Vie privée|Religion,2025-02-10T14:09:11.490420
+d0601259-d231-4cee-ab64-7eba05b08a67,Laurence,Renard,22,Préfère ne pas dire,Hétéro,Allemand|Français|Anglais,Sciences|Technologie,Sciences:Biologie|Technologie:Cybersécurité,Actualité sensible|Vie privée,2024-11-23T14:09:11.490472
+7f570d5a-6ea0-4990-bd6d-b0850062b99b,Raymond,Loiseau,56,Préfère ne pas dire,Préfère ne pas dire,Italien,Entrepreneuriat,Entrepreneuriat:Marketing,Politique,2025-03-13T14:09:11.490519
+86256114-8c91-4cb0-a75c-409fdb656d95,Pierre,Gonzalez,17,Femme,Bi,Espagnol,Cuisine|Voyage,Cuisine:Cuisine du monde|Voyage:City trip,Aucun|Religion,2025-07-26T14:09:11.490565
+83a38744-075a-4bd7-85f6-ecb57f9a3bce,Aimé,Blanc,53,Homme,Homo,Autre|Espagnol,Sport|Sciences,Sport:Football|Sciences:Sciences sociales,Aucun|Religion,2025-09-14T14:09:11.490615
+87f5d6b3-91f7-4370-9429-06d353bc55d1,Laetitia,Moulin,60,Non-binaire,Pan,Anglais|Allemand,Musique|Entrepreneuriat,Musique:Électro|Entrepreneuriat:Marketing,Actualité sensible|Politique,2024-11-18T14:09:11.490660
+893567d2-06c9-4658-8737-87b4e1ddef86,Agathe,Sauvage,63,Préfère ne pas dire,Bi,Italien,Entrepreneuriat|Sciences,Entrepreneuriat:Investissement|Sciences:Santé,Politique,2024-12-04T14:09:11.490704
+6375af2a-33bb-46d6-bff7-93011842ab9d,Olivier,Descamps,39,Homme,Hétéro,Espagnol|Allemand,Entrepreneuriat,Entrepreneuriat:Investissement,Aucun|Actualité sensible,2025-07-29T14:09:11.490747
+268350ac-ec4a-4cb2-a2ef-2639f596c4b2,Laurence,Bourgeois,45,Femme,Homo,Autre,Sciences|Voyage|Photographie,Sciences:Santé|Voyage:Road trip|Photographie:Édition,Actualité sensible,2025-01-20T14:09:11.490790
+fb1f2743-fcd7-46e4-9bac-23ef2ec1f322,Denise,Leclercq,unknown,Non-binaire,Hétéro,Anglais|Allemand|Français,Photographie|Cuisine|Arts & culture,8072,Vie privée|Politique,2025-08-11T14:09:11.490834
+620b8a76-14de-4783-b417-076e77dac0e8,Emmanuel,Fontaine,58,Préfère ne pas dire,Préfère ne pas dire,Autre|Anglais|Allemand,Musique|Jeux vidéo|Arts & culture,Musique:Électro|Jeux vidéo:RPG|Arts & culture:Cinéma,Religion|Vie privée,2025-03-08T14:09:11.490885
+1a5d4ff4-6059-432c-9fd0-e68a5b3de248,Émilie,Boutin,57,Non-binaire,Hétéro,Espagnol|Anglais,Jeux vidéo,Jeux vidéo:Action,Aucun,2025-10-11T14:09:11.490965
+365e1d2d-e087-46d8-8cf4-6bf60f2917e7,Michèle,Lefort,29,Femme,Préfère ne pas dire,Italien,Entrepreneuriat,Entrepreneuriat:Marketing,Aucun,2025-10-20T14:09:11.491021
+582b05f7-5218-40a9-a2e4-f4a40b2fd447,Aimée,Guilbert,67,Homme,Hétéro,Français|Anglais|Autre,Entrepreneuriat|Arts & culture,Entrepreneuriat:Marketing|Arts & culture:Cinéma,Actualité sensible,2025-09-25T14:09:11.491067
+365f0d8a-82da-4bb7-9851-003f331571a0,Andrée,Blanchet,46,Préfère ne pas dire,Bi,Italien|Français|Allemand,Entrepreneuriat|Arts & culture|Lecture,Entrepreneuriat:Marketing|Arts & culture:Histoire|Lecture:Romans,Vie privée,2025-03-30T14:09:11.491113
+94c48826-ff1b-4565-b537-5054ab2e322c,Madeleine,Costa,21,Non-binaire,Préfère ne pas dire,Français,Sport,Sport:Ski,Vie privée|Actualité sensible,2025-03-03T14:09:11.491156
+8f732569-35cf-4c70-978e-b6db87c8a308,Pauline,Lucas,62,Homme,Pan,Anglais|Allemand,Jeux vidéo|Voyage,Jeux vidéo:Casual|Voyage:Road trip,Vie privée|Actualité sensible,2024-11-15T14:09:11.491211
+70207386-fbfa-44a3-808c-67c08003162a,Robert,Costa,69,Femme,Hétéro,Français|Espagnol,Photographie,Photographie:Portrait,Politique|Vie privée,2025-04-23T14:09:11.491256
+6f72a10f-67b8-4285-85d8-80cf5d536048,Mathilde,Lagarde,35,Non-binaire,Hétéro,Italien|Anglais|Autre,Jeux vidéo|Entrepreneuriat|Musique,Jeux vidéo:RPG|Entrepreneuriat:Marketing|Musique:Pop,Aucun|Religion,2025-03-16T14:09:11.491301
+1322f080-5e85-446f-97d6-fec8b1e01f99,Adrien,Hamel,27,Non-binaire,Bi,Espagnol|Français,Technologie,Technologie:Innovation,Politique|Religion,2024-12-01T14:09:11.491344
+fd53b7f8-b6f4-44ca-9aca-801bd107dc36,Aurélie,Gimenez,42,Préfère ne pas dire,Bi,Espagnol,Podcasts|Cuisine,Podcasts:Culture|Cuisine:Gastronomie FR,Religion,2025-08-02T14:09:11.491386
+57aa47ed-abd7-4398-942f-c3a78201dae0,Adélaïde,David,58,Préfère ne pas dire,Pan,Allemand|Autre|Espagnol,Photographie,Photographie:Portrait,Vie privée|Politique,2025-05-29T14:09:11.491428
+e5a94b81-38df-4b56-ba6c-e2a5f916cec6,Brigitte,Masse,30,Préfère ne pas dire,Préfère ne pas dire,Français,Sport,Sport:Running,Actualité sensible,2025-05-26T14:09:11.491473
+96483201-98cb-48f7-8189-fcad9f78f858,Adélaïde,Jacques,24,Préfère ne pas dire,Préfère ne pas dire,Anglais|Italien|Espagnol,Voyage,Voyage:Road trip,Politique|Vie privée,2025-09-12T14:09:11.491517
+89744ffa-79ac-40e7-a91b-2698890819a9,Rémy,Merle,34,Femme,Pan,Espagnol,Arts & culture,Arts & culture:Histoire,Politique|Vie privée,2025-08-28T14:09:11.491559
+c9d3fa43-74f2-48c6-8fd0-8c089501886b,Matthieu,Millet,35,Non-binaire,Homo,Anglais|Français,Sciences|Musique|Photographie,Sciences:Physique|Musique:World|Photographie:Urbain,Religion|Aucun,2025-08-30T14:09:11.491604
+5e0152f6-4e0b-456e-9c4c-b3451afe6b7d,Adrienne,Marchal,64,Femme,Homo,Allemand|Autre|Italien,Arts & culture|Sciences|Podcasts,Arts & culture:Arts visuels|Sciences:Santé|Podcasts:True crime,Politique|Vie privée,2025-03-09T14:09:11.491649
+9ca31e1f-639a-409f-8249-60fa5012c278,Théodore,Andre,48,Femme,Bi,Allemand|Français,Cuisine,Cuisine:Végétarien/vegan,Politique,2024-12-11T14:09:11.491690
+3397f69d-8172-40d5-a1c1-5419696aa12b,Jean,Vincent,66,Femme,Pan,Autre|Anglais|Espagnol,Jeux vidéo|Photographie|Technologie,Jeux vidéo:Action|Photographie:Édition|Technologie:Programmation,Politique|Religion,2025-10-01T14:09:11.491735
+75c17ea0-e4a3-4a66-8924-229d1449bb46,Arnaude,Blondel,55,Homme,Bi,Espagnol|Allemand,Cuisine|Sciences,Cuisine:Gastronomie FR|Sciences:Santé,Actualité sensible,2025-09-03T14:09:11.491777
+7870445c-a43f-4958-a0de-ecbb287e0a24,Augustin,Gay,25,Non-binaire,Hétéro,Autre|Anglais|Espagnol,Sciences|Podcasts,Sciences:Sciences sociales|Podcasts:True crime,Actualité sensible,2025-01-08T14:09:11.491821
+0bb90c31-89b7-490c-91f9-6d2f25134a99,Valentine,Poirier,57,Préfère ne pas dire,Préfère ne pas dire,Français|Espagnol,Technologie|Entrepreneuriat,Technologie:Gadgets|Entrepreneuriat:Design produit,Religion,2025-08-12T14:09:11.491870
+c94624ce-781c-4ed3-a39f-af639f2a6bf0,Marine,Guillaume,69,Femme,Bi,Anglais|Italien|Allemand,Technologie,Technologie:IA,Vie privée,2025-09-29T14:09:11.491913
+4cbdfabb-0285-4bcf-ba91-85e3d20d2f36,Sabine,Roche,64,Préfère ne pas dire,Homo,Anglais|Espagnol|Allemand,Cuisine,Cuisine:Pâtisserie,Actualité sensible|Vie privée,2025-02-06T14:09:11.491960
+b6574bc0-6232-4389-8217-ea290b4c8920,Lucie,Bailly,32,Femme,Pan,Italien|Français,Photographie|Musique|Sport,Photographie:Portrait|Musique:World|Sport:Rugby,Vie privée|Religion,2025-03-12T14:09:11.492005
+c4e79d0a-ce09-4759-9201-f8538caf021f,Adrien,Berthelot,42,Femme,Pan,Espagnol|Anglais|Allemand,Cuisine,Cuisine:Cuisine du monde,Actualité sensible,2025-09-01T14:09:11.492046
+cbd1a441-4149-4b72-83b4-81d32705059a,Hugues,Fontaine,34,Préfère ne pas dire,Homo,Allemand|Autre|Français,Lecture,Lecture:Développement personnel,Religion,2025-01-14T14:09:11.492087
+b481ee38-8e68-46df-a570-0ad210bd8014,Margaud,Lucas,35,Femme,Hétéro,Allemand,Arts & culture|Jeux vidéo|Musique,Arts & culture:Cinéma|Jeux vidéo:Casual|Musique:Jazz/Blues,Aucun,2024-12-31T14:09:11.492129
+3ade56c4-b4c5-415e-9a7b-8de4e1f04688,Anastasie,Diaz,55,Non-binaire,Homo,Allemand|Anglais|Français,Cuisine|Musique|Photographie,Cuisine:Gastronomie FR|Musique:Électro|Photographie:Édition,Vie privée,2025-04-13T14:09:11.492172
+801b874e-655c-4a95-95d3-96c6ab369997,Amélie,Renault,31,Femme,Préfère ne pas dire,Espagnol|Anglais|Français,Photographie|Cuisine,Photographie:Paysage|Cuisine:Pâtisserie,Religion|Aucun,2025-09-19T14:09:11.492215
+9f42a8af-e7ed-40fd-9e0e-bd04373981e9,Jean,Salmon,18,Homme,Hétéro,Espagnol|Italien,Photographie|Jeux vidéo,Photographie:Urbain|Jeux vidéo:Action,Actualité sensible,2025-04-22T14:09:11.492258
+e1cbc2d0-2de5-46b4-bad4-b854ade68041,Michelle,Collet,67,Non-binaire,Pan,Autre|Allemand,Cuisine|Technologie,Cuisine:Pâtisserie|Technologie:Cybersécurité,Aucun|Actualité sensible,2025-09-09T14:09:11.492301
+e3794c52-67cd-4e5c-b12c-58973378665f,Denis,Guichard,50,Non-binaire,Bi,Français,Sciences|Sport,Sciences:Santé|Sport:Escalade,Religion|Vie privée,2025-04-25T14:09:11.492341
+e729b6e7-856e-417a-920e-4765d57216ae,Madeleine,Richard,56,Femme,Hétéro,Autre|Allemand|Espagnol,Podcasts|Sciences|Technologie,Podcasts:Actualité|Sciences:Physique|Technologie:Innovation,Politique|Religion,2025-09-17T14:09:11.492385
+f1b35e59-c12c-4546-85db-18b008909028,Marie,Boucher,18,Homme,Pan,Espagnol|Allemand,Arts & culture,Arts & culture:Théâtre,Vie privée|Actualité sensible,2024-11-23T14:09:11.492429
+38ecd322-c195-4362-80c3-e8e824cc9b4b,Nicole,Raymond,49,Préfère ne pas dire,Préfère ne pas dire,Espagnol,Podcasts|Jeux vidéo,Podcasts:True crime|Jeux vidéo:Retro,Vie privée|Religion,2025-08-20T14:09:11.492472
+896378ee-8f92-4074-bcc2-4729b6fe1603,Suzanne,Devaux,21,Non-binaire,Bi,Français|Italien|Espagnol,Technologie|Sciences,Technologie:IA|Sciences:Santé,Politique,2025-07-11T14:09:11.492538
+926f0b1f-42d7-4d53-8e80-5c1673c2ef3f,Antoinette,Raymond,51,Non-binaire,Pan,Anglais|Italien|Français,Sport,Sport:Randonnée,Aucun|Vie privée,2025-03-26T14:09:11.492579
+71673dad-f16e-49b4-9d35-b6049b6e4825,Zoé,Marie,44,Préfère ne pas dire,Préfère ne pas dire,Anglais|Italien,Arts & culture|Technologie|Sciences,Arts & culture:Histoire|Technologie:Innovation|Sciences:Biologie,Aucun,2025-08-04T14:09:11.492619
+e64a6da1-cf4f-4659-9e24-02f50555c5ae,Margot,Ribeiro,49,Non-binaire,Hétéro,Anglais|Italien,Technologie|Sciences,Technologie:Gadgets|Sciences:Biologie,Aucun,2024-12-28T14:09:11.492663
+d176c3e1-df4d-4823-a9ae-844aa420b680,Dorothée,Lefebvre,21,Femme,Préfère ne pas dire,Autre|Anglais,Voyage|Arts & culture|Lecture,Voyage:Culture & musées|Arts & culture:Arts visuels|Lecture:Développement personnel,Religion|Vie privée,2025-05-22T14:09:11.492707
+3064a595-808c-46b0-9c37-14aacce872f0,André,Dufour,46,Préfère ne pas dire,Homo,Italien|Anglais,Podcasts|Cuisine,Podcasts:Développement perso|Cuisine:Pâtisserie,Actualité sensible,2025-01-31T14:09:11.492773
+3989e183-8159-4411-b694-661f8e02d3f6,Bernard,Le Gall,33,Préfère ne pas dire,Homo,Français,Sport,Sport:Randonnée,Religion|Aucun,2025-05-07T14:09:11.492843
+653e1f5d-311f-410b-9ca4-ad5a34b5772a,Daniel,Vidal,48,Préfère ne pas dire,Pan,Allemand|Français,Voyage,Voyage:Culture & musées,Religion,2024-12-27T14:09:11.492887
+0e87519d-be15-4594-8170-e65e5a65b52e,William,Lacombe,69,Préfère ne pas dire,Bi,Français|Autre|Allemand,Sport,Sport:Yoga,Actualité sensible|Politique,2025-03-30T14:09:11.492929
+730f1af0-7c58-40ce-bce8-9e9d48b48c2a,Élisabeth,Regnier,20,Préfère ne pas dire,Préfère ne pas dire,Italien|Espagnol,Sciences|Arts & culture|Musique,Sciences:Physique|Arts & culture:Cinéma|Musique:Électro,Actualité sensible|Aucun,2025-08-09T14:09:11.492972
+75b4d3e1-4e8c-406f-b503-ff46a45b13b9,Lucie,Antoine,18,Homme,Bi,Italien|Allemand,Arts & culture,Arts & culture:Théâtre,Aucun|Actualité sensible,2025-07-30T14:09:11.493034
+60f22bef-9a4d-4cce-9a3e-90851bebc3f8,Édith,Diaz,69,Préfère ne pas dire,Préfère ne pas dire,Allemand|Français,Cuisine|Sciences,Cuisine:Gastronomie FR|Sciences:Sciences sociales,Politique|Vie privée,2025-06-08T14:09:11.493079
+73bb2711-95c3-427d-a793-f95368dc9558,Dorothée,Guillaume,26,Préfère ne pas dire,Homo,Anglais|Français|Italien,Lecture,Lecture:BD/Mangas,Vie privée|Religion,2025-03-24T14:09:11.493120
+0b442e7b-520e-46e5-b876-2e49347e7de4,Victor,Navarro,70,Femme,Homo,Anglais|Italien|Espagnol,Jeux vidéo|Photographie|Voyage,Jeux vidéo:RPG|Photographie:Paysage|Voyage:Culture & musées,Aucun|Actualité sensible,2024-11-09T14:09:11.493163
+754d9dda-97b8-43f8-b120-d6382de7525a,Théodore,Gimenez,31,Non-binaire,Préfère ne pas dire,Anglais|Espagnol,Podcasts|Entrepreneuriat,Podcasts:Tech|Entrepreneuriat:Marketing,Actualité sensible|Aucun,2025-05-27T14:09:11.493206
+206be9dc-1ca1-4c5e-82f8-175f53a751da,Margaud,Auger,34,Femme,Bi,Français|Espagnol|Allemand,Sport|Jeux vidéo|Entrepreneuriat,Sport:Running|Jeux vidéo:Retro|Entrepreneuriat:Marketing,Religion|Politique,2024-12-10T14:09:11.493248
+46e626dc-8264-4226-8623-4d27f8680a4d,Virginie,Thomas,30,Homme,Hétéro,Allemand,Podcasts|Jeux vidéo,Podcasts:Actualité|Jeux vidéo:FPS,Aucun,2025-08-02T14:09:11.493288
+b22de332-c6fb-4fcb-99a1-d55bdfff9e69,Juliette,Laroche,36,Non-binaire,Hétéro,Autre,Entrepreneuriat|Photographie|Lecture,Entrepreneuriat:Investissement|Photographie:Édition|Lecture:Essais,Vie privée,2025-02-10T14:09:11.493330
+abf6c03f-2834-4f9a-a3e7-8f89f04cdf57,Thierry,Marie,52,Femme,Bi,Allemand|Italien,Jeux vidéo|Technologie|Photographie,Jeux vidéo:Casual|Technologie:Gadgets|Photographie:Paysage,Actualité sensible,2025-07-30T14:09:11.493371
+7fefa71c-825b-4cdb-8a03-d3ec73b5099e,Danielle,Maurice,66,Non-binaire,Préfère ne pas dire,Anglais|Autre|Allemand,Photographie|Cuisine,Photographie:Portrait|Cuisine:Pâtisserie,Religion,2025-08-11T14:09:11.493412
+df5f9afd-6126-4ce1-bb34-323f6ac0a77f,Éric,Hebert,31,Préfère ne pas dire,Bi,Espagnol|Italien,Arts & culture|Lecture|Sport,Arts & culture:Arts visuels|Lecture:Essais|Sport:Football,Vie privée,2025-05-17T14:09:11.493462
+3ed06f22-cdb9-4f46-92f8-5e9714a7e693,Vincent,Joly,55,Homme,Homo,Allemand,Jeux vidéo,Jeux vidéo:Retro,Vie privée|Aucun,2025-01-19T14:09:11.493505
+55345b73-705e-4e61-990e-044341b93c9e,Gérard,Marie,49,Préfère ne pas dire,Préfère ne pas dire,Espagnol|Français|Italien,Photographie,Photographie:Paysage,Religion,2025-05-07T14:09:11.493545
+8226e89c-05bc-4ffe-a226-80dc9b10d2c0,Hortense,Millet,47,Femme,Préfère ne pas dire,Français|Allemand,Photographie,Photographie:Édition,Aucun|Politique,2025-01-08T14:09:11.493583
+e56ae19f-4d25-46bc-92d5-eaf855bef091,Philippe,Jacquet,68,Femme,Homo,Français|Autre|Allemand,Podcasts|Musique,Podcasts:Culture|Musique:Pop,Vie privée,2025-10-05T14:09:11.493624
+2a9fa782-26c7-4329-9aa7-111dbc4f4146,Simone,Fontaine,40,Préfère ne pas dire,Pan,Français|Italien,Sciences,Sciences:Santé,Religion,2025-01-19T14:09:11.493662
+22ad292e-6d0e-4e82-b662-d94eb2c38ed5,Alexandria,Breton,35,Préfère ne pas dire,Préfère ne pas dire,Italien|Allemand,Entrepreneuriat,Entrepreneuriat:Design produit,Religion|Actualité sensible,2025-07-17T14:09:11.493700
+37c361f3-939c-45ae-bf31-38b7071be72a,Josette,Lamy,65,Femme,Homo,Français,Arts & culture,Arts & culture:Cinéma,Aucun|Politique,2025-06-18T14:09:11.493737
+92a53853-a143-467d-b05b-1cca535a6d7f,Xavier,Marty,29,Femme,Homo,Espagnol|Anglais|Autre,Arts & culture|Sciences|Cuisine,Arts & culture:Théâtre|Sciences:Santé|Cuisine:Cuisine du monde,Vie privée,2025-05-21T14:09:11.493778
+f9744cc0-f813-4f11-85b9-6908eaf8597a,Madeleine,Perrier,19,Non-binaire,Pan,Espagnol|Allemand|Italien,Sport,Sport:Randonnée,Aucun,2025-02-21T14:09:11.493816
+13226bc6-da4b-4d16-ab74-533058c67c83,Adrienne,Verdier,19,Préfère ne pas dire,Pan,Italien|Anglais|Allemand,Sport,Sport:Running,Politique|Vie privée,2025-04-15T14:09:11.493855
+6f495c06-051b-44d8-8e4a-1ff4b208f4e3,Maryse,Le Roux,59,Femme,Hétéro,Italien,Sciences|Photographie|Entrepreneuriat,Sciences:Sciences sociales|Photographie:Paysage|Entrepreneuriat:Marketing,Politique|Religion,2025-07-16T14:09:11.493990
+47edb307-2cf6-4894-a304-6f74d0f3d7ea,Louise,Payet,61,Homme,Pan,Italien,Sport|Voyage,Sport:Escalade|Voyage:Nature,Actualité sensible|Aucun,2025-02-01T14:09:11.494035
+f498d615-d07a-42b3-8775-b7cd748af250,Christine,Lévêque,29,Non-binaire,Bi,Français|Italien,Podcasts,Podcasts:True crime,Actualité sensible,2025-01-11T14:09:11.494073
+c4ce1aa7-1528-4736-b97f-44a8a3fe09da,René,Grégoire,37,Homme,Pan,Anglais|Allemand|Espagnol,Jeux vidéo|Sciences,Jeux vidéo:Casual|Sciences:Sciences sociales,Actualité sensible,2025-07-27T14:09:11.494113
+b6591d3e-abc1-4975-b24f-1836e00057bd,Brigitte,Lemaire,49,Femme,Hétéro,Français|Autre|Allemand,Sciences,Sciences:Physique,Religion,2025-10-17T14:09:11.494159
+52420b12-8915-482f-afc2-77eaa0bec283,Gabrielle,Gaudin,56,Préfère ne pas dire,Pan,Français,Photographie|Voyage|Lecture,Photographie:Portrait|Voyage:Nature|Lecture:Développement personnel,Aucun,2024-10-29T14:09:11.494203
+5afbee2a-44a0-407a-b9ce-82182199ddfb,Bernadette,Bertin,25,Homme,Homo,Italien|Espagnol|Autre,Voyage|Musique,Voyage:Nature|Musique:Électro,Aucun|Religion,2024-10-30T14:09:11.494244
+aa57f903-7bd7-4f07-848c-a58975126004,Louise,Lucas,40,Préfère ne pas dire,Préfère ne pas dire,Français|Autre,Technologie|Musique|Jeux vidéo,Technologie:Cybersécurité|Musique:Classique|Jeux vidéo:RPG,Aucun,2025-09-30T14:09:11.494290
+f23d7e48-94a2-4f4c-a462-448d579cd5dc,Corinne,Giraud,59,Non-binaire,Préfère ne pas dire,Autre|Français|Anglais,Lecture|Entrepreneuriat,Lecture:Essais|Entrepreneuriat:Design produit,Actualité sensible,2025-07-30T14:09:11.494333
+1ecc8e45-f877-4fc8-8148-34b9a0f0cc87,Jacqueline,Allard,64,Homme,Hétéro,Autre|Espagnol|Français,Voyage,Voyage:City trip,Actualité sensible,2024-12-16T14:09:11.494373
+eb1ed588-e361-4ea7-a304-a4713a377aa2,Élodie,Rivière,66,Préfère ne pas dire,Pan,Espagnol,Voyage|Podcasts|Technologie,Voyage:Culture & musées|Podcasts:Actualité|Technologie:Innovation,Religion|Politique,2025-09-09T14:09:11.494414
+78f7951f-b8e5-4dfe-8637-6273cac7d682,Aurore,Courtois,39,Femme,Hétéro,Espagnol,Cuisine|Sport,Cuisine:Gastronomie FR|Sport:Rugby,Religion,2025-03-15T14:09:11.494453
+5508e706-8a8f-41a9-919c-26541fc45bed,Yves,Cordier,38,Femme,Préfère ne pas dire,Espagnol|Allemand|Français,Voyage|Podcasts,Voyage:Road trip|Podcasts:Culture,Aucun,2025-01-28T14:09:11.494498
+2dec17f1-8a55-45fa-b60d-4f12cbca7bdc,Léon,Langlois,35,Non-binaire,Pan,Français,Voyage,Voyage:Nature,Actualité sensible|Vie privée,2025-09-12T14:09:11.494539
+2ba430cb-1cce-4223-bfbb-2d23651b905d,Margot,Lagarde,28,Préfère ne pas dire,Hétéro,Espagnol,Voyage,Voyage:Nature,Actualité sensible|Vie privée,2025-05-03T14:09:11.494578
+d65a97d1-6602-4343-8718-bd6da41c7651,Jacques,Dufour,60,Homme,Pan,Anglais|Allemand,Sport|Sciences,Sport:Escalade|Sciences:Physique,Vie privée|Actualité sensible,2025-04-03T14:09:11.494619
+f4bb25d1-b20d-415c-a763-937a3c00b3dc,Michelle,Fabre,59,Femme,Pan,Anglais|Allemand|Espagnol,Musique|Voyage|Jeux vidéo,Musique:Rock|Voyage:Nature|Jeux vidéo:FPS,Religion|Vie privée,2025-04-11T14:09:11.494663
+c00927d1-3f38-46f2-a538-27c620dc8dbc,Corinne,Martins,48,Préfère ne pas dire,Préfère ne pas dire,Espagnol,Photographie|Arts & culture|Musique,Photographie:Portrait|Arts & culture:Théâtre|Musique:Classique,Religion|Politique,2025-01-06T14:09:11.494704
+19b2cb82-6e56-4997-b4ab-6a4e9f4df791,Richard,Louis,16,Femme,Bi,Italien,Photographie|Podcasts|Arts & culture,Photographie:Paysage|Podcasts:Tech|Arts & culture:Arts visuels,Vie privée|Religion,2025-04-28T14:09:11.494746
+6fdd9ada-eb1f-4790-bffe-4dd6b9a018f2,Laurence,Leroy,21,Femme,Homo,Espagnol|Autre,Entrepreneuriat|Photographie,Entrepreneuriat:Design produit|Photographie:Urbain,Politique|Vie privée,2024-10-30T14:09:11.494787
+64e083f6-23fa-4b6e-af89-ec786c6443fb,Charles,Dubois,17,Non-binaire,Hétéro,Anglais|Autre|Italien,Technologie|Cuisine|Photographie,Technologie:Cybersécurité|Cuisine:Pâtisserie|Photographie:Paysage,Religion|Aucun,2024-11-28T14:09:11.494829
+dd8d771b-f208-4744-9990-5e561dfa6976,Véronique,Dos Santos,44,Préfère ne pas dire,Pan,Autre,Entrepreneuriat,Entrepreneuriat:Marketing,Aucun,2025-08-30T14:09:11.494872
+c7cd447b-b6de-4287-8702-72893c7ee9c7,Paul,Mercier,45,Femme,Bi,Allemand|Italien|Espagnol,Voyage|Arts & culture|Podcasts,Voyage:Road trip|Arts & culture:Arts visuels|Podcasts:Développement perso,Aucun|Religion,2024-11-11T14:09:11.494914
+d28999f2-6a2a-49ed-be19-ec8fce6c9ed6,Aimé,Le Roux,59,Homme,Bi,Anglais,Musique|Technologie,Musique:Rap/Hip-hop|Technologie:IA,Vie privée|Religion,2024-12-31T14:09:11.494953
+cf862808-accd-4c7c-bf8e-dba0ad76964b,Margaud,Vaillant,51,Homme,Pan,Anglais|Autre,Jeux vidéo|Arts & culture,Jeux vidéo:Action|Arts & culture:Arts visuels,Vie privée,2025-08-13T14:09:11.494993
+38a20252-11a2-49e2-87c0-3a35ac311c78,Alphonse,Guichard,42,Préfère ne pas dire,Pan,Allemand|Autre|Anglais,Arts & culture,Arts & culture:Cinéma,Actualité sensible,2025-10-05T14:09:11.495031
+1a592670-7e5f-4e90-87bb-16976e660dec,Jeannine,Brun,63,Préfère ne pas dire,Préfère ne pas dire,Français|Italien|Autre,Photographie|Cuisine,Photographie:Portrait|Cuisine:Pâtisserie,Vie privée,2025-08-30T14:09:11.495070
+5aa9964a-5366-4789-a9ea-e230d61618cc,Céline,Rocher,32,Non-binaire,Hétéro,Français|Anglais,Podcasts,Podcasts:Culture,Aucun|Vie privée,2025-07-29T14:09:11.495109
+a37df75d-ddee-4b7c-b3b1-6077f3e81aa9,Agathe,Lamy,38,Non-binaire,Préfère ne pas dire,Anglais|Espagnol|Italien,Arts & culture|Sport,Arts & culture:Cinéma|Sport:Rugby,Politique|Actualité sensible,2024-11-20T14:09:11.495149
+502b9237-012e-4a61-add1-6ca5273be092,Julie,Dubois,69,Homme,Pan,Anglais|Italien,Sport|Sciences|Voyage,Sport:Randonnée|Sciences:Sciences sociales|Voyage:Road trip,Vie privée,2025-01-31T14:09:11.495191
+4fd01d30-b763-4e43-b7ed-bd692ad098bd,Charlotte,Leroy,53,Femme,Hétéro,Allemand|Espagnol|Français,Voyage|Entrepreneuriat|Podcasts,Voyage:City trip|Entrepreneuriat:Design produit|Podcasts:Développement perso,Actualité sensible|Aucun,2025-01-14T14:09:11.495233
+a668ff1a-2ae4-4c0b-8637-86d8739f838b,Émilie,Germain,22,Préfère ne pas dire,Hétéro,Anglais,Jeux vidéo|Lecture,Jeux vidéo:Casual|Lecture:Essais,Actualité sensible,2025-08-01T14:09:11.495272
+23c63fa3-594e-4aab-9a25-bc1a0fe92d28,Véronique,Renard,21,Non-binaire,Homo,Allemand,Sport|Entrepreneuriat|Voyage,Sport:Basket|Entrepreneuriat:Création|Voyage:Road trip,Vie privée,2025-09-12T14:09:11.495312
+f9ef7d23-fe07-498a-b766-263dce9ce5d1,Thierry,Delmas,16,Non-binaire,Hétéro,Autre|Anglais,Musique|Entrepreneuriat,Musique:Électro|Entrepreneuriat:Création,Politique,2025-05-14T14:09:11.495351
+3ffac1c6-3b9b-43b5-b0fe-d4cf5b7feb47,Antoinette,Diaz,57,Homme,Hétéro,Italien|Français|Anglais,Cuisine|Entrepreneuriat,Cuisine:Cuisine du monde|Entrepreneuriat:Design produit,Religion|Politique,2025-08-31T14:09:11.495409
+64c13c34-ba86-448c-a3bb-acfc28e1072f,Lucas,Renaud,43,Non-binaire,Homo,Espagnol,Musique|Entrepreneuriat|Photographie,Musique:Jazz/Blues|Entrepreneuriat:Marketing|Photographie:Portrait,Religion|Aucun,2025-04-04T14:09:11.495472
+02c9e480-3abb-4a7f-af4b-b1fef1570aa6,Christelle,Lagarde,23,Homme,Pan,Italien|Français|Autre,Cuisine|Technologie,Cuisine:Pâtisserie|Technologie:Innovation,Actualité sensible|Religion,2025-02-22T14:09:11.495591
+4119d073-2a8b-461b-af12-a5449c558c18,Michelle,Verdier,16,Non-binaire,Homo,Français,Photographie|Sport,Photographie:Édition|Sport:Randonnée,Politique|Religion,2025-06-01T14:09:11.495688
+72659768-aba1-4a8e-9f70-bf071ce44edf,Amélie,Maillard,50,Non-binaire,Pan,Autre|Français|Espagnol,Voyage|Entrepreneuriat|Lecture,Voyage:City trip|Entrepreneuriat:Création|Lecture:BD/Mangas,Vie privée,2024-12-12T14:09:11.495826
+08f41bfb-220d-4b70-9457-0af95781110e,Julien,Nguyen,61,Homme,Hétéro,Allemand,Photographie|Podcasts,Photographie:Urbain|Podcasts:True crime,Religion|Actualité sensible,2025-08-22T14:09:11.495919
+4462e4b2-91c2-4a08-83aa-9c7ca62741d0,Dorothée,Fernandez,49,Femme,Bi,Italien|Français|Allemand,Photographie|Cuisine,Photographie:Portrait|Cuisine:Pâtisserie,Actualité sensible,2025-08-02T14:09:11.495998
+0c2f067b-5862-4ef6-8cba-4ae80851afa5,Thomas,Gérard,63,Femme,Hétéro,Anglais,Jeux vidéo,Jeux vidéo:RPG,Religion|Aucun,2025-10-03T14:09:11.496073
+40636dda-5062-4803-9646-bb03e387f5da,Anaïs,Becker,42,Non-binaire,Bi,Italien,Musique|Photographie,Musique:Classique|Photographie:Portrait,Religion,2025-01-30T14:09:11.496145
+c29b231d-31a3-4148-9faa-16e12f7460c6,Margaret,Picard,65,Non-binaire,Bi,Italien,Lecture|Cuisine,Lecture:Essais|Cuisine:Végétarien/vegan,Aucun|Religion,2025-02-26T14:09:11.496224
+efec3bd6-cf6d-4708-ba2c-9b8369a1ac02,Michel,Lecoq,25,Femme,Pan,Anglais,Cuisine|Sciences|Lecture,Cuisine:Végétarien/vegan|Sciences:Biologie|Lecture:BD/Mangas,Politique|Religion,2025-01-23T14:09:11.496300
+9a06db69-fd3c-4815-9962-940fac086143,Nathalie,Lemonnier,61,Non-binaire,Hétéro,Anglais,Voyage|Cuisine|Jeux vidéo,Voyage:Road trip|Cuisine:Gastronomie FR|Jeux vidéo:Retro,Vie privée,2025-09-13T14:09:11.496394
+721bd34b-0422-485c-99fd-58e7a06fd308,Hélène,Pons,34,Non-binaire,Bi,Autre|Espagnol,Jeux vidéo|Sport,Jeux vidéo:FPS|Sport:Basket,Religion,2024-12-26T14:09:11.496462
+7f4c96e0-e88f-40f7-bfac-6b1822526f69,Benoît,Cousin,36,Préfère ne pas dire,Hétéro,Espagnol|Anglais|Allemand,Jeux vidéo|Sport,Jeux vidéo:Action|Sport:Basket,Actualité sensible,2024-10-26T14:09:11.496509
+c91d8e03-f9c0-4035-8bff-7becf68b08fd,Sabine,Chauvin,21,Homme,Bi,Italien|Français,Sport|Podcasts|Technologie,Sport:Football|Podcasts:Tech|Technologie:Cybersécurité,Politique,2025-02-27T14:09:11.496555
+bd23463f-f76a-46ce-9216-ec4a81b96023,Lucas,Pottier,69,Homme,Homo,Allemand,Sciences|Podcasts,Sciences:Biologie|Podcasts:Culture,Politique|Aucun,2025-09-18T14:09:11.496597
+4c58d9d8-9d13-4a31-ab63-b56a9914268d,Roland,Chrétien,23,Femme,Pan,Anglais,Voyage|Podcasts|Jeux vidéo,Voyage:Road trip|Podcasts:Tech|Jeux vidéo:Casual,Actualité sensible,2025-07-04T14:09:11.496661
+c8232670-9e48-4055-a019-45ee7b307e7e,Anouk,Perrin,18,Homme,Bi,Allemand|Italien,Lecture|Musique,Lecture:Développement personnel|Musique:Électro,Vie privée,2025-07-11T14:09:11.496715
+7a648168-650d-4497-8b11-cdd428ae1c68,Christelle,Bouchet,66,Non-binaire,Pan,Allemand|Espagnol|Italien,Sport|Technologie,Sport:Football|Technologie:Gadgets,Politique,2025-05-31T14:09:11.496810
+733982c7-e91e-4404-a9c3-5e758e021e54,Paulette,Peron,30,Homme,Hétéro,Autre,Sport,Sport:Ski,Religion,2024-12-31T14:09:11.496864
+b7a0bf57-802e-47f8-899a-71e81781a875,Matthieu,Maurice,31,Non-binaire,Bi,Français|Espagnol|Anglais,Entrepreneuriat|Jeux vidéo|Photographie,Entrepreneuriat:Marketing|Jeux vidéo:FPS|Photographie:Édition,Politique,2025-09-23T14:09:11.496914
+c988da2d-6521-4fe2-b856-1ef915ff022a,Bernadette,Masse,16,Non-binaire,Préfère ne pas dire,Anglais,Podcasts|Technologie,Podcasts:Développement perso|Technologie:Programmation,Religion,2024-12-25T14:09:11.496966
+8d5c9880-4d64-4ff3-8e3f-1cbb716a2cd7,Margot,Laurent,20,Non-binaire,Pan,Français|Espagnol|Italien,Technologie|Podcasts,Technologie:Cybersécurité|Podcasts:Tech,Religion|Actualité sensible,2025-06-29T14:09:11.497016
+10df6718-4a07-42a3-9a2d-b4078d6e4e28,Danielle,Gaillard,24,Homme,Hétéro,Italien|Allemand|Français,Arts & culture,Arts & culture:Arts visuels,Aucun,2025-08-29T14:09:11.497072
+481e937a-5c38-4b50-966b-c72de56ed04f,Hugues,Rousset,38,Non-binaire,Homo,Français|Espagnol|Allemand,Sport,Sport:Running,Politique,2025-04-25T14:09:11.497118
+372c3d52-6772-479e-a6db-9369fca6e654,Stéphane,Boucher,44,Préfère ne pas dire,Homo,Allemand|Autre,Photographie|Voyage,Photographie:Portrait|Voyage:Culture & musées,Religion,2025-03-04T14:09:11.497162
+80f9a47f-f7df-4ebc-98bd-8f087c98ca86,Marcel,Verdier,32,Femme,Hétéro,Anglais|Allemand,Podcasts,Podcasts:Actualité,Actualité sensible,2024-12-21T14:09:11.497206
+bdd06868-a366-4d75-a8c2-49ca7d53559c,Denis,Martins,54,Préfère ne pas dire,Homo,Français,Entrepreneuriat|Podcasts,Entrepreneuriat:Design produit|Podcasts:Culture,Actualité sensible|Aucun,2025-06-22T14:09:11.497249
+8b06793e-4f9d-434e-9698-d805eee8fcfc,Julie,Fleury,25,Femme,Bi,Allemand,Sport,Sport:Escalade,Politique,2025-10-08T14:09:11.497289
+57513272-bc55-41e8-954e-b3da9741aa5b,Alain,Ledoux,35,Préfère ne pas dire,Pan,Autre|Espagnol,Sciences,Sciences:Sciences sociales,Actualité sensible,2025-04-09T14:09:11.497329
+fba2bbcd-b8dd-41eb-8a02-926a4fe6ee2c,Laurence,Dijoux,45,Non-binaire,Homo,Italien|Français,Podcasts,Podcasts:Actualité,Actualité sensible,2025-01-17T14:09:11.497368
+ea169a5d-8072-4921-a9bf-fc8e3798e1d7,Simone,Buisson,68,Préfère ne pas dire,Préfère ne pas dire,Allemand|Italien|Anglais,Sport|Musique,Sport:Randonnée|Musique:World,Aucun,2025-01-02T14:09:11.497455
+f376e14e-b29e-48eb-915b-79c7aa2afb9f,Diane,Lemaître,26,Homme,Homo,Français,Musique|Sciences,Musique:Électro|Sciences:Physique,Aucun,2025-06-11T14:09:11.497504
+cc9eceb9-c869-42ef-aa4b-2cfa8ca98d38,Marguerite,Dias,41,Non-binaire,Bi,Allemand|Français|Autre,Voyage,Voyage:City trip,Aucun,2024-12-24T14:09:11.497546
+599e5094-f50d-438d-a101-7cdb46ef25ed,Émilie,Poirier,66,Non-binaire,Préfère ne pas dire,Allemand|Espagnol,Sciences|Jeux vidéo,Sciences:Sciences sociales|Jeux vidéo:Action,Actualité sensible,2025-03-29T14:09:11.497590
+10a5f5a2-7772-4ba7-a0ae-ab08586135cc,Thibault,Lefebvre,60,Homme,Hétéro,Allemand|Espagnol|Italien,Cuisine,Cuisine:Végétarien/vegan,Actualité sensible|Vie privée,2024-10-30T14:09:11.497630
+640f6508-7815-4c49-b45a-d560552fd1a0,Martin,Garcia,65,Non-binaire,Bi,Allemand|Italien|Français,Jeux vidéo,Jeux vidéo:FPS,Vie privée|Actualité sensible,2025-09-23T14:09:11.497670
+8b295ad5-9edb-45b6-a427-c25fa4a1b16b,Henriette,Blanc,41,Homme,Préfère ne pas dire,Français|Anglais|Italien,Lecture,Lecture:Essais,Vie privée,2025-09-26T14:09:11.497715
+c803af7c-1300-424c-97b2-afa8f73d9fb7,Martine,Leleu,48,Préfère ne pas dire,Hétéro,Français|Anglais|Espagnol,Arts & culture|Jeux vidéo,Arts & culture:Théâtre|Jeux vidéo:Casual,Actualité sensible|Religion,2025-06-11T14:09:11.497757
+d45f7008-9d21-4e8d-963b-90c2f6c0e860,Bernard,Samson,19,Homme,Préfère ne pas dire,Anglais,Entrepreneuriat|Sciences|Podcasts,Entrepreneuriat:Marketing|Sciences:Sciences sociales|Podcasts:Culture,Politique,2025-02-21T14:09:11.497799
+ff67ed39-8845-43f8-84a8-a3d8d98ec241,Christine,Blot,32,Non-binaire,Bi,Allemand|Espagnol,Sport|Entrepreneuriat,Sport:Escalade|Entrepreneuriat:Marketing,Aucun|Politique,2025-10-18T14:09:11.497841
+9fb9c7cb-600f-4b24-ab6b-5456dd6d4181,Jeannine,Ferrand,34,Non-binaire,Hétéro,Français|Espagnol,Sciences|Cuisine,Sciences:Santé|Cuisine:Végétarien/vegan,Religion|Aucun,2025-01-30T14:09:11.497936
+c465d31a-d5f9-413e-8ebc-c96f2ca1fbde,Stéphanie,Grenier,59,Homme,Hétéro,Allemand|Espagnol|Italien,Voyage|Podcasts,Voyage:Road trip|Podcasts:Culture,Actualité sensible,2024-10-21T14:09:11.498011
+58104603-684f-4927-84eb-b087a159772c,Corinne,Alves,70,Homme,Préfère ne pas dire,Espagnol,Jeux vidéo,Jeux vidéo:FPS,Aucun|Religion,2024-11-07T14:09:11.498059
+3f94f623-3082-470c-a64e-01962b14d4c1,Étienne,Perrier,63,Non-binaire,Pan,Espagnol|Autre,Sport|Jeux vidéo|Musique,Sport:Escalade|Jeux vidéo:Action|Musique:World,Vie privée,2025-07-14T14:09:11.498108
+5c998399-b684-4e3c-b5aa-ff8e0cd528da,Franck,Gros,19,Homme,Homo,Espagnol,Arts & culture|Jeux vidéo,Arts & culture:Théâtre|Jeux vidéo:RPG,Politique,2025-02-14T14:09:11.498152
+97c5456b-f0de-4b34-b0b9-2dafeb838265,Guillaume,Lamy,44,Non-binaire,Homo,Italien,Jeux vidéo,Jeux vidéo:Action,Aucun,2025-03-13T14:09:11.498191
+14345c49-1bf7-4e01-ac2a-48f7edd4f715,Sylvie,Chauvin,16,Femme,Préfère ne pas dire,Autre,Lecture|Cuisine,Lecture:Essais|Cuisine:Gastronomie FR,Religion,2025-06-28T14:09:11.498231
+b393f119-49aa-4f9b-bb24-4f4de076b740,Édouard,Marchand,40,Non-binaire,Homo,Français,Sport|Jeux vidéo,Sport:Ski|Jeux vidéo:Retro,Vie privée|Religion,2025-04-29T14:09:11.498272
+de49a4e6-e6cf-4db7-8d47-c77171568a18,Nicolas,Normand,67,Préfère ne pas dire,Hétéro,Anglais,Technologie|Entrepreneuriat|Lecture,Technologie:Innovation|Entrepreneuriat:Investissement|Lecture:Romans,Politique|Vie privée,2024-11-28T14:09:11.498314
+0c22497f-9213-41db-8676-da93fd41d3ac,Benjamin,Pichon,57,Femme,Hétéro,Français|Allemand|Italien,Musique|Photographie,Musique:Rap/Hip-hop|Photographie:Édition,Religion,2024-10-31T14:09:11.498361
+d958bf4f-ac10-4fdf-84fa-a6d949eea132,Éléonore,Lucas,58,Non-binaire,Préfère ne pas dire,Autre|Anglais|Allemand,Photographie,Photographie:Portrait,Politique|Aucun,2025-02-09T14:09:11.498402
+fa49b513-c851-46a6-9e18-c73065c6d5b4,Sophie,Charpentier,38,Préfère ne pas dire,Bi,Français,Jeux vidéo|Entrepreneuriat|Podcasts,Jeux vidéo:RPG|Entrepreneuriat:Investissement|Podcasts:Actualité,Politique,2025-08-26T14:09:11.498444
+647d766f-2390-4d67-90c5-bff01cad2376,Gilbert,Nguyen,20,Femme,Bi,Anglais|Allemand|Espagnol,Jeux vidéo|Lecture,Jeux vidéo:Action|Lecture:Essais,Actualité sensible,2025-04-20T14:09:11.498485
+ad4452f1-66c2-4407-b386-b7bc5dcfdddd,Thomas,Monnier,70,Femme,Hétéro,Autre,Technologie|Cuisine|Sciences,Technologie:Cybersécurité|Cuisine:Végétarien/vegan|Sciences:Biologie,Actualité sensible|Religion,2025-08-24T14:09:11.498527
+5d0d6b1c-a363-4d4d-b242-ff5836aa4922,Bernadette,Allard,67,Préfère ne pas dire,Homo,Anglais,Podcasts|Lecture|Technologie,Podcasts:Actualité|Lecture:BD/Mangas|Technologie:Innovation,Aucun|Vie privée,2025-07-21T14:09:11.498569
+4b83e892-e670-4ea3-af8d-1f9111f2fd99,Martine,Roy,46,Préfère ne pas dire,Hétéro,Allemand|Français,Sport,Sport:Yoga,Aucun,2024-12-30T14:09:11.498607
+a3d2b14b-e8a6-4ecf-b76a-ecf7f6205e3f,Marine,Jourdan,60,Femme,Pan,Autre|Anglais|Allemand,Sciences|Podcasts,Sciences:Sciences sociales|Podcasts:True crime,Politique,2024-11-26T14:09:11.498648
+ae3e91aa-5e32-4b23-9587-3b0a100f1a29,Manon,Fleury,64,Préfère ne pas dire,Bi,Espagnol,Lecture|Photographie,Lecture:Essais|Photographie:Édition,Religion|Politique,2025-02-28T14:09:11.498687
+db3172dc-dcab-47a3-afe5-40cc71710fa5,Michelle,Lamy,36,Femme,Pan,Autre|Français|Italien,Voyage|Lecture,Voyage:Road trip|Lecture:Romans,Aucun|Religion,2024-11-20T14:09:11.498727
+90789c52-005a-492e-b797-d85bc75f2acb,Geneviève,Samson,70,Préfère ne pas dire,Bi,Italien|Autre|Allemand,Sciences|Cuisine|Jeux vidéo,Sciences:Biologie|Cuisine:Gastronomie FR|Jeux vidéo:FPS,Actualité sensible,2025-04-23T14:09:11.498775
+d6931367-27ae-4af4-9625-6b885814b605,Timothée,Michaud,60,Femme,Hétéro,Allemand,Podcasts,Podcasts:Tech,Actualité sensible,2024-12-13T14:09:11.498814
+30aac9af-fadd-4eac-b65a-34d891deac1b,Susan,Picard,68,Homme,Bi,Allemand,Sciences,Sciences:Biologie,Vie privée|Religion,2025-02-08T14:09:11.498852
+5488d9a3-c432-45db-8d3e-1723f46e413d,Franck,Rodriguez,65,Homme,Préfère ne pas dire,Autre,Musique,Musique:Électro,Aucun|Vie privée,2025-03-21T14:09:11.498920
+a3f103c1-7216-48dd-b879-51ec6977a4e2,Roger,Le Gall,34,Préfère ne pas dire,Homo,Allemand,Podcasts|Photographie|Sport,Podcasts:Culture|Photographie:Urbain|Sport:Ski,Religion,2025-07-06T14:09:11.498982
+705c67df-238e-4d2a-9146-c2bc5dc68dd1,William,Mendès,48,Non-binaire,Hétéro,Italien|Allemand,Arts & culture|Sciences|Voyage,Arts & culture:Arts visuels|Sciences:Sciences sociales|Voyage:Road trip,Politique,2025-04-09T14:09:11.499030
+f1a72a2f-f684-4d56-98b5-63da5f532cdc,Édouard,Jean,34,Non-binaire,Homo,Autre,Entrepreneuriat|Photographie,Entrepreneuriat:Création|Photographie:Urbain,Politique|Religion,2024-11-24T14:09:11.499072
+3c5f5b37-afe1-4529-be96-baee384e262d,Margaret,Samson,40,Préfère ne pas dire,Pan,Espagnol|Italien|Français,Podcasts,Podcasts:Développement perso,Aucun,2025-03-09T14:09:11.499122
+781f3a07-0e74-44ba-bf66-7b78d0c94359,Charles,Blanc,28,Homme,Bi,Anglais|Français,Technologie,Technologie:Innovation,Vie privée,2025-10-01T14:09:11.499166
+3a05a0e3-2064-4cfc-a6e4-7aab95e1d511,Catherine,Masse,70,Non-binaire,Hétéro,Allemand|Anglais,Technologie,Technologie:Gadgets,Aucun,2024-11-17T14:09:11.499208
+ef5f465d-17da-4189-b93f-7e24d472c2c9,Françoise,Camus,30,Homme,Préfère ne pas dire,Italien,Voyage,Voyage:Culture & musées,Actualité sensible,2025-06-30T14:09:11.499248
+edb067f3-af12-4a47-a4cd-f59e2ed292f3,Éléonore,Mercier,29,Préfère ne pas dire,Préfère ne pas dire,Français|Autre|Espagnol,Entrepreneuriat|Sciences,Entrepreneuriat:Investissement|Sciences:Biologie,Vie privée|Politique,2025-04-07T14:09:11.499291
+1a343b3d-2115-4aa7-85c0-d2fa3efd4637,Aurore,Collet,48,Préfère ne pas dire,Pan,Espagnol,Entrepreneuriat|Cuisine|Photographie,Entrepreneuriat:Création|Cuisine:Gastronomie FR|Photographie:Paysage,Politique,2025-07-06T14:09:11.499333
+9763e4f2-982a-4c79-b21d-2d53e0f78456,Aurore,Garcia,50,Préfère ne pas dire,Hétéro,Autre|Anglais|Français,Podcasts|Cuisine,Podcasts:Actualité|Cuisine:Gastronomie FR,Politique,2025-07-22T14:09:11.499375
+a7e6f8d3-c7b0-46ed-86da-14f5bcd0d99c,Agnès,Berger,42,Préfère ne pas dire,Pan,Allemand|Autre|Espagnol,Voyage,Voyage:Road trip,Aucun,2025-09-19T14:09:11.499413
+d30ae91c-c5ed-4054-8d6f-c709e3a34249,Virginie,Aubert,22,Non-binaire,Bi,Français|Espagnol|Allemand,Voyage|Sciences,Voyage:Road trip|Sciences:Sciences sociales,Aucun,2025-07-01T14:09:11.499453
+5bad6f21-14ba-4cb9-b86c-07eb64aa8021,Jeanne,Bernard,35,Non-binaire,Hétéro,Italien|Anglais|Français,Lecture,Lecture:BD/Mangas,Actualité sensible,2025-07-06T14:09:11.499492
+c86d6fca-5c6d-4b8c-9471-e12cd1773f27,Jeannine,Mathieu,25,Homme,Homo,Italien,Entrepreneuriat|Musique,Entrepreneuriat:Investissement|Musique:Classique,Aucun,2025-02-27T14:09:11.499530
+1f3935f4-77f0-40e8-a349-36900421d457,Laure,Marion,22,Homme,Préfère ne pas dire,Espagnol|Autre,Sciences,Sciences:Physique,Actualité sensible,2024-12-08T14:09:11.499573
+f1c56991-0ec7-4da3-9b98-d10d87e274c1,Zoé,Martin,37,Non-binaire,Préfère ne pas dire,Italien,Cuisine|Podcasts|Voyage,Cuisine:Cuisine du monde|Podcasts:Actualité|Voyage:Nature,Religion,2024-10-22T14:09:11.499620
+9596d0f8-a49f-43f5-9656-0415fc882ac1,Alex,Bousquet,59,Non-binaire,Pan,Allemand|Espagnol,Jeux vidéo|Photographie,Jeux vidéo:Action|Photographie:Paysage,Actualité sensible,2025-08-11T14:09:11.499661
+e7ba4d02-b466-4c4b-9a17-266516f59d99,Patrick,Loiseau,17,Femme,Préfère ne pas dire,Allemand|Italien|Anglais,Photographie,Photographie:Urbain,Religion|Actualité sensible,2025-04-04T14:09:11.499702
+d57bd9f2-1117-40d4-a233-0e78c647533f,Brigitte,Moulin,48,Femme,Pan,Italien|Français,Entrepreneuriat|Arts & culture|Technologie,Entrepreneuriat:Investissement|Arts & culture:Histoire|Technologie:IA,Aucun,2025-01-05T14:09:11.499744
+58539565-0a8b-4880-a659-afdb1c332915,Marcelle,Lelièvre,N/A,Préfère ne pas dire,Homo,Espagnol,Entrepreneuriat|Lecture,Entrepreneuriat:Investissement|Lecture:Développement personnel,Vie privée|Aucun,2025-09-28T14:09:11.499787
+2146d3c1-ca29-4a8f-927d-0b81507c646c,Alain,Guichard,52,Homme,Pan,Allemand|Espagnol|Français,Sport|Voyage|Entrepreneuriat,Sport:Ski|Voyage:Culture & musées|Entrepreneuriat:Marketing,Vie privée|Aucun,2024-12-16T14:09:11.499837
+da3d12d1-92b8-47a5-8ba4-186d306ab4f7,Agathe,Blin,29,Homme,Homo,Espagnol,Podcasts|Musique|Entrepreneuriat,Podcasts:Tech|Musique:World|Entrepreneuriat:Marketing,Vie privée,2024-11-10T14:09:11.499900
+fcaaa22c-d09f-418a-8f79-d142c1f54372,Julie,Gaudin,17,Homme,Hétéro,Italien,Technologie|Podcasts|Photographie,Technologie:Programmation|Podcasts:Culture|Photographie:Paysage,Religion,2025-06-11T14:09:11.499969
+f8164f3f-d839-4b70-8fe5-355216c529b3,Franck,Diaz,62,Non-binaire,Hétéro,Allemand,Jeux vidéo|Podcasts|Technologie,Jeux vidéo:FPS|Podcasts:Tech|Technologie:Innovation,Aucun,2025-07-20T14:09:11.500018
+c6b57fb8-0d5d-41a7-b9e4-ceb1e4c0182c,Anouk,Marty,54,Femme,Homo,Allemand|Anglais,Lecture,Lecture:Essais,Religion|Politique,2025-07-23T14:09:11.500061
+4015c427-0bc1-4c63-875a-832b53fe3378,Luce,Pages,21,Préfère ne pas dire,Homo,Italien|Français|Allemand,Voyage|Cuisine|Lecture,Voyage:Culture & musées|Cuisine:Cuisine du monde|Lecture:BD/Mangas,Actualité sensible|Politique,2025-03-18T14:09:11.500113
+fc016ce0-9148-4ac8-b245-f54ca0adeacc,Théophile,Roux,54,Préfère ne pas dire,Bi,Français,Podcasts|Lecture|Arts & culture,Podcasts:Culture|Lecture:Romans|Arts & culture:Cinéma,Religion|Actualité sensible,2025-03-26T14:09:11.500158
+218aa9b4-66c2-4f2b-8a0b-e8e9808d4789,Théodore,Lemonnier,32,Préfère ne pas dire,Préfère ne pas dire,Italien|Espagnol,Voyage|Entrepreneuriat|Podcasts,Voyage:Culture & musées|Entrepreneuriat:Investissement|Podcasts:Développement perso,Actualité sensible|Aucun,2024-12-30T14:09:11.500201
+562961c6-ee8b-44c4-b711-73952b2d9aca,Jules,De Oliveira,44,Homme,Hétéro,Italien,Cuisine|Photographie,Cuisine:Gastronomie FR|Photographie:Paysage,Politique|Aucun,2025-08-08T14:09:11.500278
+0eb90c8b-4b77-4d26-841b-cb30fec12e9e,Élisabeth,Perez,30,Non-binaire,Hétéro,Français|Allemand|Italien,Sciences|Photographie|Sport,Sciences:Biologie|Photographie:Paysage|Sport:Escalade,Politique|Religion,2024-11-19T14:09:11.500338
+60f33a2b-3a92-4c6f-bb05-c08512d9063e,Éric,Klein,48,Homme,Préfère ne pas dire,Autre,Cuisine,Cuisine:Cuisine du monde,Religion,2025-09-07T14:09:11.500381
+49356159-4442-4a34-b0bc-431de77c38d0,Aimée,Bousquet,53,Homme,Préfère ne pas dire,Autre,Musique|Podcasts|Photographie,Musique:Rap/Hip-hop|Podcasts:Culture|Photographie:Urbain,Actualité sensible|Religion,2024-12-15T14:09:11.500424
+9e808277-4bd8-4391-800a-bb9f58775092,Élisabeth,Jacquot,32,Homme,Pan,Français|Italien|Autre,Sport|Cuisine|Musique,Sport:Ski|Cuisine:Végétarien/vegan|Musique:Jazz/Blues,Vie privée|Aucun,2025-01-06T14:09:11.500468
+d98c9b96-b6b6-46d4-9457-497a7cf11810,Virginie,Gimenez,53,Femme,Pan,Espagnol,Voyage,Voyage:City trip,Actualité sensible,2025-03-24T14:09:11.500515
+48ae5392-69d0-4fe3-83b6-571e0b72f2f7,Céline,Evrard,21,Préfère ne pas dire,Bi,Italien,Jeux vidéo,Jeux vidéo:RPG,Religion|Actualité sensible,2025-07-20T14:09:11.500555
+5d844677-fe26-4899-a8fe-360101d02b96,Christiane,Bertrand,63,Homme,Bi,Anglais,Entrepreneuriat,Entrepreneuriat:Marketing,Politique,2025-08-21T14:09:11.500593
+74ed3820-bcdb-4a8a-a504-e29046fe11f7,Capucine,David,18,Préfère ne pas dire,Bi,Espagnol|Allemand|Autre,Technologie|Photographie,Technologie:Gadgets|Photographie:Édition,Aucun,2025-08-17T14:09:11.500634
+60bc1022-9ca3-4142-a9af-1160679498c9,Françoise,Guyot,48,Non-binaire,Pan,Anglais|Allemand|Français,Photographie|Jeux vidéo|Cuisine,Photographie:Portrait|Jeux vidéo:Action|Cuisine:Cuisine du monde,Aucun|Politique,2025-05-08T14:09:11.500676
+e7d6f46f-e210-49c6-b596-9d2b4003e525,Anne,Foucher,31,Non-binaire,Pan,Espagnol|Autre|Anglais,Voyage|Entrepreneuriat,Voyage:Culture & musées|Entrepreneuriat:Marketing,Vie privée|Actualité sensible,2025-03-05T14:09:11.500716
+d07c13b5-2c04-4a0d-ae9e-70d4838d2719,Astrid,Roger,62,Non-binaire,Homo,Allemand|Autre|Anglais,Podcasts,Podcasts:True crime,Politique|Religion,2025-03-20T14:09:11.500760
+b72bce02-3647-40ae-bb9f-bd67d70d93f7,Thierry,Marie,51,Femme,Pan,Autre,Lecture,Lecture:Essais,Vie privée|Politique,2025-03-05T14:09:11.500800
+70836d3e-d401-408a-a4bf-ca97d19b807b,Antoine,Garcia,51,Non-binaire,Bi,Allemand,Cuisine,Cuisine:Cuisine du monde,Actualité sensible,2025-04-23T14:09:11.500844
+ec556c2a-cb75-44d6-b899-b9c83b7f5afd,Maggie,Marchand,55,Non-binaire,Pan,Anglais|Autre|Espagnol,Sciences|Arts & culture,Sciences:Sciences sociales|Arts & culture:Cinéma,Religion,2025-04-29T14:09:11.500885
+4f15ab41-0dac-4a7e-9366-de751a89b33e,Hortense,Barbe,57,Préfère ne pas dire,Bi,Espagnol|Italien,Jeux vidéo|Voyage|Technologie,Jeux vidéo:FPS|Voyage:Road trip|Technologie:IA,Actualité sensible,2024-10-28T14:09:11.500953
+79de63a7-e1bd-47ba-9a71-edb257b534de,Martine,Bertrand,22,Femme,Pan,Français|Autre|Allemand,Musique|Podcasts|Sport,Musique:Jazz/Blues|Podcasts:True crime|Sport:Basket,Actualité sensible|Religion,2025-06-17T14:09:11.501016
+8f7b0240-2c46-43a4-8dc9-75f9d47527c4,Philippine,Faure,69,Homme,Hétéro,Autre,Cuisine|Jeux vidéo,Cuisine:Pâtisserie|Jeux vidéo:Retro,Aucun|Vie privée,2025-08-13T14:09:11.501061
+f85f3bde-3c74-4e44-a613-08a547382c72,Éric,Gauthier,56,Préfère ne pas dire,Préfère ne pas dire,Autre|Italien|Espagnol,Jeux vidéo|Photographie,Jeux vidéo:FPS|Photographie:Portrait,Actualité sensible|Aucun,2025-03-24T14:09:11.501103
+4cef1dcc-44a5-47a4-bab0-f5780a57a3ab,Constance,Menard,68,Homme,Bi,Allemand|Italien,Podcasts,Podcasts:Tech,Actualité sensible|Politique,2025-03-15T14:09:11.501150
+1f7046fb-2a3f-449e-a4c4-4630c064c7ea,Françoise,Gaudin,28,Préfère ne pas dire,Préfère ne pas dire,Allemand|Anglais,Podcasts,Podcasts:Tech,Religion|Actualité sensible,2025-09-11T14:09:11.501193
+a028b078-9455-4283-a5dd-f01dcbe51897,Caroline,Colas,34,Non-binaire,Pan,Français,Technologie,Technologie:Gadgets,Vie privée,2024-12-09T14:09:11.501232
+a347754d-604c-494f-8cc3-cb96c3f68876,Renée,Da Costa,25,Femme,Préfère ne pas dire,Anglais,Sport,Sport:Cyclisme,Vie privée,2025-10-17T14:09:11.501270
+7df98ea8-c931-41f7-92b1-1d7bb8af8512,Antoine,Barre,37,Préfère ne pas dire,Bi,Espagnol|Allemand,Lecture|Cuisine|Musique,Lecture:Essais|Cuisine:Gastronomie FR|Musique:Rap/Hip-hop,Politique|Vie privée,2025-07-21T14:09:11.501312
+7a99f293-daaf-432d-ba1e-55d6a1d71ed9,Renée,Foucher,65,Homme,Pan,Anglais|Français,Jeux vidéo,Jeux vidéo:Action,Vie privée,2025-04-05T14:09:11.501352
+5af1ce78-4bcd-4ec3-8759-a249b61355e3,Margaud,Jourdan,63,Femme,Bi,Autre|Espagnol,Cuisine,Cuisine:Gastronomie FR,Politique,2025-06-23T14:09:11.501401
+25ee0f29-581e-4095-8861-8fe1b0a70285,Marie,Chevalier,53,Femme,Pan,Français,Arts & culture,Arts & culture:Histoire,Actualité sensible,2025-09-06T14:09:11.501439
+61140eb1-265d-495e-9d0b-ec48600ab5ba,Timothée,Lagarde,64,Femme,Hétéro,Autre|Anglais,Photographie|Musique|Technologie,Photographie:Édition|Musique:Rock|Technologie:Gadgets,Vie privée|Religion,2025-10-11T14:09:11.501481
+d55d3d96-f784-496e-8a5d-4771d30bb64d,Juliette,Godard,47,Préfère ne pas dire,Préfère ne pas dire,Italien|Allemand,Arts & culture,Arts & culture:Théâtre,Actualité sensible|Vie privée,2025-06-03T14:09:11.501521
+f11348c5-45ec-415e-952c-058fd4410703,Élodie,Jourdan,44,Non-binaire,Bi,Espagnol|Allemand|Français,Photographie|Voyage|Technologie,Photographie:Portrait|Voyage:Nature|Technologie:Innovation,Actualité sensible,2025-09-19T14:09:11.501562
+a50889d6-bbbc-49ee-b47f-d10b1fb7e3bc,Susanne,Bonneau,65,Homme,Préfère ne pas dire,Espagnol|Allemand,Cuisine|Musique|Sciences,Cuisine:Gastronomie FR|Musique:Pop|Sciences:Physique,Politique,2025-07-10T14:09:11.501602
+f6e5203f-16b3-435f-b8ae-9c8f20982334,Nathalie,Maurice,57,Préfère ne pas dire,Pan,Italien|Autre|Espagnol,Cuisine,Cuisine:Cuisine du monde,Politique,2025-07-07T14:09:11.501640
+919918c2-ab32-4605-b55d-b7751d3403a2,Aimé,Courtois,51,Préfère ne pas dire,Bi,Français|Italien|Espagnol,Lecture|Musique|Sport,Lecture:Romans|Musique:Rock|Sport:Ski,Politique,2025-06-25T14:09:11.501683
+9eb07647-7c48-4000-ab1d-25467f21846a,Aurélie,Gallet,52,Homme,Préfère ne pas dire,Italien|Allemand|Français,Arts & culture|Cuisine|Jeux vidéo,Arts & culture:Histoire|Cuisine:Gastronomie FR|Jeux vidéo:FPS,Aucun,2025-03-30T14:09:11.501724
+74b9a848-0a7d-4f76-81f6-559945f6dd4b,Olivier,Pons,38,Non-binaire,Préfère ne pas dire,Espagnol|Allemand,Voyage|Cuisine|Arts & culture,Voyage:City trip|Cuisine:Cuisine du monde|Arts & culture:Histoire,Actualité sensible|Vie privée,2025-03-06T14:09:11.501767
+91898895-3455-4a7f-95c1-a929b202df98,Luc,Salmon,17,Homme,Bi,Espagnol,Entrepreneuriat,Entrepreneuriat:Marketing,Actualité sensible,2025-01-11T14:09:11.501805
+9495dbd7-a762-4e4b-b981-022cad8f7870,Auguste,Dijoux,38,Homme,Homo,Espagnol|Italien,Entrepreneuriat,Entrepreneuriat:Marketing,Politique|Vie privée,2025-01-03T14:09:11.501844
+64368ada-e600-4fcc-a31d-17413bf0c3e2,Timothée,Rolland,47,Femme,Préfère ne pas dire,Espagnol|Français|Allemand,Lecture,Lecture:Développement personnel,Vie privée|Aucun,2025-08-21T14:09:11.501936
+e1c4457e-f2a7-4ba4-b6c8-76a5808d23e2,Cécile,Rolland,19,Non-binaire,Préfère ne pas dire,Espagnol,Arts & culture|Technologie|Cuisine,Arts & culture:Théâtre|Technologie:IA|Cuisine:Gastronomie FR,Vie privée|Politique,2025-06-30T14:09:11.501985
+47e4d603-352e-4f9c-90d2-d34131443b50,Théodore,Ollivier,21,Préfère ne pas dire,Préfère ne pas dire,Français|Italien|Allemand,Musique|Voyage,Musique:Jazz/Blues|Voyage:Culture & musées,Religion,2025-02-17T14:09:11.502069
+a1ab4159-e85a-4365-b496-f7b823de4284,Eugène,Andre,51,Homme,Homo,Espagnol,Cuisine|Sciences,Cuisine:Gastronomie FR|Sciences:Biologie,Vie privée|Actualité sensible,2025-04-26T14:09:11.502117
+89e6ae6d-d7a4-42f2-a6e9-8f5cc282a6cb,Alex,Gaillard,26,Non-binaire,Préfère ne pas dire,Italien|Anglais,Lecture|Entrepreneuriat,Lecture:Essais|Entrepreneuriat:Marketing,Politique,2025-08-25T14:09:11.502166
+a0ca7c8a-5309-4bbc-833b-7ce83b440b8b,Franck,Jacques,16,Non-binaire,Hétéro,Allemand|Autre,Cuisine,Cuisine:Cuisine du monde,Religion,2025-01-15T14:09:11.502211
+5cffeb84-6698-4694-8486-b2346755cb6a,Mathilde,Parent,62,Homme,Hétéro,Italien|Autre,Sport,Sport:Rugby,Actualité sensible,2025-07-11T14:09:11.502252
+82ab2eab-40f8-46ce-92fe-4fa8589d8231,Nathalie,Robert,20,Préfère ne pas dire,Bi,Autre|Espagnol|Français,Sport,Sport:Randonnée,Vie privée,2025-02-03T14:09:11.502291
+3da2c275-513c-4e20-aa9c-2ab22e3a0b9d,Étienne,Barre,50,Femme,Homo,Italien,Photographie|Lecture,Photographie:Portrait|Lecture:Essais,Actualité sensible|Vie privée,2025-04-03T14:09:11.502331
+e88bae53-7c58-4837-a664-1d651b98dab1,Laurent,Lefort,56,Non-binaire,Homo,Espagnol|Français|Autre,Lecture|Photographie,Lecture:Développement personnel|Photographie:Paysage,Actualité sensible,2025-04-03T14:09:11.502372
+00c65488-eee3-41df-8d6e-b5aebcb0e7a9,Théodore,Teixeira,56,Homme,Pan,Italien,Voyage,Voyage:Nature,Vie privée|Religion,2025-07-08T14:09:11.502412
+74b91113-20a8-4734-a924-778815a4aaf6,Laurent,Deschamps,24,Préfère ne pas dire,Homo,Italien|Anglais|Espagnol,Photographie,Photographie:Portrait,Actualité sensible,2025-08-08T14:09:11.502452
+079dab9d-accb-4ec2-b0b7-e79c59c4c09f,Roger,Chevalier,44,Non-binaire,Homo,Français,Technologie,Technologie:Programmation,Aucun|Religion,2024-12-20T14:09:11.502491
+ffa86033-a9b9-450a-9ca4-105f0b63aae6,Noël,Ferreira,24,Préfère ne pas dire,Bi,Allemand,Jeux vidéo|Technologie,Jeux vidéo:FPS|Technologie:IA,Politique,2025-03-26T14:09:11.502531
+d41d0731-0ae2-414e-9776-1eb5419ca00e,Julien,Marie,63,Homme,Homo,Anglais,Arts & culture|Jeux vidéo,Arts & culture:Arts visuels|Jeux vidéo:Casual,Vie privée,2025-03-28T14:09:11.502585
+ffc7bc51-1a69-4a3c-9701-e94a585a04eb,Édouard,François,63,Femme,Préfère ne pas dire,Allemand,Lecture|Entrepreneuriat,Lecture:BD/Mangas|Entrepreneuriat:Création,Aucun|Politique,2025-07-16T14:09:11.502624
+c1631771-e9c0-4b89-b4fc-d56a9deee9e1,Aimé,Courtois,26,Préfère ne pas dire,Bi,Français|Italien|Anglais,Sciences|Jeux vidéo,Sciences:Biologie|Jeux vidéo:Retro,Religion,2024-12-26T14:09:11.502664
+f9deca38-d94c-4a02-89f4-837769eb60fb,Thierry,Georges,44,Femme,Homo,Italien|Anglais,Musique|Sport,Musique:Rap/Hip-hop|Sport:Rugby,Politique,2025-08-24T14:09:11.502703
+d77ae21f-e7b9-4901-9b23-288c2dabc458,Lucy,Bigot,62,Homme,Pan,Allemand|Français|Anglais,Arts & culture|Sciences,Arts & culture:Théâtre|Sciences:Physique,Religion,2024-10-22T14:09:11.502742
+eb1cf1a9-dc6a-4254-bb30-469707102cde,Roger,Lagarde,56,Homme,Hétéro,Anglais,Arts & culture,Arts & culture:Arts visuels,Vie privée,2025-02-09T14:09:11.502778
+5f5507ea-9302-4bab-97b7-40f2e75c0174,Benoît,Parent,29,Préfère ne pas dire,Pan,Allemand|Français,Arts & culture|Lecture|Entrepreneuriat,Arts & culture:Arts visuels|Lecture:Essais|Entrepreneuriat:Création,Religion,2025-09-23T14:09:11.502817
+10be244e-06f8-4a00-a97f-447c85b41a59,Jeanne,Faivre,69,Non-binaire,Bi,Français,Voyage,Voyage:City trip,Actualité sensible,2024-12-13T14:09:11.502853
+0e86fc09-364f-4f70-bb04-aae24f784718,Robert,Martin,18,Femme,Bi,Espagnol|Allemand,Voyage,Voyage:Road trip,Vie privée|Religion,2025-08-20T14:09:11.502890
+46139524-78be-474f-82d3-04b0eb6f8edb,Étienne,Leleu,49,Homme,Homo,Français|Autre|Italien,Podcasts|Arts & culture,Podcasts:Développement perso|Arts & culture:Histoire,Actualité sensible|Aucun,2025-08-16T14:09:11.502934
+96aa509d-65aa-48a1-bb39-6a906a40009d,Marcelle,Munoz,67,Homme,Préfère ne pas dire,Autre,Entrepreneuriat|Lecture,Entrepreneuriat:Création|Lecture:Romans,Politique|Religion,2024-12-10T14:09:11.502973
+ceca7053-42aa-4312-ac68-ff13cd93849a,Laure,Gillet,51,Homme,Hétéro,Anglais|Espagnol|Italien,Sport,Sport:Cyclisme,Politique|Aucun,2024-11-04T14:09:11.503016
+7879d559-efd3-4c19-9842-739d5c85f624,Victoire,Sauvage,69,Homme,Homo,Espagnol|Allemand,Lecture|Sciences,Lecture:Essais|Sciences:Sciences sociales,Vie privée,2025-01-20T14:09:11.503056
+95280516-12c2-4aaf-9bba-8d8baa2ec2a4,Thierry,Turpin,35,Non-binaire,Préfère ne pas dire,Français|Anglais|Espagnol,Musique|Technologie,Musique:Rap/Hip-hop|Technologie:Programmation,Vie privée|Religion,2025-01-02T14:09:11.503096
+a3083c53-cb43-464c-99fc-433396ec44a4,Marthe,Lejeune,61,Non-binaire,Hétéro,Allemand|Français,Entrepreneuriat|Cuisine,Entrepreneuriat:Design produit|Cuisine:Végétarien/vegan,Aucun,2025-05-20T14:09:11.503141
+462d0a0a-3960-4ba4-a826-67c04ea33460,Alfred,Charpentier,44,Femme,Pan,Anglais|Autre|Espagnol,Podcasts|Photographie,Podcasts:Développement perso|Photographie:Urbain,Politique,2025-01-30T14:09:11.503180
+5a8755a7-a093-43fd-97cf-e5b48ca853be,Roger,Georges,40,Femme,Hétéro,Français|Italien,Cuisine,Cuisine:Pâtisserie,Politique,2025-01-28T14:09:11.503216
+05ece61c-648b-4199-8075-d1b6e89b739b,Audrey,Muller,56,Homme,Bi,Anglais,Sport|Photographie,Sport:Yoga|Photographie:Édition,Actualité sensible,2025-08-06T14:09:11.503252
+d0a3ec54-385f-4ae0-8d4f-232b2e6f6cd6,Vincent,Reynaud,48,Femme,Homo,Espagnol|Italien|Autre,Technologie|Sport,Technologie:Innovation|Sport:Running,Politique,2025-05-15T14:09:11.503289
+e93748a5-39dc-4ff2-8c3e-bce0c5fe3984,Victoire,Cousin,24,Femme,Pan,Français|Autre|Allemand,Musique,Musique:Électro,Religion|Vie privée,2024-12-10T14:09:11.503327
+85a7c153-5a43-4dca-a538-71366b7d239e,Emmanuelle,Bazin,64,Préfère ne pas dire,Préfère ne pas dire,Français,Jeux vidéo|Musique|Podcasts,Jeux vidéo:RPG|Musique:Classique|Podcasts:Tech,Religion|Aucun,2025-08-09T14:09:11.503366
+a2a32f15-2afa-4ad2-b86c-6ed1291e8f27,Stéphane,Blanchard,60,Non-binaire,Bi,Allemand|Français,Jeux vidéo,Jeux vidéo:Action,Vie privée|Aucun,2025-07-26T14:09:11.503402
+fc4c0667-048a-4223-8cf8-5e7422b38e0b,Julien,Robert,48,Femme,Pan,Français|Espagnol|Autre,Photographie|Jeux vidéo,Photographie:Édition|Jeux vidéo:Retro,Religion|Aucun,2025-01-14T14:09:11.503440
+0c43f5a6-0f9c-4f84-a87f-840c69c30100,Danielle,Valette,29,Préfère ne pas dire,Pan,Espagnol|Italien|Anglais,Sciences,Sciences:Biologie,Politique|Vie privée,2025-05-08T14:09:11.503478
+20f06a4d-27bf-43a0-adcd-773381dd9467,Maggie,Olivier,20,Femme,Préfère ne pas dire,Espagnol|Allemand,Sciences|Lecture|Musique,Sciences:Physique|Lecture:Essais|Musique:Jazz/Blues,Religion,2024-11-17T14:09:11.503517
+7acd29cf-4919-42b0-abe2-fbab906f1190,Honoré,Barthelemy,44,Homme,Homo,Espagnol|Autre|Italien,Podcasts|Cuisine,Podcasts:Actualité|Cuisine:Gastronomie FR,Religion|Actualité sensible,2025-09-20T14:09:11.503556
+a9442bd2-cb88-4ae9-ac96-dcb4a1fdd787,Marc,Garnier,23,Non-binaire,Hétéro,Allemand,Arts & culture|Voyage|Cuisine,Arts & culture:Histoire|Voyage:Culture & musées|Cuisine:Pâtisserie,Aucun|Religion,2024-11-16T14:09:11.503603
+79cc16ca-4ce7-4c04-9e42-e742e9e695d0,Anastasie,Lefèvre,69,Non-binaire,Pan,Espagnol,Technologie|Podcasts|Lecture,Technologie:Programmation|Podcasts:Actualité|Lecture:Essais,Vie privée|Religion,2025-09-08T14:09:11.503643
+1f3a2936-8fef-44ea-9a7b-2207d24fd6e7,Colette,Potier,55,Homme,Pan,Allemand|Italien|Autre,Cuisine|Entrepreneuriat,Cuisine:Cuisine du monde|Entrepreneuriat:Design produit,Aucun,2025-02-08T14:09:11.503681
+88b3dc4f-7995-49e6-b176-77f1242a383d,Hélène,Ferrand,50,Non-binaire,Hétéro,Italien,Podcasts|Cuisine,Podcasts:Actualité|Cuisine:Pâtisserie,Religion,2025-01-25T14:09:11.503720
+5c11db04-047d-40d4-bd19-3cdf60f407ec,Sophie,Da Silva,49,Femme,Homo,Autre|Français,Sciences|Photographie|Arts & culture,Sciences:Santé|Photographie:Portrait|Arts & culture:Arts visuels,Vie privée,2025-03-03T14:09:11.503760
+4be8432f-abe4-4d4b-92c9-a7e349858893,Anaïs,Olivier,38,Non-binaire,Bi,Français,Arts & culture|Sport|Podcasts,Arts & culture:Arts visuels|Sport:Football|Podcasts:Tech,Aucun,2025-09-25T14:09:11.503798
+9a41abb5-dee9-48c4-881a-c9e86ad4ccf2,Robert,Bodin,47,Femme,Homo,Français|Espagnol|Italien,Arts & culture,Arts & culture:Arts visuels,Actualité sensible|Politique,2025-08-25T14:09:11.503836
+e5efb60c-40d4-4e5c-b9a4-4e6bda8620fb,Émile,Hamon,32,Homme,Pan,Italien,Cuisine,Cuisine:Gastronomie FR,Aucun,2025-08-04T14:09:11.503876
+81be2a11-5f23-4f42-93ce-9f11f00cbb20,Antoinette,Gillet,62,Homme,Homo,Autre|Espagnol|Français,Sport|Musique|Lecture,Sport:Rugby|Musique:Électro|Lecture:BD/Mangas,Actualité sensible|Vie privée,2025-01-22T14:09:11.503917
+9abf0201-21a4-48a3-ad37-1f5bc970b2fb,Théophile,Bernard,49,Préfère ne pas dire,Hétéro,Allemand|Autre,Cuisine|Photographie|Lecture,Cuisine:Gastronomie FR|Photographie:Urbain|Lecture:BD/Mangas,Actualité sensible|Aucun,2025-06-07T14:09:11.503958
+a37cb9ad-5840-4803-85b4-fae8cfc1c3e9,Célina,Aubert,65,Homme,Préfère ne pas dire,Italien,Sciences|Technologie,1703,Politique,2025-09-17T14:09:11.503994
+f1180141-084d-4166-a0d4-f77cf72119df,Honoré,Gonzalez,28,Femme,Hétéro,Français|Autre|Anglais,Sciences|Musique|Podcasts,Sciences:Biologie|Musique:World|Podcasts:Culture,Vie privée,2024-11-19T14:09:11.504037
+204eeee1-9eb3-4ed9-b271-732189dcd348,Guillaume,Colin,34,Préfère ne pas dire,Hétéro,Allemand|Espagnol|Autre,Sciences|Cuisine|Sport,Sciences:Physique|Cuisine:Gastronomie FR|Sport:Cyclisme,Vie privée,2025-04-06T14:09:11.504113
+6a496b6a-cee4-45b7-965f-7955b5dab9c9,Roger,Langlois,44,Femme,Pan,Italien,Technologie|Sciences,Technologie:Cybersécurité|Sciences:Biologie,Aucun,2025-03-15T14:09:11.504166
+f848555e-ea70-4486-97b6-a19e835d132f,Adèle,Gilbert,18,Femme,Hétéro,Autre|Espagnol|Allemand,Jeux vidéo,Jeux vidéo:FPS,Politique,2024-11-15T14:09:11.504207
+ceea992c-6b2d-489c-aecc-850d32262aad,Stéphanie,Jacquet,16,Préfère ne pas dire,Pan,Allemand|Français,Entrepreneuriat|Lecture|Voyage,Entrepreneuriat:Design produit|Lecture:Romans|Voyage:Nature,Actualité sensible|Vie privée,2025-09-23T14:09:11.504250
+3d39086a-8383-484f-9d79-43fa81324b4e,René,Charpentier,21,Préfère ne pas dire,Bi,Anglais|Autre|Français,Sciences|Entrepreneuriat,Sciences:Santé|Entrepreneuriat:Design produit,Actualité sensible,2025-02-14T14:09:11.504296
+80ddc2c9-e718-45ee-9310-faea1bb74631,Édouard,Perret,28,Femme,Préfère ne pas dire,Allemand,Musique|Photographie,702,Aucun|Vie privée,2025-10-13T14:09:11.504340
+ffa76d2f-c684-4099-8874-e35928a7f66e,Matthieu,Bouvet,25,Homme,Hétéro,Autre,Jeux vidéo,Jeux vidéo:Action,Aucun|Politique,2025-06-19T14:09:11.504384
+a0c209b4-e248-4926-9c16-cde4dd1fd2e0,Christophe,Moreno,35,Femme,Pan,Anglais|Italien|Français,Musique,Musique:Électro,Politique,2025-07-10T14:09:11.504427
+6e8dfd46-dc5a-4f25-ac0a-9f0aa1ce8db9,Grégoire,Vidal,50,Homme,Bi,Français,Technologie|Cuisine|Musique,Technologie:Programmation|Cuisine:Végétarien/vegan|Musique:Rock,Religion|Actualité sensible,2025-01-11T14:09:11.504469
+4a4f9ba0-5dab-4e9e-a95e-601ef909a652,Josette,Pottier,22,Préfère ne pas dire,Homo,Allemand,Lecture,Lecture:Romans,Politique,2024-10-25T14:09:11.504507
+fbe1ce4b-841c-42c9-8466-f9c36e504c9f,Anaïs,Perrin,29,Homme,Bi,Allemand|Autre|Anglais,Arts & culture,Arts & culture:Cinéma,Vie privée,2024-12-12T14:09:11.504545
+a002e2b9-cb54-4383-ac6a-1c9129fb9591,Antoinette,Brunet,51,Homme,Homo,Italien,Arts & culture,Arts & culture:Arts visuels,Vie privée,2024-12-05T14:09:11.504581
+06eeef5d-3672-40c5-8c17-f27855687679,Richard,Dupuy,66,Homme,Pan,Anglais|Autre,Lecture|Podcasts|Cuisine,Lecture:Développement personnel|Podcasts:True crime|Cuisine:Pâtisserie,Actualité sensible|Vie privée,2025-09-29T14:09:11.504621
+e4c39cff-feb2-46d2-ae90-65a85bbf53e9,Olivier,Garnier,66,Femme,Pan,Français|Autre|Anglais,Jeux vidéo|Arts & culture|Sciences,Jeux vidéo:RPG|Arts & culture:Histoire|Sciences:Physique,Religion|Politique,2025-05-08T14:09:11.504661
+ce7110b8-b10d-4f99-8a41-ee5a48f8a940,Laurence,Boulay,30,Femme,Pan,Allemand|Français|Autre,Entrepreneuriat,Entrepreneuriat:Design produit,Vie privée,2025-04-13T14:09:11.504698
+84df47a7-e13a-4c3c-ba11-fc6e65525a5c,Margaud,Rémy,37,Homme,Hétéro,Italien|Français|Espagnol,Musique,Musique:World,Vie privée|Aucun,2025-07-26T14:09:11.504734
+fc33295d-c607-434b-8229-ea059b060f72,Margot,Bonnin,66,Homme,Préfère ne pas dire,Anglais|Français|Allemand,Jeux vidéo|Entrepreneuriat|Arts & culture,Jeux vidéo:Casual|Entrepreneuriat:Design produit|Arts & culture:Arts visuels,Vie privée,2025-06-17T14:09:11.504773
+d5ea74cc-347c-4fb6-b385-26e0a8ac5422,Luce,Dupré,25,Femme,Pan,Français,Podcasts|Photographie,Podcasts:Actualité|Photographie:Édition,Vie privée|Politique,2025-03-04T14:09:11.504812
+961365ef-c85f-4b06-9df7-bb368a44f8e5,Aurore,Renault,29,Homme,Bi,Anglais|Français,Jeux vidéo,Jeux vidéo:RPG,Vie privée,2025-01-02T14:09:11.504849
+068b6d40-2346-410a-a74b-8efd586e76fc,Benoît,Bodin,61,Préfère ne pas dire,Homo,Autre|Allemand,Sciences|Lecture|Musique,Sciences:Sciences sociales|Lecture:Développement personnel|Musique:Jazz/Blues,Actualité sensible,2025-03-17T14:09:11.504893
+aaa7c167-f60f-402a-ae00-b4445560bd12,Louis,Valette,63,Femme,Préfère ne pas dire,Espagnol|Français|Italien,Cuisine|Jeux vidéo,Cuisine:Gastronomie FR|Jeux vidéo:RPG,Religion|Politique,2025-01-07T14:09:11.504934
+e64cad35-408f-4da9-84ce-57c8410ad35b,Isaac,Alves,50,Femme,Pan,Italien|Anglais|Autre,Cuisine|Sport,Cuisine:Pâtisserie|Sport:Cyclisme,Politique,2025-04-14T14:09:11.504973
+8f131e58-bc61-4f99-aaef-e3b7da2a7c96,Laetitia,Pascal,46,Non-binaire,Pan,Espagnol|Français|Anglais,Musique|Podcasts,Musique:Électro|Podcasts:True crime,Politique|Aucun,2025-07-29T14:09:11.505012
+97081324-f85b-4914-b3a6-c9a6ddccb0eb,Hélène,Antoine,49,Femme,Bi,Autre|Italien,Jeux vidéo,Jeux vidéo:RPG,Vie privée|Politique,2025-05-25T14:09:11.505054
+f124b51f-1e7a-4426-9af6-ce052223863b,Christelle,Joly,42,Non-binaire,Bi,Italien|Autre,Jeux vidéo|Podcasts|Sport,Jeux vidéo:Retro|Podcasts:True crime|Sport:Cyclisme,Actualité sensible,2025-06-27T14:09:11.505094
+34c4308c-4158-4d15-998a-ade0adb29020,Xavier,Hoarau,na,Préfère ne pas dire,Homo,Anglais|Italien|Espagnol,Technologie,Technologie:IA,Religion,2025-08-23T14:09:11.505132
+67e2f5ae-d610-47dd-ab66-5bc95b0fa319,Étienne,Garnier,61,Femme,Bi,Anglais|Espagnol,Photographie|Technologie,Photographie:Urbain|Technologie:Programmation,Vie privée,2025-02-08T14:09:11.505170
+02eed9a1-7d3f-4499-99d3-88f82c7ebefb,Joséphine,Camus,63,Non-binaire,Bi,Espagnol|Italien,Technologie|Arts & culture|Jeux vidéo,Technologie:Gadgets|Arts & culture:Cinéma|Jeux vidéo:Casual,Religion,2024-11-08T14:09:11.505211
+36b79f31-1406-4e42-965c-6bb92118588d,Frédérique,Lefort,69,Homme,Pan,Français|Espagnol,Arts & culture,Arts & culture:Théâtre,Actualité sensible,2025-07-13T14:09:11.505247
+61e1f66c-6e08-4e3b-8bf8-fa53ff972d00,Virginie,Perrot,47,Non-binaire,Préfère ne pas dire,Italien|Français|Espagnol,Technologie|Voyage,Technologie:Gadgets|Voyage:Culture & musées,Politique|Actualité sensible,2025-04-28T14:09:11.505292
+9f0a2893-178f-44d2-984b-61e422a3ab24,Joseph,Coste,62,Préfère ne pas dire,Pan,Espagnol|Anglais,Voyage|Podcasts|Technologie,Voyage:Road trip|Podcasts:True crime|Technologie:IA,Vie privée|Actualité sensible,2025-09-18T14:09:11.505335
+9b9a5f79-0504-472f-8912-80590f82c62c,Matthieu,Daniel,56,Non-binaire,Pan,Italien,Podcasts|Arts & culture,Podcasts:True crime|Arts & culture:Théâtre,Vie privée,2025-05-26T14:09:11.505373
+86149a90-55dc-4cbf-8fe5-bf68f6289d4f,Antoinette,Vaillant,47,Préfère ne pas dire,Homo,Français,Sport,Sport:Cyclisme,Politique|Actualité sensible,2025-03-22T14:09:11.505409
+465488d3-92d5-4d8d-8d18-f76d18254785,Gilles,Giraud,47,Femme,Préfère ne pas dire,Espagnol|Italien|Allemand,Voyage|Sport|Jeux vidéo,Voyage:Road trip|Sport:Yoga|Jeux vidéo:Retro,Actualité sensible,2025-07-30T14:09:11.505449
+ca1c7f7a-0988-46cf-9328-9068dac31c35,Claire,Lopez,38,Homme,Hétéro,Espagnol|Allemand,Cuisine|Lecture|Sport,Cuisine:Végétarien/vegan|Lecture:Romans|Sport:Ski,Religion,2025-09-03T14:09:11.505488
+2a3770f2-4613-499d-a57f-fd30efcd19c9,Jérôme,De Oliveira,68,Non-binaire,Bi,Autre|Espagnol|Français,Arts & culture|Cuisine|Technologie,Arts & culture:Cinéma|Cuisine:Cuisine du monde|Technologie:Innovation,Actualité sensible|Vie privée,2025-03-25T14:09:11.505528
+a5c4599c-2c85-4a8b-b9c1-028d63a2dac8,Paulette,Benard,48,Homme,Homo,Italien|Autre|Français,Jeux vidéo|Musique,Jeux vidéo:Action|Musique:World,Politique,2025-02-18T14:09:11.505566
+b678aa21-98fd-471f-a38a-c9e7658efcb4,Vincent,Gaillard,49,Non-binaire,Homo,Espagnol|Français|Italien,Technologie,Technologie:IA,Actualité sensible,2025-08-18T14:09:11.505603
+c7d89a1f-5fbe-4ba6-8c8c-a724f3120fb4,Céline,Moreau,17,Préfère ne pas dire,Pan,Anglais,Lecture,Lecture:Romans,Politique|Actualité sensible,2025-09-29T14:09:11.505639
+e1e66e15-f7f7-4fef-8628-506bc8ba5afe,Gilles,Lebrun,29,Homme,Homo,Espagnol|Français|Italien,Podcasts,Podcasts:Développement perso,Actualité sensible|Religion,2025-02-07T14:09:11.505676
+5d16a728-8d2a-44a8-9438-d3463c938b90,Charlotte,Maury,22,Femme,Préfère ne pas dire,Autre,Sport,Sport:Rugby,Politique,2025-07-04T14:09:11.505711
+6b7aaf10-df00-49d4-a315-7e93fdfcfcb7,Honoré,Guyot,44,Femme,Homo,Allemand|Autre,Photographie,Photographie:Paysage,Politique|Actualité sensible,2025-08-19T14:09:11.505752
+196f740e-063f-4aee-8dea-8f1d3bcf3979,Thérèse,Simon,51,Femme,Hétéro,Allemand|Français,Sport|Jeux vidéo,Sport:Cyclisme|Jeux vidéo:Casual,Aucun,2025-03-27T14:09:11.505794
+ce062ff0-0344-4a77-8897-8fecad17ab6e,Michelle,Legros,59,Non-binaire,Homo,Autre,Sciences|Musique,Sciences:Sciences sociales|Musique:Électro,Politique,2025-08-09T14:09:11.505833
+ba3a5782-c4f2-491f-b254-c91b42621b57,Roger,Vidal,28,Non-binaire,Homo,Allemand|Français|Anglais,Podcasts|Jeux vidéo,Podcasts:Développement perso|Jeux vidéo:Retro,Vie privée|Actualité sensible,2025-02-20T14:09:11.505872
+22c4b4c1-0979-4aa4-b494-7789cf63c46e,Anne,Tessier,25,Préfère ne pas dire,Hétéro,Espagnol,Jeux vidéo|Entrepreneuriat,Jeux vidéo:FPS|Entrepreneuriat:Création,Politique,2025-09-17T14:09:11.505929
+0385ff39-94bd-49dd-b83d-4f5a144cb53f,Sylvie,Mercier,59,Non-binaire,Homo,Italien|Autre,Musique,Musique:Classique,Vie privée|Religion,2025-05-24T14:09:11.505967
+6863739d-3f53-40a7-9e2e-acbe63c75fb5,Anaïs,Teixeira,37,Femme,Hétéro,Français|Allemand,Cuisine|Voyage,Cuisine:Pâtisserie|Voyage:Culture & musées,Politique,2025-07-23T14:09:11.506004
+70bec89b-9254-4feb-bc34-3d9a88ccc2f0,Charles,Colas,24,Non-binaire,Pan,Français|Italien,Jeux vidéo|Sciences|Photographie,Jeux vidéo:Retro|Sciences:Sciences sociales|Photographie:Édition,Aucun,2025-09-23T14:09:11.506042
+ef201fab-f04e-49c7-9ef9-a9f144fe1ef3,Amélie,Chrétien,59,Non-binaire,Bi,Français|Autre,Lecture|Technologie|Cuisine,Lecture:Développement personnel|Technologie:Innovation|Cuisine:Gastronomie FR,Vie privée|Politique,2025-03-16T14:09:11.506081
+381276ac-1d08-40c0-ba5c-571b5d55326a,Grégoire,Rocher,58,Homme,Homo,Autre,Arts & culture|Musique,Arts & culture:Cinéma|Musique:World,Politique|Actualité sensible,2025-07-27T14:09:11.506119
+ae49a279-ef3d-45d1-b1fb-ec2ce1cc8825,Amélie,Blot,33,Femme,Pan,Français|Espagnol|Allemand,Voyage|Cuisine|Arts & culture,Voyage:Road trip|Cuisine:Pâtisserie|Arts & culture:Cinéma,Actualité sensible,2025-02-09T14:09:11.506163
+c2b5ccb6-8e6a-4030-8c04-b283f3fcbff0,Andrée,Gonzalez,39,Préfère ne pas dire,Homo,Autre|Français,Entrepreneuriat|Sport|Sciences,Entrepreneuriat:Création|Sport:Cyclisme|Sciences:Sciences sociales,Aucun,2025-09-04T14:09:11.506203
+47e9d150-5e7b-4dfd-9116-2e678879e45c,Jérôme,Perrier,20,Préfère ne pas dire,Pan,Espagnol,Sciences,Sciences:Santé,Vie privée|Actualité sensible,2025-07-11T14:09:11.506240
+bc9d83e1-119d-4984-9c01-b077f90772f9,Théodore,Barbier,58,Homme,Hétéro,Autre|Italien|Anglais,Jeux vidéo|Entrepreneuriat|Podcasts,Jeux vidéo:RPG|Entrepreneuriat:Design produit|Podcasts:Culture,Aucun,2025-07-11T14:09:11.506279
+b10485a9-e711-40ff-bc66-a390b4b2952d,Éric,Traore,70,Préfère ne pas dire,Pan,Français|Anglais,Sport|Podcasts,Sport:Rugby|Podcasts:Développement perso,Vie privée,2025-06-21T14:09:11.506317
+88a80eea-705e-4ad4-b505-05c5ffd29d0c,Agnès,Grondin,45,Préfère ne pas dire,Préfère ne pas dire,Allemand|Français,Technologie,Technologie:Gadgets,Politique,2025-06-11T14:09:11.506389
+4b00ef9b-a47b-481b-8813-f8ce730ef6ab,Henri,Gilbert,62,Préfère ne pas dire,Hétéro,Français,Arts & culture|Sport,Arts & culture:Cinéma|Sport:Randonnée,Politique|Vie privée,2025-08-11T14:09:11.506441
+8ac4a2e8-0b2c-480e-af77-e8a26f613667,Laurence,Lévêque,32,Préfère ne pas dire,Hétéro,Italien,Cuisine,Cuisine:Végétarien/vegan,Religion|Vie privée,2025-07-02T14:09:11.506482
+6edb5a47-9d7f-4293-b3fd-427532f9a9c7,Denise,Hervé,42,Non-binaire,Préfère ne pas dire,Allemand,Cuisine|Musique|Podcasts,Cuisine:Pâtisserie|Musique:Électro|Podcasts:True crime,Religion|Actualité sensible,2025-02-20T14:09:11.506529
+4b74222b-90c3-4f34-9810-8069782f43da,Margot,Robert,69,Femme,Homo,Italien|Allemand,Sciences|Cuisine,Sciences:Biologie|Cuisine:Cuisine du monde,Vie privée|Politique,2025-04-03T14:09:11.506569
+c70e55ce-bdc3-406c-adb5-f9b7380d21ff,Martin,Renard,35,Homme,Homo,Autre|Espagnol,Voyage|Lecture|Sport,Voyage:Road trip|Lecture:BD/Mangas|Sport:Escalade,Actualité sensible|Vie privée,2025-08-31T14:09:11.506636
+efb68194-61e0-4fd1-b892-e7d00581bfb9,Raymond,Chauveau,42,Non-binaire,Pan,Français|Autre|Anglais,Jeux vidéo|Sciences|Technologie,Jeux vidéo:Action|Sciences:Sciences sociales|Technologie:IA,Actualité sensible|Politique,2025-08-26T14:09:11.506697
+cc91caaa-2f16-414a-b530-771c99d6e7d2,Léon,Charrier,44,Préfère ne pas dire,Homo,Anglais|Italien,Sport|Entrepreneuriat,Sport:Basket|Entrepreneuriat:Design produit,Religion|Vie privée,2025-04-11T14:09:11.506741
+a149fe15-7462-4276-b2b8-c51b14055f0c,Rémy,Lecoq,57,Homme,Hétéro,Anglais|Espagnol,Technologie|Lecture|Voyage,Technologie:Innovation|Lecture:BD/Mangas|Voyage:Nature,Politique,2025-04-16T14:09:11.506793
+256763c8-2eec-49fd-a589-9fc7665302dd,Maggie,Boulay,65,Préfère ne pas dire,Pan,Anglais,Entrepreneuriat|Podcasts|Sport,Entrepreneuriat:Marketing|Podcasts:Tech|Sport:Randonnée,Vie privée,2025-07-08T14:09:11.506836
+110290f1-3250-4c34-9dff-fa78767f77cd,Laurence,Voisin,42,Homme,Hétéro,Espagnol|Anglais,Jeux vidéo|Entrepreneuriat|Cuisine,Jeux vidéo:Retro|Entrepreneuriat:Design produit|Cuisine:Gastronomie FR,Vie privée,2025-08-14T14:09:11.506877
+eb1c7ec5-1ff9-44d8-90e4-0b04c020e378,Sophie,Pascal,63,Non-binaire,Hétéro,Italien,Lecture,Lecture:Développement personnel,Vie privée,2025-04-23T14:09:11.506914
+47a73eeb-63d2-44a1-8509-a7947619214a,Christiane,Jacquet,55,Préfère ne pas dire,Bi,Autre|Espagnol,Photographie,Photographie:Portrait,Actualité sensible,2025-07-27T14:09:11.506953
+6bc97cf4-8a0b-45f3-ab58-ab1999bbad68,Manon,Caron,36,Préfère ne pas dire,Homo,Français|Espagnol,Technologie,Technologie:Cybersécurité,Actualité sensible|Vie privée,2025-05-30T14:09:11.506990
+7fb16950-388b-4d0c-a12f-1f6e9fb89a28,Pauline,Lopes,36,Préfère ne pas dire,Homo,Autre|Allemand,Photographie,Photographie:Édition,Religion,2025-08-06T14:09:11.507027
+fc8849d8-7ace-4580-96f7-d2402399f1f8,Zacharie,Sanchez,26,Préfère ne pas dire,Pan,Allemand,Jeux vidéo,Jeux vidéo:RPG,Vie privée|Aucun,2025-08-25T14:09:11.507063
+11060909-6561-48cc-af1c-fcd3543cd073,Margot,Simon,29,Non-binaire,Homo,Autre,Sport|Arts & culture|Sciences,Sport:Running|Arts & culture:Cinéma|Sciences:Physique,Politique|Religion,2025-02-08T14:09:11.507103
+3ce9ed16-1688-4cd0-a2dd-b5c304bde662,Anastasie,Besnard,41,Non-binaire,Préfère ne pas dire,Espagnol,Lecture,Lecture:Romans,Vie privée|Aucun,2024-12-04T14:09:11.507140
+e05725f3-8d70-4d14-9612-0bc5ef2804b9,Victoire,Labbé,44,Non-binaire,Préfère ne pas dire,Anglais,Sciences,Sciences:Santé,Politique|Aucun,2025-01-14T14:09:11.507177
+5aa703df-9ae1-405b-a773-b29cbb54c2cc,Henri,Godard,27,Homme,Pan,Français,Technologie,Technologie:Cybersécurité,Actualité sensible|Religion,2025-08-21T14:09:11.507213
+e8e3b941-cd63-4a7e-b3b4-35309fe578d5,Émile,Aubert,38,Femme,Bi,Anglais|Allemand|Italien,Jeux vidéo|Sport,Jeux vidéo:Retro|Sport:Randonnée,Vie privée,2025-04-16T14:09:11.507257
+4701b904-2565-4071-8e7b-933c6fe70b5e,Marianne,Denis,48,Non-binaire,Pan,Anglais|Autre|Allemand,Sciences|Podcasts|Photographie,Sciences:Biologie|Podcasts:Développement perso|Photographie:Édition,Politique|Vie privée,2025-05-21T14:09:11.507305
+e0996aa8-72e4-4c76-964b-97a55187d9c2,Henri,Valentin,43,Non-binaire,Préfère ne pas dire,Italien,Lecture,Lecture:Romans,Vie privée|Politique,2025-02-26T14:09:11.507343
+e0f8fcb1-9ee1-480b-ab5b-7738fdd0e9d1,Arthur,Traore,21,Femme,Hétéro,Autre|Allemand|Anglais,Voyage,Voyage:Road trip,Vie privée,2024-10-26T14:09:11.507380
+d99fc49c-ea37-45e0-af03-399485f9141b,Denis,Marques,37,Homme,Homo,Français,Arts & culture|Sport|Musique,Arts & culture:Histoire|Sport:Ski|Musique:Pop,Vie privée,2025-08-23T14:09:11.507499
+9477160b-b3ec-49ea-bb47-70767253bc77,Grégoire,Mathieu,55,Non-binaire,Pan,Français|Anglais,Lecture,Lecture:Essais,Politique,2024-10-30T14:09:11.507543
+b15fe099-7131-4926-b60b-04d9817ba582,Michelle,Sauvage,57,Homme,Pan,Italien|Anglais|Français,Jeux vidéo|Technologie,Jeux vidéo:Casual|Technologie:Cybersécurité,Politique,2025-07-28T14:09:11.507584
+1ea80325-15a6-4338-9f61-2b3227c011c6,Grégoire,Hernandez,44,Homme,Homo,Italien|Allemand,Cuisine,Cuisine:Gastronomie FR,Vie privée,2025-03-23T14:09:11.507622
+f149f1f6-6cae-438d-a7f7-243a3b0d4853,Benoît,David,47,Préfère ne pas dire,Homo,Français|Italien|Autre,Arts & culture|Cuisine,Arts & culture:Cinéma|Cuisine:Végétarien/vegan,Vie privée|Politique,2025-02-10T14:09:11.507663
+dc457a31-560a-4fdc-b63a-6478850cd88b,David,Alexandre,26,Non-binaire,Homo,Espagnol|Allemand,Photographie,Photographie:Paysage,Aucun|Vie privée,2025-08-15T14:09:11.507700
+67ad672b-a015-4b55-afd4-8ab94768efb4,Lucy,Royer,67,Homme,Préfère ne pas dire,Espagnol,Podcasts|Musique|Jeux vidéo,Podcasts:True crime|Musique:Rock|Jeux vidéo:FPS,Aucun,2025-02-12T14:09:11.507770
+8bba11a5-4cc9-4a56-b8e8-4eaa705d1bb2,Marcelle,Antoine,29,Femme,Hétéro,Espagnol|Autre,Technologie|Podcasts|Photographie,Technologie:Programmation|Podcasts:Actualité|Photographie:Urbain,Politique|Religion,2025-08-21T14:09:11.507834
+08b42855-45b0-4627-927d-6c8a3d86b8a2,Charlotte,Boulay,65,Femme,Préfère ne pas dire,Anglais|Italien,Sciences|Musique|Lecture,Sciences:Sciences sociales|Musique:World|Lecture:BD/Mangas,Politique,2024-12-13T14:09:11.507882
+b3cbcc9c-6f91-411f-9e50-8b9bafa60796,Élise,Chevalier,22,Homme,Hétéro,Espagnol,Podcasts,Podcasts:Développement perso,Aucun|Vie privée,2025-09-01T14:09:11.507923
+f939e984-63de-4d67-85c1-4e4fa95a3ef6,Margaret,Poulain,70,Homme,Pan,Français|Anglais,Cuisine|Sport,Cuisine:Cuisine du monde|Sport:Basket,Actualité sensible|Vie privée,2025-04-20T14:09:11.507963
+8c0ec87c-6636-4945-b3c7-50010e32a28a,Nath,Lévy,66,Homme,Homo,Allemand|Autre,Photographie|Sciences,Photographie:Urbain|Sciences:Biologie,Religion|Politique,2025-01-30T14:09:11.508003
+f7ba9c54-73fa-4cfd-b542-7812ec84e1fd,Martin,Barbier,65,Homme,Pan,Allemand,Sciences,Sciences:Physique,Aucun,2025-05-23T14:09:11.508046
+e0496afe-9eae-4b92-b96c-97205f141740,Rémy,Descamps,68,Non-binaire,Préfère ne pas dire,Anglais|Allemand|Italien,Entrepreneuriat|Photographie|Arts & culture,Entrepreneuriat:Design produit|Photographie:Urbain|Arts & culture:Histoire,Actualité sensible,2025-09-08T14:09:11.508088
+4bf9f641-090a-4fc3-a9e2-00c13af88ab0,Nicole,Fernandes,29,Femme,Préfère ne pas dire,Espagnol|Italien|Autre,Technologie|Lecture|Sciences,Technologie:Innovation|Lecture:Développement personnel|Sciences:Physique,Vie privée|Politique,2025-09-21T14:09:11.508134
+b01959fa-b106-4a45-ab14-cb8e8c6e10f9,Marine,Dos Santos,19,Femme,Pan,Italien|Français,Cuisine|Entrepreneuriat,Cuisine:Cuisine du monde|Entrepreneuriat:Marketing,Actualité sensible|Religion,2024-10-21T14:09:11.508176
+6381281d-b9d4-49a9-83b1-71dcb6393d35,Stéphane,Pelletier,53,Homme,Bi,Français|Anglais,Voyage|Podcasts|Musique,Voyage:Road trip|Podcasts:Actualité|Musique:Électro,Vie privée,2025-07-04T14:09:11.508216
+8a1eac8a-80f5-4e66-ab64-0e317470f803,Dominique,Gillet,51,Préfère ne pas dire,Bi,Allemand|Autre|Italien,Jeux vidéo|Voyage|Technologie,Jeux vidéo:FPS|Voyage:City trip|Technologie:Cybersécurité,Religion|Politique,2024-10-31T14:09:11.508257
+365cc1a9-46a9-46d1-89a9-984af5d24155,Marie,Hervé,39,Femme,Préfère ne pas dire,Français|Autre,Arts & culture|Sport,Arts & culture:Cinéma|Sport:Ski,Politique,2025-04-14T14:09:11.508295
+a279ae27-1544-4003-bb45-207cbba88ebd,Georges,Lemaître,17,Homme,Homo,Allemand|Français|Espagnol,Entrepreneuriat|Technologie,Entrepreneuriat:Design produit|Technologie:Programmation,Aucun,2025-04-26T14:09:11.508332
+da0eaadd-8bdc-47d6-b50a-9e9c8b175723,Gérard,Charpentier,35,Préfère ne pas dire,Bi,Allemand|Italien,Technologie,Technologie:Innovation,Vie privée|Aucun,2025-08-06T14:09:11.508369
+6494db1b-a007-4a4d-b738-b85436bfea38,Louis,Moreau,42,Préfère ne pas dire,Homo,Espagnol|Italien,Sciences,Sciences:Sciences sociales,Politique|Religion,2024-10-24T14:09:11.508406
+93aa6af4-1341-423b-866b-a8b413986b08,Marine,Thomas,21,Homme,Préfère ne pas dire,Italien|Français|Anglais,Photographie|Lecture,Photographie:Portrait|Lecture:Essais,Actualité sensible,2025-07-08T14:09:11.508445
+140887b6-d636-4f36-b484-0cd5e8043bcb,Joséphine,Perret,36,Préfère ne pas dire,Préfère ne pas dire,Allemand,Cuisine,Cuisine:Pâtisserie,Vie privée,2025-10-09T14:09:11.508481
+19f7c95d-2783-4929-95df-4690163472ab,Susan,Leroux,23,Femme,Préfère ne pas dire,Espagnol,Technologie,Technologie:Gadgets,Religion,2025-05-17T14:09:11.508517
+296f07b6-e08c-4dc4-b58d-eab423640a8e,Corinne,François,27,Femme,Hétéro,Allemand|Français,Technologie|Voyage,Technologie:Gadgets|Voyage:Nature,Politique|Aucun,2025-07-10T14:09:11.508559
+e3543b95-fd74-45de-ade9-f358812a8c7b,Alain,Lacombe,40,Femme,Bi,Espagnol,Photographie|Voyage,Photographie:Portrait|Voyage:Culture & musées,Vie privée,2024-12-01T14:09:11.508597
+903ff75c-15b7-46b9-8d29-b85f7d802f02,Martin,Étienne,59,Femme,Homo,Autre|Anglais|Espagnol,Voyage|Jeux vidéo|Musique,Voyage:City trip|Jeux vidéo:FPS|Musique:Rap/Hip-hop,Religion,2025-01-19T14:09:11.508642
+dbc319ec-3ccb-4ac6-98f5-3a0fc916af0c,Adélaïde,Alexandre,69,Non-binaire,Homo,Français,Sport|Arts & culture,Sport:Cyclisme|Arts & culture:Histoire,Religion|Actualité sensible,2025-09-28T14:09:11.508685
+6193f79b-2f29-4a88-8ccf-12bd33092906,Thomas,David,60,Femme,Homo,Italien|Espagnol|Allemand,Arts & culture,Arts & culture:Arts visuels,Actualité sensible|Vie privée,2025-06-04T14:09:11.508723
+38ab906c-1eb1-496d-b246-f1b2707e7da7,Denis,Rolland,54,Non-binaire,Hétéro,Anglais|Français|Allemand,Lecture,Lecture:Essais,Aucun|Vie privée,2025-04-03T14:09:11.508797
+570cd7e9-d265-45eb-8558-c062b4856be5,Margaud,Potier,59,Femme,Bi,Italien|Espagnol,Technologie|Lecture,Technologie:Programmation|Lecture:BD/Mangas,Religion|Vie privée,2025-10-17T14:09:11.508850
+b9296561-f0d7-480a-977b-79fe20c2f910,Marcelle,Lesage,21,Non-binaire,Homo,Allemand,Lecture|Sport,Lecture:BD/Mangas|Sport:Running,Religion,2024-11-29T14:09:11.508902
+a7d7d787-6be3-46c4-b723-82d41745dbeb,Susan,Breton,26,Homme,Préfère ne pas dire,Autre|Italien|Anglais,Arts & culture,Arts & culture:Théâtre,Religion,2025-06-11T14:09:11.508942
+7f59749a-2553-4135-849d-718755f570be,Thierry,Charles,70,Femme,Préfère ne pas dire,Espagnol|Italien|Allemand,Voyage,Voyage:Road trip,Vie privée|Aucun,2025-06-03T14:09:11.508980
+68d19ae0-f5ff-4d9a-89ae-d13cd7089e2b,Olivier,Laurent,64,Femme,Homo,Espagnol,Photographie|Jeux vidéo,Photographie:Urbain|Jeux vidéo:Action,Religion|Actualité sensible,2025-09-10T14:09:11.509019
+7c263b3e-f617-4996-b03f-99dbe0bd96b6,Denis,Delahaye,31,Homme,Homo,Espagnol|Français,Sciences|Musique|Lecture,Sciences:Sciences sociales|Musique:Électro|Lecture:Romans,Actualité sensible|Religion,2025-08-27T14:09:11.509060
+7d74d0f9-8dfa-49fc-8cf9-4a80c22d1da8,Bernard,Morvan,66,Homme,Hétéro,Italien|Allemand|Français,Jeux vidéo|Arts & culture|Musique,Jeux vidéo:Action|Arts & culture:Cinéma|Musique:Pop,Actualité sensible|Politique,2025-08-17T14:09:11.509101
+2a337aee-9ba0-4cfe-a883-ff425e02d297,Mathilde,Ferreira,56,Préfère ne pas dire,Hétéro,Autre,Photographie,Photographie:Portrait,Vie privée|Aucun,2025-09-02T14:09:11.509137
+57c2f9c1-ad49-4cc3-a5ae-feda16c27f51,Nicole,Monnier,16,Préfère ne pas dire,Pan,Allemand|Italien,Musique|Cuisine|Lecture,Musique:Électro|Cuisine:Végétarien/vegan|Lecture:Essais,Politique,2025-10-15T14:09:11.509177
+b91c0204-b756-42e6-b007-1b6cc494a605,Françoise,Hernandez,24,Non-binaire,Bi,Allemand|Italien,Technologie|Entrepreneuriat,Technologie:IA|Entrepreneuriat:Création,Religion,2025-05-15T14:09:11.509217
+5e78f029-781d-4578-bd2b-9a96154138ad,Virginie,Albert,65,Homme,Homo,Espagnol|Italien,Sport|Cuisine,Sport:Football|Cuisine:Cuisine du monde,Religion,2025-02-04T14:09:11.509255
+5d0d6b68-3bd8-4b4a-add8-41956d97ecae,Aurore,Olivier,28,Homme,Hétéro,Anglais|Allemand,Podcasts|Jeux vidéo|Arts & culture,Podcasts:Développement perso|Jeux vidéo:Retro|Arts & culture:Arts visuels,Vie privée|Actualité sensible,2025-07-30T14:09:11.509295
+5a8aee50-d70a-4b15-995d-e010c3e9e825,Jean,Meyer,56,Homme,Homo,Italien|Anglais,Jeux vidéo,Jeux vidéo:RPG,Religion|Vie privée,2025-07-19T14:09:11.509332
+571b7842-9da7-4e30-b924-70e7525e2875,Lucie,Meunier,38,Femme,Préfère ne pas dire,Anglais,Jeux vidéo|Entrepreneuriat,Jeux vidéo:Retro|Entrepreneuriat:Marketing,Politique,2025-07-12T14:09:11.509369
+af9d3b45-411b-4cfe-b897-a4829bd4626b,Gérard,Philippe,37,Homme,Homo,Français,Sport,Sport:Basket,Religion,2025-04-10T14:09:11.509404
+474c4366-1cd8-4e12-9c7c-26cc738f945f,Élisabeth,Aubry,45,Homme,Bi,Autre|Anglais,Arts & culture|Voyage|Musique,Arts & culture:Cinéma|Voyage:City trip|Musique:Rock,Religion,2025-01-22T14:09:11.509443
+a7bc8a54-7e01-410e-85a1-04fe867393f0,Élodie,Turpin,56,Homme,Hétéro,Italien|Anglais|Espagnol,Cuisine,Cuisine:Cuisine du monde,Actualité sensible,2025-08-18T14:09:11.509481
+ba9a8d9d-129a-4552-ac57-7122b15f68f7,Xavier,Vallée,66,Femme,Homo,Allemand|Italien|Espagnol,Photographie|Jeux vidéo,Photographie:Paysage|Jeux vidéo:RPG,Aucun|Vie privée,2025-02-10T14:09:11.509526
+c76b1d1c-9ebb-4a70-b749-0c390fc40097,Bernadette,Reynaud,30,Homme,Pan,Allemand,Sport,Sport:Randonnée,Aucun|Religion,2025-04-13T14:09:11.509565
+24a323fe-c073-4d0c-84da-2149c071ca48,Thomas,Lemaire,44,Non-binaire,Homo,Français|Allemand|Espagnol,Jeux vidéo|Podcasts,Jeux vidéo:Casual|Podcasts:Tech,Vie privée|Actualité sensible,2025-06-04T14:09:11.509614
+1e006830-b6f5-4edf-89db-bc1f21183004,Marcel,Mace,57,Femme,Bi,Espagnol,Photographie|Podcasts|Musique,3222,Politique,2025-04-20T14:09:11.509654
+47d912cf-4055-48d7-8b37-9de9466876df,Jules,Gimenez,61,Homme,Préfère ne pas dire,Français|Espagnol,Cuisine|Voyage,Cuisine:Pâtisserie|Voyage:Road trip,Aucun|Religion,2025-04-01T14:09:11.509696
+c46650ba-a55a-4d4a-a2e9-c054f81ba7dc,Marthe,Rodriguez,53,Préfère ne pas dire,Pan,Français|Espagnol,Voyage,Voyage:Culture & musées,Vie privée,2025-03-05T14:09:11.509733
+e95420eb-13ec-4e24-935c-e3eadd405c7d,Maurice,Toussaint,24,Non-binaire,Hétéro,Autre|Espagnol,Entrepreneuriat|Voyage,Entrepreneuriat:Design produit|Voyage:Culture & musées,Actualité sensible|Politique,2025-01-04T14:09:11.509788
+be9bafe3-a6c7-4dc3-b4e8-db5138a89f29,Corinne,Martin,56,Préfère ne pas dire,Pan,Allemand,Photographie,Photographie:Édition,Vie privée,2025-08-27T14:09:11.509850
+bc1fb991-08ef-4837-acf8-2d315f586fce,Émilie,Benoit,22,Homme,Hétéro,Italien|Allemand|Français,Entrepreneuriat,Entrepreneuriat:Création,Actualité sensible|Religion,2025-06-24T14:09:11.509920
+bb40dc28-8a7a-409a-a07a-386fba9908c9,Constance,Perrier,49,Femme,Homo,Allemand|Autre,Musique,Musique:Rock,Vie privée|Politique,2025-04-05T14:09:11.509961
+9aab1395-69a8-46ac-8139-1cb31579f62f,Jeannine,Hernandez,43,Préfère ne pas dire,Homo,Italien|Espagnol|Anglais,Podcasts|Sciences|Jeux vidéo,Podcasts:Développement perso|Sciences:Physique|Jeux vidéo:Action,Vie privée,2025-09-19T14:09:11.510002
+9b8e31a0-32ba-4279-a3cc-5bdc37723cb8,Margaud,Rodrigues,47,Préfère ne pas dire,Pan,Français|Autre|Espagnol,Jeux vidéo|Cuisine|Sport,Jeux vidéo:Casual|Cuisine:Cuisine du monde|Sport:Randonnée,Religion,2024-12-09T14:09:11.510043
+8076a07e-6919-4525-962e-25cf7711d113,William,Carre,22,Préfère ne pas dire,Hétéro,Anglais,Sciences|Photographie,Sciences:Santé|Photographie:Portrait,Vie privée,2025-03-25T14:09:11.510082
+62f75308-df2d-4d65-9c79-fb79289a9911,Émile,Delahaye,48,Non-binaire,Pan,Anglais|Espagnol,Photographie,Photographie:Portrait,Politique|Aucun,2024-11-28T14:09:11.510119
+23b64afb-f311-49c6-ab4a-2335e26e727d,Pauline,Raymond,70,Homme,Pan,Français,Musique|Technologie,Musique:Rap/Hip-hop|Technologie:Cybersécurité,Vie privée|Politique,2025-09-09T14:09:11.510158
+897d3c86-3ce6-45e3-91f0-927274ec4558,Gilles,Renaud,68,Non-binaire,Homo,Français,Musique|Technologie|Sport,Musique:Pop|Technologie:Innovation|Sport:Randonnée,Politique,2024-11-12T14:09:11.510555
+d466ee89-cc76-410a-8a63-d23e501d1332,Valentine,Robert,27,Homme,Hétéro,Italien|Anglais|Allemand,Lecture|Sciences|Photographie,Lecture:Romans|Sciences:Sciences sociales|Photographie:Urbain,Politique|Aucun,2025-09-27T14:09:11.510617
+67edd3ee-308c-4049-8f24-a7caae9b60fe,Catherine,Texier,28,Femme,Hétéro,Français|Autre,Entrepreneuriat|Sciences,Entrepreneuriat:Création|Sciences:Physique,Religion,2025-07-28T14:09:11.510659
+88224e50-4024-472b-8b48-62b584582f68,Maryse,Monnier,29,Préfère ne pas dire,Pan,Anglais,Musique,Musique:Rap/Hip-hop,Religion|Politique,2025-03-30T14:09:11.510712
+ca24a8b6-4107-497b-bee8-cbabe484e123,Lucy,Poirier,30,Femme,Bi,Italien|Espagnol|Français,Entrepreneuriat,Entrepreneuriat:Design produit,Aucun|Vie privée,2025-08-30T14:09:11.510795
+25ce3331-eac7-49d6-8aa9-5d0d5cc2cb28,Célina,Hardy,36,Préfère ne pas dire,Homo,Anglais|Espagnol,Jeux vidéo|Musique|Cuisine,Jeux vidéo:Action|Musique:Jazz/Blues|Cuisine:Pâtisserie,Aucun|Religion,2025-02-06T14:09:11.510870
+aaf08831-0570-488e-b4af-59e086306680,Marcel,Roussel,64,Femme,Bi,Autre,Entrepreneuriat|Arts & culture,Entrepreneuriat:Création|Arts & culture:Cinéma,Actualité sensible,2025-02-08T14:09:11.510921
+9780c55a-f131-45d2-a63d-4adadf4568c8,Bernard,Garcia,31,Préfère ne pas dire,Bi,Espagnol,Sciences|Lecture,Sciences:Sciences sociales|Lecture:Développement personnel,Religion,2025-05-05T14:09:11.510963
+2a11c21e-644d-4feb-91c3-98423c4a7ca6,Roger,Langlois,67,Homme,Préfère ne pas dire,Italien|Espagnol,Jeux vidéo,Jeux vidéo:Action,Vie privée,2025-09-16T14:09:11.511002
+52c2cd23-21ea-45b8-9669-d8c6c818b812,Émilie,Barbier,21,Homme,Préfère ne pas dire,Anglais|Autre|Français,Podcasts|Jeux vidéo,Podcasts:Développement perso|Jeux vidéo:FPS,Religion,2025-03-18T14:09:11.511041
+3347efe9-b988-4899-a3ea-2f6dfcd9407c,Constance,Mercier,44,Homme,Bi,Français|Espagnol,Voyage|Technologie,Voyage:Culture & musées|Technologie:Cybersécurité,Aucun|Vie privée,2025-08-03T14:09:11.511087
+bfd842f2-008b-4323-8df0-009f53e3e7b7,Luce,Morin,70,Femme,Bi,Italien|Anglais|Autre,Voyage|Jeux vidéo,Voyage:Nature|Jeux vidéo:Casual,Vie privée|Aucun,2025-09-15T14:09:11.511128
+ec0bcc86-db2a-4b1a-8578-5c059a8ddbe5,Jacques,Thierry,16,Femme,Préfère ne pas dire,Autre|Espagnol|Allemand,Voyage|Podcasts,Voyage:Nature|Podcasts:Tech,Actualité sensible|Politique,2025-03-26T14:09:11.511168
+ec6fdc26-790a-404b-bca5-366861e0ac8d,Martin,Raymond,28,Préfère ne pas dire,Bi,Espagnol|Italien|Allemand,Podcasts|Cuisine|Lecture,Podcasts:Tech|Cuisine:Pâtisserie|Lecture:Essais,Vie privée,2025-10-04T14:09:11.511208
+bfef0971-4ca3-450e-8e92-a052cbae4a20,Michelle,Lemaire,54,Préfère ne pas dire,Homo,Anglais|Italien,Sciences|Technologie|Lecture,Sciences:Biologie|Technologie:Programmation|Lecture:BD/Mangas,Aucun|Politique,2025-01-29T14:09:11.511251
+b861266f-0732-47ff-a695-6c79b647896a,Émile,Jacquet,60,Non-binaire,Préfère ne pas dire,Autre|Allemand|Espagnol,Voyage|Musique|Sciences,Voyage:Nature|Musique:World|Sciences:Physique,Religion|Vie privée,2024-10-29T14:09:11.511292
+8779e011-208f-4105-bec4-e55655e29dee,Susan,Lemoine,20,Préfère ne pas dire,Préfère ne pas dire,Autre|Espagnol,Voyage|Technologie|Sciences,Voyage:Nature|Technologie:IA|Sciences:Physique,Vie privée,2025-07-20T14:09:11.511391
+296a0fff-2f5e-402f-a60a-7dea41e699f8,Élisabeth,Lefèvre,27,Homme,Hétéro,Anglais|Autre|Espagnol,Jeux vidéo|Sciences,Jeux vidéo:Retro|Sciences:Biologie,Politique,2025-05-24T14:09:11.511441
+1614bbcd-e77d-4dc7-be2f-fc04b574533e,Caroline,Hoareau,17,Homme,Pan,Autre|Français,Lecture,Lecture:Développement personnel,Aucun,2025-09-30T14:09:11.511481
+3dc37d87-2c64-4ced-91c3-6e0dcebe425a,Valérie,Besnard,64,Non-binaire,Pan,Espagnol|Italien,Cuisine|Podcasts,Cuisine:Végétarien/vegan|Podcasts:Développement perso,Actualité sensible,2024-11-15T14:09:11.511526
+3efe7e14-c293-480b-ad6b-107ed4ef49d3,Olivier,Raymond,16,Préfère ne pas dire,Pan,Anglais|Français|Italien,Sport|Entrepreneuriat|Cuisine,Sport:Escalade|Entrepreneuriat:Design produit|Cuisine:Pâtisserie,Politique,2024-11-29T14:09:11.511569
+d3743d2e-27d9-4774-a60b-a14bac8b3c9c,Margaret,Bouvet,67,Non-binaire,Pan,Italien,Voyage|Arts & culture,Voyage:Road trip|Arts & culture:Arts visuels,Vie privée|Politique,2025-04-07T14:09:11.511609
+850933d8-2128-457b-880a-8708130bbfa5,Agnès,Gallet,66,Femme,Homo,Français|Espagnol,Photographie|Jeux vidéo|Technologie,Photographie:Édition|Jeux vidéo:Action|Technologie:Cybersécurité,Religion,2025-07-05T14:09:11.511650
+75628a67-35ee-467b-9c92-72725b130f5a,Emmanuelle,Moreau,26,Non-binaire,Pan,Anglais|Espagnol,Jeux vidéo|Sciences|Musique,Jeux vidéo:FPS|Sciences:Sciences sociales|Musique:Pop,Religion|Politique,2024-11-26T14:09:11.511694
+d916b027-3ecb-4267-9764-1a5f4d966492,Stéphanie,Boucher,30,Non-binaire,Hétéro,Français|Autre,Cuisine,Cuisine:Cuisine du monde,Aucun,2025-04-16T14:09:11.511732
+6f7d3ac2-2274-4aae-8a54-7db9a8944c65,Claire,Martins,35,Femme,Préfère ne pas dire,Anglais|Allemand|Italien,Cuisine|Sciences,Cuisine:Cuisine du monde|Sciences:Physique,Vie privée,2025-10-17T14:09:11.511770
+4754b5a4-32f0-4f7b-89b5-9af2f404d4a2,Anaïs,Gomes,69,Homme,Pan,Allemand|Anglais|Espagnol,Podcasts,Podcasts:Actualité,Actualité sensible|Politique,2025-06-03T14:09:11.511850
+cf4efe5f-b100-4406-a650-42921e8d93cc,Marcel,Lefèvre,61,Préfère ne pas dire,Hétéro,Anglais|Autre,Entrepreneuriat|Lecture|Technologie,Entrepreneuriat:Design produit|Lecture:BD/Mangas|Technologie:Gadgets,Politique,2025-01-14T14:09:11.511896
+08fb0e72-6fe8-46ab-bda2-bdc96314bd20,Alfred,Jacques,41,Femme,Préfère ne pas dire,Espagnol|Autre|Anglais,Photographie|Voyage|Musique,Photographie:Paysage|Voyage:Nature|Musique:World,Actualité sensible,2025-03-01T14:09:11.511939
+d2549c31-0f2a-4419-868f-e243bcd414e0,Sébastien,Teixeira,25,Homme,Homo,Anglais|Français|Espagnol,Arts & culture|Musique|Technologie,Arts & culture:Histoire|Musique:Électro|Technologie:IA,Politique,2025-04-22T14:09:11.511980
+5ad2df4c-5651-46e0-a952-f19e6fc8f4e2,Marcel,Antoine,57,Non-binaire,Préfère ne pas dire,Anglais|Allemand,Lecture,Lecture:Romans,Vie privée,2025-02-13T14:09:11.512018
+4203e96a-3ad8-4bff-b6f6-886b4fa84935,Matthieu,Valentin,68,Préfère ne pas dire,Bi,Autre|Allemand|Espagnol,Musique,Musique:Pop,Politique,2025-02-13T14:09:11.512062
+d6528bb2-2391-4cfe-8235-a26ba81e6ddc,Inès,Bernard,52,Préfère ne pas dire,Bi,Autre|Français|Anglais,Jeux vidéo|Sciences,Jeux vidéo:Casual|Sciences:Santé,Politique,2025-05-08T14:09:11.512102
+455ec4ab-4350-421e-8e5c-1d58608f3686,Céline,Louis,51,Préfère ne pas dire,Hétéro,Italien|Autre|Français,Sciences,Sciences:Biologie,Aucun,2024-10-31T14:09:11.512146
+2d0ba98e-f719-4318-a541-50ae11f3f6dd,Hélène,Bourgeois,24,Homme,Homo,Italien,Lecture|Musique,Lecture:Romans|Musique:Jazz/Blues,Actualité sensible|Religion,2025-03-19T14:09:11.512191
+649a8c8c-85e8-4866-b6cd-70eb5cbec6b3,Claire,Regnier,49,Non-binaire,Préfère ne pas dire,Anglais|Italien,Podcasts|Cuisine,Podcasts:Culture|Cuisine:Végétarien/vegan,Politique,2024-11-16T14:09:11.512233
+703658de-3d31-4a0f-abf3-dddea7673be8,Rémy,Bonneau,35,Homme,Homo,Italien|Anglais|Espagnol,Technologie|Arts & culture,Technologie:Cybersécurité|Arts & culture:Cinéma,Actualité sensible|Vie privée,2024-11-23T14:09:11.512281
+3eef8103-49ee-43ee-b61d-e30b574411ae,Timothée,Merle,59,Préfère ne pas dire,Homo,Anglais|Français|Espagnol,Podcasts|Sciences|Entrepreneuriat,Podcasts:Développement perso|Sciences:Physique|Entrepreneuriat:Design produit,Actualité sensible,2025-03-13T14:09:11.512326
+09079881-4342-4d03-906a-617a1a6c7c01,Audrey,Gimenez,50,Femme,Préfère ne pas dire,Français|Espagnol,Musique|Cuisine|Sciences,Musique:World|Cuisine:Végétarien/vegan|Sciences:Physique,Actualité sensible,2025-10-16T14:09:11.512369
+d64c1f28-2b1f-4bdc-8e67-b10579c51c22,Paulette,Besnard,27,Non-binaire,Préfère ne pas dire,Français|Italien,Podcasts|Arts & culture,Podcasts:Développement perso|Arts & culture:Arts visuels,Politique,2025-07-26T14:09:11.512408
+c516f69e-c730-4d4c-b9ea-d18669ae5944,Alex,Faure,51,Préfère ne pas dire,Pan,Anglais|Espagnol|Français,Photographie|Technologie|Sciences,Photographie:Paysage|Technologie:Cybersécurité|Sciences:Santé,Actualité sensible,2024-10-24T14:09:11.512452
+ede67f87-82c9-4957-a8be-da1b2195261d,Hugues,Marchand,38,Préfère ne pas dire,Préfère ne pas dire,Espagnol|Allemand,Podcasts|Entrepreneuriat|Sport,Podcasts:Actualité|Entrepreneuriat:Marketing|Sport:Randonnée,Politique|Aucun,2025-09-12T14:09:11.512495
+0d848659-ab1f-4152-9c95-d382bf2bbbe7,Laure,Roche,21,Non-binaire,Préfère ne pas dire,Français|Allemand,Photographie|Technologie|Jeux vidéo,Photographie:Édition|Technologie:Innovation|Jeux vidéo:Retro,Vie privée,2025-10-14T14:09:11.512540
+a62da7a3-51f6-48d0-817d-20b4659095da,Chantal,Lagarde,31,Femme,Préfère ne pas dire,Anglais|Italien,Technologie,Technologie:Programmation,Religion|Actualité sensible,2025-09-25T14:09:11.512580
+1d7c4138-d563-4eb2-b99d-bfc4a7ee1f38,Sabine,Fleury,37,Homme,Préfère ne pas dire,Espagnol,Jeux vidéo|Sport,Jeux vidéo:RPG|Sport:Running,Aucun,2025-04-03T14:09:11.512618
+52bf060d-1f48-4982-9e0e-c84820003dc0,Agathe,Lamy,55,Préfère ne pas dire,Hétéro,Français|Italien,Cuisine|Sport,Cuisine:Végétarien/vegan|Sport:Basket,Actualité sensible,2025-07-18T14:09:11.512656
+633b302d-274e-4c45-87dc-e2ed13429d02,Adrien,Allain,28,Femme,Préfère ne pas dire,Anglais|Allemand|Français,Lecture|Technologie,Lecture:Développement personnel|Technologie:IA,Vie privée|Actualité sensible,2025-05-21T14:09:11.512695
+7bc66562-d8da-4b65-9b24-a8fb66404e98,Alain,Gaillard,44,Préfère ne pas dire,Homo,Espagnol,Voyage|Lecture|Cuisine,Voyage:City trip|Lecture:Romans|Cuisine:Cuisine du monde,Politique|Religion,2025-04-02T14:09:11.512734
+a9d3a78a-f759-43cc-86c7-5bec861dbf21,Catherine,Royer,46,Non-binaire,Hétéro,Allemand|Italien,Sciences|Technologie,Sciences:Santé|Technologie:Cybersécurité,Religion|Politique,2025-08-27T14:09:11.512773
+05e0e69b-3cab-4956-a400-a76de3c8a341,Laetitia,Thomas,16,Homme,Hétéro,Espagnol|Allemand|Français,Jeux vidéo|Sport,Jeux vidéo:RPG|Sport:Escalade,Vie privée,2025-06-17T14:09:11.512850
+e6937289-fc39-41e3-9f6d-239df4bb1d78,Geneviève,Huet,32,Homme,Pan,Allemand,Musique|Photographie|Arts & culture,Musique:Rock|Photographie:Paysage|Arts & culture:Théâtre,Politique,2025-08-15T14:09:11.512900
+ed92d7ee-1a69-4906-8db7-baf4926eb4dd,Thérèse,Lelièvre,17,Homme,Hétéro,Allemand,Photographie|Sport,Photographie:Paysage|Sport:Running,Vie privée|Aucun,2025-09-20T14:09:11.512941
+9c1ce297-747d-4c3c-b12f-4e0b2660f367,Bernadette,Le Gall,39,Non-binaire,Bi,Allemand|Anglais|Espagnol,Technologie,Technologie:Programmation,Politique,2024-11-17T14:09:11.512979
+61736e49-54fd-48ac-a051-1ef423d4ff37,Auguste,Maury,54,Femme,Pan,Espagnol,Cuisine|Podcasts,Cuisine:Végétarien/vegan|Podcasts:Actualité,Politique,2024-11-06T14:09:11.513017
+21650c5d-ecb9-444c-ad88-e84dfae44a48,Timothée,Chauveau,63,Non-binaire,Homo,Espagnol|Anglais|Allemand,Musique,Musique:Rock,Politique,2024-12-25T14:09:11.513065
+262c5675-0750-457d-b4e2-6dfd51a403c7,Claudine,Leclerc,20,Non-binaire,Bi,Allemand|Anglais|Italien,Technologie,Technologie:IA,Aucun|Actualité sensible,2025-01-08T14:09:11.513105
+d416a3f0-7654-428a-8888-d917ae662a82,Roland,Allard,20,Préfère ne pas dire,Pan,Italien|Français|Anglais,Sport|Technologie|Podcasts,Sport:Football|Technologie:Innovation|Podcasts:Actualité,Vie privée,2025-02-10T14:09:11.513147
+f0fcebaa-6d4f-4b65-b200-454ce4d815f0,Jacqueline,Gautier,40,Préfère ne pas dire,Pan,Espagnol|Anglais|Italien,Technologie,Technologie:Innovation,Aucun,2024-10-30T14:09:11.513184
+18ec4d88-ef0a-475d-b37c-529a7666c8cd,Chantal,Tanguy,61,Non-binaire,Préfère ne pas dire,Anglais,Lecture,Lecture:Essais,Politique|Religion,2025-06-01T14:09:11.513221
+6a91b7a3-5065-48e9-8c70-3af013f641ac,Michel,Bourgeois,50,Femme,Hétéro,Espagnol|Italien|Autre,Musique|Photographie,Musique:Rap/Hip-hop|Photographie:Paysage,Aucun|Actualité sensible,2025-05-08T14:09:11.513261
+665a82b9-ded5-413c-b6cd-d974b356298c,Charles,Tanguy,27,Non-binaire,Hétéro,Autre|Italien|Français,Podcasts|Voyage|Sport,Podcasts:Culture|Voyage:City trip|Sport:Escalade,Actualité sensible,2025-06-06T14:09:11.513302
+17e6590e-ed42-4fb5-b55b-2f940fb60a24,Denise,Blanchet,62,Préfère ne pas dire,Bi,Allemand,Jeux vidéo,Jeux vidéo:FPS,Religion|Aucun,2025-07-17T14:09:11.513341
+6d0e7aed-e4be-4c98-a95b-086b67f14279,Charlotte,Lévy,26,Homme,Pan,Italien|Anglais|Français,Musique,Musique:Électro,Vie privée,2024-11-25T14:09:11.513378
+4ab3ef09-9395-46da-963c-edbd296381e7,Valérie,Coste,54,Femme,Pan,Français|Autre,Sciences,Sciences:Biologie,Religion,2025-09-09T14:09:11.513415
+87fe53a4-f0dd-4b66-8b95-f6e6d3a7516a,Pauline,Cousin,63,Non-binaire,Hétéro,Anglais,Arts & culture|Jeux vidéo,Arts & culture:Théâtre|Jeux vidéo:RPG,Vie privée|Religion,2025-06-19T14:09:11.513454
+6e6ae639-dea6-4605-b775-9b5219914798,Anastasie,Noël,68,Femme,Hétéro,Espagnol|Français|Allemand,Lecture,Lecture:Essais,Religion,2025-03-17T14:09:11.513491
+449ab46c-23d8-4184-9063-5762ff413b5d,Aimé,Adam,59,Femme,Pan,Français,Musique,Musique:Rap/Hip-hop,Politique|Actualité sensible,2025-08-22T14:09:11.513527
+1fc08614-ae18-44c2-aadf-6246142f2c1c,Françoise,Hebert,27,Préfère ne pas dire,Préfère ne pas dire,Italien|Anglais,Voyage|Technologie|Sport,Voyage:Nature|Technologie:Gadgets|Sport:Basket,Vie privée|Actualité sensible,2025-06-08T14:09:11.513571
+45542dde-c35b-4d7f-af88-6c1ab21fa723,Étienne,Nicolas,36,Homme,Pan,Autre|Allemand,Musique,Musique:Jazz/Blues,Actualité sensible|Religion,2025-09-05T14:09:11.513609
+b2b09063-21d0-4ec6-926f-0edca5bda34a,Robert,Collet,36,Préfère ne pas dire,Pan,Autre|Allemand,Sciences|Cuisine|Technologie,Sciences:Physique|Cuisine:Pâtisserie|Technologie:Cybersécurité,Aucun|Vie privée,2025-01-22T14:09:11.513649
+7ac5fcb0-655f-430e-8d58-9cf94e4aa20e,Hélène,Duval,61,Préfère ne pas dire,Préfère ne pas dire,Autre|Anglais|Français,Cuisine,Cuisine:Gastronomie FR,Politique,2025-04-19T14:09:11.513686
+d3881d20-cf24-4b75-a164-18aef24d088d,Brigitte,Perrot,39,Homme,Bi,Anglais|Italien,Entrepreneuriat|Podcasts,Entrepreneuriat:Investissement|Podcasts:Actualité,Politique,2024-10-30T14:09:11.513724
+d8de528d-6077-4c6f-a984-485948dce60e,Aurélie,Hardy,19,Femme,Préfère ne pas dire,Allemand,Technologie|Lecture|Podcasts,Technologie:Gadgets|Lecture:Essais|Podcasts:Actualité,Politique,2025-10-15T14:09:11.513771
+cc938bbe-b54c-40fc-9f2b-d0761107932f,Éléonore,Laurent,63,Homme,Préfère ne pas dire,Espagnol|Allemand|Italien,Cuisine|Jeux vidéo|Lecture,Cuisine:Végétarien/vegan|Jeux vidéo:Action|Lecture:Essais,Politique,2024-12-16T14:09:11.513813
+2c3c460e-ec86-4e47-bcf1-8a0729a72330,Jacques,Schmitt,59,Préfère ne pas dire,Préfère ne pas dire,Espagnol|Italien|Autre,Entrepreneuriat|Voyage|Technologie,Entrepreneuriat:Marketing|Voyage:Road trip|Technologie:Innovation,Religion|Aucun,2025-03-30T14:09:11.513853
+783c2c07-7b02-43fa-b897-dccdb2d6e5cf,Thérèse,Léger,54,Femme,Pan,Espagnol|Allemand,Technologie|Lecture,Technologie:Gadgets|Lecture:BD/Mangas,Actualité sensible,2025-08-27T14:09:11.513917
+5525f540-8ed3-4f65-972d-ae085ebbc33d,Henri,Clément,31,Non-binaire,Homo,Français|Autre|Anglais,Lecture|Sport|Entrepreneuriat,Lecture:Essais|Sport:Football|Entrepreneuriat:Investissement,Politique|Aucun,2025-01-06T14:09:11.513960
+0a5becde-a68a-43af-8379-be3c9645e75b,Agathe,Jacob,21,Non-binaire,Hétéro,Espagnol|Allemand,Entrepreneuriat|Cuisine|Voyage,Entrepreneuriat:Marketing|Cuisine:Cuisine du monde|Voyage:Road trip,Vie privée|Politique,2025-02-06T14:09:11.514000
+d835a555-1d62-4e50-86ca-b607ada6bb4a,Marcel,Bonnet,46,Femme,Bi,Anglais,Jeux vidéo|Musique|Sciences,Jeux vidéo:FPS|Musique:Rock|Sciences:Physique,Aucun,2025-01-30T14:09:11.514041
+1cacedcb-47f9-4f17-833f-98cde56b0776,Christine,Delahaye,34,Non-binaire,Préfère ne pas dire,Français|Allemand,Entrepreneuriat,Entrepreneuriat:Création,Aucun,2024-12-04T14:09:11.514078
+9eae8392-fc3b-4192-ba8c-a019069d0b5e,Alexandria,Foucher,51,Femme,Pan,Allemand,Technologie|Sport,Technologie:IA|Sport:Basket,Aucun|Actualité sensible,2025-04-24T14:09:11.514116
+93166a07-48c4-413d-83f6-1961ce488cba,Alexandrie,Pelletier,32,Préfère ne pas dire,Homo,Italien,Lecture|Cuisine,Lecture:Développement personnel|Cuisine:Pâtisserie,Aucun|Religion,2025-03-10T14:09:11.514156
+b4a0061d-4f59-42f7-b73f-8acc8c75bec8,Aimé,Verdier,48,Préfère ne pas dire,Bi,Français|Italien|Autre,Entrepreneuriat|Photographie|Lecture,Entrepreneuriat:Investissement|Photographie:Portrait|Lecture:Développement personnel,Religion|Vie privée,2025-09-14T14:09:11.514196
+f196ddcc-5d06-448a-9193-efc59da0578c,Joseph,Hardy,45,Préfère ne pas dire,Hétéro,Anglais,Musique|Voyage|Sciences,Musique:Rock|Voyage:Culture & musées|Sciences:Santé,Actualité sensible,2025-04-29T14:09:11.514234
+fa22525a-4a2b-40b3-895c-232779cd2dc7,Théophile,Besson,33,Préfère ne pas dire,Hétéro,Anglais|Allemand|Autre,Entrepreneuriat|Cuisine|Arts & culture,Entrepreneuriat:Création|Cuisine:Pâtisserie|Arts & culture:Cinéma,Vie privée|Aucun,2025-07-04T14:09:11.514274
+aa9f07f9-776c-45d2-afe0-4b5c89cd2f46,Éric,Fernandes,56,Homme,Hétéro,Français,Voyage|Musique,Voyage:Nature|Musique:World,Vie privée|Religion,2024-11-13T14:09:11.514311
+fa935d56-8a18-4851-b3eb-d1655ca85c13,Guillaume,Lambert,37,Non-binaire,Homo,Espagnol,Jeux vidéo|Podcasts,Jeux vidéo:Retro|Podcasts:True crime,Actualité sensible|Vie privée,2025-10-16T14:09:11.514350
+d7e08f24-9f4a-45a0-969b-a3d3f02e82f1,Jean,Rémy,25,Non-binaire,Bi,Anglais,Technologie|Jeux vidéo,Technologie:Gadgets|Jeux vidéo:Action,Actualité sensible|Politique,2025-03-05T14:09:11.514389
+54802056-f996-43a1-af9b-1f8ee5b15a0d,Benoît,Rodriguez,18,Homme,Homo,Autre|Italien,Arts & culture,Arts & culture:Histoire,Actualité sensible,2025-07-06T14:09:11.514431
+ab0cce6e-f5f1-4f67-8581-122e010b1188,Christelle,Salmon,35,Non-binaire,Préfère ne pas dire,Autre,Sciences|Jeux vidéo,Sciences:Sciences sociales|Jeux vidéo:Casual,Actualité sensible|Vie privée,2025-01-27T14:09:11.514469
+fb70b184-1372-4de8-a6f6-02d6fae575a4,Maurice,Le Roux,43,Non-binaire,Homo,Italien|Anglais|Allemand,Sport|Sciences,Sport:Randonnée|Sciences:Santé,Politique,2025-08-29T14:09:11.514508
+f0cf6724-0722-41c8-9481-7c8856e94651,Alexandria,Langlois,47,Femme,Pan,Italien|Français|Espagnol,Entrepreneuriat|Podcasts,Entrepreneuriat:Design produit|Podcasts:Culture,Politique|Religion,2025-02-23T14:09:11.514547
+e76740e0-1150-4ff8-ae28-234b6c5b8d7f,Margot,Legrand,16,Non-binaire,Homo,Espagnol|Autre|Italien,Voyage|Sciences,Voyage:City trip|Sciences:Biologie,Politique|Aucun,2025-10-08T14:09:11.514587
+98e0cca3-e701-48f6-bec9-eb8877214409,Luc,Perrot,37,Homme,Préfère ne pas dire,Anglais|Italien,Entrepreneuriat|Arts & culture,Entrepreneuriat:Design produit|Arts & culture:Cinéma,Religion|Vie privée,2025-07-25T14:09:11.514629
+2f7f81b8-61ec-4000-b671-93802379380d,Marguerite,Albert,N/A,Femme,Homo,Français|Italien|Allemand,Sport|Photographie|Technologie,Sport:Yoga|Photographie:Paysage|Technologie:Programmation,Politique,2025-03-12T14:09:11.514670
+e4288145-d657-4212-83c2-e0b557a974cc,Bernadette,Bernier,63,Homme,Pan,Autre|Espagnol|Anglais,Sciences,Sciences:Physique,Religion|Aucun,2025-04-11T14:09:11.514709
+9071bc27-8592-41ce-abb6-43382b146daa,Laure,Descamps,56,Femme,Préfère ne pas dire,Français,Arts & culture|Musique,Arts & culture:Cinéma|Musique:Rock,Actualité sensible|Religion,2025-09-04T14:09:11.514748
+998d8c21-4153-4b6d-8ccf-63c05230efda,Agathe,Pottier,47,Femme,Pan,Allemand,Musique|Entrepreneuriat|Voyage,9295,Religion,2025-05-22T14:09:11.514792
+14ad59c8-1324-463f-abf8-d32532bfb78b,Audrey,Maurice,46,Femme,Homo,Autre|Espagnol|Français,Arts & culture,Arts & culture:Cinéma,Aucun,2025-02-01T14:09:11.514834
+dafecae2-dc5a-46f9-aea2-d704ec15e301,Luce,Gimenez,17,Non-binaire,Homo,Français,Podcasts|Technologie|Sport,Podcasts:Développement perso|Technologie:Cybersécurité|Sport:Running,Actualité sensible,2024-10-24T14:09:11.514875
+793c5a5b-4248-48e5-8f33-a0874f1a16b6,Caroline,Lambert,48,Préfère ne pas dire,Homo,Anglais|Autre,Podcasts|Sport|Voyage,Podcasts:Actualité|Sport:Cyclisme|Voyage:City trip,Vie privée,2025-03-14T14:09:11.514915
+cdd040b8-db21-4356-857e-c87998845494,Noël,Laporte,55,Femme,Préfère ne pas dire,Allemand|Anglais,Cuisine|Podcasts|Musique,Cuisine:Pâtisserie|Podcasts:True crime|Musique:Pop,Aucun|Vie privée,2025-05-24T14:09:11.514956
+376e3b43-7f6a-44a6-b01c-ec41daa1c9a5,Gabrielle,Robert,27,Non-binaire,Pan,Espagnol,Musique,Musique:Rock,Actualité sensible|Religion,2025-05-14T14:09:11.514994
+ca7a8b1d-bf89-4e70-a202-1480e6c6fb77,Nathalie,Da Silva,45,Non-binaire,Homo,Français|Allemand|Espagnol,Entrepreneuriat|Photographie|Podcasts,Entrepreneuriat:Création|Photographie:Urbain|Podcasts:Culture,Aucun,2024-11-25T14:09:11.515034
+b9a9630a-a0f6-444a-a3e9-80e55f954791,Michelle,David,28,Femme,Pan,Français|Espagnol,Musique|Podcasts,Musique:Électro|Podcasts:True crime,Aucun|Vie privée,2025-06-22T14:09:11.515072
+c11ac23b-6a5e-4c8f-b0f4-b20eee6d1934,Hortense,Renard,45,Non-binaire,Homo,Français|Italien,Lecture|Cuisine|Podcasts,Lecture:Romans|Cuisine:Pâtisserie|Podcasts:Actualité,Actualité sensible|Aucun,2025-05-12T14:09:11.515119
+4121d652-53b7-40f7-bfd8-195e921a1f04,Maryse,Devaux,47,Femme,Pan,Autre|Allemand,Sciences|Musique,1723,Politique,2025-06-29T14:09:11.515158
+94d6d01a-fe21-46fb-99ef-bdea4079fa66,Diane,Bonneau,28,Non-binaire,Préfère ne pas dire,Autre,Sport,Sport:Football,Politique,2025-05-19T14:09:11.515197
+62cd88e1-b0e1-4822-afb9-f3be2a607c88,Victoire,Diallo,60,Homme,Homo,Allemand|Français|Anglais,Technologie|Arts & culture,Technologie:Cybersécurité|Arts & culture:Histoire,Aucun,2025-01-24T14:09:11.515235
+b0d7c77e-ff83-406a-9d65-98820606d01d,Diane,Pascal,65,Préfère ne pas dire,Homo,Espagnol,Podcasts|Musique,Podcasts:Développement perso|Musique:Jazz/Blues,Religion,2024-10-31T14:09:11.515273
+b4e2fb6b-5cb3-4e49-8003-6533eefc3885,Céline,Vallée,58,Homme,Pan,Anglais|Allemand,Cuisine,Cuisine:Cuisine du monde,Actualité sensible|Vie privée,2024-11-20T14:09:11.515310
+2dcc56e7-e51a-4739-9cd3-81a9a3557197,Astrid,Schmitt,40,Préfère ne pas dire,Préfère ne pas dire,Anglais|Allemand|Autre,Sport,Sport:Randonnée,Actualité sensible,2024-12-30T14:09:11.515346
+da20b706-75dd-4d64-af98-f503adc9cedb,Timothée,Torres,31,Femme,Pan,Espagnol,Jeux vidéo,Jeux vidéo:Retro,Actualité sensible|Aucun,2025-08-22T14:09:11.515383
+f8833b81-b390-4e22-a7cc-f104e7ab693a,Audrey,Reynaud,25,Préfère ne pas dire,Préfère ne pas dire,Italien|Espagnol,Jeux vidéo,Jeux vidéo:RPG,Politique|Aucun,2024-11-23T14:09:11.515418
+b065ba53-76ae-4e16-82c3-4d9aaa26a6bc,Denis,Tessier,41,Homme,Préfère ne pas dire,Italien|Autre,Photographie|Voyage,Photographie:Portrait|Voyage:Road trip,Politique,2025-07-01T14:09:11.515455
+1af230b8-54af-4f72-8396-e1ed6b03f38c,Diane,Boucher,20,Femme,Bi,Italien,Podcasts|Voyage|Sciences,Podcasts:Tech|Voyage:Road trip|Sciences:Physique,Vie privée|Religion,2025-07-26T14:09:11.515509
+447b144c-8652-42f8-9770-1dc02d105325,Nath,Bouchet,62,Femme,Hétéro,Italien,Arts & culture|Jeux vidéo|Sport,Arts & culture:Théâtre|Jeux vidéo:FPS|Sport:Yoga,Religion,2025-07-18T14:09:11.515550
+694053cb-127e-4723-b49a-af638fbe90b9,Antoinette,Masson,43,Non-binaire,Hétéro,Espagnol,Technologie,Technologie:Programmation,Vie privée|Politique,2025-02-13T14:09:11.515586
+85e3d2c5-f8f2-4d94-b57b-4ac34dd7dd6d,Sabine,Bouvier,52,Non-binaire,Homo,Italien|Anglais|Autre,Musique,Musique:Rap/Hip-hop,Vie privée|Aucun,2025-04-25T14:09:11.515620
+1714377a-6ca6-4047-917b-c7ce9cfafc38,Laetitia,Vallée,45,Femme,Bi,Autre|Espagnol,Sciences|Arts & culture|Jeux vidéo,Sciences:Biologie|Arts & culture:Arts visuels|Jeux vidéo:Retro,Religion,2025-03-25T14:09:11.515661
+2682274c-fc46-4f76-9c9a-a400aa1a4b0b,Capucine,Rivière,31,Préfère ne pas dire,Bi,Autre,Entrepreneuriat,Entrepreneuriat:Design produit,Actualité sensible,2024-12-05T14:09:11.515697
+db4e0916-ed8f-469c-a461-3827950ae44e,Susan,Renault,59,Non-binaire,Bi,Italien|Allemand,Sport|Entrepreneuriat,Sport:Football|Entrepreneuriat:Marketing,Vie privée,2025-03-03T14:09:11.515735
+4c97e1de-a066-40dc-8299-eb9272867914,Grégoire,Royer,47,Homme,Pan,Anglais|Italien|Espagnol,Photographie|Sciences|Technologie,Photographie:Urbain|Sciences:Sciences sociales|Technologie:Gadgets,Actualité sensible,2025-10-14T14:09:11.515775
+da634cfe-96f5-424f-b7ce-7408ed68efe8,Charles,Dos Santos,19,Préfère ne pas dire,Bi,Allemand,Sciences|Lecture,Sciences:Biologie|Lecture:Développement personnel,Actualité sensible,2025-05-29T14:09:11.515815
+c1a80823-499a-4dad-bee2-9e3fd87d8e3c,François,Duhamel,62,Homme,Pan,Français|Espagnol|Anglais,Jeux vidéo,Jeux vidéo:RPG,Vie privée,2025-03-19T14:09:11.515853
+79a595a5-02c0-4006-bbb9-a60354a6d7a8,Jules,Alexandre,35,Homme,Préfère ne pas dire,Autre|Espagnol,Technologie|Sciences|Entrepreneuriat,Technologie:Gadgets|Sciences:Physique|Entrepreneuriat:Design produit,Actualité sensible,2025-05-18T14:09:11.515889
+bbfe71f7-f6e5-45a9-9c23-36e313b4eb84,Édouard,Bouvet,66,Préfère ne pas dire,Hétéro,Italien,Podcasts|Cuisine,Podcasts:Culture|Cuisine:Végétarien/vegan,Actualité sensible|Vie privée,2025-02-25T14:09:11.515925
+00136479-670a-42d6-8e3d-1d49fb72bd35,Henriette,Garcia,17,Préfère ne pas dire,Hétéro,Italien,Entrepreneuriat|Arts & culture,Entrepreneuriat:Marketing|Arts & culture:Théâtre,Politique|Vie privée,2025-08-18T14:09:11.515968
+f4fdc0af-e310-4ac8-887d-4f379e85430b,Antoine,Parent,69,Femme,Hétéro,Espagnol,Musique|Cuisine|Arts & culture,Musique:Pop|Cuisine:Végétarien/vegan|Arts & culture:Histoire,Politique|Aucun,2024-12-26T14:09:11.516040
+6714796b-2294-4586-b950-bacca9e5f7d4,Sabine,Delahaye,51,Préfère ne pas dire,Homo,Autre,Technologie|Sport|Sciences,Technologie:Programmation|Sport:Escalade|Sciences:Physique,Politique,2025-10-21T14:09:11.516092
+b6fe68ee-b235-4ddc-9058-a71e04f17973,Astrid,Jourdan,29,Femme,Pan,Italien,Voyage|Lecture,Voyage:Road trip|Lecture:Développement personnel,Vie privée|Religion,2025-06-23T14:09:11.516131
+8f3ff6d4-fffa-4aad-9e82-f5d6f184dabd,François,Lemoine,23,Préfère ne pas dire,Homo,Français|Anglais|Italien,Sciences|Entrepreneuriat|Technologie,Sciences:Physique|Entrepreneuriat:Design produit|Technologie:Cybersécurité,Actualité sensible|Politique,2024-12-24T14:09:11.516173
+9af33a00-c4ad-4700-a2be-e811aba887ac,Élodie,Schmitt,45,Préfère ne pas dire,Pan,Français,Jeux vidéo|Musique,Jeux vidéo:Retro|Musique:Électro,Aucun,2025-05-19T14:09:11.516233
+0ee3e548-a295-4f51-8011-72880597acb0,Luce,Gay,45,Préfère ne pas dire,Bi,Anglais,Photographie|Podcasts,Photographie:Paysage|Podcasts:Développement perso,Aucun|Politique,2025-07-24T14:09:11.516282
+b5e46b5a-1d28-497a-ad09-72b730106df1,Caroline,Teixeira,61,Homme,Bi,Espagnol|Allemand|Français,Jeux vidéo|Voyage|Podcasts,Jeux vidéo:Retro|Voyage:City trip|Podcasts:Culture,Religion|Actualité sensible,2024-12-24T14:09:11.516402
+5e36b5be-8d25-46d6-9dc9-d32e3749470a,Julien,Léger,20,Femme,Hétéro,Anglais|Autre|Français,Musique|Jeux vidéo|Sciences,Musique:Rap/Hip-hop|Jeux vidéo:FPS|Sciences:Physique,Religion,2025-04-08T14:09:11.516515
+f787389e-ec72-42ed-a469-de9f10b1cc57,Susan,Fournier,32,Femme,Hétéro,Français|Allemand|Espagnol,Sciences|Lecture|Technologie,Sciences:Santé|Lecture:Romans|Technologie:Cybersécurité,Religion|Aucun,2025-07-13T14:09:11.516608
+5be848d4-0ef5-4b5d-bd46-e0711fc30f89,Sébastien,Bourdon,63,Homme,Pan,Anglais|Français|Italien,Sciences|Musique|Entrepreneuriat,Sciences:Biologie|Musique:World|Entrepreneuriat:Investissement,Actualité sensible,2025-03-27T14:09:11.516699
+8de6249a-988f-4810-9122-0c86769d6cb8,Marthe,Fleury,47,Homme,Homo,Allemand|Italien|Espagnol,Arts & culture|Photographie,Arts & culture:Théâtre|Photographie:Portrait,Vie privée|Aucun,2025-09-15T14:09:11.516775
+2363ba8e-fc3d-4b74-89b8-737b12722626,Valérie,Lucas,23,Préfère ne pas dire,Homo,Italien,Cuisine|Lecture|Entrepreneuriat,Cuisine:Végétarien/vegan|Lecture:Développement personnel|Entrepreneuriat:Design produit,Politique|Religion,2025-05-27T14:09:11.516850
+3aef8ba2-257c-4833-8de1-9c16c738d000,Émile,Hubert,35,Préfère ne pas dire,Préfère ne pas dire,Italien,Musique|Arts & culture|Jeux vidéo,Musique:Rap/Hip-hop|Arts & culture:Cinéma|Jeux vidéo:Action,Vie privée|Actualité sensible,2025-07-11T14:09:11.516922
+c455e54b-74e4-4b43-b57f-23fc33720546,Odette,Mathieu,68,Non-binaire,Hétéro,Allemand,Arts & culture,Arts & culture:Cinéma,Politique|Vie privée,2024-12-19T14:09:11.517013
+67a6ae8d-0ba2-4339-8b1f-4f97f40b5865,Monique,Roy,N/A,Femme,Hétéro,Allemand,Entrepreneuriat|Sciences|Cuisine,Entrepreneuriat:Design produit|Sciences:Sciences sociales|Cuisine:Végétarien/vegan,Politique,2025-09-23T14:09:11.517061
+03ff91e8-19e4-4658-8ce0-be913b9814d4,André,Allard,19,Préfère ne pas dire,Pan,Anglais|Allemand|Italien,Technologie|Musique|Jeux vidéo,Technologie:Programmation|Musique:Jazz/Blues|Jeux vidéo:RPG,Religion|Actualité sensible,2025-03-12T14:09:11.517150
+b665398d-bb4d-49cc-9572-1370816b0a80,Virginie,Barre,16,Homme,Pan,Italien|Autre|Français,Podcasts,Podcasts:True crime,Politique,2025-09-22T14:09:11.517196
+2f9bb33a-2157-4be9-8d8c-48dbe97c0a96,Marianne,Vidal,38,Homme,Bi,Italien,Jeux vidéo|Sciences,Jeux vidéo:Action|Sciences:Biologie,Actualité sensible,2025-01-16T14:09:11.517243
+e7249e78-88d7-42fd-b782-4eb36f4c8ac7,Alexandre,Fournier,39,Non-binaire,Homo,Espagnol|Autre|Français,Cuisine,Cuisine:Pâtisserie,Actualité sensible|Politique,2025-07-09T14:09:11.517287
+075ebd00-2488-4b8b-94a5-391a77f9096d,Paulette,Lambert,23,Non-binaire,Homo,Anglais,Jeux vidéo|Sciences|Podcasts,Jeux vidéo:Action|Sciences:Biologie|Podcasts:Tech,Actualité sensible,2025-06-01T14:09:11.517343
+53cf3d2f-932c-4ec7-8e06-1ed03abfe07b,Yves,Lemaire,70,Préfère ne pas dire,Pan,Allemand,Jeux vidéo|Lecture,Jeux vidéo:FPS|Lecture:Essais,Religion|Vie privée,2025-01-22T14:09:11.517404
+2ca42e49-0737-4f9f-8498-17e9011034e4,Suzanne,Guillon,17,Non-binaire,Bi,Anglais|Français|Espagnol,Arts & culture|Voyage|Sciences,Arts & culture:Cinéma|Voyage:Road trip|Sciences:Sciences sociales,Aucun|Vie privée,2025-03-18T14:09:11.517449
+38303ba5-ae5a-4e99-b285-63aa64d0405e,Catherine,Bonnet,63,Homme,Homo,Espagnol,Sport|Musique|Entrepreneuriat,Sport:Ski|Musique:Rap/Hip-hop|Entrepreneuriat:Marketing,Politique|Actualité sensible,2025-04-19T14:09:11.517519
+296c7829-9f5a-4de6-b527-88aecd4b6190,Gilbert,François,35,Non-binaire,Bi,Allemand,Lecture|Jeux vidéo,Lecture:Romans|Jeux vidéo:Casual,Actualité sensible,2025-02-18T14:09:11.517579
+9bed98d1-a4c3-42da-bbcd-f7da3cb6ecac,David,Blondel,21,Non-binaire,Préfère ne pas dire,Espagnol|Français|Allemand,Sport,Sport:Cyclisme,Vie privée|Religion,2025-06-27T14:09:11.517622
+052ded1b-07d8-45d1-acc3-e76d6238399f,Michelle,Rey,23,Femme,Homo,Italien|Allemand|Espagnol,Photographie,Photographie:Paysage,Actualité sensible,2025-06-12T14:09:11.517661
+12fa0aaa-be46-4ec4-aff8-f9afdcc1ca65,Paulette,Potier,22,Femme,Préfère ne pas dire,Français|Italien,Entrepreneuriat,Entrepreneuriat:Investissement,Aucun|Actualité sensible,2024-11-07T14:09:11.517700
+ac04f655-ca4d-4b64-b023-1493db92050d,Thibault,Breton,36,Non-binaire,Bi,Autre|Espagnol,Sport|Arts & culture,Sport:Football|Arts & culture:Théâtre,Politique|Actualité sensible,2025-08-06T14:09:11.517741
+e419ea25-b178-413e-b71b-816295672df3,Vincent,Guilbert,67,Non-binaire,Préfère ne pas dire,Autre|Italien|Espagnol,Voyage,Voyage:Road trip,Vie privée,2024-11-23T14:09:11.517780
+b090b42c-c0c6-49af-82a8-80e0f79a75dd,Sylvie,Coste,52,Préfère ne pas dire,Préfère ne pas dire,Français|Italien|Autre,Jeux vidéo|Sciences|Photographie,Jeux vidéo:Retro|Sciences:Sciences sociales|Photographie:Urbain,Religion|Actualité sensible,2025-06-19T14:09:11.517829
+cd8ef8ce-d383-4ce1-a025-bd6b6c88a637,Matthieu,Gosselin,63,Femme,Homo,Autre|Allemand,Musique|Cuisine,Musique:Jazz/Blues|Cuisine:Gastronomie FR,Vie privée|Religion,2025-03-06T14:09:11.517869
+53534a80-e0fa-49da-9bd4-73cb6f460aa6,Alexandria,Colas,31,Préfère ne pas dire,Préfère ne pas dire,Anglais|Italien|Espagnol,Cuisine|Podcasts,Cuisine:Gastronomie FR|Podcasts:Actualité,Vie privée|Religion,2024-12-31T14:09:11.518000
+eb324164-0012-40e1-9d3f-e39d2fa3e871,Denis,Lopez,26,Femme,Pan,Italien|Allemand,Musique|Technologie|Lecture,Musique:World|Technologie:Cybersécurité|Lecture:Romans,Politique,2025-08-15T14:09:11.518051
+de842bf9-b0b3-4b6e-b644-89a4e7aac085,Dominique,Grégoire,41,Homme,Bi,Espagnol,Arts & culture|Podcasts,Arts & culture:Cinéma|Podcasts:Actualité,Actualité sensible,2025-03-06T14:09:11.518092
+a26c9a9c-fdb5-453e-962d-b94a692cd19a,Chantal,Langlois,60,Homme,Homo,Italien|Autre|Français,Lecture,Lecture:Développement personnel,Vie privée|Actualité sensible,2025-03-11T14:09:11.518132
+6cd13fb3-3fcc-4ed5-855a-8f2ef703bd37,Françoise,Giraud,47,Non-binaire,Hétéro,Italien|Autre|Allemand,Cuisine|Voyage,Cuisine:Végétarien/vegan|Voyage:City trip,Politique,2025-07-06T14:09:11.518172
+253ccd51-1f0f-421b-b0a5-b7aba137f62f,Frédéric,Delannoy,22,Non-binaire,Bi,Français,Sport|Jeux vidéo,Sport:Escalade|Jeux vidéo:FPS,Actualité sensible,2025-06-11T14:09:11.518211
+38d3fe5f-0573-49f9-9f44-fa7ca1120501,Margot,Fabre,22,Homme,Préfère ne pas dire,Anglais|Français|Italien,Photographie|Entrepreneuriat|Lecture,Photographie:Édition|Entrepreneuriat:Création|Lecture:Développement personnel,Actualité sensible,2025-01-02T14:09:11.518252
+99f3ab98-e9d8-4f89-b86e-6a37b61cae78,Alexandria,Clément,34,Femme,Hétéro,Allemand|Autre,Musique|Technologie,Musique:Rap/Hip-hop|Technologie:Programmation,Politique|Religion,2025-09-13T14:09:11.518292
+adcbdb86-6971-46bf-951a-47e5de7fbf9e,Martin,Valentin,59,Femme,Bi,Allemand,Podcasts,Podcasts:Culture,Religion|Politique,2024-12-01T14:09:11.518331
+e29adb28-e015-4105-930e-d7d73df8f0b0,Alix,Le Goff,30,Homme,Bi,Anglais|Allemand,Podcasts,Podcasts:Tech,Religion|Aucun,2024-11-30T14:09:11.518379
+49c86815-8e80-4079-9ecf-3592abb52fad,Cécile,Bonneau,47,Homme,Homo,Allemand,Sport|Arts & culture|Voyage,Sport:Running|Arts & culture:Arts visuels|Voyage:Culture & musées,Actualité sensible,2025-06-25T14:09:11.518421
+62c82544-9ee4-4ad0-9897-120a33bac9f4,Sabine,Moulin,38,Préfère ne pas dire,Bi,Anglais,Sport,Sport:Randonnée,Actualité sensible|Religion,2024-11-16T14:09:11.518459
+0ad2e8ba-2cc3-4310-b43c-4eef7483998e,Zoé,Fleury,38,Préfère ne pas dire,Homo,Allemand|Italien,Sciences|Entrepreneuriat,Sciences:Biologie|Entrepreneuriat:Marketing,Aucun|Religion,2025-03-26T14:09:11.518538
+15f300a0-62d9-4bcf-b1f0-42e1e9777277,Olivier,Gaillard,41,Préfère ne pas dire,Pan,Espagnol|Français,Jeux vidéo|Entrepreneuriat,Jeux vidéo:RPG|Entrepreneuriat:Création,Vie privée|Aucun,2025-06-30T14:09:11.518594
+80e11cc5-f392-4210-87f0-be56ca5cbfd6,Adélaïde,Fernandes,55,Non-binaire,Homo,Italien|Français|Autre,Musique|Cuisine,Musique:Rap/Hip-hop|Cuisine:Gastronomie FR,Aucun,2025-07-06T14:09:11.518638
+6fd79cc1-58d6-4220-a95e-9f5f1dd90a2a,Augustin,Gonzalez,61,Homme,Bi,Espagnol,Voyage|Entrepreneuriat,Voyage:City trip|Entrepreneuriat:Création,Politique,2025-01-25T14:09:11.518677
+012abc41-eb78-4836-9f0e-86f7a8119bc4,Lucie,Picard,34,Non-binaire,Hétéro,Autre,Entrepreneuriat|Lecture|Sport,Entrepreneuriat:Création|Lecture:BD/Mangas|Sport:Randonnée,Actualité sensible,2025-09-08T14:09:11.518722
+625676ac-9822-4a2a-8ae9-efb9f5dc7175,Claudine,Barbe,54,Homme,Hétéro,Italien|Allemand|Anglais,Sport|Cuisine|Voyage,Sport:Ski|Cuisine:Gastronomie FR|Voyage:Nature,Vie privée|Religion,2025-08-31T14:09:11.518765
+534fa748-ea85-4f75-9cc5-7bb10658b48a,Anouk,Courtois,21,Homme,Pan,Espagnol|Allemand|Autre,Photographie|Podcasts|Entrepreneuriat,Photographie:Édition|Podcasts:Actualité|Entrepreneuriat:Design produit,Actualité sensible|Politique,2025-03-04T14:09:11.518806
+b14e88c0-05b9-45d7-ad02-5a651f65348d,Corinne,Blot,39,Préfère ne pas dire,Préfère ne pas dire,Autre,Cuisine|Technologie,Cuisine:Gastronomie FR|Technologie:Programmation,Religion,2025-02-13T14:09:11.518844
+1d19c57b-ab3e-4657-be1e-1d9eca7b3c6d,Robert,Prévost,69,Préfère ne pas dire,Préfère ne pas dire,Italien|Anglais|Français,Sport|Voyage,Sport:Cyclisme|Voyage:Nature,Politique,2025-05-10T14:09:11.518883
+b366c618-679a-48c9-91bb-5c06951bcf44,Aimé,Schneider,64,Préfère ne pas dire,Préfère ne pas dire,Espagnol|Anglais,Jeux vidéo|Podcasts,Jeux vidéo:Retro|Podcasts:Culture,Politique,2025-03-18T14:09:11.518922
+5fb476d9-90b0-4826-ae22-fea603067781,Timothée,Vallet,49,Femme,Homo,Allemand,Lecture,Lecture:BD/Mangas,Religion|Vie privée,2025-08-11T14:09:11.518959
+c1c1f7b9-acc5-4489-9fd0-3b2ff5ae729c,Célina,Duval,23,Préfère ne pas dire,Bi,Autre|Espagnol|Italien,Cuisine|Arts & culture|Technologie,Cuisine:Cuisine du monde|Arts & culture:Arts visuels|Technologie:Innovation,Aucun,2024-10-21T14:09:11.518998
+e64b9b9b-b059-4622-b3fa-53aab2e9f8c9,Corinne,Grégoire,37,Homme,Homo,Autre|Allemand|Français,Voyage|Technologie,Voyage:City trip|Technologie:Cybersécurité,Politique,2025-05-15T14:09:11.519037
+280fca81-7cbc-4fe3-8dd0-6ce02bc60f18,Catherine,Hubert,37,Femme,Hétéro,Allemand|Italien|Anglais,Cuisine,Cuisine:Cuisine du monde,Politique|Religion,2025-06-03T14:09:11.519074
+7f60d8ef-01d5-474c-aec0-9d38345f804d,Margot,Hernandez,55,Préfère ne pas dire,Bi,Italien|Anglais|Français,Technologie|Musique|Entrepreneuriat,Technologie:Gadgets|Musique:Rock|Entrepreneuriat:Marketing,Religion,2025-01-27T14:09:11.519116
+d0292cf3-8762-4e00-81b2-03ea067e8c36,Jeanne,Riou,54,Non-binaire,Préfère ne pas dire,Allemand|Anglais|Italien,Entrepreneuriat,Entrepreneuriat:Investissement,Aucun,2025-08-07T14:09:11.519154
+a482d3e1-8802-4197-8993-f6b13db63817,Charlotte,Coulon,19,Homme,Préfère ne pas dire,Allemand|Autre,Sport|Photographie,Sport:Basket|Photographie:Paysage,Vie privée|Aucun,2024-10-25T14:09:11.519191
+2919c22d-e08d-407d-b2ee-05a558bc1ae2,Dorothée,Legros,21,Homme,Homo,Espagnol|Anglais|Allemand,Jeux vidéo|Podcasts|Sport,Jeux vidéo:Action|Podcasts:Culture|Sport:Randonnée,Religion|Politique,2025-04-17T14:09:11.519232
+65234363-1e2d-4bcf-8e14-4fb61d806833,Alexandrie,Carre,51,Homme,Pan,Anglais|Français,Jeux vidéo,Jeux vidéo:RPG,Politique,2024-12-25T14:09:11.519269
+b6fe9129-c59a-4dbc-9cb6-5580447120df,Jacques,Colin,16,Non-binaire,Hétéro,Espagnol|Allemand|Italien,Podcasts,Podcasts:Développement perso,Politique|Aucun,2025-02-22T14:09:11.519307
+77e84fcf-9180-41de-a2fc-dc46ab663f04,Astrid,Bouvier,63,Femme,Hétéro,Français|Italien,Technologie|Podcasts|Sciences,Technologie:Programmation|Podcasts:Tech|Sciences:Biologie,Vie privée,2024-11-29T14:09:11.519358
+ed5bdeab-943a-4c9d-b748-d44f786a0a77,Margaret,Dupuis,70,Homme,Préfère ne pas dire,Français|Espagnol|Italien,Technologie|Arts & culture|Cuisine,Technologie:Innovation|Arts & culture:Cinéma|Cuisine:Pâtisserie,Politique|Aucun,2025-07-15T14:09:11.519401
+7c0a9817-cc89-4df8-ac52-b8fe982305f8,Dorothée,Samson,44,Femme,Bi,Anglais|Italien|Allemand,Sciences,Sciences:Biologie,Actualité sensible|Aucun,2025-08-22T14:09:11.519439
+ce1c9485-58b0-46f6-83a2-bb2abc63df79,Alain,Gomes,23,Femme,Homo,Français|Anglais|Espagnol,Sciences|Lecture|Technologie,Sciences:Biologie|Lecture:Essais|Technologie:Gadgets,Politique|Religion,2025-05-17T14:09:11.519479
+40a07646-182c-4f14-9d38-c9170824d2c2,Franck,Boucher,40,Non-binaire,Homo,Anglais|Italien,Voyage|Entrepreneuriat,Voyage:City trip|Entrepreneuriat:Marketing,Religion,2025-05-23T14:09:11.519539
+e8ffb6c9-a420-4a7f-96dd-2b838faab1d2,Philippine,Dijoux,38,Non-binaire,Bi,Italien|Allemand|Anglais,Arts & culture,Arts & culture:Histoire,Aucun,2025-01-03T14:09:11.519609
+e2550d3a-d2e9-4e8f-b5e7-ba42bd75bf07,Thérèse,Leduc,37,Non-binaire,Hétéro,Anglais|Espagnol|Autre,Sport|Lecture,Sport:Basket|Lecture:Essais,Religion|Vie privée,2024-12-25T14:09:11.519657
+64cd4557-6aeb-4e8f-9d33-fca8bc7aeaf6,Jérôme,Chauvet,60,Femme,Bi,Anglais,Jeux vidéo|Cuisine,Jeux vidéo:RPG|Cuisine:Gastronomie FR,Actualité sensible,2025-05-18T14:09:11.519697
+6e23b7aa-131c-467d-b3dd-150b165661a1,Michelle,Lombard,45,Préfère ne pas dire,Pan,Anglais|Espagnol,Cuisine|Arts & culture|Podcasts,Cuisine:Pâtisserie|Arts & culture:Histoire|Podcasts:Développement perso,Religion,2025-02-04T14:09:11.519739
+510dbc9a-c6ea-4804-ba43-235fb14247d9,Patrick,Brun,53,Femme,Homo,Anglais|Espagnol|Autre,Technologie|Podcasts|Cuisine,Technologie:Programmation|Podcasts:Actualité|Cuisine:Végétarien/vegan,Actualité sensible,2025-03-01T14:09:11.519781
+a4d70cef-7670-4ba5-afa1-c6ec94325a63,Sébastien,Delorme,27,Non-binaire,Bi,Anglais,Entrepreneuriat,Entrepreneuriat:Design produit,Religion,2025-08-04T14:09:11.519823
+9e7d86d9-46af-4315-bcd2-b47c7ccfa615,Julie,Lesage,38,Femme,Pan,Autre|Allemand|Anglais,Sciences|Voyage,Sciences:Sciences sociales|Voyage:City trip,Vie privée,2025-08-17T14:09:11.519862
+505ac91a-f29f-4666-8613-a5443f90fa80,Léon,Gaillard,68,Préfère ne pas dire,Préfère ne pas dire,Italien|Français,Jeux vidéo|Sciences,Jeux vidéo:Retro|Sciences:Biologie,Aucun,2025-07-22T14:09:11.519900
+8e33ee12-8f56-4287-9520-5a2381d81980,Pauline,Verdier,68,Femme,Préfère ne pas dire,Allemand|Français|Anglais,Jeux vidéo,Jeux vidéo:FPS,Religion,2025-05-20T14:09:11.519938
+37413da0-6527-4c05-884a-436068ed91a2,Andrée,Charpentier,25,Non-binaire,Bi,Autre|Allemand,Sport,Sport:Randonnée,Religion,2025-04-01T14:09:11.519974
+8130fa99-35ce-4ac1-b2e8-32b0ab6c96a5,Sabine,Barthelemy,59,Femme,Pan,Anglais,Technologie|Arts & culture,Technologie:Innovation|Arts & culture:Histoire,Politique|Vie privée,2024-11-21T14:09:11.520012
+83403b70-f852-42ba-b52f-babe1497fbac,Célina,Renault,43,Non-binaire,Hétéro,Allemand|Italien|Espagnol,Podcasts|Cuisine,Podcasts:Culture|Cuisine:Végétarien/vegan,Religion,2025-03-18T14:09:11.520051
+be425a0b-d6c1-4653-a245-b9cbb2b8d3fc,Sophie,Leroux,37,Non-binaire,Homo,Italien|Allemand|Autre,Jeux vidéo,Jeux vidéo:RPG,Politique,2025-02-13T14:09:11.520131
+c34d7e95-3788-41e4-8883-91d76e4f3ece,Célina,Léger,43,Non-binaire,Bi,Italien,Technologie|Sport,Technologie:Gadgets|Sport:Randonnée,Vie privée,2025-05-08T14:09:11.520191
+15226b9d-5e38-4eef-ba68-f86a3623b099,Olivie,Morvan,62,Femme,Préfère ne pas dire,Allemand|Anglais|Italien,Photographie,Photographie:Portrait,Religion,2024-12-01T14:09:11.520232
+565a1e23-9345-4dfd-b4b8-b2d05ddee2e9,Adèle,Lévy,31,Préfère ne pas dire,Hétéro,Espagnol,Lecture|Technologie,Lecture:Romans|Technologie:Cybersécurité,Actualité sensible,2024-11-29T14:09:11.520273
+46bfc20d-61e6-4f83-9243-d475fd9932e4,Marthe,Vaillant,63,Non-binaire,Hétéro,Français|Anglais,Sport|Podcasts|Arts & culture,Sport:Ski|Podcasts:Culture|Arts & culture:Théâtre,Actualité sensible,2025-01-01T14:09:11.520320
+2a47c5dc-bb01-4bc0-b952-258fe646959e,Théodore,Clerc,48,Femme,Préfère ne pas dire,Anglais|Espagnol,Lecture|Voyage,Lecture:Essais|Voyage:Road trip,Religion|Actualité sensible,2025-06-07T14:09:11.520360
+9f803f85-2b8a-471a-b97d-7b4875cb444f,Antoinette,Roux,17,Non-binaire,Homo,Italien,Podcasts|Arts & culture,Podcasts:Tech|Arts & culture:Histoire,Aucun|Vie privée,2025-02-20T14:09:11.520399
+a6d142ae-93ee-440c-a01e-07359f3227a9,Emmanuel,Lacombe,38,Préfère ne pas dire,Homo,Autre|Allemand,Photographie,Photographie:Paysage,Actualité sensible|Vie privée,2025-10-05T14:09:11.520435
+53c74d68-37ad-40f6-869d-c33e3d18fdc2,Louis,Reynaud,21,Homme,Préfère ne pas dire,Espagnol|Autre,Jeux vidéo|Sciences,Jeux vidéo:Casual|Sciences:Biologie,Aucun,2024-12-26T14:09:11.520472
+6e35c184-c69e-4554-9cbd-3b73a7e62c4c,Agnès,Laporte,64,Femme,Bi,Autre|Allemand|Anglais,Photographie|Technologie,Photographie:Édition|Technologie:Innovation,Politique,2025-04-02T14:09:11.520510
+3a6783b2-8cf3-42b7-ae33-a5a4b5445652,Zacharie,Barbier,26,Préfère ne pas dire,Préfère ne pas dire,Espagnol|Anglais,Arts & culture|Sport,Arts & culture:Arts visuels|Sport:Yoga,Actualité sensible,2025-02-06T14:09:11.520548
+1af878e5-aa49-44d3-be77-226a75b32777,Colette,Perez,64,Préfère ne pas dire,Bi,Anglais|Autre,Sport|Lecture,Sport:Ski|Lecture:Développement personnel,Religion|Politique,2025-04-08T14:09:11.520586
+9aeae101-d1d6-43c7-b772-2f30da00963e,Marine,Camus,56,Femme,Préfère ne pas dire,Anglais,Arts & culture|Photographie|Musique,Arts & culture:Histoire|Photographie:Portrait|Musique:Rap/Hip-hop,Religion,2025-01-03T14:09:11.520625
+0569565d-4a7b-4762-abf5-d225d3b25d6b,Hélène,Royer,66,Préfère ne pas dire,Préfère ne pas dire,Anglais|Autre|Allemand,Podcasts|Entrepreneuriat,Podcasts:True crime|Entrepreneuriat:Design produit,Actualité sensible,2025-08-15T14:09:11.520663
+3b826f8d-1e63-4b88-96e8-d61c4f3022a6,Michel,Leleu,45,Homme,Préfère ne pas dire,Anglais|Autre,Photographie|Sciences,Photographie:Portrait|Sciences:Santé,Religion,2025-02-27T14:09:11.520735
+a911e078-dccd-4aab-9bd2-e164308a3a2a,Augustin,Breton,49,Préfère ne pas dire,Pan,Allemand,Podcasts|Photographie,Podcasts:Actualité|Photographie:Portrait,Vie privée|Politique,2025-05-25T14:09:11.520785
+639c17a3-e807-499c-a462-9e884f33ed15,Antoinette,Allain,56,Préfère ne pas dire,Pan,Français,Sport,Sport:Basket,Actualité sensible,2025-03-24T14:09:11.520825
+47d811ef-8b24-4943-97cc-fae0525f500e,Adèle,Muller,32,Femme,Bi,Autre|Français|Allemand,Jeux vidéo|Entrepreneuriat|Sport,Jeux vidéo:RPG|Entrepreneuriat:Marketing|Sport:Escalade,Vie privée|Actualité sensible,2025-01-04T14:09:11.520872
+8b591462-a650-4e50-9c31-797e0fabf09e,Nicole,Rossi,34,Femme,Homo,Italien|Espagnol,Sport|Podcasts|Technologie,Sport:Cyclisme|Podcasts:Tech|Technologie:Cybersécurité,Religion|Aucun,2025-08-07T14:09:11.520918
+39c2bc9a-297a-4a2b-b3f0-cdb6c914d1f4,Virginie,Hoarau,70,Homme,Préfère ne pas dire,Anglais|Italien,Sport,Sport:Yoga,Vie privée|Religion,2025-04-28T14:09:11.520957
+151a8153-5242-4ddb-81bf-34d515173e74,Sébastien,Rey,47,Homme,Préfère ne pas dire,Anglais|Allemand,Lecture|Sciences,Lecture:Romans|Sciences:Santé,Actualité sensible,2025-07-08T14:09:11.520996
+baa9e4b9-3010-4bfc-b4ff-ba49da5c0fa2,Océane,Garcia,38,Préfère ne pas dire,Pan,Autre|Français|Anglais,Entrepreneuriat|Cuisine|Lecture,Entrepreneuriat:Design produit|Cuisine:Gastronomie FR|Lecture:Développement personnel,Actualité sensible,2025-01-11T14:09:11.521041
+557cdd9d-6a64-44e9-a127-242305df26e9,Daniel,Chauvin,49,Homme,Homo,Autre|Anglais,Sciences|Entrepreneuriat|Podcasts,Sciences:Sciences sociales|Entrepreneuriat:Investissement|Podcasts:Actualité,Aucun|Actualité sensible,2025-09-05T14:09:11.521082
+0db62171-d0b0-4595-b2b6-12b44683f08b,Franck,Durand,19,Homme,Homo,Italien,Jeux vidéo|Podcasts|Musique,Jeux vidéo:Retro|Podcasts:Actualité|Musique:Rap/Hip-hop,Religion,2025-02-19T14:09:11.521123
+94caf16b-c8b6-4da5-8b51-ddcf845de4f3,Gérard,Rolland,50,Homme,Préfère ne pas dire,Espagnol|Italien,Arts & culture,Arts & culture:Histoire,Vie privée,2024-11-26T14:09:11.521164
+643ed5ff-3335-46ce-80d8-16a123c12204,Maurice,Rossi,54,Non-binaire,Pan,Anglais|Espagnol|Allemand,Sport|Sciences|Podcasts,Sport:Cyclisme|Sciences:Physique|Podcasts:Développement perso,Aucun|Actualité sensible,2024-12-05T14:09:11.521207
+af29de6d-b26a-43af-b921-fb6f7bfe8196,Margaux,Roussel,48,Préfère ne pas dire,Pan,Anglais,Voyage,Voyage:Nature,Vie privée,2025-04-29T14:09:11.521245
+d98b6f39-e7a1-459b-996f-eaa3f7554cb8,Dorothée,Delattre,29,Non-binaire,Préfère ne pas dire,Espagnol|Italien,Musique|Sciences,Musique:Rap/Hip-hop|Sciences:Physique,Actualité sensible,2025-08-02T14:09:11.521282
+74b0f63f-211d-421d-9658-2cf31fd08d85,Stéphane,Lacombe,58,Homme,Bi,Allemand|Italien|Autre,Sport|Entrepreneuriat|Podcasts,Sport:Escalade|Entrepreneuriat:Marketing|Podcasts:Développement perso,Actualité sensible,2025-05-04T14:09:11.521322
+b476cfb3-f434-493b-aac7-21009982270a,Josette,Courtois,52,Préfère ne pas dire,Pan,Allemand,Voyage,Voyage:Nature,Vie privée,2025-06-03T14:09:11.521357
+d2455a34-fd74-481f-9331-5659b713821d,Lucas,Lefèvre,36,Préfère ne pas dire,Pan,Italien|Autre,Entrepreneuriat|Podcasts|Arts & culture,Entrepreneuriat:Design produit|Podcasts:Développement perso|Arts & culture:Cinéma,Religion,2025-07-31T14:09:11.521397
+439d2a54-b131-4bdc-b9b5-b2ca264ecf4a,Isaac,Baudry,65,Préfère ne pas dire,Pan,Espagnol,Arts & culture|Voyage|Lecture,Arts & culture:Cinéma|Voyage:Road trip|Lecture:Développement personnel,Aucun|Actualité sensible,2025-03-11T14:09:11.521438
+5eb300f3-83de-4db1-b796-b6de0e2763cf,Pauline,Lemaître,36,Préfère ne pas dire,Homo,Italien,Arts & culture|Entrepreneuriat,Arts & culture:Cinéma|Entrepreneuriat:Design produit,Actualité sensible,2025-01-01T14:09:11.521475
+8cf5df0b-c47b-40b5-b2af-98b97886515e,Laurence,Martin,60,Femme,Homo,Autre,Podcasts|Cuisine|Sciences,Podcasts:Tech|Cuisine:Cuisine du monde|Sciences:Physique,Vie privée|Religion,2025-02-28T14:09:11.521514
+d2368549-ba89-4b1f-8900-01cc26a0bbc0,Théodore,Delorme,N/A,Femme,Homo,Autre,Voyage|Podcasts,Voyage:Culture & musées|Podcasts:Actualité,Aucun,2025-04-13T14:09:11.521552
+e6ad56d2-29e3-4fd8-a141-9afad7e99457,Danielle,Vasseur,52,Non-binaire,Hétéro,Français|Italien|Autre,Musique|Photographie|Technologie,Musique:World|Photographie:Portrait|Technologie:Innovation,Aucun|Religion,2025-09-14T14:09:11.521593
+83cb950a-cc4e-40e4-b1f4-a4df55b5e92f,Catherine,Lefebvre,unknown,Homme,Bi,Anglais,Arts & culture|Cuisine|Jeux vidéo,Arts & culture:Histoire|Cuisine:Gastronomie FR|Jeux vidéo:Casual,Politique|Vie privée,2025-10-12T14:09:11.521638
+9f29010f-c513-4e3b-a620-cac4473db609,Adélaïde,Humbert,65,Non-binaire,Préfère ne pas dire,Anglais,Entrepreneuriat,Entrepreneuriat:Marketing,Politique,2025-10-08T14:09:11.521719
+65dc87eb-e020-48c4-915e-d0634629fa6f,Élisabeth,Boucher,20,Non-binaire,Bi,Autre,Entrepreneuriat,Entrepreneuriat:Marketing,Vie privée,2025-06-05T14:09:11.521762
+7664b06b-1b81-46d9-8af0-62f26240cf83,Tristan,Lebrun,44,Femme,Pan,Allemand,Podcasts|Entrepreneuriat|Voyage,Podcasts:Actualité|Entrepreneuriat:Design produit|Voyage:Culture & musées,Religion|Aucun,2025-04-10T14:09:11.521803
+9f1b8fae-94f2-4e5f-9511-ed7532e342fe,Hortense,Paul,53,Femme,Homo,Français,Podcasts|Arts & culture,Podcasts:Développement perso|Arts & culture:Arts visuels,Religion|Aucun,2025-09-05T14:09:11.521843
+87b54295-6c55-4c9f-9c1f-93c9f4b42fe3,Thibault,Picard,23,Préfère ne pas dire,Hétéro,Allemand,Voyage|Musique,Voyage:Nature|Musique:Rap/Hip-hop,Politique|Vie privée,2024-11-22T14:09:11.521896
+5d336756-dbcd-43e2-814b-f9f6da3b6b82,Claude,Da Costa,33,Non-binaire,Hétéro,Anglais,Arts & culture,Arts & culture:Cinéma,Aucun,2025-08-03T14:09:11.521937
+69a8ed34-1f63-4621-9e9d-f82d58b511f7,Alexandrie,Grondin,67,Homme,Bi,Italien|Allemand,Voyage,Voyage:City trip,Aucun,2025-08-05T14:09:11.521974
+4282d287-a916-4ba9-8e5b-33d150756735,Emmanuel,Dubois,17,Préfère ne pas dire,Homo,Allemand|Espagnol,Arts & culture|Cuisine,Arts & culture:Cinéma|Cuisine:Gastronomie FR,Politique|Vie privée,2025-10-04T14:09:11.522012
+618e19a9-ad95-4e2e-9804-887890061fc3,Anouk,Petitjean,40,Homme,Homo,Français,Entrepreneuriat|Musique,Entrepreneuriat:Design produit|Musique:Pop,Vie privée,2025-02-26T14:09:11.522049
+7c73c714-cd54-4f2e-a9ad-e699c0b8cb5e,Thérèse,De Sousa,35,Préfère ne pas dire,Pan,Anglais|Espagnol,Photographie|Cuisine|Arts & culture,Photographie:Portrait|Cuisine:Pâtisserie|Arts & culture:Histoire,Religion,2025-07-01T14:09:11.522096
+d1638cfb-9fca-4d83-85ad-4acd29294362,Luce,Carpentier,61,Préfère ne pas dire,Bi,Français|Anglais|Italien,Technologie|Sciences,Technologie:Gadgets|Sciences:Santé,Aucun|Actualité sensible,2025-08-15T14:09:11.522138
+dfe6781e-e120-4e6f-83bf-d9f119886ffe,Sébastien,François,63,Préfère ne pas dire,Hétéro,Anglais,Technologie,Technologie:Programmation,Religion,2025-04-01T14:09:11.522219
+d59b02b6-a8e7-4ac0-b1a4-cfff890578d3,Anne,Roussel,56,Préfère ne pas dire,Pan,Allemand,Sport|Photographie|Jeux vidéo,Sport:Basket|Photographie:Urbain|Jeux vidéo:Retro,Actualité sensible|Religion,2025-06-13T14:09:11.522273
+412b7890-d424-455f-a11e-9d5e85428f28,Michel,Dos Santos,58,Non-binaire,Préfère ne pas dire,Français|Espagnol,Sciences|Lecture,Sciences:Physique|Lecture:Romans,Vie privée,2025-08-26T14:09:11.522323
+175d049a-a029-4ba8-bc2e-616c83f20f64,Julie,Moreau,44,Préfère ne pas dire,Préfère ne pas dire,Italien,Voyage,Voyage:City trip,Religion,2025-10-13T14:09:11.522364
+b288257c-5a15-4f07-a03e-1e53fef0928e,William,Potier,52,Femme,Préfère ne pas dire,Italien|Anglais,Photographie|Technologie|Cuisine,Photographie:Paysage|Technologie:Programmation|Cuisine:Cuisine du monde,Religion,2025-01-18T14:09:11.522405
+8d832a63-7bd0-498e-8c90-46ae564d90d9,Mathilde,Bouchet,41,Non-binaire,Pan,Allemand|Autre|Italien,Technologie|Sport,Technologie:Programmation|Sport:Basket,Aucun|Actualité sensible,2025-07-07T14:09:11.522450
+7b4c6aed-cf7b-4a4e-8c76-948eb3d12fca,Adrien,Picard,25,Préfère ne pas dire,Homo,Allemand,Sciences,Sciences:Sciences sociales,Aucun|Religion,2025-06-16T14:09:11.522492
+2b5a43f0-e1f7-4b48-8af3-24bfd5a6fa81,Laurent,Foucher,41,Femme,Préfère ne pas dire,Anglais|Autre|Allemand,Sciences,Sciences:Santé,Politique|Aucun,2025-01-28T14:09:11.522531
+d603721b-65d9-4f77-8faa-470080953d5a,Margaud,Bouchet,58,Préfère ne pas dire,Bi,Italien,Arts & culture|Jeux vidéo|Technologie,Arts & culture:Cinéma|Jeux vidéo:RPG|Technologie:Gadgets,Vie privée,2025-06-13T14:09:11.522570
+0f2105a4-d359-4430-a646-f8e8b111a7b4,Grégoire,Colin,61,Préfère ne pas dire,Bi,Italien,Musique,Musique:Classique,Religion|Vie privée,2024-10-27T14:09:11.522608
+b14d320a-b2c3-4c19-908b-217bdc40d373,William,Allain,69,Non-binaire,Bi,Italien|Espagnol|Allemand,Sport|Cuisine|Musique,Sport:Football|Cuisine:Gastronomie FR|Musique:Classique,Religion|Vie privée,2025-06-30T14:09:11.522649
+3b8d080f-8a88-47b5-b80a-c75122b01e27,Antoine,Mercier,54,Préfère ne pas dire,Préfère ne pas dire,Autre|Allemand|Français,Musique|Arts & culture|Podcasts,Musique:Jazz/Blues|Arts & culture:Cinéma|Podcasts:Actualité,Actualité sensible,2024-12-28T14:09:11.522689
+797d5ebe-9a7e-4cc6-94e2-ed52c3e3bcef,Pierre,Paul,57,Préfère ne pas dire,Pan,Italien|Français|Allemand,Podcasts|Voyage|Lecture,Podcasts:True crime|Voyage:City trip|Lecture:Romans,Politique|Actualité sensible,2025-03-24T14:09:11.522767
+42ffcbcc-2aa7-43dc-82ac-b8441f1db063,Jacques,Fouquet,38,Homme,Bi,Français|Espagnol,Podcasts|Sciences,Podcasts:Développement perso|Sciences:Physique,Aucun,2025-01-14T14:09:11.522825
+bddf5584-8f2f-41c5-9905-1fc1db93501b,Eugène,Rolland,70,Femme,Bi,Italien|Autre,Entrepreneuriat|Cuisine|Sport,Entrepreneuriat:Création|Cuisine:Gastronomie FR|Sport:Randonnée,Aucun|Vie privée,2024-11-28T14:09:11.522876
+a9069cbc-122e-407a-8737-8efd2667fefe,Noël,Blondel,38,Non-binaire,Pan,Anglais|Autre,Lecture|Musique,Lecture:Essais|Musique:Jazz/Blues,Aucun|Actualité sensible,2025-01-08T14:09:11.522918
+f103e50b-f20a-44d4-8d4f-a95ab4f8a1ed,Jean,Pelletier,21,Femme,Préfère ne pas dire,Allemand|Espagnol|Anglais,Cuisine|Photographie|Podcasts,Cuisine:Pâtisserie|Photographie:Paysage|Podcasts:Tech,Actualité sensible,2024-12-11T14:09:11.522959
+b8da69be-227e-4c51-8e65-595648907b11,Nath,Leclerc,68,Femme,Homo,Anglais|Espagnol|Français,Entrepreneuriat|Podcasts,Entrepreneuriat:Investissement|Podcasts:True crime,Religion|Aucun,2025-10-15T14:09:11.523001
+b95592f6-f9d3-40d0-8063-49b8a73509e2,Nath,Raynaud,42,Homme,Pan,Italien,Voyage|Sciences|Arts & culture,Voyage:Culture & musées|Sciences:Santé|Arts & culture:Arts visuels,Vie privée|Actualité sensible,2025-04-18T14:09:11.523042
+c18d65d8-6628-4ab9-a80b-0a474afff929,Adélaïde,Nicolas,20,Homme,Bi,Anglais|Italien|Autre,Photographie,Photographie:Édition,Politique|Religion,2025-04-26T14:09:11.523081
+75715c89-fc83-435b-b856-8339aeb74a72,Jérôme,Royer,69,Femme,Pan,Allemand|Autre|Italien,Technologie,Technologie:Programmation,Aucun|Politique,2025-04-27T14:09:11.523125
+54ed4d2f-f68f-4d2a-a8c4-f7fa5ac079f2,Guillaume,Mace,62,Non-binaire,Préfère ne pas dire,Autre|Français,Arts & culture|Jeux vidéo|Voyage,Arts & culture:Théâtre|Jeux vidéo:Casual|Voyage:City trip,Actualité sensible|Aucun,2025-05-05T14:09:11.523169
+8b803e21-722f-4bd4-9ebb-c0e52f3d69e9,Chantal,Michaud,36,Femme,Préfère ne pas dire,Autre,Arts & culture|Musique,Arts & culture:Cinéma|Musique:Jazz/Blues,Aucun,2025-03-24T14:09:11.523210
+cdc3e0c6-0f1f-4961-a0b7-a5c6d2fa0f15,Marguerite,Noël,69,Homme,Hétéro,Allemand|Français|Espagnol,Musique,Musique:Électro,Vie privée|Aucun,2024-10-30T14:09:11.523255
+2dad59f6-5a8e-4aa4-a486-e9bc78bf22ea,Brigitte,Albert,38,Homme,Pan,Allemand|Français,Sport,Sport:Randonnée,Religion,2025-04-25T14:09:11.523294
+22e8d72f-f266-4b66-85d6-819388a730fa,Pierre,Perrier,49,Non-binaire,Hétéro,Français|Italien|Autre,Cuisine|Musique|Technologie,Cuisine:Gastronomie FR|Musique:Jazz/Blues|Technologie:Programmation,Actualité sensible,2025-04-08T14:09:11.523334
+3d32bad6-2b8e-4431-9a0e-54ad4ea81833,Tristan,Raymond,56,Préfère ne pas dire,Homo,Anglais|Espagnol|Français,Technologie|Arts & culture|Cuisine,Technologie:Innovation|Arts & culture:Théâtre|Cuisine:Pâtisserie,Aucun,2025-08-06T14:09:11.523375
+dbe418bf-e624-4398-9d34-fdfe2bde9481,Richard,Robin,50,Femme,Bi,Français|Espagnol,Technologie|Arts & culture|Photographie,Technologie:IA|Arts & culture:Cinéma|Photographie:Édition,Aucun,2025-08-03T14:09:11.523416
+c6d85c90-906e-444b-a6be-a295b1b0e31b,Suzanne,Lefort,66,Préfère ne pas dire,Hétéro,Italien|Français|Espagnol,Cuisine,Cuisine:Cuisine du monde,Vie privée,2025-07-17T14:09:11.523458
+253f5bdf-b20b-4ec9-9147-b4e87139e70b,Noël,Leleu,67,Femme,Préfère ne pas dire,Autre,Cuisine|Photographie|Arts & culture,Cuisine:Pâtisserie|Photographie:Paysage|Arts & culture:Arts visuels,Religion|Vie privée,2025-07-12T14:09:11.523500
+a7f2eaff-aedc-4ebc-9ea4-1a2c3f503838,Élise,Lacroix,21,Préfère ne pas dire,Hétéro,Français|Espagnol,Jeux vidéo|Arts & culture|Voyage,Jeux vidéo:RPG|Arts & culture:Histoire|Voyage:Nature,Aucun,2025-09-30T14:09:11.523544
+2b716792-9004-4663-aff3-63a0e8edf6ac,Benoît,Picard,50,Homme,Bi,Français|Italien|Autre,Sport,Sport:Randonnée,Actualité sensible,2025-01-19T14:09:11.523582
+62e57667-4272-4efa-afc3-6d797b73eaba,Julien,Pasquier,48,Non-binaire,Hétéro,Français,Technologie|Entrepreneuriat,Technologie:Gadgets|Entrepreneuriat:Création,Vie privée,2025-07-08T14:09:11.523620
+0466d0fd-e046-4c72-a0d5-8b040679de73,Mathilde,Toussaint,60,Femme,Bi,Anglais,Cuisine|Technologie|Voyage,Cuisine:Cuisine du monde|Technologie:Gadgets|Voyage:Culture & musées,Religion,2025-08-10T14:09:11.523660
+4e1c9db3-0d09-4268-b221-1c8323385851,Émilie,Dupuis,29,Non-binaire,Pan,Français|Allemand|Italien,Sport|Entrepreneuriat,Sport:Escalade|Entrepreneuriat:Marketing,Vie privée,2025-09-30T14:09:11.523700
+6e66a881-5fc9-44c4-bbbf-cb91d8297fad,Aimé,Lévêque,56,Femme,Hétéro,Allemand,Technologie,Technologie:Innovation,Religion|Actualité sensible,2024-11-07T14:09:11.523736
+d0c93535-9d7a-4d0c-93c7-7178ee834354,Frédérique,Lefebvre,34,Non-binaire,Hétéro,Allemand,Musique,Musique:Jazz/Blues,Religion|Aucun,2025-01-29T14:09:11.523801
+4a63b668-af44-4951-999a-e445b92dca15,Denis,Fouquet,30,Femme,Pan,Français,Musique|Entrepreneuriat|Voyage,Musique:Jazz/Blues|Entrepreneuriat:Marketing|Voyage:Culture & musées,Vie privée,2024-12-20T14:09:11.523859
+9879b063-53ac-49d6-9f3f-936490e367df,Thierry,Fernandez,52,Femme,Homo,Espagnol|Anglais,Jeux vidéo|Entrepreneuriat,Jeux vidéo:Action|Entrepreneuriat:Design produit,Religion|Actualité sensible,2025-02-05T14:09:11.523903
+62082fb1-ad01-437e-a2ea-523b57fff58a,Amélie,Diaz,17,Préfère ne pas dire,Hétéro,Italien,Sport|Photographie|Technologie,Sport:Rugby|Photographie:Urbain|Technologie:Programmation,Politique,2025-03-26T14:09:11.523954
+3d133211-e270-4379-87ec-bfa95d2f2833,Hélène,Lecomte,39,Femme,Homo,Autre,Lecture,Lecture:BD/Mangas,Aucun,2025-09-22T14:09:11.523992
+c15979ec-bbc1-4cfc-a660-7cdf5124dbe2,Adrien,Huet,50,Femme,Hétéro,Allemand|Italien|Autre,Sciences|Arts & culture,Sciences:Sciences sociales|Arts & culture:Histoire,Vie privée,2024-12-12T14:09:11.524031
+05e51da0-cdbb-4b6f-9605-cea89e822537,Margaud,Bègue,50,Non-binaire,Homo,Espagnol,Podcasts|Technologie|Voyage,Podcasts:Développement perso|Technologie:IA|Voyage:Nature,Vie privée,2025-05-21T14:09:11.524073
+818f8e4d-cb51-49b0-86ec-f5a7bdfd5167,Yves,Laine,41,Homme,Bi,Allemand,Voyage|Jeux vidéo,Voyage:Culture & musées|Jeux vidéo:Casual,Vie privée|Actualité sensible,2025-05-02T14:09:11.524114
+34cec329-a5c5-44a4-8e1a-c83eb5f8051b,Raymond,Paul,31,Homme,Homo,Anglais|Italien|Espagnol,Photographie|Voyage,Photographie:Urbain|Voyage:Nature,Vie privée,2025-08-10T14:09:11.524153
+6487bdac-1044-41d0-9181-c279bd6ecc8b,Vincent,Maury,19,Homme,Homo,Italien|Anglais,Voyage|Photographie|Podcasts,Voyage:City trip|Photographie:Édition|Podcasts:Actualité,Vie privée,2025-01-04T14:09:11.524193
+15c4f319-358d-4be3-a84e-7e212de27e72,Émilie,Aubert,52,Homme,Homo,Espagnol|Allemand,Podcasts,Podcasts:True crime,Actualité sensible|Politique,2024-11-09T14:09:11.524236
+97e20500-202b-492c-9a21-88cbbeb63f1e,Alix,Thibault,19,Non-binaire,Hétéro,Espagnol|Anglais,Technologie|Entrepreneuriat|Sport,Technologie:Programmation|Entrepreneuriat:Marketing|Sport:Yoga,Vie privée|Actualité sensible,2024-10-26T14:09:11.524278
+30cae523-b45e-4dc6-9c00-09a6c6f97344,Alice,Rocher,25,Homme,Pan,Italien,Voyage|Technologie|Photographie,Voyage:Culture & musées|Technologie:Gadgets|Photographie:Paysage,Religion,2025-03-08T14:09:11.524318
+fb877af4-2719-4b21-8542-992023435ebe,Simone,Robin,40,Préfère ne pas dire,Homo,Italien,Cuisine|Jeux vidéo|Arts & culture,Cuisine:Cuisine du monde|Jeux vidéo:Casual|Arts & culture:Cinéma,Aucun|Actualité sensible,2025-05-01T14:09:11.524357
+4889b4ec-7c31-43be-a0d1-191f0048edfe,Philippine,Adam,55,Non-binaire,Pan,Français,Entrepreneuriat|Sciences|Cuisine,Entrepreneuriat:Marketing|Sciences:Biologie|Cuisine:Végétarien/vegan,Politique|Vie privée,2025-07-27T14:09:11.524397
+6d24ff31-7b19-4bee-94a4-0d026a828dca,Michelle,Laine,49,Femme,Pan,Anglais|Français,Entrepreneuriat|Sport|Sciences,Entrepreneuriat:Design produit|Sport:Randonnée|Sciences:Santé,Actualité sensible,2024-11-19T14:09:11.524437
+0b8a03df-0ed4-4d67-b5ca-d38b41c2f8d5,Isabelle,Merle,24,Femme,Préfère ne pas dire,Espagnol,Entrepreneuriat|Jeux vidéo,Entrepreneuriat:Design produit|Jeux vidéo:Casual,Actualité sensible,2024-10-30T14:09:11.524476
+3ead1757-f889-4ada-9724-97ceb91ea38f,Madeleine,Aubert,61,Non-binaire,Homo,Autre|Espagnol,Entrepreneuriat|Jeux vidéo|Sport,Entrepreneuriat:Marketing|Jeux vidéo:Action|Sport:Escalade,Actualité sensible,2025-02-03T14:09:11.524516
+50514bd2-a9e6-4987-b5c8-c597a87ba404,Alix,Pons,20,Homme,Bi,Anglais,Entrepreneuriat|Musique|Sciences,Entrepreneuriat:Création|Musique:Classique|Sciences:Biologie,Aucun|Politique,2025-08-03T14:09:11.524554
+795068c3-85d0-44e0-8a76-74bd8d01cdfa,Emmanuelle,Maillard,23,Femme,Homo,Autre,Technologie,Technologie:Programmation,Politique,2025-03-14T14:09:11.524632
+fd5121e5-2349-436d-89e3-77052c0341b4,Capucine,Chauveau,40,Non-binaire,Préfère ne pas dire,Allemand,Podcasts,Podcasts:Tech,Vie privée,2025-05-27T14:09:11.524692
+a0a9e947-560f-4a4e-8189-79d671938639,Paul,Loiseau,16,Femme,Homo,Espagnol,Photographie,Photographie:Paysage,Politique,2025-07-17T14:09:11.524733
+b5bb2f3d-42b3-447b-a75e-2d6da2c8b6c2,Élise,Huet,56,Non-binaire,Préfère ne pas dire,Italien|Espagnol,Voyage,Voyage:Nature,Religion|Politique,2024-11-20T14:09:11.524775
+0fb2c64d-9863-4cdc-9549-9f27a4e921e6,Claire,Collin,19,Femme,Pan,Autre|Français,Voyage|Musique|Jeux vidéo,Voyage:Road trip|Musique:Classique|Jeux vidéo:Action,Aucun|Actualité sensible,2024-10-29T14:09:11.524816
+677ae56e-7982-40b4-84eb-598debb40e76,Augustin,Olivier,44,Non-binaire,Pan,Allemand|Espagnol,Cuisine|Photographie,Cuisine:Cuisine du monde|Photographie:Paysage,Politique,2024-11-02T14:09:11.524854
+0bbf9ad7-c4d1-4a87-b290-eeeade24f090,Dominique,Girard,45,Préfère ne pas dire,Pan,Anglais,Voyage|Podcasts|Lecture,Voyage:City trip|Podcasts:Développement perso|Lecture:BD/Mangas,Vie privée,2025-04-17T14:09:11.524893
+3c36a692-6640-4ac1-a129-09780d910d5c,Marie,Delattre,29,Femme,Hétéro,Allemand|Anglais,Cuisine|Entrepreneuriat,Cuisine:Gastronomie FR|Entrepreneuriat:Design produit,Religion|Actualité sensible,2025-01-13T14:09:11.524930
+9236447a-8077-4616-a5ca-c73c793f9bcc,Pierre,Delorme,43,Préfère ne pas dire,Homo,Autre|Français,Musique|Podcasts,Musique:Rap/Hip-hop|Podcasts:Tech,Religion|Aucun,2025-01-29T14:09:11.524968
+003468bf-6467-42d5-ba41-3b150eb6fef0,Alex,Joubert,35,Homme,Bi,Espagnol|Italien|Allemand,Musique|Arts & culture|Technologie,Musique:Jazz/Blues|Arts & culture:Arts visuels|Technologie:Gadgets,Religion|Actualité sensible,2025-01-05T14:09:11.525007
+0ce94d5e-060e-49b0-9f96-c2bd382f2c2b,Jacques,Schmitt,42,Homme,Homo,Autre|Anglais,Sciences|Jeux vidéo,Sciences:Santé|Jeux vidéo:Retro,Aucun|Actualité sensible,2024-10-29T14:09:11.525045
+b3de00ec-04ae-4e4d-9216-97ef17fee2ca,Patrick,Costa,61,Homme,Homo,Italien|Allemand,Cuisine,Cuisine:Gastronomie FR,Religion|Actualité sensible,2025-09-10T14:09:11.525081
+d67afe33-1848-4762-b1cf-65446e7bc10c,Océane,Jacquot,44,Préfère ne pas dire,Homo,Autre|Anglais,Lecture|Jeux vidéo,Lecture:Essais|Jeux vidéo:FPS,Actualité sensible,2025-04-22T14:09:11.525122
+67285390-c5e4-4cca-a591-ce323a019cdb,Guillaume,Rossi,36,Préfère ne pas dire,Bi,Italien|Anglais|Autre,Arts & culture|Musique|Sport,Arts & culture:Cinéma|Musique:Classique|Sport:Running,Religion|Vie privée,2025-03-19T14:09:11.525162
+6628d885-17dd-48d7-8547-0abc55f809c3,Caroline,Andre,25,Non-binaire,Hétéro,Autre,Voyage|Musique|Cuisine,Voyage:Culture & musées|Musique:World|Cuisine:Cuisine du monde,Vie privée|Religion,2024-12-21T14:09:11.525199
+237f520f-6525-4115-9e48-ed074a4c4117,Margot,Carlier,33,Homme,Préfère ne pas dire,Espagnol|Anglais,Technologie|Cuisine|Lecture,Technologie:Programmation|Cuisine:Gastronomie FR|Lecture:Développement personnel,Actualité sensible|Religion,2025-05-13T14:09:11.525236
+e1c9a0d5-2caa-4b8a-bf41-4ef46a79bd7b,Honoré,Dupont,57,Non-binaire,Pan,Espagnol,Lecture|Sciences|Sport,Lecture:Développement personnel|Sciences:Biologie|Sport:Ski,Religion,2025-02-09T14:09:11.525273
+74675f6d-dfe6-4f03-b238-8d6562074d9f,Capucine,Collet,49,Homme,Homo,Espagnol,Cuisine|Musique,Cuisine:Pâtisserie|Musique:Rap/Hip-hop,Vie privée,2025-03-30T14:09:11.525309
+88026fb9-880c-48b7-85fc-9f9738495817,Claude,Garnier,68,Femme,Homo,Anglais|Français,Entrepreneuriat|Podcasts,Entrepreneuriat:Création|Podcasts:Culture,Politique,2024-11-26T14:09:11.525345
+df668133-e62f-4be9-b493-7e0e068e157e,Brigitte,Verdier,30,Homme,Homo,Italien,Cuisine|Voyage,Cuisine:Pâtisserie|Voyage:Road trip,Vie privée|Politique,2024-11-13T14:09:11.525417
+aedf97ff-2eb9-47be-b70a-b9619b99e8ce,Margaux,Carpentier,28,Femme,Homo,Italien,Lecture|Cuisine,Lecture:Romans|Cuisine:Végétarien/vegan,Vie privée,2025-07-05T14:09:11.525463
+0c011ace-4872-4b2f-b2aa-b4ed4cf8ef06,Valérie,Maréchal,51,Non-binaire,Préfère ne pas dire,Anglais|Autre,Sport|Cuisine|Entrepreneuriat,Sport:Yoga|Cuisine:Végétarien/vegan|Entrepreneuriat:Design produit,Actualité sensible,2025-03-04T14:09:11.525510
+5e1450bc-04e0-4b8f-9fe7-e3f3d07822e2,Lorraine,Cousin,18,Préfère ne pas dire,Hétéro,Anglais|Autre|Espagnol,Sciences|Entrepreneuriat|Arts & culture,Sciences:Santé|Entrepreneuriat:Marketing|Arts & culture:Histoire,Religion,2025-01-04T14:09:11.525551
+8f21dc22-d96d-451d-b849-c7cad7cbf805,Luc,Lejeune,35,Femme,Homo,Espagnol,Jeux vidéo,Jeux vidéo:Casual,Vie privée|Aucun,2024-12-17T14:09:11.525587
+5e567381-bf07-41a9-bd1c-7f3685f5511f,Alice,Leclercq,34,Homme,Hétéro,Français|Autre|Italien,Lecture|Podcasts|Sport,Lecture:Romans|Podcasts:Développement perso|Sport:Escalade,Aucun|Religion,2025-09-02T14:09:11.525648
+a17f203a-2c1a-4485-bdee-cec2a122de76,Marianne,Picard,20,Non-binaire,Pan,Français|Espagnol|Autre,Sport,Sport:Rugby,Vie privée|Religion,2025-08-21T14:09:11.525706
+dfa51b44-df2a-4a07-b19a-93ffe24531bd,Noël,Mathieu,23,Femme,Homo,Italien|Autre,Sport|Lecture,Sport:Escalade|Lecture:Romans,Religion,2025-09-18T14:09:11.525749
+3029ac04-fe76-4151-97ad-826025f14c8d,Matthieu,Gilles,43,Préfère ne pas dire,Pan,Français,Lecture|Sciences|Musique,Lecture:Développement personnel|Sciences:Santé|Musique:Classique,Religion|Actualité sensible,2025-10-09T14:09:11.525787
+d082e67a-6ca2-4d67-8faf-41df2709d2f6,Denis,Dumas,57,Femme,Préfère ne pas dire,Italien|Allemand,Podcasts,Podcasts:Actualité,Actualité sensible|Politique,2024-12-19T14:09:11.525823
+819f318d-343e-4cfc-bada-1da1911a4b92,Laurence,Lebreton,58,Non-binaire,Préfère ne pas dire,Anglais|Espagnol|Italien,Technologie|Arts & culture,Technologie:Cybersécurité|Arts & culture:Arts visuels,Actualité sensible|Aucun,2025-08-07T14:09:11.525867
+bbd2febd-194f-420e-adf1-9736a05e28e9,Adrien,Andre,43,Femme,Préfère ne pas dire,Anglais|Espagnol,Sciences|Jeux vidéo,Sciences:Sciences sociales|Jeux vidéo:Retro,Politique,2025-04-29T14:09:11.525921
+d1dda501-7bb4-45d7-a2c1-d40e7ce3fe9e,Adrien,Evrard,56,Homme,Préfère ne pas dire,Anglais,Voyage|Musique|Podcasts,Voyage:Road trip|Musique:Jazz/Blues|Podcasts:Culture,Aucun,2025-08-29T14:09:11.525960
+0f2312aa-9450-4238-8c0d-ffcf392424e0,Hélène,Grégoire,59,Non-binaire,Pan,Espagnol,Cuisine|Photographie|Voyage,Cuisine:Pâtisserie|Photographie:Paysage|Voyage:Nature,Politique|Religion,2024-11-28T14:09:11.525999
+4a80ca21-75e0-4da8-9260-c4f51ddbded0,Caroline,Rolland,67,Femme,Pan,Français,Sport|Entrepreneuriat|Voyage,3043,Politique,2025-10-13T14:09:11.526069
+bf72a4ca-36d5-48f8-8756-67af2894b249,Éric,Boutin,23,Préfère ne pas dire,Bi,Allemand|Français|Espagnol,Voyage|Cuisine,Voyage:City trip|Cuisine:Végétarien/vegan,Aucun|Vie privée,2024-11-30T14:09:11.526124
+9f89c99f-059a-477a-87cc-7c7489735c38,Gilbert,Traore,36,Non-binaire,Hétéro,Autre|Allemand,Photographie|Musique,Photographie:Édition|Musique:Classique,Vie privée|Politique,2025-04-10T14:09:11.526175
+5c7de9ec-5de7-4094-863a-e88b5afef5e0,Margot,Dos Santos,21,Homme,Hétéro,Allemand|Espagnol,Arts & culture,Arts & culture:Histoire,Actualité sensible,2025-05-16T14:09:11.526215
+21d0ab0f-6b71-49a9-9434-0b1acfe253ef,Corinne,Dias,22,Femme,Homo,Autre|Français|Allemand,Photographie,Photographie:Paysage,Actualité sensible|Vie privée,2025-01-20T14:09:11.526252
+c49f8671-efe7-4f0b-8ed0-6ac1b28af7f2,Laetitia,Pinto,60,Préfère ne pas dire,Homo,Espagnol|Anglais,Sport,Sport:Yoga,Politique|Religion,2025-09-12T14:09:11.526294
+46d7abec-5c4e-46e2-a614-ed3a6fedaba7,Odette,Collet,65,Homme,Pan,Espagnol,Entrepreneuriat,Entrepreneuriat:Marketing,Religion|Vie privée,2024-10-28T14:09:11.526331
+35490ab9-707f-47e4-85c7-b1fd53ff104c,Noémi,Guérin,24,Femme,Pan,Espagnol|Allemand,Podcasts,Podcasts:Culture,Aucun|Politique,2025-03-21T14:09:11.526367
+64ef3b27-532c-4d66-a1cd-a38f446fa8ca,Lucie,Perret,20,Femme,Hétéro,Autre|Espagnol,Voyage|Photographie,Voyage:City trip|Photographie:Paysage,Politique,2025-07-31T14:09:11.526404
+27b9c2cb-dcd8-4474-8f52-b303fe874dce,Aimée,Dufour,39,Non-binaire,Pan,Autre,Arts & culture,Arts & culture:Histoire,Aucun,2025-10-01T14:09:11.526438
+e61a9180-c051-42f4-b182-02ff6b7610a0,Emmanuel,Vaillant,16,Non-binaire,Hétéro,Français|Autre|Espagnol,Photographie|Lecture|Sport,Photographie:Paysage|Lecture:Développement personnel|Sport:Running,Religion|Aucun,2024-11-16T14:09:11.526476
+5aa2a60b-766a-4064-ab39-30d13d6fd387,Élodie,Hervé,40,Femme,Homo,Anglais|Italien|Autre,Jeux vidéo,Jeux vidéo:Retro,Aucun,2025-07-29T14:09:11.526512
+006d5746-5ab4-4205-9aba-4b5f653da1aa,Édith,Labbé,42,Femme,Pan,Espagnol,Lecture|Entrepreneuriat,Lecture:Développement personnel|Entrepreneuriat:Design produit,Aucun|Religion,2025-08-17T14:09:11.526550
+748b227a-c493-4c91-b8a9-72c5f543b6a1,Céline,Barre,49,Non-binaire,Pan,Allemand,Lecture|Voyage|Musique,Lecture:Romans|Voyage:City trip|Musique:World,Actualité sensible,2025-06-01T14:09:11.526588
+24d1ac1a-5b65-4f5e-a59f-b51978351c02,Richard,Maillot,54,Non-binaire,Bi,Italien|Allemand,Podcasts|Arts & culture,Podcasts:Culture|Arts & culture:Théâtre,Actualité sensible|Politique,2024-11-01T14:09:11.526625
+5156112b-1251-4308-ac40-56bf8eb2d9c2,Margaud,Le Roux,56,Femme,Bi,Espagnol|Autre|Italien,Photographie|Entrepreneuriat|Cuisine,Photographie:Urbain|Entrepreneuriat:Investissement|Cuisine:Cuisine du monde,Actualité sensible|Religion,2025-05-03T14:09:11.526663
+eee7fd5d-a6c5-45e4-96ab-0ab49a4b7711,Thibaut,Turpin,43,Homme,Préfère ne pas dire,Autre,Entrepreneuriat|Sciences,Entrepreneuriat:Marketing|Sciences:Santé,Vie privée,2024-12-28T14:09:11.526699
+a3ea5940-6a4d-4014-975b-fe1a1a7712be,Alix,Garnier,54,Non-binaire,Homo,Allemand|Espagnol|Anglais,Jeux vidéo|Sport,Jeux vidéo:Retro|Sport:Escalade,Religion|Actualité sensible,2024-12-15T14:09:11.526736
+6dde14a1-818a-4156-ba2a-c8767b49d41e,Franck,Buisson,16,Femme,Homo,Allemand|Autre,Arts & culture|Sport|Photographie,Arts & culture:Histoire|Sport:Running|Photographie:Urbain,Vie privée,2024-12-04T14:09:11.526773
+8282a57d-7b0a-4510-bbc9-ea0f49a66c09,Jacqueline,Dupont,36,Femme,Homo,Français,Lecture|Podcasts,Lecture:Romans|Podcasts:Développement perso,Aucun,2025-01-20T14:09:11.526808
+940765f8-7656-474c-aec4-f2628512ba71,Maurice,Renault,58,Femme,Hétéro,Espagnol,Podcasts|Sport|Sciences,Podcasts:Tech|Sport:Running|Sciences:Physique,Aucun,2024-12-16T14:09:11.526849
+c565855a-2122-4ea6-ba00-8ecac39ebe6e,Manon,Blanc,25,Femme,Préfère ne pas dire,Espagnol|Anglais|Italien,Entrepreneuriat|Photographie,Entrepreneuriat:Création|Photographie:Paysage,Aucun,2024-12-11T14:09:11.526887
+01c868ac-ad18-4869-8b28-9d4ed694f249,William,Brunet,31,Préfère ne pas dire,Homo,Allemand,Technologie|Podcasts|Entrepreneuriat,Technologie:Gadgets|Podcasts:Actualité|Entrepreneuriat:Création,Actualité sensible,2025-03-13T14:09:11.526924
+e0f956ae-945b-4488-84a4-3a9440fccb1a,Édith,Bouvet,22,Femme,Pan,Allemand|Autre|Anglais,Voyage|Arts & culture|Podcasts,Voyage:Road trip|Arts & culture:Arts visuels|Podcasts:True crime,Vie privée|Actualité sensible,2025-05-10T14:09:11.526968
+599d38b2-0622-45e8-b9b7-00086ef764e1,Agathe,Couturier,25,Femme,Préfère ne pas dire,Autre|Allemand|Anglais,Entrepreneuriat|Podcasts,Entrepreneuriat:Marketing|Podcasts:Développement perso,Actualité sensible|Religion,2025-05-26T14:09:11.527005
+34107128-6879-4371-a5fd-a21d0226277b,Léon,Marques,59,Homme,Hétéro,Autre|Français,Arts & culture|Cuisine,Arts & culture:Arts visuels|Cuisine:Pâtisserie,Vie privée,2025-03-12T14:09:11.527046
+9e244eac-a298-4113-84ec-58c8242a6ca8,Aimée,Pruvost,38,Homme,Bi,Espagnol|Allemand,Technologie,Technologie:IA,Politique,2025-04-09T14:09:11.527120
+dfe8e7d6-6124-4bde-8650-0eb55526f47f,Hugues,Petit,55,Femme,Bi,Italien,Jeux vidéo|Technologie,Jeux vidéo:RPG|Technologie:IA,Actualité sensible|Religion,2025-06-26T14:09:11.527174
+63cf39f4-2592-4d33-bed9-f7eddfc982ec,Thibault,Lebon,21,Femme,Préfère ne pas dire,Autre|Anglais|Espagnol,Jeux vidéo|Voyage|Technologie,Jeux vidéo:FPS|Voyage:Road trip|Technologie:IA,Politique,2025-08-31T14:09:11.527218
+9624865b-c59b-416d-8817-e856679fd5af,Anouk,Texier,51,Non-binaire,Homo,Italien,Entrepreneuriat,Entrepreneuriat:Création,Religion|Actualité sensible,2025-02-01T14:09:11.527259
+4bf4d7ff-00ec-4b5b-9f71-2bef234e5281,Françoise,Leblanc,19,Préfère ne pas dire,Homo,Anglais,Cuisine|Arts & culture|Sport,Cuisine:Pâtisserie|Arts & culture:Théâtre|Sport:Escalade,Politique,2024-10-21T14:09:11.527301
+5905117e-ac86-4dc9-8450-d28d258895a8,Paul,Guichard,16,Non-binaire,Pan,Allemand|Autre|Italien,Jeux vidéo|Sciences|Photographie,Jeux vidéo:RPG|Sciences:Sciences sociales|Photographie:Urbain,Religion|Vie privée,2025-08-18T14:09:11.527342
+06f3b750-77d3-4196-a464-5182050020e9,Louis,Poulain,69,Non-binaire,Hétéro,Allemand|Autre|Italien,Cuisine|Lecture,Cuisine:Végétarien/vegan|Lecture:BD/Mangas,Politique,2025-07-03T14:09:11.527379
+d352736a-5811-4b52-8046-7e5ed311ecb6,Honoré,Vasseur,57,Non-binaire,Pan,Anglais,Entrepreneuriat,Entrepreneuriat:Design produit,Vie privée|Aucun,2025-02-25T14:09:11.527415
+10682c8a-0c2e-4180-8c38-cadf1fee9fee,Louise,Normand,42,Femme,Homo,Autre,Sport,Sport:Yoga,Actualité sensible,2025-02-25T14:09:11.527449
+ce704b82-7774-4dab-b4af-017cb7b1cbff,Élodie,Weber,38,Préfère ne pas dire,Hétéro,Français|Espagnol,Entrepreneuriat|Sport,Entrepreneuriat:Investissement|Sport:Football,Religion,2024-10-22T14:09:11.527485
+6f4e61da-8972-4172-8fda-eb7af345339a,Suzanne,Dupuy,56,Non-binaire,Hétéro,Allemand|Espagnol,Jeux vidéo|Cuisine|Arts & culture,Jeux vidéo:RPG|Cuisine:Végétarien/vegan|Arts & culture:Arts visuels,Aucun,2024-12-26T14:09:11.527522
+5ddcc7b5-ad3d-4c31-b9bf-7003602edbe5,Michelle,Leroux,18,Femme,Homo,Espagnol|Allemand,Podcasts|Sciences|Sport,Podcasts:True crime|Sciences:Physique|Sport:Running,Aucun,2025-04-08T14:09:11.527559
+873fbbe4-e5f9-491d-bab0-e551ddce6914,Jean,Barre,16,Homme,Homo,Italien|Anglais,Technologie|Voyage,Technologie:Innovation|Voyage:Nature,Politique,2025-09-18T14:09:11.527595
+764ac909-3792-4187-89dc-af06146ab05a,Émile,Lamy,30,Préfère ne pas dire,Homo,Allemand|Français|Italien,Jeux vidéo|Cuisine|Arts & culture,Jeux vidéo:RPG|Cuisine:Pâtisserie|Arts & culture:Arts visuels,Actualité sensible|Religion,2024-11-14T14:09:11.527633
+0dfdba45-aa5c-400c-8013-02d8ac75b0cc,Clémence,Marques,68,Femme,Pan,Espagnol|Autre,Sport|Jeux vidéo|Voyage,Sport:Football|Jeux vidéo:Retro|Voyage:Nature,Politique|Religion,2025-01-10T14:09:11.527672
+ce591244-8df7-4d44-b0df-56fc2b441738,Alfred,Pascal,22,Non-binaire,Pan,Allemand|Autre|Espagnol,Musique|Entrepreneuriat,Musique:Rock|Entrepreneuriat:Design produit,Actualité sensible,2025-09-22T14:09:11.527709
+7a7c78c4-9c6d-4a65-ae6c-f88be5ae6930,Paul,Pascal,17,Non-binaire,Bi,Espagnol,Jeux vidéo,Jeux vidéo:Casual,Aucun|Religion,2025-03-28T14:09:11.527743
+3d4355f3-09ca-4e38-8904-9db1e4b19406,Gilles,Alexandre,67,Homme,Bi,Italien,Arts & culture|Voyage,Arts & culture:Cinéma|Voyage:Road trip,Politique,2025-10-17T14:09:11.527786
+662a0cb1-6713-4c0d-8a07-62108d41b3cc,Stéphanie,Pages,19,Femme,Pan,Français,Sport,Sport:Yoga,Aucun|Politique,2025-10-01T14:09:11.527822
+15eeac84-76d2-4e15-8d01-0240f1e3c95c,Jacqueline,Mallet,53,Femme,Hétéro,Français|Anglais|Italien,Jeux vidéo|Musique,Jeux vidéo:RPG|Musique:Jazz/Blues,Aucun|Politique,2024-12-12T14:09:11.527858
+f5515e6d-c54e-45c9-86bf-6cca0429813c,Christophe,Pelletier,26,Femme,Pan,Anglais|Espagnol|Français,Cuisine|Sciences,Cuisine:Cuisine du monde|Sciences:Sciences sociales,Actualité sensible|Aucun,2025-05-24T14:09:11.527895
+c857f94c-71e9-411b-ba06-e339424bb757,Henriette,Couturier,58,Non-binaire,Homo,Allemand,Podcasts,Podcasts:True crime,Politique,2025-09-21T14:09:11.527933
+3ec8939e-a7a4-431e-a03f-db1c159d11a2,Suzanne,Bonneau,24,Homme,Hétéro,Espagnol|Autre,Entrepreneuriat|Jeux vidéo|Voyage,3138,Vie privée,2024-11-20T14:09:11.527971
+5de8bd02-a994-4cf0-831b-815008efd561,Gabriel,Vasseur,27,Préfère ne pas dire,Pan,Allemand|Espagnol|Autre,Cuisine,Cuisine:Pâtisserie,Aucun|Religion,2025-10-18T14:09:11.528010
+216f4eb9-d2ae-4f44-b5eb-1662afc50ffb,Simone,Techer,47,Non-binaire,Homo,Anglais,Photographie,5911,Religion|Aucun,2025-03-22T14:09:11.528044
+060ead8d-ebb0-4da0-9807-0c89cab7dd48,Alice,Marchal,46,Homme,Homo,Espagnol,Sciences|Photographie|Sport,Sciences:Sciences sociales|Photographie:Paysage|Sport:Randonnée,Vie privée,2024-12-23T14:09:11.528083
+4d292343-a6c8-4734-b932-4418b7dd6bf9,Christophe,Guyot,17,Préfère ne pas dire,Préfère ne pas dire,Français|Allemand|Italien,Arts & culture|Podcasts,Arts & culture:Théâtre|Podcasts:Développement perso,Vie privée,2025-06-08T14:09:11.528122
+96eeec49-71dd-4249-aec0-cb6cc377b345,Andrée,Blot,41,Non-binaire,Hétéro,Anglais|Français|Autre,Entrepreneuriat|Voyage,Entrepreneuriat:Création|Voyage:Culture & musées,Politique,2025-06-03T14:09:11.528159
+1c2d6102-1466-4506-8b05-264718a4a606,Jeanne,Marie,65,Femme,Pan,Anglais|Italien|Espagnol,Entrepreneuriat,Entrepreneuriat:Design produit,Religion|Aucun,2025-10-14T14:09:11.528194
+90c3970c-47ba-4c0f-a378-70543e8b6b26,Claude,Blanc,17,Femme,Homo,Autre|Espagnol|Anglais,Sport|Sciences|Podcasts,Sport:Randonnée|Sciences:Physique|Podcasts:Tech,Religion,2025-04-19T14:09:11.528231
+92a96ec7-032e-4015-afa6-0ab9d28d9bb2,Dorothée,Arnaud,56,Femme,Hétéro,Français,Entrepreneuriat,Entrepreneuriat:Création,Religion|Politique,2025-03-04T14:09:11.528265
+b532376a-d0b4-4520-a326-ebb0eb1bc629,Marianne,Guilbert,58,Non-binaire,Hétéro,Français|Espagnol,Voyage,Voyage:City trip,Politique|Aucun,2025-09-19T14:09:11.528301
+13734787-b972-4e2b-b2ca-873385912c61,Paul,Laine,28,Préfère ne pas dire,Bi,Espagnol,Voyage|Musique,Voyage:Culture & musées|Musique:Rock,Religion,2024-12-08T14:09:11.528337
+c009ab3a-5cda-4c60-a13d-9459bf9c86f9,Grégoire,Faivre,65,Préfère ne pas dire,Pan,Autre|Espagnol,Lecture,Lecture:Romans,Religion|Politique,2025-01-02T14:09:11.528372
+91cc43a2-9c6b-4db1-86e5-7dcd49fff0d0,Xavier,Raymond,36,Préfère ne pas dire,Hétéro,Français,Photographie|Podcasts|Musique,Photographie:Paysage|Podcasts:Tech|Musique:Électro,Politique|Aucun,2024-11-29T14:09:11.528409
+1e2d9ec7-2b49-4d24-87be-8bdf863e3657,Élisabeth,Antoine,18,Femme,Hétéro,Autre|Anglais,Sport|Voyage|Technologie,Sport:Cyclisme|Voyage:Nature|Technologie:Cybersécurité,Aucun,2025-04-18T14:09:11.528446
+fd3b48c9-764d-4ec0-8582-d45a4f99fa36,Patrick,Neveu,17,Non-binaire,Bi,Autre,Technologie,Technologie:Innovation,Actualité sensible,2025-08-24T14:09:11.528485
+7853bd14-37fd-480d-93e0-8d9784b91a92,Franck,Aubry,27,Homme,Préfère ne pas dire,Anglais,Sport,Sport:Cyclisme,Aucun,2024-12-30T14:09:11.528521
+6f93874a-56e7-4a77-8048-d513a6e88645,Michelle,Julien,41,Femme,Bi,Français|Espagnol,Podcasts|Lecture,Podcasts:True crime|Lecture:Romans,Aucun,2025-10-19T14:09:11.528561
+f87a63a2-6ad6-4172-81c4-4618adcfe05c,Guy,Parent,41,Femme,Bi,Italien,Entrepreneuriat|Musique|Cuisine,Entrepreneuriat:Investissement|Musique:Rock|Cuisine:Gastronomie FR,Vie privée,2025-07-02T14:09:11.528599
+ab33ff63-14f7-4999-8101-3f63cf954ccf,Joséphine,Boyer,42,Femme,Préfère ne pas dire,Italien|Anglais,Photographie|Entrepreneuriat,Photographie:Portrait|Entrepreneuriat:Design produit,Aucun,2024-11-14T14:09:11.528634
+a7971c3e-a510-4c67-a20b-c977d9750693,Tristan,Gérard,53,Préfère ne pas dire,Préfère ne pas dire,Espagnol|Anglais,Musique|Voyage|Sport,Musique:Classique|Voyage:Culture & musées|Sport:Football,Vie privée,2024-12-23T14:09:11.528674
+7927b15e-3e1c-4b62-9e43-4d9ad54f1883,Agnès,Reynaud,68,Femme,Homo,Autre,Entrepreneuriat,Entrepreneuriat:Investissement,Politique,2024-11-05T14:09:11.528710
+06928ecb-4842-4f60-8df8-6f718ea5bebd,Sophie,Léger,16,Homme,Hétéro,Français|Allemand|Autre,Entrepreneuriat|Jeux vidéo,Entrepreneuriat:Investissement|Jeux vidéo:FPS,Actualité sensible,2025-05-08T14:09:11.528746
+a37aa1a1-10fe-4acd-adb8-a70968c21471,Stéphane,Diallo,58,Homme,Homo,Allemand,Entrepreneuriat|Sciences,Entrepreneuriat:Investissement|Sciences:Sciences sociales,Actualité sensible|Vie privée,2025-09-26T14:09:11.528786
+de6fd652-5ee5-4136-8f65-1808027bae0e,Émile,Perrot,66,Femme,Pan,Espagnol|Anglais|Allemand,Sport,Sport:Rugby,Actualité sensible|Religion,2025-03-17T14:09:11.528823
+29051f00-86cd-490a-a1c3-7a39e1d7378a,Léon,Becker,45,Non-binaire,Bi,Anglais|Allemand|Autre,Sport|Jeux vidéo|Voyage,7962,Vie privée,2025-08-14T14:09:11.528859
+ff856b46-9923-43f2-9361-a43d0d9e87fe,Louis,Morel,49,Non-binaire,Hétéro,Autre|Italien,Podcasts|Voyage,Podcasts:Actualité|Voyage:Road trip,Religion,2025-05-30T14:09:11.528897
+cf2c5ccf-113d-4a9f-b75d-86a0314d963c,Anastasie,Raynaud,67,Homme,Pan,Français|Anglais|Autre,Podcasts|Photographie,Podcasts:Tech|Photographie:Urbain,Vie privée,2025-07-14T14:09:11.528933
+c5e843f3-4e82-4ca1-a6b1-3af648c7584a,Margot,Potier,53,Homme,Pan,Italien|Autre|Espagnol,Voyage,Voyage:Culture & musées,Religion,2025-05-08T14:09:11.528968
+5cd24628-9ff9-4d52-bce9-a63346271412,Capucine,Simon,30,Préfère ne pas dire,Préfère ne pas dire,Autre,Musique,Musique:Jazz/Blues,Religion,2025-03-25T14:09:11.529001
+35aff7f1-2c73-4f89-a1a1-298a6ab41311,Françoise,Durand,63,Femme,Hétéro,Italien|Allemand|Anglais,Podcasts,9626,Actualité sensible,2025-09-02T14:09:11.529034
+2b1f9d98-8632-401b-a4db-2e847578dfb7,Susanne,Collet,21,Non-binaire,Homo,Français|Autre|Espagnol,Photographie|Sciences|Entrepreneuriat,Photographie:Portrait|Sciences:Sciences sociales|Entrepreneuriat:Marketing,Politique,2025-02-13T14:09:11.529073
+b52463c1-0001-4f65-813e-44f481fe4f70,Margaux,Voisin,21,Homme,Préfère ne pas dire,Français|Allemand,Cuisine|Podcasts|Jeux vidéo,Cuisine:Cuisine du monde|Podcasts:Actualité|Jeux vidéo:Action,Actualité sensible,2025-07-15T14:09:11.529110
+b77a3639-1277-4ec2-9c84-96583dbb3380,Adrienne,Colin,28,Homme,Homo,Espagnol,Lecture|Sciences,Lecture:BD/Mangas|Sciences:Physique,Politique,2025-08-22T14:09:11.529148
+93613579-e66a-4077-832f-e65e7286a4b7,Thomas,Monnier,25,Femme,Homo,Allemand|Français,Cuisine,Cuisine:Gastronomie FR,Vie privée,2025-08-27T14:09:11.529190
+36af601c-cb7c-4688-b8ae-812c4b9437a6,Brigitte,Gaudin,42,Femme,Pan,Autre,Sport,Sport:Ski,Vie privée|Religion,2024-12-21T14:09:11.529225
+51cda453-1ef3-45ed-8430-299b5344a04d,Laurence,Lacroix,55,Préfère ne pas dire,Bi,Espagnol|Italien,Podcasts,Podcasts:Actualité,Vie privée,2025-05-23T14:09:11.529259
+74f026f0-3e5f-4fda-9246-7368d3a48ba9,Cécile,Leclerc,66,Homme,Hétéro,Autre,Photographie|Musique|Podcasts,Photographie:Édition|Musique:Électro|Podcasts:Culture,Politique,2025-01-29T14:09:11.529295
+e0478eb3-81b6-45f0-9e09-c5c377c84f04,Grégoire,Ribeiro,48,Femme,Homo,Italien|Français|Espagnol,Photographie|Musique|Sport,Photographie:Urbain|Musique:Rap/Hip-hop|Sport:Ski,Religion,2025-09-29T14:09:11.529338
+3cfd3b8a-cfe9-4401-90fb-af3dd0feb5fd,Georges,Humbert,49,Homme,Préfère ne pas dire,Français|Allemand,Sciences|Photographie|Musique,Sciences:Santé|Photographie:Édition|Musique:Rock,Actualité sensible|Politique,2025-10-05T14:09:11.529377
+1987cc53-c0ac-4385-a560-de677ab34a5c,Jean,Boulay,36,Homme,Préfère ne pas dire,Français,Entrepreneuriat|Jeux vidéo|Musique,Entrepreneuriat:Design produit|Jeux vidéo:Retro|Musique:Classique,Politique|Aucun,2025-08-06T14:09:11.529415
+3e60518c-8600-4391-8829-47d7f4566ee4,Sophie,Dumas,57,Non-binaire,Bi,Anglais|Français,Technologie|Arts & culture|Sciences,Technologie:Innovation|Arts & culture:Histoire|Sciences:Santé,Aucun|Politique,2025-08-05T14:09:11.529453
+80e27213-117c-45f2-8d1e-90ea866ed30e,Nathalie,Garnier,36,Préfère ne pas dire,Pan,Italien,Jeux vidéo|Lecture,Jeux vidéo:Action|Lecture:Romans,Actualité sensible,2025-06-18T14:09:11.529488
+3a5c444d-fec1-46d4-bb9c-75de92c955e4,Éléonore,Petit,33,Homme,Pan,Italien|Français,Voyage,Voyage:City trip,Aucun|Religion,2025-05-10T14:09:11.529521
+c7a251f7-6504-435f-af0c-7b3c0fd17ee9,Stéphane,Cordier,66,Préfère ne pas dire,Hétéro,Autre|Français|Allemand,Voyage,Voyage:City trip,Vie privée,2024-12-17T14:09:11.529556
+2aa35da4-99ed-44ea-8b25-07cafa043ddf,Bernadette,Lebon,65,Homme,Homo,Français,Lecture|Musique,Lecture:BD/Mangas|Musique:Rap/Hip-hop,Aucun,2025-01-24T14:09:11.529592
+84ab35de-3b72-43c5-8e67-f17f76083446,Alain,Delattre,46,Préfère ne pas dire,Homo,Anglais|Allemand|Autre,Sciences|Musique|Voyage,Sciences:Santé|Musique:Rock|Voyage:City trip,Religion,2024-10-30T14:09:11.529629
+952e72c1-c4d5-4aa8-8a5c-3a0bb0042dad,Alexandrie,Potier,57,Non-binaire,Pan,Anglais|Français,Voyage,Voyage:City trip,Aucun|Vie privée,2025-07-04T14:09:11.529664
+1a287c26-c498-4561-b8a8-42df35cd1cef,Thomas,Lacombe,68,Préfère ne pas dire,Bi,Allemand|Anglais|Espagnol,Sport|Lecture,Sport:Rugby|Lecture:BD/Mangas,Actualité sensible,2025-04-30T14:09:11.529700
+c0d908a7-447d-4f16-bab8-95f3d1b5c72a,Tristan,Marie,58,Femme,Pan,Espagnol|Allemand,Sport|Photographie,Sport:Ski|Photographie:Portrait,Politique,2025-04-16T14:09:11.529736
+c8227de4-44f9-450a-a542-5ea6fe932e0c,Charles,Maréchal,45,Femme,Bi,Espagnol,Sciences|Lecture|Sport,Sciences:Physique|Lecture:Essais|Sport:Running,Actualité sensible,2025-07-14T14:09:11.529777
+a3ae2d4c-6b53-4ed2-817d-b3a55e9bad03,Alphonse,Maillet,41,Homme,Homo,Français,Podcasts,Podcasts:Culture,Aucun|Vie privée,2025-08-19T14:09:11.529811
+acc6099f-82b9-427f-865f-5222543dc04c,Maryse,Duval,56,Homme,Pan,Anglais,Sciences|Cuisine,Sciences:Physique|Cuisine:Gastronomie FR,Politique|Aucun,2025-09-09T14:09:11.529847
+665abb30-d71a-43e5-b79b-5db1ad809fb2,Pénélope,Regnier,45,Préfère ne pas dire,Préfère ne pas dire,Italien|Français|Autre,Entrepreneuriat,Entrepreneuriat:Création,Aucun,2025-08-28T14:09:11.529895
+d62a43ae-7f0b-4dcf-8d5b-d0c3f34c3176,Josette,Bodin,69,Femme,Homo,Allemand|Espagnol|Autre,Podcasts|Jeux vidéo|Sport,Podcasts:Développement perso|Jeux vidéo:Retro|Sport:Basket,Politique|Religion,2025-04-04T14:09:11.529974
+263870a4-3506-43db-95e9-494b0ed10be4,Aimé,Antoine,35,Femme,Hétéro,Autre|Italien|Espagnol,Photographie,Photographie:Urbain,Religion,2025-04-01T14:09:11.530069
+d37000c6-df39-4e97-9392-22e1621cb323,Denis,Dufour,64,Préfère ne pas dire,Homo,Autre,Entrepreneuriat,Entrepreneuriat:Investissement,Religion,2025-03-04T14:09:11.530124
+85b39af1-55b2-4d09-a772-879f212b3f7b,Vincent,Caron,32,Femme,Bi,Italien,Voyage|Lecture|Cuisine,Voyage:Road trip|Lecture:Développement personnel|Cuisine:Cuisine du monde,Vie privée|Aucun,2025-03-13T14:09:11.530166
+64042579-2770-4280-af2e-f248c4f41376,Maurice,Weiss,63,Homme,Pan,Français,Lecture,Lecture:Essais,Vie privée|Aucun,2024-12-14T14:09:11.530203
+602b25bb-abcd-4a6a-86db-7737cc5a8c9b,Timothée,Ramos,20,Non-binaire,Homo,Anglais,Sport,Sport:Yoga,Politique|Vie privée,2025-02-03T14:09:11.530246
+152957a1-28b6-4f70-9307-08e1ac1aff0b,Isabelle,Peron,56,Préfère ne pas dire,Pan,Autre|Anglais|Italien,Sport|Podcasts|Lecture,Sport:Basket|Podcasts:True crime|Lecture:Développement personnel,Aucun,2025-03-06T14:09:11.530291
+a840bd1b-7be4-4b72-a920-adbf5d0312fd,David,Sauvage,58,Homme,Pan,Anglais,Sciences,Sciences:Santé,Politique,2025-08-30T14:09:11.530328
+75963b8f-0c32-4d24-825f-89d2a113ed09,Hélène,Michel,48,Non-binaire,Préfère ne pas dire,Autre|Français|Espagnol,Arts & culture|Technologie,Arts & culture:Cinéma|Technologie:Cybersécurité,Aucun|Religion,2025-03-29T14:09:11.530366
+914a4357-232e-46fe-a18a-57aaf3efa583,Martine,Grondin,65,Non-binaire,Préfère ne pas dire,Italien|Autre|Allemand,Photographie,Photographie:Urbain,Aucun,2025-04-17T14:09:11.530402
+a4454554-f505-4506-9c7c-037f3759cb78,Léon,Couturier,22,Non-binaire,Hétéro,Espagnol|Italien|Anglais,Entrepreneuriat,Entrepreneuriat:Création,Religion,2025-05-24T14:09:11.530439
+c9e86aac-e968-4e08-b803-b8957a03ab8c,Véronique,Lombard,19,Préfère ne pas dire,Préfère ne pas dire,Français|Italien|Allemand,Voyage,Voyage:Road trip,Vie privée|Politique,2024-11-27T14:09:11.530479
+ce57daa9-9235-4ece-a5b4-20bc9b964f24,Andrée,Lebreton,49,Homme,Bi,Autre|Italien|Espagnol,Entrepreneuriat|Photographie|Technologie,Entrepreneuriat:Création|Photographie:Urbain|Technologie:Programmation,Vie privée|Politique,2025-08-10T14:09:11.530519
+d0bca167-d88a-46d3-b493-7a7b9b247e15,Valérie,Legrand,67,Homme,Pan,Espagnol|Italien|Anglais,Sciences|Sport,Sciences:Biologie|Sport:Ski,Aucun|Vie privée,2025-04-28T14:09:11.530557
+ce0dd47c-14db-4196-9504-ca254de91b26,Gabrielle,Potier,46,Préfère ne pas dire,Hétéro,Autre|Anglais|Italien,Cuisine|Arts & culture|Podcasts,Cuisine:Gastronomie FR|Arts & culture:Arts visuels|Podcasts:True crime,Vie privée|Religion,2025-06-20T14:09:11.530600
+8adc5988-4ebc-4370-8c47-a6a13c5eb489,Honoré,Costa,70,Femme,Homo,Anglais|Français,Sciences,Sciences:Sciences sociales,Vie privée|Politique,2025-09-23T14:09:11.530636
+500ef3e5-55b6-4195-8a44-7d2a42056432,Agnès,Schmitt,21,Homme,Préfère ne pas dire,Français|Autre,Voyage,Voyage:Road trip,Politique|Actualité sensible,2024-12-03T14:09:11.530671
+f69c7b37-4eba-4055-a79f-299ba6b52211,Alain,Aubert,65,Homme,Préfère ne pas dire,Italien,Sciences|Voyage,Sciences:Physique|Voyage:Road trip,Religion|Actualité sensible,2025-06-05T14:09:11.530706
+5d2ace98-4cb3-488e-9bdc-4d9c1774b206,Geneviève,Weiss,61,Préfère ne pas dire,Homo,Allemand|Autre|Anglais,Technologie|Cuisine|Lecture,Technologie:Innovation|Cuisine:Gastronomie FR|Lecture:BD/Mangas,Vie privée|Politique,2025-07-31T14:09:11.530745
+62032e17-4e4c-4be5-b5f8-4ea97aec9ce4,Cécile,Carre,49,Non-binaire,Hétéro,Anglais,Jeux vidéo,Jeux vidéo:FPS,Religion,2025-05-14T14:09:11.530779
+416ea769-aebc-4d22-82ae-8dd8c9f85e8b,Tristan,Sanchez,22,Préfère ne pas dire,Préfère ne pas dire,Allemand,Entrepreneuriat,Entrepreneuriat:Investissement,Politique,2024-12-17T14:09:11.530812
+dcebe936-e61a-475b-b383-0815b031c23e,Geneviève,Jacquet,31,Non-binaire,Homo,Allemand|Italien,Cuisine|Voyage|Musique,Cuisine:Cuisine du monde|Voyage:City trip|Musique:Électro,Aucun,2025-05-23T14:09:11.530849
+15fc9f61-42b8-48ac-b095-f3bf1d66cbd1,Alphonse,Mercier,19,Homme,Pan,Italien|Français,Voyage,Voyage:Nature,Politique|Religion,2025-03-04T14:09:11.530884
+54b5e2f8-63c6-4ebf-b229-6a0ef55ecd1e,Thibaut,Caron,50,Femme,Homo,Autre|Allemand,Photographie|Technologie|Sciences,Photographie:Portrait|Technologie:Programmation|Sciences:Physique,Vie privée,2024-12-24T14:09:11.530920
+d1bb51cc-dad5-4cee-b1a4-e055528f2c91,Caroline,Charles,49,Préfère ne pas dire,Homo,Italien|Espagnol|Allemand,Sciences|Arts & culture|Jeux vidéo,Sciences:Physique|Arts & culture:Histoire|Jeux vidéo:FPS,Politique,2025-01-31T14:09:11.530957
+015bbadc-00bf-4087-8971-8eedac447160,Hortense,Parent,30,Préfère ne pas dire,Hétéro,Autre|Italien,Podcasts|Sciences|Voyage,Podcasts:Tech|Sciences:Biologie|Voyage:Culture & musées,Politique|Vie privée,2025-02-09T14:09:11.530997
+bbeeb3e0-26a0-454a-898b-b0b566e8553b,Stéphanie,Lopes,39,Femme,Pan,Anglais|Français|Autre,Entrepreneuriat,Entrepreneuriat:Marketing,Religion|Politique,2025-04-03T14:09:11.531033
+ec0442c7-72bf-49ec-a8ad-be7476bbd079,Lucy,Bouchet,44,Femme,Bi,Italien|Anglais,Musique|Photographie|Technologie,Musique:Pop|Photographie:Paysage|Technologie:Gadgets,Vie privée|Politique,2025-01-09T14:09:11.531097
+9c0287c9-6ed8-496f-93ae-66c7723d987f,Louise,Dos Santos,54,Non-binaire,Préfère ne pas dire,Anglais,Lecture,Lecture:Développement personnel,Aucun,2024-11-01T14:09:11.531153
+57a4d325-8f09-4a84-9f48-8063654f5bff,Noémi,Lemaître,34,Homme,Bi,Espagnol|Italien|Français,Musique|Sport|Cuisine,Musique:Électro|Sport:Ski|Cuisine:Pâtisserie,Vie privée,2025-09-05T14:09:11.531204
+a93fb27d-e6ac-43ab-aacf-caa08b1583c9,Élisabeth,Munoz,44,Préfère ne pas dire,Pan,Italien,Technologie|Lecture|Arts & culture,Technologie:Cybersécurité|Lecture:Développement personnel|Arts & culture:Histoire,Aucun,2025-09-19T14:09:11.531245
+c4b19e98-0d99-4bd3-81a5-82f6cd6a4840,Frédéric,Germain,47,Préfère ne pas dire,Préfère ne pas dire,Italien,Voyage|Photographie|Jeux vidéo,Voyage:City trip|Photographie:Paysage|Jeux vidéo:RPG,Vie privée,2025-10-02T14:09:11.531283
+e822e6f0-909c-4d96-a0c2-6b8de0229cd6,Thibaut,Dos Santos,57,Homme,Homo,Français|Espagnol,Sciences,Sciences:Santé,Vie privée|Actualité sensible,2024-11-04T14:09:11.531320
+a94a4502-8e83-49e0-a264-985e353fb5ea,Margaux,Valentin,33,Homme,Bi,Espagnol|Autre,Photographie,Photographie:Édition,Aucun|Vie privée,2025-07-13T14:09:11.531357
+2debe321-6a11-48fa-b246-55dc749f905d,Georges,Maillot,59,Non-binaire,Pan,Anglais,Arts & culture|Musique|Cuisine,Arts & culture:Histoire|Musique:Rock|Cuisine:Végétarien/vegan,Actualité sensible,2025-07-18T14:09:11.531395
+0f9853ae-b455-41d8-b0a7-b40d18b6bc22,Maggie,Allard,40,Homme,Préfère ne pas dire,Allemand,Entrepreneuriat|Podcasts|Cuisine,Entrepreneuriat:Marketing|Podcasts:Actualité|Cuisine:Cuisine du monde,Aucun,2024-10-23T14:09:11.531433
+9074cb9f-ba44-4f31-8d94-a1fe688db6dd,Pauline,Teixeira,32,Préfère ne pas dire,Préfère ne pas dire,Français|Italien,Jeux vidéo|Sciences,Jeux vidéo:RPG|Sciences:Santé,Politique,2025-07-14T14:09:11.531470
+fd8fb235-827c-4562-bb95-1363ec6e6a88,Éléonore,Rey,69,Femme,Pan,Allemand|Anglais|Français,Photographie,Photographie:Urbain,Actualité sensible,2025-10-02T14:09:11.531506
+bc541548-95f0-4dbc-a444-ff6a5d13406c,Emmanuel,Perez,21,Non-binaire,Bi,Français|Espagnol,Entrepreneuriat|Musique,Entrepreneuriat:Investissement|Musique:Classique,Actualité sensible,2024-12-08T14:09:11.531542
+0cb754f6-1fb3-416f-8c00-3f462419b9a3,Catherine,Costa,31,Préfère ne pas dire,Pan,Français|Autre,Sport|Technologie|Musique,Sport:Cyclisme|Technologie:Programmation|Musique:Pop,Religion|Vie privée,2025-04-08T14:09:11.531581
+ca0fe9a4-babc-4ff1-9a6b-77c21545afad,Éléonore,Martinez,51,Femme,Préfère ne pas dire,Anglais|Allemand|Français,Cuisine|Technologie,Cuisine:Cuisine du monde|Technologie:Innovation,Vie privée|Religion,2025-08-12T14:09:11.531624
+c35dd1d8-f01f-4f34-a9db-a476f2acce5c,Océane,Carpentier,65,Préfère ne pas dire,Pan,Allemand|Espagnol|Italien,Technologie,Technologie:Cybersécurité,Aucun|Actualité sensible,2024-11-13T14:09:11.531661
+471e70d7-9c26-4ce2-b0cc-cb2660010787,Nicolas,Gauthier,unknown,Non-binaire,Préfère ne pas dire,Anglais|Italien,Sport,Sport:Basket,Vie privée,2025-05-04T14:09:11.531698
+a9966339-17b3-410e-ab02-7f30485db3f3,Philippine,Brunel,unknown,Homme,Préfère ne pas dire,Anglais|Français|Autre,Sciences,Sciences:Biologie,Actualité sensible|Politique,2025-07-07T14:09:11.531735
+8c7a4838-4223-489e-a149-0dc9656765e6,Laurent,Lecomte,34,Non-binaire,Bi,Italien|Autre|Allemand,Arts & culture|Podcasts,Arts & culture:Histoire|Podcasts:True crime,Religion|Vie privée,2025-03-06T14:09:11.531773
+191f910d-74f7-40b4-986e-8b45ed0acd50,Maryse,Lopez,63,Femme,Homo,Italien|Anglais,Sport|Entrepreneuriat,Sport:Basket|Entrepreneuriat:Investissement,Aucun,2025-08-28T14:09:11.531809
+36184532-bcd0-4257-9ad7-cf966c21413b,Victor,Lacroix,54,Homme,Hétéro,Espagnol|Italien|Français,Voyage,Voyage:Road trip,Aucun,2025-06-18T14:09:11.531844
+c5d1fa49-08ff-4157-be0b-6ad3eca8b7f0,Lucas,Roy,45,Non-binaire,Hétéro,Anglais|Allemand|Italien,Podcasts|Musique|Jeux vidéo,Podcasts:True crime|Musique:World|Jeux vidéo:FPS,Vie privée|Aucun,2025-05-10T14:09:11.531888
+b52ab77e-c465-4f64-889e-1238b5c4a798,Amélie,Boyer,24,Préfère ne pas dire,Homo,Français|Espagnol|Anglais,Musique|Photographie|Jeux vidéo,Musique:Électro|Photographie:Paysage|Jeux vidéo:Action,Politique|Religion,2025-03-10T14:09:11.531928
+bb38caa9-eddf-4cdc-9c11-185788fae8ff,Maggie,Peltier,59,Homme,Homo,Autre|Anglais,Sciences|Arts & culture|Technologie,Sciences:Biologie|Arts & culture:Arts visuels|Technologie:IA,Religion,2024-12-30T14:09:11.531965
+dd2d5213-603c-4a5b-86da-a7d7981d18b1,Guy,Faure,62,Préfère ne pas dire,Bi,Italien|Français|Espagnol,Photographie,Photographie:Paysage,Religion,2025-05-08T14:09:11.532000
+40338573-4c53-4cf1-8614-18f2bc8292eb,Arnaude,Meyer,36,Non-binaire,Bi,Français|Allemand,Sciences|Jeux vidéo|Podcasts,Sciences:Physique|Jeux vidéo:FPS|Podcasts:Tech,Religion|Politique,2025-01-02T14:09:11.532043
+a3832358-bbd8-40a8-a339-1c0c1b70189c,Robert,Marin,61,Femme,Homo,Italien|Autre,Lecture|Technologie,Lecture:Essais|Technologie:Cybersécurité,Religion,2025-09-23T14:09:11.532107
+9f928745-a7f1-4c9b-ba56-51f07812f7f6,Pauline,Lagarde,29,Préfère ne pas dire,Bi,Italien,Photographie|Entrepreneuriat|Technologie,Photographie:Paysage|Entrepreneuriat:Création|Technologie:Programmation,Actualité sensible,2025-04-01T14:09:11.532163
+b1d3877d-3272-4f99-b90e-d141bd9465c9,Henri,Legrand,18,Femme,Bi,Allemand|Italien|Autre,Photographie|Podcasts|Arts & culture,Photographie:Édition|Podcasts:Développement perso|Arts & culture:Théâtre,Aucun|Actualité sensible,2025-07-19T14:09:11.532207
+eafa4c7e-5ded-4dd9-a8c2-644e0b7cd192,Guy,Jean,17,Non-binaire,Bi,Allemand,Musique|Arts & culture|Sciences,Musique:Rap/Hip-hop|Arts & culture:Cinéma|Sciences:Sciences sociales,Actualité sensible,2025-07-30T14:09:11.532247
+0f763571-79de-43ad-a1fa-3c5914d2e3cf,Thierry,Lesage,26,Non-binaire,Hétéro,Espagnol,Jeux vidéo,Jeux vidéo:RPG,Politique,2024-12-12T14:09:11.532284
+f520ad39-ba99-4217-9603-85e54b6af6a1,Lucie,Chauvin,21,Homme,Préfère ne pas dire,Français|Italien,Technologie,Technologie:Cybersécurité,Religion,2025-08-05T14:09:11.532319
+e3cfb870-b9a7-4510-9ee9-e3c28d18a007,Antoine,Coste,unknown,Homme,Hétéro,Italien,Sciences|Musique|Podcasts,Sciences:Biologie|Musique:Électro|Podcasts:Tech,Religion,2025-07-21T14:09:11.532357
+ed69c122-9c63-4bd6-9b42-3157347a2512,Édouard,Mercier,28,Homme,Hétéro,Italien|Anglais,Voyage|Cuisine,Voyage:City trip|Cuisine:Gastronomie FR,Vie privée,2024-11-22T14:09:11.532395
+e0cddbe1-4d18-4ed8-b3b4-19abee1464be,Michelle,Pereira,64,Non-binaire,Homo,Français,Lecture|Photographie,Lecture:BD/Mangas|Photographie:Paysage,Politique|Actualité sensible,2025-08-14T14:09:11.532432
+d8a4f980-96b1-4245-8e57-6b3ba81dc3e2,Marine,Lopes,69,Homme,Bi,Autre|Allemand,Podcasts,Podcasts:Actualité,Aucun,2024-12-20T14:09:11.532468
+2b7ffe11-ae3c-4dce-9766-08c565c33062,Alice,Aubry,45,Femme,Homo,Anglais|Allemand,Photographie|Cuisine,Photographie:Urbain|Cuisine:Pâtisserie,Religion|Aucun,2025-10-08T14:09:11.532505
+321e74a0-03d9-4a6f-be90-481cb5b6455f,Vincent,Gallet,46,Femme,Pan,Espagnol,Technologie|Jeux vidéo|Entrepreneuriat,Technologie:Innovation|Jeux vidéo:Casual|Entrepreneuriat:Marketing,Religion,2024-12-19T14:09:11.532541
+3bdd85e0-23ab-441e-beab-69137297f2b8,Jeanne,Giraud,53,Femme,Pan,Anglais,Sport,Sport:Ski,Actualité sensible,2025-05-11T14:09:11.532582
+bcd42072-be3d-4153-a2c6-1a02b01adc12,Guy,Samson,18,Homme,Hétéro,Français,Cuisine|Voyage|Jeux vidéo,Cuisine:Pâtisserie|Voyage:Nature|Jeux vidéo:Casual,Aucun|Politique,2025-04-15T14:09:11.532621
+d992df3e-fc80-49dc-befe-1b114507a793,Stéphanie,Allard,69,Homme,Homo,Allemand|Français,Sport,Sport:Escalade,Politique|Aucun,2025-09-29T14:09:11.532661

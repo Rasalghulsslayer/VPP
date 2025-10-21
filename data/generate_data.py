@@ -45,47 +45,63 @@ def generate_interests():
         chosen_sub.append(f"{main}:{sub}")
     return "|".join(chosen_main), "|".join(chosen_sub)
 
+# Taux d’erreurs
 error_rate = 0.05
-rows = []
+
+# Containers
+profiles = []
+travels = []
 
 for _ in range(n_users):
     user_id = str(uuid.uuid4())
     first_name = fake.first_name()
     last_name = fake.last_name()
-    travel_reason = random.choice(travel_reasons)
-    expectation = random.choice(expectations)
-    interests_main, interests_sub = generate_interests()
-    conv_trigger = random.choice(conversation_triggers)
-    preferred_personality = random.choice(personalities)
-    self_personality = random.choice(personalities)
-    topics_to_avoid = "|".join(random.sample(topics, random.randint(1, 2)))
-    languages_spoken = "|".join(random.sample(languages, random.randint(1, 3)))
-    openness_score = random.randint(1, 5)
     age = random.randint(16, 70)
     gender = random.choice(genders)
     orientation = random.choice(orientations)
+    languages_spoken = "|".join(random.sample(languages, random.randint(1, 3)))
+    interests_main, interests_sub = generate_interests()
+    topics_to_avoid = "|".join(random.sample(topics, random.randint(1, 2)))
     created_at = (datetime.now() - timedelta(days=random.randint(0, 365))).isoformat()
 
-    # erreurs simulées
+    # erreurs aléatoires sur profil
     if random.random() < error_rate:
         if random.random() < 0.3:
             interests_sub = str(random.randint(1, 9999))
         if random.random() < 0.2:
             age = random.choice(["unknown", "na", "N/A"])
 
-    rows.append([
-        user_id, first_name, last_name, travel_reason, expectation,
-        interests_main, interests_sub, conv_trigger, preferred_personality, self_personality,
-        topics_to_avoid, languages_spoken, openness_score, age, gender, orientation, created_at
+    profiles.append([
+        user_id, first_name, last_name, age, gender, orientation, languages_spoken,
+        interests_main, interests_sub, topics_to_avoid, created_at
     ])
 
-columns = ["user_id", "first_name", "last_name", "travel_reason", "expectations_from_neighbor",
-           "interests_main", "interests_sub", "conversation_trigger", "preferred_personality",
-           "self_personality", "topics_to_avoid", "languages_spoken", "openness_score", "age",
-           "gender", "sexual_orientation", "created_at"]
+    # Infos voyage
+    travel_reason = random.choice(travel_reasons)
+    expectation = random.choice(expectations)
+    conv_trigger = random.choice(conversation_triggers)
+    openness_score = random.randint(1, 5)
 
-df = pd.DataFrame(rows, columns=columns)
+    travels.append([
+        user_id, travel_reason, expectation, conv_trigger, openness_score
+    ])
 
-### Remplacer le chemin par celui de votre environnement :
-df.to_csv("/home/lescaron/SDD/VPP/data/train_app_survey_1000.csv", index=False)
-print(df.head())
+# Colonnes
+profile_cols = ["user_id", "first_name", "last_name", "age", "gender", "sexual_orientation",
+                "languages_spoken", "interests_main", "interests_sub", "topics_to_avoid", "created_at"]
+travel_cols = ["user_id", "travel_reason", "expectations_from_neighbor",
+               "conversation_trigger", "openness_score"]
+
+# DataFrames
+df_profiles = pd.DataFrame(profiles, columns=profile_cols)
+df_travels = pd.DataFrame(travels, columns=travel_cols)
+
+# Sauvegarde CSV
+df_profiles.to_csv("data/users_profiles.csv", index=False)
+df_travels.to_csv("data/users_travels.csv", index=False)
+
+print("✅ CSV générés :")
+print("- users_profiles.csv :", df_profiles.shape)
+print("- users_travels.csv :", df_travels.shape)
+print(df_profiles.head())
+print(df_travels.head())

@@ -1,0 +1,1001 @@
+user_id,travel_reason,expectations_from_neighbor,conversation_trigger,openness_score
+ace115bb-222b-4f71-af26-123c7df78c7e,Travail/études,Autre,La conversation est légère,5
+f91b0abb-6653-46d0-8d30-70271a4f2e36,Visite famille/amis,Autre,Le trajet est long,1
+2616bb83-a49f-455c-807d-343853691143,Loisirs/vacances,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,2
+e91b29ad-2303-4680-8509-79beb19a03f9,Travail/études,Autre,La conversation est légère,5
+e135997e-c151-4aa2-857d-9b0cd1722a01,Loisirs/vacances,Autre,Le trajet est long,2
+1ce6c3df-8ffa-4011-b536-2b1c542f2243,Loisirs/vacances,Autre,Jamais,1
+6d0ec4b8-435e-4cfd-a6f8-870da4bd0777,Autre,Autre,Le trajet est long,5
+91ae885f-0d30-455f-b88d-abd4af8d3221,Visite famille/amis,Autre,La conversation est légère,5
+bf0f2914-664d-4476-b9d8-f33817eb658e,Visite famille/amis,Rester tranquille,Il/elle partage mes centres d’intérêt,2
+f2dd17a3-4d2b-40ae-b904-63ff1d8eac8c,Autre,Rester tranquille,Ça dépend,2
+375a1bab-72f0-4c2e-b372-b899fff6cedc,Loisirs/vacances,Discussion sympa,Il/elle partage mes centres d’intérêt,1
+616ce897-d49b-4eeb-8d1d-8551d7f437fe,Autre,Rester tranquille,Jamais,4
+0c70b92e-880f-42eb-b85f-7906de18a3b4,Autre,Rester tranquille,Jamais,2
+1fe20014-dae1-4b88-88d8-e017620447f2,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,2
+bac07db1-2a93-4aa8-aca6-6767a9721cf7,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,1
+123bfca0-e52e-4015-b2a7-27fb2b7dcc42,Loisirs/vacances,Autre,Ça dépend,1
+5f72b3d2-2ca4-4b56-87af-81cb72fbf48d,Autre,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,1
+f80779d8-054f-4145-8fd8-6fec70256139,Visite famille/amis,Autre,Ça dépend,1
+bd813397-eea1-4cc4-90d9-e0c580ca2924,Visite famille/amis,Rester tranquille,Le trajet est long,5
+8eda1142-38f3-47fa-b887-3c4f3d0b376b,Autre,Autre,Il/elle partage mes centres d’intérêt,1
+5d85461b-e91b-4e62-aa25-c99ddd3a0cf0,Travail/études,Échanger sur un sujet commun,Ça dépend,4
+4e25dced-f5db-43b9-bba7-bd4fa61aadc9,Travail/études,Réseautage pro,Il/elle partage mes centres d’intérêt,4
+3778de79-fe58-4272-aab6-71ac20202295,Visite famille/amis,Échanger sur un sujet commun,Ça dépend,4
+811a53ad-5390-46c1-9611-688d93355577,Visite famille/amis,Réseautage pro,Ça dépend,5
+06bcce16-5796-432d-acc8-265a3647c2bf,Loisirs/vacances,Échanger sur un sujet commun,Jamais,1
+33df16d8-1229-4212-9251-223e320e0b42,Autre,Rester tranquille,Ça dépend,5
+e60d0d9a-1857-4844-8a4d-82344e0cb2cf,Loisirs/vacances,Discussion sympa,Le trajet est long,5
+b7bb8f9d-7e27-4e60-8662-65a9df312b71,Travail/études,Réseautage pro,Jamais,5
+ebdf3e7c-2b99-4bf7-afb2-9b170e8ac58f,Autre,Autre,Ça dépend,5
+9a78be7f-40c1-48af-9ba0-1d5575063a21,Autre,Rester tranquille,Le trajet est long,4
+56fe9238-6284-44c6-bf1a-2cb82490d7a7,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,2
+84d25ee8-8f28-44ff-af98-e1092cefd547,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,4
+5efeda04-0be5-4cb7-a745-2d0cba54a900,Autre,Échanger sur un sujet commun,La conversation est légère,4
+9c5287d4-ee5c-42d8-a78c-50b4db1e8669,Travail/études,Discussion sympa,La conversation est légère,2
+8bd2e2ff-9f00-4bbf-b5e7-b5d350b46e07,Visite famille/amis,Rester tranquille,Ça dépend,5
+d4c89158-57f8-469f-8d34-9864f4bedb85,Loisirs/vacances,Discussion sympa,Le trajet est long,5
+1fa988d5-d31e-4733-9db4-0e89950361c7,Autre,Rester tranquille,Jamais,2
+994fecc1-d0bb-4020-82a4-d1e8ca455b45,Autre,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,4
+85e44b31-dd37-48cc-997f-cde9b2d2ee80,Autre,Réseautage pro,Ça dépend,2
+fc660f36-f2d3-461f-afc3-b99f077ebd8e,Visite famille/amis,Échanger sur un sujet commun,Jamais,3
+c6243fac-4633-4a88-8d8b-b690a37fe645,Visite famille/amis,Autre,Ça dépend,5
+9087b934-1648-4609-8be5-72653890273d,Visite famille/amis,Rester tranquille,Jamais,1
+93a97123-b305-4ab2-9e7d-a02043d0f506,Travail/études,Rester tranquille,La conversation est légère,5
+94447633-0ab2-438a-988a-02860ccd04be,Autre,Échanger sur un sujet commun,Ça dépend,5
+f763b218-2fb1-4156-a9cd-fceffcc2a299,Autre,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,2
+a627bf90-2769-48d1-9e0c-83519d5e87ca,Visite famille/amis,Rester tranquille,Il/elle partage mes centres d’intérêt,1
+f9a8f850-0f11-42fc-a51a-78d7c1938b4c,Travail/études,Réseautage pro,Le trajet est long,5
+638200bd-72b2-446f-b1d1-c6707e98d28a,Autre,Discussion sympa,Jamais,3
+e1d6bece-616f-4c16-b1fb-2fe6719593dd,Visite famille/amis,Discussion sympa,Jamais,5
+99ad5096-ed3d-4e08-9b0a-12e5652531ac,Loisirs/vacances,Échanger sur un sujet commun,Jamais,4
+a2efae5b-a07b-4084-9828-fb4d867f064e,Travail/études,Réseautage pro,Il/elle partage mes centres d’intérêt,2
+232e01f9-56ca-40b8-960f-6d687e8d0124,Loisirs/vacances,Discussion sympa,Le trajet est long,4
+569d8634-8faa-4d6a-b3da-e355556c8aec,Autre,Réseautage pro,Le trajet est long,2
+4fb9b860-2e9f-4165-9d75-f03cbaab86a6,Loisirs/vacances,Autre,Ça dépend,3
+d0601259-d231-4cee-ab64-7eba05b08a67,Visite famille/amis,Autre,Jamais,3
+7f570d5a-6ea0-4990-bd6d-b0850062b99b,Travail/études,Réseautage pro,La conversation est légère,3
+86256114-8c91-4cb0-a75c-409fdb656d95,Autre,Autre,La conversation est légère,4
+83a38744-075a-4bd7-85f6-ecb57f9a3bce,Visite famille/amis,Autre,Le trajet est long,4
+87f5d6b3-91f7-4370-9429-06d353bc55d1,Travail/études,Autre,Il/elle partage mes centres d’intérêt,5
+893567d2-06c9-4658-8737-87b4e1ddef86,Visite famille/amis,Réseautage pro,Il/elle partage mes centres d’intérêt,5
+6375af2a-33bb-46d6-bff7-93011842ab9d,Autre,Échanger sur un sujet commun,Le trajet est long,1
+268350ac-ec4a-4cb2-a2ef-2639f596c4b2,Visite famille/amis,Échanger sur un sujet commun,Ça dépend,4
+fb1f2743-fcd7-46e4-9bac-23ef2ec1f322,Loisirs/vacances,Réseautage pro,Jamais,3
+620b8a76-14de-4783-b417-076e77dac0e8,Visite famille/amis,Discussion sympa,Le trajet est long,5
+1a5d4ff4-6059-432c-9fd0-e68a5b3de248,Visite famille/amis,Rester tranquille,La conversation est légère,5
+365e1d2d-e087-46d8-8cf4-6bf60f2917e7,Loisirs/vacances,Rester tranquille,Ça dépend,3
+582b05f7-5218-40a9-a2e4-f4a40b2fd447,Autre,Autre,Il/elle partage mes centres d’intérêt,1
+365f0d8a-82da-4bb7-9851-003f331571a0,Travail/études,Réseautage pro,Jamais,1
+94c48826-ff1b-4565-b537-5054ab2e322c,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,5
+8f732569-35cf-4c70-978e-b6db87c8a308,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,1
+70207386-fbfa-44a3-808c-67c08003162a,Autre,Discussion sympa,Le trajet est long,5
+6f72a10f-67b8-4285-85d8-80cf5d536048,Travail/études,Autre,Le trajet est long,1
+1322f080-5e85-446f-97d6-fec8b1e01f99,Travail/études,Autre,La conversation est légère,4
+fd53b7f8-b6f4-44ca-9aca-801bd107dc36,Travail/études,Discussion sympa,Le trajet est long,4
+57aa47ed-abd7-4398-942f-c3a78201dae0,Autre,Autre,Le trajet est long,1
+e5a94b81-38df-4b56-ba6c-e2a5f916cec6,Travail/études,Réseautage pro,Jamais,2
+96483201-98cb-48f7-8189-fcad9f78f858,Autre,Autre,Jamais,4
+89744ffa-79ac-40e7-a91b-2698890819a9,Autre,Autre,Il/elle partage mes centres d’intérêt,4
+c9d3fa43-74f2-48c6-8fd0-8c089501886b,Loisirs/vacances,Rester tranquille,Ça dépend,2
+5e0152f6-4e0b-456e-9c4c-b3451afe6b7d,Visite famille/amis,Autre,Il/elle partage mes centres d’intérêt,3
+9ca31e1f-639a-409f-8249-60fa5012c278,Autre,Réseautage pro,Ça dépend,5
+3397f69d-8172-40d5-a1c1-5419696aa12b,Autre,Réseautage pro,Ça dépend,5
+75c17ea0-e4a3-4a66-8924-229d1449bb46,Autre,Échanger sur un sujet commun,Le trajet est long,5
+7870445c-a43f-4958-a0de-ecbb287e0a24,Visite famille/amis,Rester tranquille,Ça dépend,1
+0bb90c31-89b7-490c-91f9-6d2f25134a99,Visite famille/amis,Discussion sympa,Ça dépend,5
+c94624ce-781c-4ed3-a39f-af639f2a6bf0,Loisirs/vacances,Réseautage pro,Ça dépend,3
+4cbdfabb-0285-4bcf-ba91-85e3d20d2f36,Loisirs/vacances,Rester tranquille,Ça dépend,2
+b6574bc0-6232-4389-8217-ea290b4c8920,Loisirs/vacances,Réseautage pro,Le trajet est long,1
+c4e79d0a-ce09-4759-9201-f8538caf021f,Visite famille/amis,Rester tranquille,La conversation est légère,1
+cbd1a441-4149-4b72-83b4-81d32705059a,Autre,Discussion sympa,Le trajet est long,2
+b481ee38-8e68-46df-a570-0ad210bd8014,Loisirs/vacances,Échanger sur un sujet commun,Jamais,1
+3ade56c4-b4c5-415e-9a7b-8de4e1f04688,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,3
+801b874e-655c-4a95-95d3-96c6ab369997,Autre,Discussion sympa,Le trajet est long,2
+9f42a8af-e7ed-40fd-9e0e-bd04373981e9,Travail/études,Échanger sur un sujet commun,Le trajet est long,1
+e1cbc2d0-2de5-46b4-bad4-b854ade68041,Travail/études,Réseautage pro,Ça dépend,2
+e3794c52-67cd-4e5c-b12c-58973378665f,Visite famille/amis,Autre,Jamais,3
+e729b6e7-856e-417a-920e-4765d57216ae,Visite famille/amis,Échanger sur un sujet commun,Jamais,5
+f1b35e59-c12c-4546-85db-18b008909028,Travail/études,Discussion sympa,La conversation est légère,4
+38ecd322-c195-4362-80c3-e8e824cc9b4b,Travail/études,Réseautage pro,La conversation est légère,4
+896378ee-8f92-4074-bcc2-4729b6fe1603,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,3
+926f0b1f-42d7-4d53-8e80-5c1673c2ef3f,Travail/études,Rester tranquille,Le trajet est long,1
+71673dad-f16e-49b4-9d35-b6049b6e4825,Loisirs/vacances,Échanger sur un sujet commun,La conversation est légère,3
+e64a6da1-cf4f-4659-9e24-02f50555c5ae,Visite famille/amis,Autre,Il/elle partage mes centres d’intérêt,1
+d176c3e1-df4d-4823-a9ae-844aa420b680,Travail/études,Rester tranquille,Jamais,4
+3064a595-808c-46b0-9c37-14aacce872f0,Visite famille/amis,Rester tranquille,Jamais,1
+3989e183-8159-4411-b694-661f8e02d3f6,Visite famille/amis,Rester tranquille,La conversation est légère,4
+653e1f5d-311f-410b-9ca4-ad5a34b5772a,Travail/études,Échanger sur un sujet commun,Jamais,5
+0e87519d-be15-4594-8170-e65e5a65b52e,Loisirs/vacances,Échanger sur un sujet commun,Ça dépend,3
+730f1af0-7c58-40ce-bce8-9e9d48b48c2a,Autre,Autre,Il/elle partage mes centres d’intérêt,1
+75b4d3e1-4e8c-406f-b503-ff46a45b13b9,Visite famille/amis,Autre,Le trajet est long,5
+60f22bef-9a4d-4cce-9a3e-90851bebc3f8,Loisirs/vacances,Discussion sympa,Ça dépend,4
+73bb2711-95c3-427d-a793-f95368dc9558,Autre,Autre,Ça dépend,4
+0b442e7b-520e-46e5-b876-2e49347e7de4,Visite famille/amis,Autre,Jamais,2
+754d9dda-97b8-43f8-b120-d6382de7525a,Autre,Réseautage pro,Le trajet est long,2
+206be9dc-1ca1-4c5e-82f8-175f53a751da,Loisirs/vacances,Rester tranquille,Il/elle partage mes centres d’intérêt,5
+46e626dc-8264-4226-8623-4d27f8680a4d,Autre,Réseautage pro,La conversation est légère,3
+b22de332-c6fb-4fcb-99a1-d55bdfff9e69,Visite famille/amis,Discussion sympa,Il/elle partage mes centres d’intérêt,3
+abf6c03f-2834-4f9a-a3e7-8f89f04cdf57,Visite famille/amis,Rester tranquille,Il/elle partage mes centres d’intérêt,3
+7fefa71c-825b-4cdb-8a03-d3ec73b5099e,Loisirs/vacances,Discussion sympa,Le trajet est long,4
+df5f9afd-6126-4ce1-bb34-323f6ac0a77f,Visite famille/amis,Discussion sympa,Le trajet est long,3
+3ed06f22-cdb9-4f46-92f8-5e9714a7e693,Loisirs/vacances,Rester tranquille,Ça dépend,1
+55345b73-705e-4e61-990e-044341b93c9e,Autre,Discussion sympa,La conversation est légère,5
+8226e89c-05bc-4ffe-a226-80dc9b10d2c0,Visite famille/amis,Discussion sympa,Jamais,3
+e56ae19f-4d25-46bc-92d5-eaf855bef091,Loisirs/vacances,Rester tranquille,Jamais,3
+2a9fa782-26c7-4329-9aa7-111dbc4f4146,Loisirs/vacances,Rester tranquille,Il/elle partage mes centres d’intérêt,1
+22ad292e-6d0e-4e82-b662-d94eb2c38ed5,Travail/études,Discussion sympa,Jamais,5
+37c361f3-939c-45ae-bf31-38b7071be72a,Autre,Réseautage pro,La conversation est légère,5
+92a53853-a143-467d-b05b-1cca535a6d7f,Loisirs/vacances,Réseautage pro,Ça dépend,4
+f9744cc0-f813-4f11-85b9-6908eaf8597a,Loisirs/vacances,Échanger sur un sujet commun,La conversation est légère,4
+13226bc6-da4b-4d16-ab74-533058c67c83,Loisirs/vacances,Discussion sympa,Le trajet est long,4
+6f495c06-051b-44d8-8e4a-1ff4b208f4e3,Travail/études,Réseautage pro,La conversation est légère,5
+47edb307-2cf6-4894-a304-6f74d0f3d7ea,Autre,Discussion sympa,Jamais,3
+f498d615-d07a-42b3-8775-b7cd748af250,Autre,Échanger sur un sujet commun,La conversation est légère,2
+c4ce1aa7-1528-4736-b97f-44a8a3fe09da,Autre,Rester tranquille,Ça dépend,1
+b6591d3e-abc1-4975-b24f-1836e00057bd,Autre,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,5
+52420b12-8915-482f-afc2-77eaa0bec283,Loisirs/vacances,Discussion sympa,Il/elle partage mes centres d’intérêt,5
+5afbee2a-44a0-407a-b9ce-82182199ddfb,Travail/études,Discussion sympa,Il/elle partage mes centres d’intérêt,4
+aa57f903-7bd7-4f07-848c-a58975126004,Autre,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,1
+f23d7e48-94a2-4f4c-a462-448d579cd5dc,Autre,Autre,Le trajet est long,4
+1ecc8e45-f877-4fc8-8148-34b9a0f0cc87,Autre,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,3
+eb1ed588-e361-4ea7-a304-a4713a377aa2,Autre,Rester tranquille,Jamais,3
+78f7951f-b8e5-4dfe-8637-6273cac7d682,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,1
+5508e706-8a8f-41a9-919c-26541fc45bed,Autre,Rester tranquille,La conversation est légère,3
+2dec17f1-8a55-45fa-b60d-4f12cbca7bdc,Loisirs/vacances,Réseautage pro,Ça dépend,5
+2ba430cb-1cce-4223-bfbb-2d23651b905d,Loisirs/vacances,Échanger sur un sujet commun,Le trajet est long,5
+d65a97d1-6602-4343-8718-bd6da41c7651,Loisirs/vacances,Autre,Ça dépend,2
+f4bb25d1-b20d-415c-a763-937a3c00b3dc,Autre,Autre,Jamais,5
+c00927d1-3f38-46f2-a538-27c620dc8dbc,Autre,Échanger sur un sujet commun,Jamais,1
+19b2cb82-6e56-4997-b4ab-6a4e9f4df791,Autre,Discussion sympa,Le trajet est long,4
+6fdd9ada-eb1f-4790-bffe-4dd6b9a018f2,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,1
+64e083f6-23fa-4b6e-af89-ec786c6443fb,Autre,Discussion sympa,Ça dépend,2
+dd8d771b-f208-4744-9990-5e561dfa6976,Loisirs/vacances,Échanger sur un sujet commun,Le trajet est long,2
+c7cd447b-b6de-4287-8702-72893c7ee9c7,Visite famille/amis,Autre,Ça dépend,1
+d28999f2-6a2a-49ed-be19-ec8fce6c9ed6,Loisirs/vacances,Réseautage pro,Ça dépend,2
+cf862808-accd-4c7c-bf8e-dba0ad76964b,Autre,Autre,Ça dépend,4
+38a20252-11a2-49e2-87c0-3a35ac311c78,Visite famille/amis,Rester tranquille,Jamais,5
+1a592670-7e5f-4e90-87bb-16976e660dec,Loisirs/vacances,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,4
+5aa9964a-5366-4789-a9ea-e230d61618cc,Loisirs/vacances,Rester tranquille,Il/elle partage mes centres d’intérêt,5
+a37df75d-ddee-4b7c-b3b1-6077f3e81aa9,Loisirs/vacances,Rester tranquille,La conversation est légère,3
+502b9237-012e-4a61-add1-6ca5273be092,Visite famille/amis,Réseautage pro,Jamais,3
+4fd01d30-b763-4e43-b7ed-bd692ad098bd,Autre,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,1
+a668ff1a-2ae4-4c0b-8637-86d8739f838b,Visite famille/amis,Discussion sympa,Le trajet est long,3
+23c63fa3-594e-4aab-9a25-bc1a0fe92d28,Loisirs/vacances,Autre,Jamais,1
+f9ef7d23-fe07-498a-b766-263dce9ce5d1,Visite famille/amis,Rester tranquille,Jamais,2
+3ffac1c6-3b9b-43b5-b0fe-d4cf5b7feb47,Travail/études,Autre,Jamais,3
+64c13c34-ba86-448c-a3bb-acfc28e1072f,Travail/études,Rester tranquille,Jamais,4
+02c9e480-3abb-4a7f-af4b-b1fef1570aa6,Travail/études,Discussion sympa,Ça dépend,1
+4119d073-2a8b-461b-af12-a5449c558c18,Travail/études,Autre,La conversation est légère,2
+72659768-aba1-4a8e-9f70-bf071ce44edf,Visite famille/amis,Rester tranquille,Il/elle partage mes centres d’intérêt,1
+08f41bfb-220d-4b70-9457-0af95781110e,Travail/études,Échanger sur un sujet commun,Jamais,3
+4462e4b2-91c2-4a08-83aa-9c7ca62741d0,Travail/études,Autre,Il/elle partage mes centres d’intérêt,2
+0c2f067b-5862-4ef6-8cba-4ae80851afa5,Autre,Rester tranquille,Le trajet est long,2
+40636dda-5062-4803-9646-bb03e387f5da,Autre,Discussion sympa,Jamais,3
+c29b231d-31a3-4148-9faa-16e12f7460c6,Autre,Rester tranquille,Ça dépend,2
+efec3bd6-cf6d-4708-ba2c-9b8369a1ac02,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,2
+9a06db69-fd3c-4815-9962-940fac086143,Travail/études,Réseautage pro,La conversation est légère,2
+721bd34b-0422-485c-99fd-58e7a06fd308,Travail/études,Rester tranquille,Jamais,4
+7f4c96e0-e88f-40f7-bfac-6b1822526f69,Travail/études,Rester tranquille,Le trajet est long,2
+c91d8e03-f9c0-4035-8bff-7becf68b08fd,Loisirs/vacances,Discussion sympa,Il/elle partage mes centres d’intérêt,1
+bd23463f-f76a-46ce-9216-ec4a81b96023,Autre,Rester tranquille,Il/elle partage mes centres d’intérêt,3
+4c58d9d8-9d13-4a31-ab63-b56a9914268d,Visite famille/amis,Échanger sur un sujet commun,Jamais,2
+c8232670-9e48-4055-a019-45ee7b307e7e,Loisirs/vacances,Autre,Il/elle partage mes centres d’intérêt,4
+7a648168-650d-4497-8b11-cdd428ae1c68,Autre,Autre,Le trajet est long,5
+733982c7-e91e-4404-a9c3-5e758e021e54,Autre,Échanger sur un sujet commun,La conversation est légère,2
+b7a0bf57-802e-47f8-899a-71e81781a875,Loisirs/vacances,Discussion sympa,Ça dépend,4
+c988da2d-6521-4fe2-b856-1ef915ff022a,Loisirs/vacances,Discussion sympa,Ça dépend,3
+8d5c9880-4d64-4ff3-8e3f-1cbb716a2cd7,Loisirs/vacances,Réseautage pro,Le trajet est long,3
+10df6718-4a07-42a3-9a2d-b4078d6e4e28,Loisirs/vacances,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,2
+481e937a-5c38-4b50-966b-c72de56ed04f,Travail/études,Discussion sympa,Il/elle partage mes centres d’intérêt,4
+372c3d52-6772-479e-a6db-9369fca6e654,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,3
+80f9a47f-f7df-4ebc-98bd-8f087c98ca86,Autre,Discussion sympa,Jamais,2
+bdd06868-a366-4d75-a8c2-49ca7d53559c,Autre,Autre,Ça dépend,4
+8b06793e-4f9d-434e-9698-d805eee8fcfc,Visite famille/amis,Discussion sympa,Jamais,1
+57513272-bc55-41e8-954e-b3da9741aa5b,Autre,Discussion sympa,Le trajet est long,4
+fba2bbcd-b8dd-41eb-8a02-926a4fe6ee2c,Loisirs/vacances,Autre,Il/elle partage mes centres d’intérêt,4
+ea169a5d-8072-4921-a9bf-fc8e3798e1d7,Loisirs/vacances,Discussion sympa,Jamais,2
+f376e14e-b29e-48eb-915b-79c7aa2afb9f,Travail/études,Discussion sympa,Jamais,5
+cc9eceb9-c869-42ef-aa4b-2cfa8ca98d38,Travail/études,Discussion sympa,Ça dépend,1
+599e5094-f50d-438d-a101-7cdb46ef25ed,Autre,Discussion sympa,Jamais,3
+10a5f5a2-7772-4ba7-a0ae-ab08586135cc,Loisirs/vacances,Rester tranquille,Le trajet est long,4
+640f6508-7815-4c49-b45a-d560552fd1a0,Loisirs/vacances,Discussion sympa,Le trajet est long,5
+8b295ad5-9edb-45b6-a427-c25fa4a1b16b,Loisirs/vacances,Échanger sur un sujet commun,Le trajet est long,4
+c803af7c-1300-424c-97b2-afa8f73d9fb7,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,4
+d45f7008-9d21-4e8d-963b-90c2f6c0e860,Loisirs/vacances,Autre,Il/elle partage mes centres d’intérêt,2
+ff67ed39-8845-43f8-84a8-a3d8d98ec241,Visite famille/amis,Autre,Ça dépend,5
+9fb9c7cb-600f-4b24-ab6b-5456dd6d4181,Travail/études,Autre,Jamais,3
+c465d31a-d5f9-413e-8ebc-c96f2ca1fbde,Autre,Échanger sur un sujet commun,Ça dépend,3
+58104603-684f-4927-84eb-b087a159772c,Travail/études,Rester tranquille,Le trajet est long,2
+3f94f623-3082-470c-a64e-01962b14d4c1,Autre,Autre,Le trajet est long,4
+5c998399-b684-4e3c-b5aa-ff8e0cd528da,Loisirs/vacances,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,1
+97c5456b-f0de-4b34-b0b9-2dafeb838265,Autre,Réseautage pro,Jamais,4
+14345c49-1bf7-4e01-ac2a-48f7edd4f715,Visite famille/amis,Échanger sur un sujet commun,La conversation est légère,1
+b393f119-49aa-4f9b-bb24-4f4de076b740,Autre,Échanger sur un sujet commun,La conversation est légère,2
+de49a4e6-e6cf-4db7-8d47-c77171568a18,Travail/études,Autre,Il/elle partage mes centres d’intérêt,1
+0c22497f-9213-41db-8676-da93fd41d3ac,Travail/études,Échanger sur un sujet commun,Jamais,1
+d958bf4f-ac10-4fdf-84fa-a6d949eea132,Loisirs/vacances,Échanger sur un sujet commun,Ça dépend,2
+fa49b513-c851-46a6-9e18-c73065c6d5b4,Autre,Rester tranquille,Il/elle partage mes centres d’intérêt,5
+647d766f-2390-4d67-90c5-bff01cad2376,Visite famille/amis,Réseautage pro,Il/elle partage mes centres d’intérêt,1
+ad4452f1-66c2-4407-b386-b7bc5dcfdddd,Autre,Échanger sur un sujet commun,Jamais,4
+5d0d6b1c-a363-4d4d-b242-ff5836aa4922,Visite famille/amis,Autre,Il/elle partage mes centres d’intérêt,2
+4b83e892-e670-4ea3-af8d-1f9111f2fd99,Loisirs/vacances,Échanger sur un sujet commun,Ça dépend,5
+a3d2b14b-e8a6-4ecf-b76a-ecf7f6205e3f,Autre,Réseautage pro,La conversation est légère,1
+ae3e91aa-5e32-4b23-9587-3b0a100f1a29,Autre,Discussion sympa,Jamais,4
+db3172dc-dcab-47a3-afe5-40cc71710fa5,Visite famille/amis,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,2
+90789c52-005a-492e-b797-d85bc75f2acb,Visite famille/amis,Autre,Ça dépend,3
+d6931367-27ae-4af4-9625-6b885814b605,Travail/études,Réseautage pro,La conversation est légère,4
+30aac9af-fadd-4eac-b65a-34d891deac1b,Autre,Autre,Jamais,5
+5488d9a3-c432-45db-8d3e-1723f46e413d,Loisirs/vacances,Échanger sur un sujet commun,Jamais,3
+a3f103c1-7216-48dd-b879-51ec6977a4e2,Visite famille/amis,Échanger sur un sujet commun,La conversation est légère,2
+705c67df-238e-4d2a-9146-c2bc5dc68dd1,Travail/études,Rester tranquille,Le trajet est long,2
+f1a72a2f-f684-4d56-98b5-63da5f532cdc,Loisirs/vacances,Autre,Le trajet est long,1
+3c5f5b37-afe1-4529-be96-baee384e262d,Visite famille/amis,Autre,Ça dépend,5
+781f3a07-0e74-44ba-bf66-7b78d0c94359,Visite famille/amis,Rester tranquille,La conversation est légère,5
+3a05a0e3-2064-4cfc-a6e4-7aab95e1d511,Visite famille/amis,Discussion sympa,Le trajet est long,5
+ef5f465d-17da-4189-b93f-7e24d472c2c9,Visite famille/amis,Échanger sur un sujet commun,Le trajet est long,3
+edb067f3-af12-4a47-a4cd-f59e2ed292f3,Visite famille/amis,Discussion sympa,Ça dépend,3
+1a343b3d-2115-4aa7-85c0-d2fa3efd4637,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,2
+9763e4f2-982a-4c79-b21d-2d53e0f78456,Travail/études,Autre,La conversation est légère,3
+a7e6f8d3-c7b0-46ed-86da-14f5bcd0d99c,Travail/études,Discussion sympa,Le trajet est long,5
+d30ae91c-c5ed-4054-8d6f-c709e3a34249,Autre,Autre,Le trajet est long,2
+5bad6f21-14ba-4cb9-b86c-07eb64aa8021,Visite famille/amis,Rester tranquille,Jamais,5
+c86d6fca-5c6d-4b8c-9471-e12cd1773f27,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,3
+1f3935f4-77f0-40e8-a349-36900421d457,Loisirs/vacances,Échanger sur un sujet commun,Jamais,4
+f1c56991-0ec7-4da3-9b98-d10d87e274c1,Autre,Échanger sur un sujet commun,Le trajet est long,2
+9596d0f8-a49f-43f5-9656-0415fc882ac1,Loisirs/vacances,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,1
+e7ba4d02-b466-4c4b-9a17-266516f59d99,Visite famille/amis,Rester tranquille,Jamais,5
+d57bd9f2-1117-40d4-a233-0e78c647533f,Loisirs/vacances,Réseautage pro,Le trajet est long,1
+58539565-0a8b-4880-a659-afdb1c332915,Visite famille/amis,Échanger sur un sujet commun,Ça dépend,5
+2146d3c1-ca29-4a8f-927d-0b81507c646c,Loisirs/vacances,Discussion sympa,Ça dépend,3
+da3d12d1-92b8-47a5-8ba4-186d306ab4f7,Loisirs/vacances,Autre,La conversation est légère,4
+fcaaa22c-d09f-418a-8f79-d142c1f54372,Autre,Autre,Ça dépend,1
+f8164f3f-d839-4b70-8fe5-355216c529b3,Visite famille/amis,Rester tranquille,Le trajet est long,4
+c6b57fb8-0d5d-41a7-b9e4-ceb1e4c0182c,Travail/études,Autre,Ça dépend,1
+4015c427-0bc1-4c63-875a-832b53fe3378,Autre,Rester tranquille,Il/elle partage mes centres d’intérêt,3
+fc016ce0-9148-4ac8-b245-f54ca0adeacc,Loisirs/vacances,Réseautage pro,Ça dépend,3
+218aa9b4-66c2-4f2b-8a0b-e8e9808d4789,Autre,Rester tranquille,Il/elle partage mes centres d’intérêt,2
+562961c6-ee8b-44c4-b711-73952b2d9aca,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,3
+0eb90c8b-4b77-4d26-841b-cb30fec12e9e,Visite famille/amis,Rester tranquille,Il/elle partage mes centres d’intérêt,5
+60f33a2b-3a92-4c6f-bb05-c08512d9063e,Autre,Échanger sur un sujet commun,Jamais,4
+49356159-4442-4a34-b0bc-431de77c38d0,Autre,Réseautage pro,Ça dépend,1
+9e808277-4bd8-4391-800a-bb9f58775092,Loisirs/vacances,Échanger sur un sujet commun,Jamais,4
+d98c9b96-b6b6-46d4-9457-497a7cf11810,Travail/études,Échanger sur un sujet commun,La conversation est légère,3
+48ae5392-69d0-4fe3-83b6-571e0b72f2f7,Loisirs/vacances,Réseautage pro,La conversation est légère,2
+5d844677-fe26-4899-a8fe-360101d02b96,Autre,Autre,Il/elle partage mes centres d’intérêt,5
+74ed3820-bcdb-4a8a-a504-e29046fe11f7,Autre,Réseautage pro,Ça dépend,1
+60bc1022-9ca3-4142-a9af-1160679498c9,Visite famille/amis,Rester tranquille,Ça dépend,3
+e7d6f46f-e210-49c6-b596-9d2b4003e525,Loisirs/vacances,Autre,La conversation est légère,1
+d07c13b5-2c04-4a0d-ae9e-70d4838d2719,Visite famille/amis,Réseautage pro,Le trajet est long,3
+b72bce02-3647-40ae-bb9f-bd67d70d93f7,Visite famille/amis,Échanger sur un sujet commun,Le trajet est long,5
+70836d3e-d401-408a-a4bf-ca97d19b807b,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,4
+ec556c2a-cb75-44d6-b899-b9c83b7f5afd,Visite famille/amis,Échanger sur un sujet commun,Le trajet est long,5
+4f15ab41-0dac-4a7e-9366-de751a89b33e,Loisirs/vacances,Rester tranquille,Jamais,1
+79de63a7-e1bd-47ba-9a71-edb257b534de,Autre,Rester tranquille,La conversation est légère,5
+8f7b0240-2c46-43a4-8dc9-75f9d47527c4,Loisirs/vacances,Autre,Ça dépend,4
+f85f3bde-3c74-4e44-a613-08a547382c72,Visite famille/amis,Discussion sympa,Il/elle partage mes centres d’intérêt,5
+4cef1dcc-44a5-47a4-bab0-f5780a57a3ab,Loisirs/vacances,Discussion sympa,Ça dépend,3
+1f7046fb-2a3f-449e-a4c4-4630c064c7ea,Loisirs/vacances,Autre,Ça dépend,3
+a028b078-9455-4283-a5dd-f01dcbe51897,Autre,Rester tranquille,Le trajet est long,1
+a347754d-604c-494f-8cc3-cb96c3f68876,Loisirs/vacances,Discussion sympa,Jamais,2
+7df98ea8-c931-41f7-92b1-1d7bb8af8512,Visite famille/amis,Réseautage pro,Il/elle partage mes centres d’intérêt,1
+7a99f293-daaf-432d-ba1e-55d6a1d71ed9,Visite famille/amis,Échanger sur un sujet commun,La conversation est légère,1
+5af1ce78-4bcd-4ec3-8759-a249b61355e3,Visite famille/amis,Discussion sympa,La conversation est légère,3
+25ee0f29-581e-4095-8861-8fe1b0a70285,Autre,Discussion sympa,Ça dépend,3
+61140eb1-265d-495e-9d0b-ec48600ab5ba,Visite famille/amis,Rester tranquille,Le trajet est long,1
+d55d3d96-f784-496e-8a5d-4771d30bb64d,Loisirs/vacances,Discussion sympa,Ça dépend,2
+f11348c5-45ec-415e-952c-058fd4410703,Autre,Rester tranquille,Ça dépend,4
+a50889d6-bbbc-49ee-b47f-d10b1fb7e3bc,Loisirs/vacances,Discussion sympa,Il/elle partage mes centres d’intérêt,5
+f6e5203f-16b3-435f-b8ae-9c8f20982334,Travail/études,Réseautage pro,Il/elle partage mes centres d’intérêt,3
+919918c2-ab32-4605-b55d-b7751d3403a2,Loisirs/vacances,Rester tranquille,Ça dépend,2
+9eb07647-7c48-4000-ab1d-25467f21846a,Loisirs/vacances,Autre,Ça dépend,4
+74b9a848-0a7d-4f76-81f6-559945f6dd4b,Travail/études,Discussion sympa,Le trajet est long,5
+91898895-3455-4a7f-95c1-a929b202df98,Loisirs/vacances,Discussion sympa,Il/elle partage mes centres d’intérêt,4
+9495dbd7-a762-4e4b-b981-022cad8f7870,Travail/études,Échanger sur un sujet commun,Jamais,2
+64368ada-e600-4fcc-a31d-17413bf0c3e2,Loisirs/vacances,Autre,Il/elle partage mes centres d’intérêt,4
+e1c4457e-f2a7-4ba4-b6c8-76a5808d23e2,Autre,Rester tranquille,La conversation est légère,3
+47e4d603-352e-4f9c-90d2-d34131443b50,Autre,Réseautage pro,Ça dépend,2
+a1ab4159-e85a-4365-b496-f7b823de4284,Visite famille/amis,Autre,Il/elle partage mes centres d’intérêt,3
+89e6ae6d-d7a4-42f2-a6e9-8f5cc282a6cb,Loisirs/vacances,Autre,La conversation est légère,3
+a0ca7c8a-5309-4bbc-833b-7ce83b440b8b,Visite famille/amis,Autre,Jamais,5
+5cffeb84-6698-4694-8486-b2346755cb6a,Visite famille/amis,Discussion sympa,Jamais,1
+82ab2eab-40f8-46ce-92fe-4fa8589d8231,Travail/études,Échanger sur un sujet commun,Jamais,5
+3da2c275-513c-4e20-aa9c-2ab22e3a0b9d,Travail/études,Échanger sur un sujet commun,Le trajet est long,3
+e88bae53-7c58-4837-a664-1d651b98dab1,Travail/études,Réseautage pro,Ça dépend,5
+00c65488-eee3-41df-8d6e-b5aebcb0e7a9,Loisirs/vacances,Rester tranquille,Le trajet est long,5
+74b91113-20a8-4734-a924-778815a4aaf6,Visite famille/amis,Réseautage pro,Jamais,3
+079dab9d-accb-4ec2-b0b7-e79c59c4c09f,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,4
+ffa86033-a9b9-450a-9ca4-105f0b63aae6,Travail/études,Échanger sur un sujet commun,Jamais,2
+d41d0731-0ae2-414e-9776-1eb5419ca00e,Autre,Échanger sur un sujet commun,Jamais,5
+ffc7bc51-1a69-4a3c-9701-e94a585a04eb,Autre,Échanger sur un sujet commun,Le trajet est long,4
+c1631771-e9c0-4b89-b4fc-d56a9deee9e1,Loisirs/vacances,Réseautage pro,Jamais,3
+f9deca38-d94c-4a02-89f4-837769eb60fb,Visite famille/amis,Discussion sympa,Ça dépend,4
+d77ae21f-e7b9-4901-9b23-288c2dabc458,Visite famille/amis,Échanger sur un sujet commun,Jamais,3
+eb1cf1a9-dc6a-4254-bb30-469707102cde,Travail/études,Autre,Jamais,2
+5f5507ea-9302-4bab-97b7-40f2e75c0174,Travail/études,Rester tranquille,Il/elle partage mes centres d’intérêt,5
+10be244e-06f8-4a00-a97f-447c85b41a59,Loisirs/vacances,Réseautage pro,Ça dépend,3
+0e86fc09-364f-4f70-bb04-aae24f784718,Visite famille/amis,Échanger sur un sujet commun,Ça dépend,4
+46139524-78be-474f-82d3-04b0eb6f8edb,Autre,Autre,Jamais,4
+96aa509d-65aa-48a1-bb39-6a906a40009d,Autre,Discussion sympa,Le trajet est long,3
+ceca7053-42aa-4312-ac68-ff13cd93849a,Autre,Autre,Ça dépend,1
+7879d559-efd3-4c19-9842-739d5c85f624,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,5
+95280516-12c2-4aaf-9bba-8d8baa2ec2a4,Loisirs/vacances,Autre,Il/elle partage mes centres d’intérêt,3
+a3083c53-cb43-464c-99fc-433396ec44a4,Visite famille/amis,Discussion sympa,La conversation est légère,1
+462d0a0a-3960-4ba4-a826-67c04ea33460,Loisirs/vacances,Rester tranquille,Il/elle partage mes centres d’intérêt,4
+5a8755a7-a093-43fd-97cf-e5b48ca853be,Visite famille/amis,Discussion sympa,Ça dépend,3
+05ece61c-648b-4199-8075-d1b6e89b739b,Travail/études,Discussion sympa,Ça dépend,5
+d0a3ec54-385f-4ae0-8d4f-232b2e6f6cd6,Visite famille/amis,Autre,Jamais,1
+e93748a5-39dc-4ff2-8c3e-bce0c5fe3984,Visite famille/amis,Rester tranquille,Ça dépend,1
+85a7c153-5a43-4dca-a538-71366b7d239e,Visite famille/amis,Échanger sur un sujet commun,Jamais,2
+a2a32f15-2afa-4ad2-b86c-6ed1291e8f27,Visite famille/amis,Autre,Ça dépend,2
+fc4c0667-048a-4223-8cf8-5e7422b38e0b,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,3
+0c43f5a6-0f9c-4f84-a87f-840c69c30100,Autre,Rester tranquille,Le trajet est long,4
+20f06a4d-27bf-43a0-adcd-773381dd9467,Visite famille/amis,Réseautage pro,Ça dépend,5
+7acd29cf-4919-42b0-abe2-fbab906f1190,Travail/études,Discussion sympa,Ça dépend,3
+a9442bd2-cb88-4ae9-ac96-dcb4a1fdd787,Loisirs/vacances,Rester tranquille,Ça dépend,4
+79cc16ca-4ce7-4c04-9e42-e742e9e695d0,Autre,Réseautage pro,Ça dépend,4
+1f3a2936-8fef-44ea-9a7b-2207d24fd6e7,Loisirs/vacances,Autre,Le trajet est long,4
+88b3dc4f-7995-49e6-b176-77f1242a383d,Visite famille/amis,Réseautage pro,Ça dépend,1
+5c11db04-047d-40d4-bd19-3cdf60f407ec,Autre,Autre,Le trajet est long,4
+4be8432f-abe4-4d4b-92c9-a7e349858893,Visite famille/amis,Autre,Il/elle partage mes centres d’intérêt,3
+9a41abb5-dee9-48c4-881a-c9e86ad4ccf2,Loisirs/vacances,Réseautage pro,Le trajet est long,2
+e5efb60c-40d4-4e5c-b9a4-4e6bda8620fb,Autre,Réseautage pro,La conversation est légère,4
+81be2a11-5f23-4f42-93ce-9f11f00cbb20,Autre,Réseautage pro,Le trajet est long,2
+9abf0201-21a4-48a3-ad37-1f5bc970b2fb,Visite famille/amis,Autre,Jamais,4
+a37cb9ad-5840-4803-85b4-fae8cfc1c3e9,Visite famille/amis,Rester tranquille,Le trajet est long,3
+f1180141-084d-4166-a0d4-f77cf72119df,Loisirs/vacances,Discussion sympa,La conversation est légère,3
+204eeee1-9eb3-4ed9-b271-732189dcd348,Travail/études,Échanger sur un sujet commun,Le trajet est long,2
+6a496b6a-cee4-45b7-965f-7955b5dab9c9,Travail/études,Réseautage pro,Le trajet est long,1
+f848555e-ea70-4486-97b6-a19e835d132f,Loisirs/vacances,Échanger sur un sujet commun,Jamais,5
+ceea992c-6b2d-489c-aecc-850d32262aad,Travail/études,Échanger sur un sujet commun,Ça dépend,3
+3d39086a-8383-484f-9d79-43fa81324b4e,Autre,Rester tranquille,La conversation est légère,1
+80ddc2c9-e718-45ee-9310-faea1bb74631,Loisirs/vacances,Autre,Jamais,5
+ffa76d2f-c684-4099-8874-e35928a7f66e,Loisirs/vacances,Discussion sympa,La conversation est légère,1
+a0c209b4-e248-4926-9c16-cde4dd1fd2e0,Autre,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,5
+6e8dfd46-dc5a-4f25-ac0a-9f0aa1ce8db9,Loisirs/vacances,Autre,Il/elle partage mes centres d’intérêt,2
+4a4f9ba0-5dab-4e9e-a95e-601ef909a652,Visite famille/amis,Réseautage pro,Jamais,2
+fbe1ce4b-841c-42c9-8466-f9c36e504c9f,Visite famille/amis,Échanger sur un sujet commun,Jamais,1
+a002e2b9-cb54-4383-ac6a-1c9129fb9591,Visite famille/amis,Discussion sympa,La conversation est légère,1
+06eeef5d-3672-40c5-8c17-f27855687679,Travail/études,Autre,La conversation est légère,2
+e4c39cff-feb2-46d2-ae90-65a85bbf53e9,Loisirs/vacances,Réseautage pro,La conversation est légère,4
+ce7110b8-b10d-4f99-8a41-ee5a48f8a940,Loisirs/vacances,Échanger sur un sujet commun,Le trajet est long,2
+84df47a7-e13a-4c3c-ba11-fc6e65525a5c,Loisirs/vacances,Échanger sur un sujet commun,Ça dépend,2
+fc33295d-c607-434b-8229-ea059b060f72,Autre,Autre,La conversation est légère,5
+d5ea74cc-347c-4fb6-b385-26e0a8ac5422,Travail/études,Autre,Il/elle partage mes centres d’intérêt,4
+961365ef-c85f-4b06-9df7-bb368a44f8e5,Travail/études,Réseautage pro,Jamais,2
+068b6d40-2346-410a-a74b-8efd586e76fc,Loisirs/vacances,Discussion sympa,Ça dépend,3
+aaa7c167-f60f-402a-ae00-b4445560bd12,Loisirs/vacances,Rester tranquille,Le trajet est long,2
+e64cad35-408f-4da9-84ce-57c8410ad35b,Autre,Autre,Ça dépend,1
+8f131e58-bc61-4f99-aaef-e3b7da2a7c96,Loisirs/vacances,Réseautage pro,La conversation est légère,2
+97081324-f85b-4914-b3a6-c9a6ddccb0eb,Travail/études,Rester tranquille,Ça dépend,3
+f124b51f-1e7a-4426-9af6-ce052223863b,Visite famille/amis,Discussion sympa,La conversation est légère,3
+34c4308c-4158-4d15-998a-ade0adb29020,Visite famille/amis,Rester tranquille,La conversation est légère,5
+67e2f5ae-d610-47dd-ab66-5bc95b0fa319,Autre,Échanger sur un sujet commun,La conversation est légère,1
+02eed9a1-7d3f-4499-99d3-88f82c7ebefb,Visite famille/amis,Discussion sympa,Jamais,5
+36b79f31-1406-4e42-965c-6bb92118588d,Travail/études,Autre,Jamais,2
+61e1f66c-6e08-4e3b-8bf8-fa53ff972d00,Autre,Autre,Il/elle partage mes centres d’intérêt,2
+9f0a2893-178f-44d2-984b-61e422a3ab24,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,4
+9b9a5f79-0504-472f-8912-80590f82c62c,Travail/études,Échanger sur un sujet commun,Ça dépend,3
+86149a90-55dc-4cbf-8fe5-bf68f6289d4f,Loisirs/vacances,Discussion sympa,Il/elle partage mes centres d’intérêt,3
+465488d3-92d5-4d8d-8d18-f76d18254785,Loisirs/vacances,Échanger sur un sujet commun,Jamais,2
+ca1c7f7a-0988-46cf-9328-9068dac31c35,Loisirs/vacances,Autre,Le trajet est long,3
+2a3770f2-4613-499d-a57f-fd30efcd19c9,Loisirs/vacances,Discussion sympa,La conversation est légère,2
+a5c4599c-2c85-4a8b-b9c1-028d63a2dac8,Visite famille/amis,Rester tranquille,Jamais,5
+b678aa21-98fd-471f-a38a-c9e7658efcb4,Travail/études,Réseautage pro,Il/elle partage mes centres d’intérêt,1
+c7d89a1f-5fbe-4ba6-8c8c-a724f3120fb4,Travail/études,Discussion sympa,Il/elle partage mes centres d’intérêt,5
+e1e66e15-f7f7-4fef-8628-506bc8ba5afe,Loisirs/vacances,Autre,Ça dépend,1
+5d16a728-8d2a-44a8-9438-d3463c938b90,Autre,Échanger sur un sujet commun,Ça dépend,2
+6b7aaf10-df00-49d4-a315-7e93fdfcfcb7,Loisirs/vacances,Réseautage pro,Le trajet est long,3
+196f740e-063f-4aee-8dea-8f1d3bcf3979,Autre,Rester tranquille,Il/elle partage mes centres d’intérêt,4
+ce062ff0-0344-4a77-8897-8fecad17ab6e,Travail/études,Rester tranquille,Il/elle partage mes centres d’intérêt,3
+ba3a5782-c4f2-491f-b254-c91b42621b57,Autre,Réseautage pro,Ça dépend,3
+22c4b4c1-0979-4aa4-b494-7789cf63c46e,Travail/études,Rester tranquille,Jamais,5
+0385ff39-94bd-49dd-b83d-4f5a144cb53f,Autre,Autre,Le trajet est long,5
+6863739d-3f53-40a7-9e2e-acbe63c75fb5,Visite famille/amis,Rester tranquille,Jamais,4
+70bec89b-9254-4feb-bc34-3d9a88ccc2f0,Autre,Autre,Jamais,5
+ef201fab-f04e-49c7-9ef9-a9f144fe1ef3,Visite famille/amis,Réseautage pro,Le trajet est long,1
+381276ac-1d08-40c0-ba5c-571b5d55326a,Autre,Autre,Ça dépend,4
+ae49a279-ef3d-45d1-b1fb-ec2ce1cc8825,Visite famille/amis,Rester tranquille,Ça dépend,3
+c2b5ccb6-8e6a-4030-8c04-b283f3fcbff0,Travail/études,Autre,Le trajet est long,3
+47e9d150-5e7b-4dfd-9116-2e678879e45c,Visite famille/amis,Autre,Ça dépend,4
+bc9d83e1-119d-4984-9c01-b077f90772f9,Loisirs/vacances,Rester tranquille,La conversation est légère,3
+b10485a9-e711-40ff-bc66-a390b4b2952d,Loisirs/vacances,Discussion sympa,La conversation est légère,3
+88a80eea-705e-4ad4-b505-05c5ffd29d0c,Visite famille/amis,Autre,La conversation est légère,1
+4b00ef9b-a47b-481b-8813-f8ce730ef6ab,Travail/études,Autre,Ça dépend,5
+8ac4a2e8-0b2c-480e-af77-e8a26f613667,Loisirs/vacances,Rester tranquille,Le trajet est long,4
+6edb5a47-9d7f-4293-b3fd-427532f9a9c7,Visite famille/amis,Discussion sympa,Ça dépend,1
+4b74222b-90c3-4f34-9810-8069782f43da,Visite famille/amis,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,2
+c70e55ce-bdc3-406c-adb5-f9b7380d21ff,Visite famille/amis,Autre,Il/elle partage mes centres d’intérêt,3
+efb68194-61e0-4fd1-b892-e7d00581bfb9,Loisirs/vacances,Autre,Jamais,3
+cc91caaa-2f16-414a-b530-771c99d6e7d2,Loisirs/vacances,Discussion sympa,Il/elle partage mes centres d’intérêt,5
+a149fe15-7462-4276-b2b8-c51b14055f0c,Travail/études,Discussion sympa,Ça dépend,4
+256763c8-2eec-49fd-a589-9fc7665302dd,Visite famille/amis,Rester tranquille,Jamais,2
+110290f1-3250-4c34-9dff-fa78767f77cd,Autre,Rester tranquille,Jamais,4
+eb1c7ec5-1ff9-44d8-90e4-0b04c020e378,Travail/études,Discussion sympa,Le trajet est long,5
+47a73eeb-63d2-44a1-8509-a7947619214a,Visite famille/amis,Réseautage pro,La conversation est légère,1
+6bc97cf4-8a0b-45f3-ab58-ab1999bbad68,Visite famille/amis,Autre,Le trajet est long,5
+7fb16950-388b-4d0c-a12f-1f6e9fb89a28,Loisirs/vacances,Discussion sympa,Jamais,3
+fc8849d8-7ace-4580-96f7-d2402399f1f8,Loisirs/vacances,Discussion sympa,Le trajet est long,1
+11060909-6561-48cc-af1c-fcd3543cd073,Visite famille/amis,Discussion sympa,Le trajet est long,1
+3ce9ed16-1688-4cd0-a2dd-b5c304bde662,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,5
+e05725f3-8d70-4d14-9612-0bc5ef2804b9,Autre,Discussion sympa,Jamais,3
+5aa703df-9ae1-405b-a773-b29cbb54c2cc,Autre,Échanger sur un sujet commun,Ça dépend,2
+e8e3b941-cd63-4a7e-b3b4-35309fe578d5,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,1
+4701b904-2565-4071-8e7b-933c6fe70b5e,Loisirs/vacances,Échanger sur un sujet commun,La conversation est légère,5
+e0996aa8-72e4-4c76-964b-97a55187d9c2,Visite famille/amis,Échanger sur un sujet commun,Le trajet est long,5
+e0f8fcb1-9ee1-480b-ab5b-7738fdd0e9d1,Autre,Réseautage pro,Ça dépend,3
+d99fc49c-ea37-45e0-af03-399485f9141b,Autre,Autre,Jamais,3
+9477160b-b3ec-49ea-bb47-70767253bc77,Travail/études,Rester tranquille,Jamais,2
+b15fe099-7131-4926-b60b-04d9817ba582,Autre,Réseautage pro,Jamais,1
+1ea80325-15a6-4338-9f61-2b3227c011c6,Visite famille/amis,Discussion sympa,Jamais,4
+f149f1f6-6cae-438d-a7f7-243a3b0d4853,Visite famille/amis,Réseautage pro,Jamais,1
+dc457a31-560a-4fdc-b63a-6478850cd88b,Autre,Réseautage pro,Le trajet est long,4
+67ad672b-a015-4b55-afd4-8ab94768efb4,Autre,Réseautage pro,Le trajet est long,2
+8bba11a5-4cc9-4a56-b8e8-4eaa705d1bb2,Autre,Échanger sur un sujet commun,Le trajet est long,3
+08b42855-45b0-4627-927d-6c8a3d86b8a2,Travail/études,Autre,Il/elle partage mes centres d’intérêt,5
+b3cbcc9c-6f91-411f-9e50-8b9bafa60796,Visite famille/amis,Échanger sur un sujet commun,La conversation est légère,1
+f939e984-63de-4d67-85c1-4e4fa95a3ef6,Loisirs/vacances,Rester tranquille,Ça dépend,4
+8c0ec87c-6636-4945-b3c7-50010e32a28a,Travail/études,Échanger sur un sujet commun,Le trajet est long,4
+f7ba9c54-73fa-4cfd-b542-7812ec84e1fd,Visite famille/amis,Échanger sur un sujet commun,Le trajet est long,1
+e0496afe-9eae-4b92-b96c-97205f141740,Loisirs/vacances,Autre,Ça dépend,3
+4bf9f641-090a-4fc3-a9e2-00c13af88ab0,Visite famille/amis,Autre,Le trajet est long,1
+b01959fa-b106-4a45-ab14-cb8e8c6e10f9,Loisirs/vacances,Discussion sympa,Le trajet est long,5
+6381281d-b9d4-49a9-83b1-71dcb6393d35,Visite famille/amis,Autre,Jamais,5
+8a1eac8a-80f5-4e66-ab64-0e317470f803,Autre,Discussion sympa,La conversation est légère,5
+365cc1a9-46a9-46d1-89a9-984af5d24155,Visite famille/amis,Échanger sur un sujet commun,Le trajet est long,4
+a279ae27-1544-4003-bb45-207cbba88ebd,Travail/études,Réseautage pro,Jamais,5
+da0eaadd-8bdc-47d6-b50a-9e9c8b175723,Visite famille/amis,Discussion sympa,Ça dépend,5
+6494db1b-a007-4a4d-b738-b85436bfea38,Visite famille/amis,Autre,Il/elle partage mes centres d’intérêt,5
+93aa6af4-1341-423b-866b-a8b413986b08,Autre,Discussion sympa,Ça dépend,5
+140887b6-d636-4f36-b484-0cd5e8043bcb,Visite famille/amis,Réseautage pro,Le trajet est long,1
+19f7c95d-2783-4929-95df-4690163472ab,Loisirs/vacances,Discussion sympa,Ça dépend,3
+296f07b6-e08c-4dc4-b58d-eab423640a8e,Loisirs/vacances,Réseautage pro,Ça dépend,5
+e3543b95-fd74-45de-ade9-f358812a8c7b,Travail/études,Échanger sur un sujet commun,Ça dépend,5
+903ff75c-15b7-46b9-8d29-b85f7d802f02,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,4
+dbc319ec-3ccb-4ac6-98f5-3a0fc916af0c,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,4
+6193f79b-2f29-4a88-8ccf-12bd33092906,Visite famille/amis,Échanger sur un sujet commun,La conversation est légère,4
+38ab906c-1eb1-496d-b246-f1b2707e7da7,Travail/études,Autre,Il/elle partage mes centres d’intérêt,4
+570cd7e9-d265-45eb-8558-c062b4856be5,Travail/études,Échanger sur un sujet commun,Le trajet est long,2
+b9296561-f0d7-480a-977b-79fe20c2f910,Visite famille/amis,Autre,Ça dépend,4
+a7d7d787-6be3-46c4-b723-82d41745dbeb,Loisirs/vacances,Autre,Le trajet est long,2
+7f59749a-2553-4135-849d-718755f570be,Autre,Réseautage pro,Le trajet est long,5
+68d19ae0-f5ff-4d9a-89ae-d13cd7089e2b,Travail/études,Rester tranquille,Jamais,1
+7c263b3e-f617-4996-b03f-99dbe0bd96b6,Visite famille/amis,Discussion sympa,Le trajet est long,5
+7d74d0f9-8dfa-49fc-8cf9-4a80c22d1da8,Autre,Discussion sympa,Le trajet est long,5
+2a337aee-9ba0-4cfe-a883-ff425e02d297,Autre,Rester tranquille,Ça dépend,5
+57c2f9c1-ad49-4cc3-a5ae-feda16c27f51,Travail/études,Autre,La conversation est légère,5
+b91c0204-b756-42e6-b007-1b6cc494a605,Visite famille/amis,Échanger sur un sujet commun,Ça dépend,5
+5e78f029-781d-4578-bd2b-9a96154138ad,Travail/études,Réseautage pro,Le trajet est long,2
+5d0d6b68-3bd8-4b4a-add8-41956d97ecae,Travail/études,Réseautage pro,La conversation est légère,1
+5a8aee50-d70a-4b15-995d-e010c3e9e825,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,1
+571b7842-9da7-4e30-b924-70e7525e2875,Loisirs/vacances,Rester tranquille,Le trajet est long,2
+af9d3b45-411b-4cfe-b897-a4829bd4626b,Travail/études,Échanger sur un sujet commun,La conversation est légère,3
+474c4366-1cd8-4e12-9c7c-26cc738f945f,Visite famille/amis,Échanger sur un sujet commun,Ça dépend,4
+a7bc8a54-7e01-410e-85a1-04fe867393f0,Autre,Rester tranquille,Il/elle partage mes centres d’intérêt,4
+ba9a8d9d-129a-4552-ac57-7122b15f68f7,Autre,Autre,Il/elle partage mes centres d’intérêt,2
+c76b1d1c-9ebb-4a70-b749-0c390fc40097,Travail/études,Rester tranquille,Il/elle partage mes centres d’intérêt,3
+24a323fe-c073-4d0c-84da-2149c071ca48,Loisirs/vacances,Réseautage pro,La conversation est légère,3
+1e006830-b6f5-4edf-89db-bc1f21183004,Visite famille/amis,Échanger sur un sujet commun,Le trajet est long,2
+47d912cf-4055-48d7-8b37-9de9466876df,Loisirs/vacances,Réseautage pro,La conversation est légère,5
+c46650ba-a55a-4d4a-a2e9-c054f81ba7dc,Travail/études,Échanger sur un sujet commun,La conversation est légère,5
+e95420eb-13ec-4e24-935c-e3eadd405c7d,Loisirs/vacances,Rester tranquille,Le trajet est long,5
+be9bafe3-a6c7-4dc3-b4e8-db5138a89f29,Autre,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,2
+bc1fb991-08ef-4837-acf8-2d315f586fce,Travail/études,Réseautage pro,Il/elle partage mes centres d’intérêt,3
+bb40dc28-8a7a-409a-a07a-386fba9908c9,Loisirs/vacances,Rester tranquille,La conversation est légère,3
+9aab1395-69a8-46ac-8139-1cb31579f62f,Loisirs/vacances,Autre,Le trajet est long,5
+9b8e31a0-32ba-4279-a3cc-5bdc37723cb8,Autre,Réseautage pro,La conversation est légère,5
+8076a07e-6919-4525-962e-25cf7711d113,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,1
+62f75308-df2d-4d65-9c79-fb79289a9911,Autre,Réseautage pro,Le trajet est long,4
+23b64afb-f311-49c6-ab4a-2335e26e727d,Loisirs/vacances,Réseautage pro,La conversation est légère,4
+897d3c86-3ce6-45e3-91f0-927274ec4558,Visite famille/amis,Rester tranquille,Jamais,3
+d466ee89-cc76-410a-8a63-d23e501d1332,Loisirs/vacances,Rester tranquille,Le trajet est long,2
+67edd3ee-308c-4049-8f24-a7caae9b60fe,Visite famille/amis,Autre,La conversation est légère,5
+88224e50-4024-472b-8b48-62b584582f68,Travail/études,Réseautage pro,La conversation est légère,4
+ca24a8b6-4107-497b-bee8-cbabe484e123,Loisirs/vacances,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,5
+25ce3331-eac7-49d6-8aa9-5d0d5cc2cb28,Travail/études,Rester tranquille,Il/elle partage mes centres d’intérêt,5
+aaf08831-0570-488e-b4af-59e086306680,Loisirs/vacances,Réseautage pro,La conversation est légère,1
+9780c55a-f131-45d2-a63d-4adadf4568c8,Loisirs/vacances,Autre,Il/elle partage mes centres d’intérêt,2
+2a11c21e-644d-4feb-91c3-98423c4a7ca6,Travail/études,Rester tranquille,La conversation est légère,2
+52c2cd23-21ea-45b8-9669-d8c6c818b812,Loisirs/vacances,Échanger sur un sujet commun,Le trajet est long,5
+3347efe9-b988-4899-a3ea-2f6dfcd9407c,Autre,Discussion sympa,Jamais,4
+bfd842f2-008b-4323-8df0-009f53e3e7b7,Autre,Rester tranquille,La conversation est légère,2
+ec0bcc86-db2a-4b1a-8578-5c059a8ddbe5,Travail/études,Réseautage pro,Ça dépend,2
+ec6fdc26-790a-404b-bca5-366861e0ac8d,Visite famille/amis,Discussion sympa,La conversation est légère,3
+bfef0971-4ca3-450e-8e92-a052cbae4a20,Autre,Rester tranquille,Jamais,3
+b861266f-0732-47ff-a695-6c79b647896a,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,1
+8779e011-208f-4105-bec4-e55655e29dee,Travail/études,Réseautage pro,Ça dépend,2
+296a0fff-2f5e-402f-a60a-7dea41e699f8,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,3
+1614bbcd-e77d-4dc7-be2f-fc04b574533e,Travail/études,Réseautage pro,Ça dépend,5
+3dc37d87-2c64-4ced-91c3-6e0dcebe425a,Travail/études,Échanger sur un sujet commun,Le trajet est long,1
+3efe7e14-c293-480b-ad6b-107ed4ef49d3,Visite famille/amis,Discussion sympa,Le trajet est long,1
+d3743d2e-27d9-4774-a60b-a14bac8b3c9c,Loisirs/vacances,Rester tranquille,Ça dépend,5
+850933d8-2128-457b-880a-8708130bbfa5,Travail/études,Discussion sympa,Jamais,1
+75628a67-35ee-467b-9c92-72725b130f5a,Autre,Autre,Jamais,2
+d916b027-3ecb-4267-9764-1a5f4d966492,Visite famille/amis,Réseautage pro,Ça dépend,1
+6f7d3ac2-2274-4aae-8a54-7db9a8944c65,Autre,Échanger sur un sujet commun,La conversation est légère,3
+4754b5a4-32f0-4f7b-89b5-9af2f404d4a2,Autre,Rester tranquille,Jamais,3
+cf4efe5f-b100-4406-a650-42921e8d93cc,Autre,Réseautage pro,Le trajet est long,4
+08fb0e72-6fe8-46ab-bda2-bdc96314bd20,Loisirs/vacances,Réseautage pro,Jamais,3
+d2549c31-0f2a-4419-868f-e243bcd414e0,Loisirs/vacances,Discussion sympa,Il/elle partage mes centres d’intérêt,5
+5ad2df4c-5651-46e0-a952-f19e6fc8f4e2,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,4
+4203e96a-3ad8-4bff-b6f6-886b4fa84935,Loisirs/vacances,Discussion sympa,Ça dépend,5
+d6528bb2-2391-4cfe-8235-a26ba81e6ddc,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,4
+455ec4ab-4350-421e-8e5c-1d58608f3686,Autre,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,1
+2d0ba98e-f719-4318-a541-50ae11f3f6dd,Travail/études,Rester tranquille,Le trajet est long,1
+649a8c8c-85e8-4866-b6cd-70eb5cbec6b3,Loisirs/vacances,Discussion sympa,La conversation est légère,2
+703658de-3d31-4a0f-abf3-dddea7673be8,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,3
+3eef8103-49ee-43ee-b61d-e30b574411ae,Loisirs/vacances,Discussion sympa,Le trajet est long,1
+09079881-4342-4d03-906a-617a1a6c7c01,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,1
+d64c1f28-2b1f-4bdc-8e67-b10579c51c22,Autre,Rester tranquille,Le trajet est long,5
+c516f69e-c730-4d4c-b9ea-d18669ae5944,Autre,Réseautage pro,La conversation est légère,4
+ede67f87-82c9-4957-a8be-da1b2195261d,Travail/études,Rester tranquille,Ça dépend,1
+0d848659-ab1f-4152-9c95-d382bf2bbbe7,Travail/études,Réseautage pro,Ça dépend,3
+a62da7a3-51f6-48d0-817d-20b4659095da,Autre,Rester tranquille,Le trajet est long,1
+1d7c4138-d563-4eb2-b99d-bfc4a7ee1f38,Visite famille/amis,Autre,Il/elle partage mes centres d’intérêt,4
+52bf060d-1f48-4982-9e0e-c84820003dc0,Travail/études,Discussion sympa,Jamais,4
+633b302d-274e-4c45-87dc-e2ed13429d02,Loisirs/vacances,Autre,Le trajet est long,1
+7bc66562-d8da-4b65-9b24-a8fb66404e98,Visite famille/amis,Discussion sympa,La conversation est légère,2
+a9d3a78a-f759-43cc-86c7-5bec861dbf21,Loisirs/vacances,Rester tranquille,Le trajet est long,5
+05e0e69b-3cab-4956-a400-a76de3c8a341,Loisirs/vacances,Rester tranquille,Le trajet est long,1
+e6937289-fc39-41e3-9f6d-239df4bb1d78,Visite famille/amis,Rester tranquille,La conversation est légère,4
+ed92d7ee-1a69-4906-8db7-baf4926eb4dd,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,3
+9c1ce297-747d-4c3c-b12f-4e0b2660f367,Loisirs/vacances,Échanger sur un sujet commun,Jamais,3
+61736e49-54fd-48ac-a051-1ef423d4ff37,Loisirs/vacances,Échanger sur un sujet commun,Le trajet est long,3
+21650c5d-ecb9-444c-ad88-e84dfae44a48,Loisirs/vacances,Rester tranquille,Jamais,1
+262c5675-0750-457d-b4e2-6dfd51a403c7,Visite famille/amis,Réseautage pro,Il/elle partage mes centres d’intérêt,4
+d416a3f0-7654-428a-8888-d917ae662a82,Travail/études,Rester tranquille,Jamais,5
+f0fcebaa-6d4f-4b65-b200-454ce4d815f0,Visite famille/amis,Échanger sur un sujet commun,La conversation est légère,3
+18ec4d88-ef0a-475d-b37c-529a7666c8cd,Visite famille/amis,Discussion sympa,La conversation est légère,2
+6a91b7a3-5065-48e9-8c70-3af013f641ac,Travail/études,Échanger sur un sujet commun,La conversation est légère,3
+665a82b9-ded5-413c-b6cd-d974b356298c,Autre,Rester tranquille,Jamais,2
+17e6590e-ed42-4fb5-b55b-2f940fb60a24,Loisirs/vacances,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,3
+6d0e7aed-e4be-4c98-a95b-086b67f14279,Travail/études,Autre,La conversation est légère,1
+4ab3ef09-9395-46da-963c-edbd296381e7,Travail/études,Discussion sympa,Il/elle partage mes centres d’intérêt,5
+87fe53a4-f0dd-4b66-8b95-f6e6d3a7516a,Visite famille/amis,Autre,Il/elle partage mes centres d’intérêt,1
+6e6ae639-dea6-4605-b775-9b5219914798,Visite famille/amis,Échanger sur un sujet commun,La conversation est légère,4
+449ab46c-23d8-4184-9063-5762ff413b5d,Travail/études,Discussion sympa,Ça dépend,2
+1fc08614-ae18-44c2-aadf-6246142f2c1c,Travail/études,Discussion sympa,La conversation est légère,2
+45542dde-c35b-4d7f-af88-6c1ab21fa723,Loisirs/vacances,Rester tranquille,Jamais,3
+b2b09063-21d0-4ec6-926f-0edca5bda34a,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,5
+7ac5fcb0-655f-430e-8d58-9cf94e4aa20e,Loisirs/vacances,Discussion sympa,Il/elle partage mes centres d’intérêt,3
+d3881d20-cf24-4b75-a164-18aef24d088d,Autre,Discussion sympa,Jamais,3
+d8de528d-6077-4c6f-a984-485948dce60e,Autre,Rester tranquille,La conversation est légère,4
+cc938bbe-b54c-40fc-9f2b-d0761107932f,Loisirs/vacances,Discussion sympa,Jamais,4
+2c3c460e-ec86-4e47-bcf1-8a0729a72330,Loisirs/vacances,Réseautage pro,La conversation est légère,5
+783c2c07-7b02-43fa-b897-dccdb2d6e5cf,Visite famille/amis,Autre,Le trajet est long,1
+5525f540-8ed3-4f65-972d-ae085ebbc33d,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,3
+0a5becde-a68a-43af-8379-be3c9645e75b,Loisirs/vacances,Discussion sympa,Ça dépend,4
+d835a555-1d62-4e50-86ca-b607ada6bb4a,Visite famille/amis,Réseautage pro,La conversation est légère,3
+1cacedcb-47f9-4f17-833f-98cde56b0776,Travail/études,Discussion sympa,La conversation est légère,3
+9eae8392-fc3b-4192-ba8c-a019069d0b5e,Loisirs/vacances,Réseautage pro,Le trajet est long,4
+93166a07-48c4-413d-83f6-1961ce488cba,Visite famille/amis,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,4
+b4a0061d-4f59-42f7-b73f-8acc8c75bec8,Autre,Discussion sympa,Le trajet est long,4
+f196ddcc-5d06-448a-9193-efc59da0578c,Autre,Rester tranquille,Jamais,1
+fa22525a-4a2b-40b3-895c-232779cd2dc7,Travail/études,Réseautage pro,Le trajet est long,3
+aa9f07f9-776c-45d2-afe0-4b5c89cd2f46,Loisirs/vacances,Discussion sympa,Il/elle partage mes centres d’intérêt,4
+fa935d56-8a18-4851-b3eb-d1655ca85c13,Loisirs/vacances,Discussion sympa,Ça dépend,5
+d7e08f24-9f4a-45a0-969b-a3d3f02e82f1,Loisirs/vacances,Réseautage pro,Ça dépend,1
+54802056-f996-43a1-af9b-1f8ee5b15a0d,Travail/études,Échanger sur un sujet commun,Le trajet est long,1
+ab0cce6e-f5f1-4f67-8581-122e010b1188,Visite famille/amis,Discussion sympa,La conversation est légère,4
+fb70b184-1372-4de8-a6f6-02d6fae575a4,Travail/études,Autre,Jamais,1
+f0cf6724-0722-41c8-9481-7c8856e94651,Visite famille/amis,Réseautage pro,Jamais,4
+e76740e0-1150-4ff8-ae28-234b6c5b8d7f,Visite famille/amis,Autre,Ça dépend,3
+98e0cca3-e701-48f6-bec9-eb8877214409,Visite famille/amis,Autre,La conversation est légère,4
+2f7f81b8-61ec-4000-b671-93802379380d,Travail/études,Autre,Jamais,1
+e4288145-d657-4212-83c2-e0b557a974cc,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,2
+9071bc27-8592-41ce-abb6-43382b146daa,Visite famille/amis,Rester tranquille,Jamais,1
+998d8c21-4153-4b6d-8ccf-63c05230efda,Travail/études,Discussion sympa,Le trajet est long,3
+14ad59c8-1324-463f-abf8-d32532bfb78b,Loisirs/vacances,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,2
+dafecae2-dc5a-46f9-aea2-d704ec15e301,Visite famille/amis,Réseautage pro,Jamais,4
+793c5a5b-4248-48e5-8f33-a0874f1a16b6,Autre,Autre,Le trajet est long,3
+cdd040b8-db21-4356-857e-c87998845494,Visite famille/amis,Réseautage pro,Il/elle partage mes centres d’intérêt,1
+376e3b43-7f6a-44a6-b01c-ec41daa1c9a5,Visite famille/amis,Discussion sympa,Le trajet est long,2
+ca7a8b1d-bf89-4e70-a202-1480e6c6fb77,Autre,Échanger sur un sujet commun,Le trajet est long,2
+b9a9630a-a0f6-444a-a3e9-80e55f954791,Visite famille/amis,Discussion sympa,Ça dépend,1
+c11ac23b-6a5e-4c8f-b0f4-b20eee6d1934,Autre,Discussion sympa,Ça dépend,3
+4121d652-53b7-40f7-bfd8-195e921a1f04,Autre,Rester tranquille,La conversation est légère,1
+94d6d01a-fe21-46fb-99ef-bdea4079fa66,Visite famille/amis,Autre,Jamais,3
+62cd88e1-b0e1-4822-afb9-f3be2a607c88,Autre,Réseautage pro,Le trajet est long,3
+b0d7c77e-ff83-406a-9d65-98820606d01d,Autre,Discussion sympa,La conversation est légère,1
+b4e2fb6b-5cb3-4e49-8003-6533eefc3885,Travail/études,Rester tranquille,La conversation est légère,3
+2dcc56e7-e51a-4739-9cd3-81a9a3557197,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,1
+da20b706-75dd-4d64-af98-f503adc9cedb,Travail/études,Échanger sur un sujet commun,Jamais,2
+f8833b81-b390-4e22-a7cc-f104e7ab693a,Autre,Rester tranquille,Le trajet est long,2
+b065ba53-76ae-4e16-82c3-4d9aaa26a6bc,Travail/études,Autre,Le trajet est long,2
+1af230b8-54af-4f72-8396-e1ed6b03f38c,Visite famille/amis,Échanger sur un sujet commun,Ça dépend,3
+447b144c-8652-42f8-9770-1dc02d105325,Autre,Rester tranquille,Il/elle partage mes centres d’intérêt,4
+694053cb-127e-4723-b49a-af638fbe90b9,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,1
+85e3d2c5-f8f2-4d94-b57b-4ac34dd7dd6d,Visite famille/amis,Réseautage pro,Le trajet est long,3
+1714377a-6ca6-4047-917b-c7ce9cfafc38,Loisirs/vacances,Échanger sur un sujet commun,Jamais,1
+2682274c-fc46-4f76-9c9a-a400aa1a4b0b,Autre,Autre,La conversation est légère,3
+db4e0916-ed8f-469c-a461-3827950ae44e,Visite famille/amis,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,1
+4c97e1de-a066-40dc-8299-eb9272867914,Loisirs/vacances,Échanger sur un sujet commun,Ça dépend,1
+da634cfe-96f5-424f-b7ce-7408ed68efe8,Loisirs/vacances,Discussion sympa,Le trajet est long,2
+c1a80823-499a-4dad-bee2-9e3fd87d8e3c,Travail/études,Échanger sur un sujet commun,Le trajet est long,5
+79a595a5-02c0-4006-bbb9-a60354a6d7a8,Autre,Autre,La conversation est légère,4
+bbfe71f7-f6e5-45a9-9c23-36e313b4eb84,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,5
+00136479-670a-42d6-8e3d-1d49fb72bd35,Travail/études,Réseautage pro,Ça dépend,4
+f4fdc0af-e310-4ac8-887d-4f379e85430b,Travail/études,Rester tranquille,Ça dépend,2
+6714796b-2294-4586-b950-bacca9e5f7d4,Travail/études,Autre,Il/elle partage mes centres d’intérêt,2
+b6fe68ee-b235-4ddc-9058-a71e04f17973,Visite famille/amis,Autre,Jamais,5
+8f3ff6d4-fffa-4aad-9e82-f5d6f184dabd,Visite famille/amis,Réseautage pro,Jamais,1
+9af33a00-c4ad-4700-a2be-e811aba887ac,Autre,Discussion sympa,Le trajet est long,2
+0ee3e548-a295-4f51-8011-72880597acb0,Visite famille/amis,Autre,Le trajet est long,4
+b5e46b5a-1d28-497a-ad09-72b730106df1,Visite famille/amis,Autre,Ça dépend,4
+5e36b5be-8d25-46d6-9dc9-d32e3749470a,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,5
+f787389e-ec72-42ed-a469-de9f10b1cc57,Autre,Échanger sur un sujet commun,La conversation est légère,2
+5be848d4-0ef5-4b5d-bd46-e0711fc30f89,Travail/études,Échanger sur un sujet commun,La conversation est légère,5
+8de6249a-988f-4810-9122-0c86769d6cb8,Loisirs/vacances,Autre,Le trajet est long,1
+2363ba8e-fc3d-4b74-89b8-737b12722626,Loisirs/vacances,Autre,Ça dépend,5
+3aef8ba2-257c-4833-8de1-9c16c738d000,Travail/études,Rester tranquille,La conversation est légère,5
+c455e54b-74e4-4b43-b57f-23fc33720546,Travail/études,Autre,Jamais,2
+67a6ae8d-0ba2-4339-8b1f-4f97f40b5865,Autre,Discussion sympa,Ça dépend,4
+03ff91e8-19e4-4658-8ce0-be913b9814d4,Loisirs/vacances,Rester tranquille,Il/elle partage mes centres d’intérêt,5
+b665398d-bb4d-49cc-9572-1370816b0a80,Loisirs/vacances,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,3
+2f9bb33a-2157-4be9-8d8c-48dbe97c0a96,Visite famille/amis,Rester tranquille,Jamais,3
+e7249e78-88d7-42fd-b782-4eb36f4c8ac7,Loisirs/vacances,Échanger sur un sujet commun,Ça dépend,2
+075ebd00-2488-4b8b-94a5-391a77f9096d,Visite famille/amis,Discussion sympa,Il/elle partage mes centres d’intérêt,3
+53cf3d2f-932c-4ec7-8e06-1ed03abfe07b,Visite famille/amis,Discussion sympa,Ça dépend,3
+2ca42e49-0737-4f9f-8498-17e9011034e4,Visite famille/amis,Rester tranquille,Jamais,4
+38303ba5-ae5a-4e99-b285-63aa64d0405e,Visite famille/amis,Autre,Il/elle partage mes centres d’intérêt,1
+296c7829-9f5a-4de6-b527-88aecd4b6190,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,5
+9bed98d1-a4c3-42da-bbcd-f7da3cb6ecac,Loisirs/vacances,Autre,Il/elle partage mes centres d’intérêt,2
+052ded1b-07d8-45d1-acc3-e76d6238399f,Travail/études,Autre,La conversation est légère,3
+12fa0aaa-be46-4ec4-aff8-f9afdcc1ca65,Autre,Échanger sur un sujet commun,La conversation est légère,1
+ac04f655-ca4d-4b64-b023-1493db92050d,Travail/études,Discussion sympa,Ça dépend,2
+e419ea25-b178-413e-b71b-816295672df3,Travail/études,Rester tranquille,Ça dépend,5
+b090b42c-c0c6-49af-82a8-80e0f79a75dd,Visite famille/amis,Rester tranquille,Jamais,3
+cd8ef8ce-d383-4ce1-a025-bd6b6c88a637,Loisirs/vacances,Autre,La conversation est légère,5
+53534a80-e0fa-49da-9bd4-73cb6f460aa6,Loisirs/vacances,Rester tranquille,Jamais,1
+eb324164-0012-40e1-9d3f-e39d2fa3e871,Autre,Réseautage pro,Le trajet est long,2
+de842bf9-b0b3-4b6e-b644-89a4e7aac085,Autre,Réseautage pro,Le trajet est long,4
+a26c9a9c-fdb5-453e-962d-b94a692cd19a,Visite famille/amis,Discussion sympa,La conversation est légère,3
+6cd13fb3-3fcc-4ed5-855a-8f2ef703bd37,Visite famille/amis,Autre,Ça dépend,3
+253ccd51-1f0f-421b-b0a5-b7aba137f62f,Travail/études,Rester tranquille,Le trajet est long,2
+38d3fe5f-0573-49f9-9f44-fa7ca1120501,Autre,Autre,La conversation est légère,4
+99f3ab98-e9d8-4f89-b86e-6a37b61cae78,Visite famille/amis,Échanger sur un sujet commun,Jamais,5
+adcbdb86-6971-46bf-951a-47e5de7fbf9e,Loisirs/vacances,Rester tranquille,Ça dépend,4
+e29adb28-e015-4105-930e-d7d73df8f0b0,Loisirs/vacances,Discussion sympa,Jamais,1
+49c86815-8e80-4079-9ecf-3592abb52fad,Autre,Réseautage pro,Jamais,5
+62c82544-9ee4-4ad0-9897-120a33bac9f4,Loisirs/vacances,Réseautage pro,Le trajet est long,1
+0ad2e8ba-2cc3-4310-b43c-4eef7483998e,Visite famille/amis,Échanger sur un sujet commun,Le trajet est long,4
+15f300a0-62d9-4bcf-b1f0-42e1e9777277,Loisirs/vacances,Autre,La conversation est légère,1
+80e11cc5-f392-4210-87f0-be56ca5cbfd6,Loisirs/vacances,Rester tranquille,Ça dépend,4
+6fd79cc1-58d6-4220-a95e-9f5f1dd90a2a,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,2
+012abc41-eb78-4836-9f0e-86f7a8119bc4,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,5
+625676ac-9822-4a2a-8ae9-efb9f5dc7175,Autre,Réseautage pro,Le trajet est long,4
+534fa748-ea85-4f75-9cc5-7bb10658b48a,Travail/études,Réseautage pro,La conversation est légère,4
+b14e88c0-05b9-45d7-ad02-5a651f65348d,Travail/études,Rester tranquille,Jamais,5
+1d19c57b-ab3e-4657-be1e-1d9eca7b3c6d,Autre,Discussion sympa,Le trajet est long,2
+b366c618-679a-48c9-91bb-5c06951bcf44,Autre,Rester tranquille,Il/elle partage mes centres d’intérêt,2
+5fb476d9-90b0-4826-ae22-fea603067781,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,3
+c1c1f7b9-acc5-4489-9fd0-3b2ff5ae729c,Visite famille/amis,Réseautage pro,Jamais,2
+e64b9b9b-b059-4622-b3fa-53aab2e9f8c9,Loisirs/vacances,Discussion sympa,Ça dépend,4
+280fca81-7cbc-4fe3-8dd0-6ce02bc60f18,Autre,Autre,Le trajet est long,3
+7f60d8ef-01d5-474c-aec0-9d38345f804d,Autre,Échanger sur un sujet commun,Ça dépend,5
+d0292cf3-8762-4e00-81b2-03ea067e8c36,Autre,Discussion sympa,Le trajet est long,1
+a482d3e1-8802-4197-8993-f6b13db63817,Visite famille/amis,Autre,Le trajet est long,5
+2919c22d-e08d-407d-b2ee-05a558bc1ae2,Visite famille/amis,Réseautage pro,La conversation est légère,5
+65234363-1e2d-4bcf-8e14-4fb61d806833,Travail/études,Échanger sur un sujet commun,Le trajet est long,5
+b6fe9129-c59a-4dbc-9cb6-5580447120df,Autre,Réseautage pro,La conversation est légère,4
+77e84fcf-9180-41de-a2fc-dc46ab663f04,Visite famille/amis,Discussion sympa,Ça dépend,3
+ed5bdeab-943a-4c9d-b748-d44f786a0a77,Loisirs/vacances,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,2
+7c0a9817-cc89-4df8-ac52-b8fe982305f8,Travail/études,Autre,Jamais,1
+ce1c9485-58b0-46f6-83a2-bb2abc63df79,Loisirs/vacances,Rester tranquille,Le trajet est long,1
+40a07646-182c-4f14-9d38-c9170824d2c2,Autre,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,4
+e8ffb6c9-a420-4a7f-96dd-2b838faab1d2,Autre,Échanger sur un sujet commun,Le trajet est long,2
+e2550d3a-d2e9-4e8f-b5e7-ba42bd75bf07,Autre,Autre,Il/elle partage mes centres d’intérêt,3
+64cd4557-6aeb-4e8f-9d33-fca8bc7aeaf6,Loisirs/vacances,Discussion sympa,Jamais,5
+6e23b7aa-131c-467d-b3dd-150b165661a1,Autre,Échanger sur un sujet commun,Ça dépend,4
+510dbc9a-c6ea-4804-ba43-235fb14247d9,Autre,Discussion sympa,La conversation est légère,2
+a4d70cef-7670-4ba5-afa1-c6ec94325a63,Visite famille/amis,Discussion sympa,Jamais,2
+9e7d86d9-46af-4315-bcd2-b47c7ccfa615,Loisirs/vacances,Réseautage pro,Le trajet est long,3
+505ac91a-f29f-4666-8613-a5443f90fa80,Visite famille/amis,Échanger sur un sujet commun,Le trajet est long,5
+8e33ee12-8f56-4287-9520-5a2381d81980,Visite famille/amis,Réseautage pro,La conversation est légère,4
+37413da0-6527-4c05-884a-436068ed91a2,Travail/études,Réseautage pro,Il/elle partage mes centres d’intérêt,3
+8130fa99-35ce-4ac1-b2e8-32b0ab6c96a5,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,3
+83403b70-f852-42ba-b52f-babe1497fbac,Autre,Discussion sympa,La conversation est légère,1
+be425a0b-d6c1-4653-a245-b9cbb2b8d3fc,Travail/études,Autre,Le trajet est long,3
+c34d7e95-3788-41e4-8883-91d76e4f3ece,Travail/études,Autre,Il/elle partage mes centres d’intérêt,3
+15226b9d-5e38-4eef-ba68-f86a3623b099,Visite famille/amis,Échanger sur un sujet commun,Jamais,5
+565a1e23-9345-4dfd-b4b8-b2d05ddee2e9,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,2
+46bfc20d-61e6-4f83-9243-d475fd9932e4,Autre,Échanger sur un sujet commun,La conversation est légère,3
+2a47c5dc-bb01-4bc0-b952-258fe646959e,Visite famille/amis,Discussion sympa,La conversation est légère,2
+9f803f85-2b8a-471a-b97d-7b4875cb444f,Travail/études,Échanger sur un sujet commun,Le trajet est long,3
+a6d142ae-93ee-440c-a01e-07359f3227a9,Travail/études,Réseautage pro,Ça dépend,3
+53c74d68-37ad-40f6-869d-c33e3d18fdc2,Visite famille/amis,Autre,Jamais,4
+6e35c184-c69e-4554-9cbd-3b73a7e62c4c,Travail/études,Autre,Le trajet est long,2
+3a6783b2-8cf3-42b7-ae33-a5a4b5445652,Autre,Rester tranquille,Jamais,4
+1af878e5-aa49-44d3-be77-226a75b32777,Autre,Réseautage pro,Jamais,2
+9aeae101-d1d6-43c7-b772-2f30da00963e,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,5
+0569565d-4a7b-4762-abf5-d225d3b25d6b,Travail/études,Rester tranquille,Ça dépend,4
+3b826f8d-1e63-4b88-96e8-d61c4f3022a6,Travail/études,Discussion sympa,Il/elle partage mes centres d’intérêt,4
+a911e078-dccd-4aab-9bd2-e164308a3a2a,Travail/études,Échanger sur un sujet commun,Jamais,5
+639c17a3-e807-499c-a462-9e884f33ed15,Loisirs/vacances,Rester tranquille,Jamais,2
+47d811ef-8b24-4943-97cc-fae0525f500e,Travail/études,Rester tranquille,La conversation est légère,5
+8b591462-a650-4e50-9c31-797e0fabf09e,Autre,Échanger sur un sujet commun,La conversation est légère,1
+39c2bc9a-297a-4a2b-b3f0-cdb6c914d1f4,Visite famille/amis,Autre,Le trajet est long,4
+151a8153-5242-4ddb-81bf-34d515173e74,Visite famille/amis,Autre,Il/elle partage mes centres d’intérêt,2
+baa9e4b9-3010-4bfc-b4ff-ba49da5c0fa2,Travail/études,Discussion sympa,Jamais,5
+557cdd9d-6a64-44e9-a127-242305df26e9,Travail/études,Rester tranquille,Ça dépend,3
+0db62171-d0b0-4595-b2b6-12b44683f08b,Travail/études,Réseautage pro,La conversation est légère,1
+94caf16b-c8b6-4da5-8b51-ddcf845de4f3,Autre,Discussion sympa,Le trajet est long,4
+643ed5ff-3335-46ce-80d8-16a123c12204,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,3
+af29de6d-b26a-43af-b921-fb6f7bfe8196,Loisirs/vacances,Rester tranquille,Il/elle partage mes centres d’intérêt,2
+d98b6f39-e7a1-459b-996f-eaa3f7554cb8,Autre,Rester tranquille,La conversation est légère,5
+74b0f63f-211d-421d-9658-2cf31fd08d85,Visite famille/amis,Réseautage pro,Le trajet est long,4
+b476cfb3-f434-493b-aac7-21009982270a,Visite famille/amis,Échanger sur un sujet commun,Le trajet est long,1
+d2455a34-fd74-481f-9331-5659b713821d,Autre,Autre,Jamais,1
+439d2a54-b131-4bdc-b9b5-b2ca264ecf4a,Travail/études,Réseautage pro,La conversation est légère,1
+5eb300f3-83de-4db1-b796-b6de0e2763cf,Visite famille/amis,Autre,Ça dépend,3
+8cf5df0b-c47b-40b5-b2af-98b97886515e,Loisirs/vacances,Échanger sur un sujet commun,Le trajet est long,5
+d2368549-ba89-4b1f-8900-01cc26a0bbc0,Visite famille/amis,Autre,Jamais,3
+e6ad56d2-29e3-4fd8-a141-9afad7e99457,Autre,Échanger sur un sujet commun,Jamais,4
+83cb950a-cc4e-40e4-b1f4-a4df55b5e92f,Visite famille/amis,Autre,Jamais,2
+9f29010f-c513-4e3b-a620-cac4473db609,Travail/études,Rester tranquille,Ça dépend,3
+65dc87eb-e020-48c4-915e-d0634629fa6f,Loisirs/vacances,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,2
+7664b06b-1b81-46d9-8af0-62f26240cf83,Travail/études,Discussion sympa,La conversation est légère,5
+9f1b8fae-94f2-4e5f-9511-ed7532e342fe,Visite famille/amis,Réseautage pro,Le trajet est long,5
+87b54295-6c55-4c9f-9c1f-93c9f4b42fe3,Travail/études,Réseautage pro,Jamais,1
+5d336756-dbcd-43e2-814b-f9f6da3b6b82,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,5
+69a8ed34-1f63-4621-9e9d-f82d58b511f7,Loisirs/vacances,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,2
+4282d287-a916-4ba9-8e5b-33d150756735,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,5
+618e19a9-ad95-4e2e-9804-887890061fc3,Autre,Rester tranquille,Ça dépend,1
+7c73c714-cd54-4f2e-a9ad-e699c0b8cb5e,Loisirs/vacances,Rester tranquille,Il/elle partage mes centres d’intérêt,1
+d1638cfb-9fca-4d83-85ad-4acd29294362,Visite famille/amis,Rester tranquille,Ça dépend,1
+dfe6781e-e120-4e6f-83bf-d9f119886ffe,Autre,Réseautage pro,Le trajet est long,2
+d59b02b6-a8e7-4ac0-b1a4-cfff890578d3,Autre,Autre,Jamais,1
+412b7890-d424-455f-a11e-9d5e85428f28,Visite famille/amis,Rester tranquille,Le trajet est long,3
+175d049a-a029-4ba8-bc2e-616c83f20f64,Visite famille/amis,Autre,Ça dépend,2
+b288257c-5a15-4f07-a03e-1e53fef0928e,Autre,Rester tranquille,Le trajet est long,1
+8d832a63-7bd0-498e-8c90-46ae564d90d9,Travail/études,Discussion sympa,Jamais,2
+7b4c6aed-cf7b-4a4e-8c76-948eb3d12fca,Travail/études,Rester tranquille,Le trajet est long,2
+2b5a43f0-e1f7-4b48-8af3-24bfd5a6fa81,Travail/études,Autre,Jamais,2
+d603721b-65d9-4f77-8faa-470080953d5a,Autre,Réseautage pro,Ça dépend,2
+0f2105a4-d359-4430-a646-f8e8b111a7b4,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,3
+b14d320a-b2c3-4c19-908b-217bdc40d373,Visite famille/amis,Discussion sympa,Jamais,5
+3b8d080f-8a88-47b5-b80a-c75122b01e27,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,3
+797d5ebe-9a7e-4cc6-94e2-ed52c3e3bcef,Autre,Échanger sur un sujet commun,Le trajet est long,3
+42ffcbcc-2aa7-43dc-82ac-b8441f1db063,Autre,Échanger sur un sujet commun,La conversation est légère,4
+bddf5584-8f2f-41c5-9905-1fc1db93501b,Autre,Rester tranquille,Le trajet est long,4
+a9069cbc-122e-407a-8737-8efd2667fefe,Autre,Autre,Il/elle partage mes centres d’intérêt,2
+f103e50b-f20a-44d4-8d4f-a95ab4f8a1ed,Travail/études,Échanger sur un sujet commun,La conversation est légère,4
+b8da69be-227e-4c51-8e65-595648907b11,Travail/études,Autre,Jamais,4
+b95592f6-f9d3-40d0-8063-49b8a73509e2,Loisirs/vacances,Échanger sur un sujet commun,Ça dépend,3
+c18d65d8-6628-4ab9-a80b-0a474afff929,Loisirs/vacances,Réseautage pro,Le trajet est long,5
+75715c89-fc83-435b-b856-8339aeb74a72,Loisirs/vacances,Discussion sympa,Le trajet est long,1
+54ed4d2f-f68f-4d2a-a8c4-f7fa5ac079f2,Autre,Rester tranquille,Ça dépend,5
+8b803e21-722f-4bd4-9ebb-c0e52f3d69e9,Loisirs/vacances,Rester tranquille,Ça dépend,2
+cdc3e0c6-0f1f-4961-a0b7-a5c6d2fa0f15,Visite famille/amis,Rester tranquille,Il/elle partage mes centres d’intérêt,3
+2dad59f6-5a8e-4aa4-a486-e9bc78bf22ea,Travail/études,Échanger sur un sujet commun,Jamais,1
+22e8d72f-f266-4b66-85d6-819388a730fa,Visite famille/amis,Discussion sympa,La conversation est légère,2
+3d32bad6-2b8e-4431-9a0e-54ad4ea81833,Autre,Discussion sympa,Ça dépend,1
+dbe418bf-e624-4398-9d34-fdfe2bde9481,Visite famille/amis,Réseautage pro,Ça dépend,4
+c6d85c90-906e-444b-a6be-a295b1b0e31b,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,4
+253f5bdf-b20b-4ec9-9147-b4e87139e70b,Autre,Réseautage pro,Jamais,4
+a7f2eaff-aedc-4ebc-9ea4-1a2c3f503838,Travail/études,Échanger sur un sujet commun,Ça dépend,5
+2b716792-9004-4663-aff3-63a0e8edf6ac,Autre,Autre,Ça dépend,2
+62e57667-4272-4efa-afc3-6d797b73eaba,Travail/études,Discussion sympa,Jamais,2
+0466d0fd-e046-4c72-a0d5-8b040679de73,Visite famille/amis,Réseautage pro,Ça dépend,3
+4e1c9db3-0d09-4268-b221-1c8323385851,Autre,Rester tranquille,La conversation est légère,1
+6e66a881-5fc9-44c4-bbbf-cb91d8297fad,Autre,Échanger sur un sujet commun,Ça dépend,3
+d0c93535-9d7a-4d0c-93c7-7178ee834354,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,1
+4a63b668-af44-4951-999a-e445b92dca15,Loisirs/vacances,Rester tranquille,Le trajet est long,1
+9879b063-53ac-49d6-9f3f-936490e367df,Loisirs/vacances,Rester tranquille,Le trajet est long,4
+62082fb1-ad01-437e-a2ea-523b57fff58a,Travail/études,Autre,La conversation est légère,3
+3d133211-e270-4379-87ec-bfa95d2f2833,Travail/études,Rester tranquille,Il/elle partage mes centres d’intérêt,5
+c15979ec-bbc1-4cfc-a660-7cdf5124dbe2,Autre,Réseautage pro,La conversation est légère,4
+05e51da0-cdbb-4b6f-9605-cea89e822537,Autre,Réseautage pro,Ça dépend,2
+818f8e4d-cb51-49b0-86ec-f5a7bdfd5167,Autre,Rester tranquille,Ça dépend,2
+34cec329-a5c5-44a4-8e1a-c83eb5f8051b,Autre,Échanger sur un sujet commun,Ça dépend,4
+6487bdac-1044-41d0-9181-c279bd6ecc8b,Visite famille/amis,Autre,La conversation est légère,4
+15c4f319-358d-4be3-a84e-7e212de27e72,Travail/études,Discussion sympa,Il/elle partage mes centres d’intérêt,1
+97e20500-202b-492c-9a21-88cbbeb63f1e,Visite famille/amis,Discussion sympa,Ça dépend,2
+30cae523-b45e-4dc6-9c00-09a6c6f97344,Travail/études,Rester tranquille,Jamais,4
+fb877af4-2719-4b21-8542-992023435ebe,Visite famille/amis,Discussion sympa,La conversation est légère,2
+4889b4ec-7c31-43be-a0d1-191f0048edfe,Visite famille/amis,Rester tranquille,Ça dépend,3
+6d24ff31-7b19-4bee-94a4-0d026a828dca,Travail/études,Échanger sur un sujet commun,Ça dépend,1
+0b8a03df-0ed4-4d67-b5ca-d38b41c2f8d5,Visite famille/amis,Autre,Jamais,4
+3ead1757-f889-4ada-9724-97ceb91ea38f,Travail/études,Rester tranquille,Il/elle partage mes centres d’intérêt,2
+50514bd2-a9e6-4987-b5c8-c597a87ba404,Autre,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,5
+795068c3-85d0-44e0-8a76-74bd8d01cdfa,Loisirs/vacances,Rester tranquille,Il/elle partage mes centres d’intérêt,1
+fd5121e5-2349-436d-89e3-77052c0341b4,Travail/études,Réseautage pro,La conversation est légère,5
+a0a9e947-560f-4a4e-8189-79d671938639,Visite famille/amis,Rester tranquille,La conversation est légère,4
+b5bb2f3d-42b3-447b-a75e-2d6da2c8b6c2,Visite famille/amis,Échanger sur un sujet commun,La conversation est légère,1
+0fb2c64d-9863-4cdc-9549-9f27a4e921e6,Travail/études,Autre,Le trajet est long,3
+677ae56e-7982-40b4-84eb-598debb40e76,Autre,Réseautage pro,Le trajet est long,4
+0bbf9ad7-c4d1-4a87-b290-eeeade24f090,Loisirs/vacances,Rester tranquille,Ça dépend,2
+3c36a692-6640-4ac1-a129-09780d910d5c,Loisirs/vacances,Réseautage pro,Ça dépend,4
+9236447a-8077-4616-a5ca-c73c793f9bcc,Loisirs/vacances,Réseautage pro,Jamais,1
+003468bf-6467-42d5-ba41-3b150eb6fef0,Travail/études,Discussion sympa,Jamais,3
+0ce94d5e-060e-49b0-9f96-c2bd382f2c2b,Loisirs/vacances,Échanger sur un sujet commun,Ça dépend,2
+b3de00ec-04ae-4e4d-9216-97ef17fee2ca,Autre,Autre,Le trajet est long,1
+d67afe33-1848-4762-b1cf-65446e7bc10c,Autre,Autre,La conversation est légère,3
+67285390-c5e4-4cca-a591-ce323a019cdb,Travail/études,Échanger sur un sujet commun,Le trajet est long,2
+6628d885-17dd-48d7-8547-0abc55f809c3,Visite famille/amis,Discussion sympa,Le trajet est long,4
+237f520f-6525-4115-9e48-ed074a4c4117,Autre,Autre,Il/elle partage mes centres d’intérêt,4
+e1c9a0d5-2caa-4b8a-bf41-4ef46a79bd7b,Travail/études,Rester tranquille,La conversation est légère,1
+74675f6d-dfe6-4f03-b238-8d6562074d9f,Autre,Réseautage pro,La conversation est légère,5
+88026fb9-880c-48b7-85fc-9f9738495817,Loisirs/vacances,Réseautage pro,Il/elle partage mes centres d’intérêt,1
+df668133-e62f-4be9-b493-7e0e068e157e,Autre,Autre,Il/elle partage mes centres d’intérêt,1
+aedf97ff-2eb9-47be-b70a-b9619b99e8ce,Travail/études,Autre,Le trajet est long,3
+0c011ace-4872-4b2f-b2aa-b4ed4cf8ef06,Autre,Rester tranquille,La conversation est légère,1
+5e1450bc-04e0-4b8f-9fe7-e3f3d07822e2,Visite famille/amis,Rester tranquille,Ça dépend,1
+8f21dc22-d96d-451d-b849-c7cad7cbf805,Autre,Réseautage pro,Ça dépend,5
+5e567381-bf07-41a9-bd1c-7f3685f5511f,Loisirs/vacances,Rester tranquille,Jamais,3
+a17f203a-2c1a-4485-bdee-cec2a122de76,Travail/études,Réseautage pro,La conversation est légère,1
+dfa51b44-df2a-4a07-b19a-93ffe24531bd,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,4
+3029ac04-fe76-4151-97ad-826025f14c8d,Loisirs/vacances,Rester tranquille,Jamais,1
+d082e67a-6ca2-4d67-8faf-41df2709d2f6,Autre,Autre,La conversation est légère,3
+819f318d-343e-4cfc-bada-1da1911a4b92,Autre,Autre,Jamais,3
+bbd2febd-194f-420e-adf1-9736a05e28e9,Loisirs/vacances,Autre,Le trajet est long,5
+d1dda501-7bb4-45d7-a2c1-d40e7ce3fe9e,Visite famille/amis,Autre,La conversation est légère,2
+0f2312aa-9450-4238-8c0d-ffcf392424e0,Loisirs/vacances,Rester tranquille,Il/elle partage mes centres d’intérêt,5
+4a80ca21-75e0-4da8-9260-c4f51ddbded0,Travail/études,Discussion sympa,Le trajet est long,4
+bf72a4ca-36d5-48f8-8756-67af2894b249,Travail/études,Réseautage pro,Il/elle partage mes centres d’intérêt,4
+9f89c99f-059a-477a-87cc-7c7489735c38,Autre,Échanger sur un sujet commun,Ça dépend,1
+5c7de9ec-5de7-4094-863a-e88b5afef5e0,Autre,Rester tranquille,Ça dépend,4
+21d0ab0f-6b71-49a9-9434-0b1acfe253ef,Travail/études,Échanger sur un sujet commun,Ça dépend,1
+c49f8671-efe7-4f0b-8ed0-6ac1b28af7f2,Autre,Rester tranquille,Il/elle partage mes centres d’intérêt,4
+46d7abec-5c4e-46e2-a614-ed3a6fedaba7,Travail/études,Discussion sympa,La conversation est légère,2
+35490ab9-707f-47e4-85c7-b1fd53ff104c,Visite famille/amis,Réseautage pro,Ça dépend,4
+64ef3b27-532c-4d66-a1cd-a38f446fa8ca,Loisirs/vacances,Rester tranquille,Jamais,5
+27b9c2cb-dcd8-4474-8f52-b303fe874dce,Loisirs/vacances,Échanger sur un sujet commun,La conversation est légère,4
+e61a9180-c051-42f4-b182-02ff6b7610a0,Autre,Rester tranquille,Il/elle partage mes centres d’intérêt,2
+5aa2a60b-766a-4064-ab39-30d13d6fd387,Autre,Échanger sur un sujet commun,La conversation est légère,3
+006d5746-5ab4-4205-9aba-4b5f653da1aa,Autre,Rester tranquille,La conversation est légère,5
+748b227a-c493-4c91-b8a9-72c5f543b6a1,Autre,Échanger sur un sujet commun,Le trajet est long,5
+24d1ac1a-5b65-4f5e-a59f-b51978351c02,Visite famille/amis,Autre,Ça dépend,5
+5156112b-1251-4308-ac40-56bf8eb2d9c2,Autre,Échanger sur un sujet commun,Le trajet est long,5
+eee7fd5d-a6c5-45e4-96ab-0ab49a4b7711,Travail/études,Échanger sur un sujet commun,La conversation est légère,2
+a3ea5940-6a4d-4014-975b-fe1a1a7712be,Travail/études,Réseautage pro,Ça dépend,4
+6dde14a1-818a-4156-ba2a-c8767b49d41e,Travail/études,Réseautage pro,Jamais,4
+8282a57d-7b0a-4510-bbc9-ea0f49a66c09,Travail/études,Réseautage pro,La conversation est légère,1
+940765f8-7656-474c-aec4-f2628512ba71,Visite famille/amis,Autre,Le trajet est long,2
+c565855a-2122-4ea6-ba00-8ecac39ebe6e,Visite famille/amis,Réseautage pro,Il/elle partage mes centres d’intérêt,1
+01c868ac-ad18-4869-8b28-9d4ed694f249,Autre,Réseautage pro,La conversation est légère,2
+e0f956ae-945b-4488-84a4-3a9440fccb1a,Autre,Autre,La conversation est légère,3
+599d38b2-0622-45e8-b9b7-00086ef764e1,Autre,Autre,Jamais,1
+34107128-6879-4371-a5fd-a21d0226277b,Autre,Discussion sympa,Jamais,3
+9e244eac-a298-4113-84ec-58c8242a6ca8,Loisirs/vacances,Discussion sympa,La conversation est légère,1
+dfe8e7d6-6124-4bde-8650-0eb55526f47f,Loisirs/vacances,Autre,Il/elle partage mes centres d’intérêt,2
+63cf39f4-2592-4d33-bed9-f7eddfc982ec,Loisirs/vacances,Autre,Il/elle partage mes centres d’intérêt,4
+9624865b-c59b-416d-8817-e856679fd5af,Travail/études,Réseautage pro,La conversation est légère,2
+4bf4d7ff-00ec-4b5b-9f71-2bef234e5281,Travail/études,Discussion sympa,Jamais,2
+5905117e-ac86-4dc9-8450-d28d258895a8,Loisirs/vacances,Discussion sympa,Ça dépend,3
+06f3b750-77d3-4196-a464-5182050020e9,Loisirs/vacances,Réseautage pro,Ça dépend,2
+d352736a-5811-4b52-8046-7e5ed311ecb6,Visite famille/amis,Rester tranquille,Jamais,2
+10682c8a-0c2e-4180-8c38-cadf1fee9fee,Autre,Discussion sympa,Ça dépend,3
+ce704b82-7774-4dab-b4af-017cb7b1cbff,Travail/études,Discussion sympa,Ça dépend,2
+6f4e61da-8972-4172-8fda-eb7af345339a,Autre,Réseautage pro,Jamais,5
+5ddcc7b5-ad3d-4c31-b9bf-7003602edbe5,Loisirs/vacances,Discussion sympa,Il/elle partage mes centres d’intérêt,3
+873fbbe4-e5f9-491d-bab0-e551ddce6914,Travail/études,Échanger sur un sujet commun,Jamais,1
+764ac909-3792-4187-89dc-af06146ab05a,Visite famille/amis,Autre,La conversation est légère,2
+0dfdba45-aa5c-400c-8013-02d8ac75b0cc,Loisirs/vacances,Rester tranquille,Jamais,2
+ce591244-8df7-4d44-b0df-56fc2b441738,Autre,Rester tranquille,Jamais,4
+7a7c78c4-9c6d-4a65-ae6c-f88be5ae6930,Loisirs/vacances,Échanger sur un sujet commun,La conversation est légère,5
+3d4355f3-09ca-4e38-8904-9db1e4b19406,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,2
+662a0cb1-6713-4c0d-8a07-62108d41b3cc,Visite famille/amis,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,1
+15eeac84-76d2-4e15-8d01-0240f1e3c95c,Travail/études,Réseautage pro,Ça dépend,3
+f5515e6d-c54e-45c9-86bf-6cca0429813c,Autre,Réseautage pro,La conversation est légère,3
+c857f94c-71e9-411b-ba06-e339424bb757,Travail/études,Rester tranquille,Il/elle partage mes centres d’intérêt,4
+3ec8939e-a7a4-431e-a03f-db1c159d11a2,Travail/études,Discussion sympa,Le trajet est long,4
+5de8bd02-a994-4cf0-831b-815008efd561,Loisirs/vacances,Échanger sur un sujet commun,Jamais,1
+216f4eb9-d2ae-4f44-b5eb-1662afc50ffb,Visite famille/amis,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,1
+060ead8d-ebb0-4da0-9807-0c89cab7dd48,Autre,Discussion sympa,Le trajet est long,3
+4d292343-a6c8-4734-b932-4418b7dd6bf9,Travail/études,Rester tranquille,Ça dépend,3
+96eeec49-71dd-4249-aec0-cb6cc377b345,Autre,Discussion sympa,Ça dépend,3
+1c2d6102-1466-4506-8b05-264718a4a606,Travail/études,Échanger sur un sujet commun,La conversation est légère,4
+90c3970c-47ba-4c0f-a378-70543e8b6b26,Visite famille/amis,Échanger sur un sujet commun,Ça dépend,5
+92a96ec7-032e-4015-afa6-0ab9d28d9bb2,Autre,Autre,Il/elle partage mes centres d’intérêt,4
+b532376a-d0b4-4520-a326-ebb0eb1bc629,Visite famille/amis,Rester tranquille,Ça dépend,5
+13734787-b972-4e2b-b2ca-873385912c61,Travail/études,Rester tranquille,Jamais,5
+c009ab3a-5cda-4c60-a13d-9459bf9c86f9,Visite famille/amis,Échanger sur un sujet commun,Jamais,1
+91cc43a2-9c6b-4db1-86e5-7dcd49fff0d0,Visite famille/amis,Autre,Jamais,3
+1e2d9ec7-2b49-4d24-87be-8bdf863e3657,Visite famille/amis,Échanger sur un sujet commun,Jamais,1
+fd3b48c9-764d-4ec0-8582-d45a4f99fa36,Visite famille/amis,Échanger sur un sujet commun,Le trajet est long,1
+7853bd14-37fd-480d-93e0-8d9784b91a92,Visite famille/amis,Autre,Le trajet est long,1
+6f93874a-56e7-4a77-8048-d513a6e88645,Autre,Discussion sympa,Jamais,3
+f87a63a2-6ad6-4172-81c4-4618adcfe05c,Loisirs/vacances,Rester tranquille,Ça dépend,2
+ab33ff63-14f7-4999-8101-3f63cf954ccf,Visite famille/amis,Échanger sur un sujet commun,La conversation est légère,4
+a7971c3e-a510-4c67-a20b-c977d9750693,Visite famille/amis,Rester tranquille,Ça dépend,2
+7927b15e-3e1c-4b62-9e43-4d9ad54f1883,Loisirs/vacances,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,5
+06928ecb-4842-4f60-8df8-6f718ea5bebd,Autre,Autre,Le trajet est long,4
+a37aa1a1-10fe-4acd-adb8-a70968c21471,Autre,Réseautage pro,La conversation est légère,1
+de6fd652-5ee5-4136-8f65-1808027bae0e,Autre,Autre,Il/elle partage mes centres d’intérêt,5
+29051f00-86cd-490a-a1c3-7a39e1d7378a,Loisirs/vacances,Discussion sympa,Le trajet est long,3
+ff856b46-9923-43f2-9361-a43d0d9e87fe,Loisirs/vacances,Autre,Ça dépend,5
+cf2c5ccf-113d-4a9f-b75d-86a0314d963c,Visite famille/amis,Réseautage pro,Le trajet est long,3
+c5e843f3-4e82-4ca1-a6b1-3af648c7584a,Loisirs/vacances,Autre,Le trajet est long,4
+5cd24628-9ff9-4d52-bce9-a63346271412,Loisirs/vacances,Réseautage pro,Jamais,5
+35aff7f1-2c73-4f89-a1a1-298a6ab41311,Visite famille/amis,Autre,Jamais,2
+2b1f9d98-8632-401b-a4db-2e847578dfb7,Loisirs/vacances,Réseautage pro,Le trajet est long,1
+b52463c1-0001-4f65-813e-44f481fe4f70,Loisirs/vacances,Rester tranquille,Il/elle partage mes centres d’intérêt,2
+b77a3639-1277-4ec2-9c84-96583dbb3380,Loisirs/vacances,Échanger sur un sujet commun,Le trajet est long,4
+93613579-e66a-4077-832f-e65e7286a4b7,Loisirs/vacances,Rester tranquille,Il/elle partage mes centres d’intérêt,2
+36af601c-cb7c-4688-b8ae-812c4b9437a6,Loisirs/vacances,Réseautage pro,Jamais,2
+51cda453-1ef3-45ed-8430-299b5344a04d,Autre,Discussion sympa,Ça dépend,1
+74f026f0-3e5f-4fda-9246-7368d3a48ba9,Loisirs/vacances,Rester tranquille,La conversation est légère,1
+e0478eb3-81b6-45f0-9e09-c5c377c84f04,Loisirs/vacances,Rester tranquille,La conversation est légère,1
+3cfd3b8a-cfe9-4401-90fb-af3dd0feb5fd,Travail/études,Discussion sympa,Il/elle partage mes centres d’intérêt,1
+1987cc53-c0ac-4385-a560-de677ab34a5c,Visite famille/amis,Réseautage pro,Il/elle partage mes centres d’intérêt,5
+3e60518c-8600-4391-8829-47d7f4566ee4,Visite famille/amis,Autre,Ça dépend,1
+80e27213-117c-45f2-8d1e-90ea866ed30e,Visite famille/amis,Discussion sympa,Le trajet est long,5
+3a5c444d-fec1-46d4-bb9c-75de92c955e4,Travail/études,Échanger sur un sujet commun,Le trajet est long,2
+c7a251f7-6504-435f-af0c-7b3c0fd17ee9,Autre,Autre,Le trajet est long,1
+2aa35da4-99ed-44ea-8b25-07cafa043ddf,Visite famille/amis,Échanger sur un sujet commun,La conversation est légère,5
+84ab35de-3b72-43c5-8e67-f17f76083446,Visite famille/amis,Rester tranquille,Ça dépend,5
+952e72c1-c4d5-4aa8-8a5c-3a0bb0042dad,Visite famille/amis,Discussion sympa,Jamais,1
+1a287c26-c498-4561-b8a8-42df35cd1cef,Loisirs/vacances,Échanger sur un sujet commun,La conversation est légère,1
+c0d908a7-447d-4f16-bab8-95f3d1b5c72a,Loisirs/vacances,Échanger sur un sujet commun,Le trajet est long,2
+c8227de4-44f9-450a-a542-5ea6fe932e0c,Visite famille/amis,Autre,Le trajet est long,1
+a3ae2d4c-6b53-4ed2-817d-b3a55e9bad03,Loisirs/vacances,Rester tranquille,Ça dépend,1
+acc6099f-82b9-427f-865f-5222543dc04c,Autre,Échanger sur un sujet commun,Jamais,1
+665abb30-d71a-43e5-b79b-5db1ad809fb2,Autre,Discussion sympa,Ça dépend,2
+d62a43ae-7f0b-4dcf-8d5b-d0c3f34c3176,Visite famille/amis,Rester tranquille,Il/elle partage mes centres d’intérêt,1
+263870a4-3506-43db-95e9-494b0ed10be4,Visite famille/amis,Discussion sympa,Ça dépend,2
+d37000c6-df39-4e97-9392-22e1621cb323,Visite famille/amis,Réseautage pro,Il/elle partage mes centres d’intérêt,1
+85b39af1-55b2-4d09-a772-879f212b3f7b,Travail/études,Autre,Il/elle partage mes centres d’intérêt,1
+64042579-2770-4280-af2e-f248c4f41376,Travail/études,Réseautage pro,La conversation est légère,4
+602b25bb-abcd-4a6a-86db-7737cc5a8c9b,Autre,Autre,Il/elle partage mes centres d’intérêt,4
+152957a1-28b6-4f70-9307-08e1ac1aff0b,Visite famille/amis,Échanger sur un sujet commun,La conversation est légère,4
+a840bd1b-7be4-4b72-a920-adbf5d0312fd,Autre,Discussion sympa,Ça dépend,1
+75963b8f-0c32-4d24-825f-89d2a113ed09,Autre,Autre,Ça dépend,4
+914a4357-232e-46fe-a18a-57aaf3efa583,Loisirs/vacances,Rester tranquille,Le trajet est long,5
+a4454554-f505-4506-9c7c-037f3759cb78,Autre,Réseautage pro,Ça dépend,5
+c9e86aac-e968-4e08-b803-b8957a03ab8c,Loisirs/vacances,Échanger sur un sujet commun,Ça dépend,2
+ce57daa9-9235-4ece-a5b4-20bc9b964f24,Autre,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,5
+d0bca167-d88a-46d3-b493-7a7b9b247e15,Travail/études,Rester tranquille,Il/elle partage mes centres d’intérêt,5
+ce0dd47c-14db-4196-9504-ca254de91b26,Visite famille/amis,Autre,Le trajet est long,1
+8adc5988-4ebc-4370-8c47-a6a13c5eb489,Autre,Autre,La conversation est légère,1
+500ef3e5-55b6-4195-8a44-7d2a42056432,Visite famille/amis,Discussion sympa,Jamais,4
+f69c7b37-4eba-4055-a79f-299ba6b52211,Visite famille/amis,Réseautage pro,La conversation est légère,1
+5d2ace98-4cb3-488e-9bdc-4d9c1774b206,Travail/études,Échanger sur un sujet commun,Il/elle partage mes centres d’intérêt,4
+62032e17-4e4c-4be5-b5f8-4ea97aec9ce4,Loisirs/vacances,Rester tranquille,Le trajet est long,4
+416ea769-aebc-4d22-82ae-8dd8c9f85e8b,Autre,Discussion sympa,La conversation est légère,4
+dcebe936-e61a-475b-b383-0815b031c23e,Travail/études,Rester tranquille,Ça dépend,3
+15fc9f61-42b8-48ac-b095-f3bf1d66cbd1,Visite famille/amis,Discussion sympa,Jamais,4
+54b5e2f8-63c6-4ebf-b229-6a0ef55ecd1e,Loisirs/vacances,Discussion sympa,La conversation est légère,3
+d1bb51cc-dad5-4cee-b1a4-e055528f2c91,Visite famille/amis,Réseautage pro,Il/elle partage mes centres d’intérêt,3
+015bbadc-00bf-4087-8971-8eedac447160,Autre,Autre,La conversation est légère,1
+bbeeb3e0-26a0-454a-898b-b0b566e8553b,Visite famille/amis,Discussion sympa,Le trajet est long,5
+ec0442c7-72bf-49ec-a8ad-be7476bbd079,Visite famille/amis,Rester tranquille,Jamais,5
+9c0287c9-6ed8-496f-93ae-66c7723d987f,Autre,Autre,Le trajet est long,5
+57a4d325-8f09-4a84-9f48-8063654f5bff,Loisirs/vacances,Rester tranquille,Ça dépend,4
+a93fb27d-e6ac-43ab-aacf-caa08b1583c9,Autre,Réseautage pro,Ça dépend,5
+c4b19e98-0d99-4bd3-81a5-82f6cd6a4840,Visite famille/amis,Autre,Il/elle partage mes centres d’intérêt,4
+e822e6f0-909c-4d96-a0c2-6b8de0229cd6,Travail/études,Discussion sympa,Il/elle partage mes centres d’intérêt,2
+a94a4502-8e83-49e0-a264-985e353fb5ea,Visite famille/amis,Rester tranquille,La conversation est légère,2
+2debe321-6a11-48fa-b246-55dc749f905d,Visite famille/amis,Réseautage pro,La conversation est légère,3
+0f9853ae-b455-41d8-b0a7-b40d18b6bc22,Visite famille/amis,Discussion sympa,Jamais,5
+9074cb9f-ba44-4f31-8d94-a1fe688db6dd,Travail/études,Autre,Ça dépend,1
+fd8fb235-827c-4562-bb95-1363ec6e6a88,Visite famille/amis,Rester tranquille,Jamais,3
+bc541548-95f0-4dbc-a444-ff6a5d13406c,Autre,Réseautage pro,Ça dépend,1
+0cb754f6-1fb3-416f-8c00-3f462419b9a3,Travail/études,Autre,Ça dépend,4
+ca0fe9a4-babc-4ff1-9a6b-77c21545afad,Autre,Réseautage pro,Il/elle partage mes centres d’intérêt,3
+c35dd1d8-f01f-4f34-a9db-a476f2acce5c,Visite famille/amis,Autre,Jamais,3
+471e70d7-9c26-4ce2-b0cc-cb2660010787,Travail/études,Rester tranquille,Le trajet est long,3
+a9966339-17b3-410e-ab02-7f30485db3f3,Autre,Autre,La conversation est légère,1
+8c7a4838-4223-489e-a149-0dc9656765e6,Autre,Échanger sur un sujet commun,Jamais,2
+191f910d-74f7-40b4-986e-8b45ed0acd50,Loisirs/vacances,Discussion sympa,La conversation est légère,2
+36184532-bcd0-4257-9ad7-cf966c21413b,Autre,Rester tranquille,La conversation est légère,5
+c5d1fa49-08ff-4157-be0b-6ad3eca8b7f0,Visite famille/amis,Autre,Le trajet est long,4
+b52ab77e-c465-4f64-889e-1238b5c4a798,Autre,Rester tranquille,Il/elle partage mes centres d’intérêt,4
+bb38caa9-eddf-4cdc-9c11-185788fae8ff,Loisirs/vacances,Réseautage pro,La conversation est légère,1
+dd2d5213-603c-4a5b-86da-a7d7981d18b1,Loisirs/vacances,Autre,Ça dépend,2
+40338573-4c53-4cf1-8614-18f2bc8292eb,Visite famille/amis,Autre,Jamais,5
+a3832358-bbd8-40a8-a339-1c0c1b70189c,Autre,Autre,Jamais,1
+9f928745-a7f1-4c9b-ba56-51f07812f7f6,Travail/études,Autre,La conversation est légère,2
+b1d3877d-3272-4f99-b90e-d141bd9465c9,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,2
+eafa4c7e-5ded-4dd9-a8c2-644e0b7cd192,Travail/études,Discussion sympa,La conversation est légère,5
+0f763571-79de-43ad-a1fa-3c5914d2e3cf,Travail/études,Autre,Jamais,4
+f520ad39-ba99-4217-9603-85e54b6af6a1,Loisirs/vacances,Discussion sympa,Jamais,4
+e3cfb870-b9a7-4510-9ee9-e3c28d18a007,Visite famille/amis,Autre,Jamais,2
+ed69c122-9c63-4bd6-9b42-3157347a2512,Visite famille/amis,Autre,Il/elle partage mes centres d’intérêt,2
+e0cddbe1-4d18-4ed8-b3b4-19abee1464be,Visite famille/amis,Réseautage pro,La conversation est légère,1
+d8a4f980-96b1-4245-8e57-6b3ba81dc3e2,Autre,Discussion sympa,Il/elle partage mes centres d’intérêt,2
+2b7ffe11-ae3c-4dce-9766-08c565c33062,Travail/études,Rester tranquille,Il/elle partage mes centres d’intérêt,2
+321e74a0-03d9-4a6f-be90-481cb5b6455f,Autre,Discussion sympa,Jamais,4
+3bdd85e0-23ab-441e-beab-69137297f2b8,Loisirs/vacances,Discussion sympa,La conversation est légère,3
+bcd42072-be3d-4153-a2c6-1a02b01adc12,Visite famille/amis,Échanger sur un sujet commun,Le trajet est long,4
+d992df3e-fc80-49dc-befe-1b114507a793,Travail/études,Autre,Il/elle partage mes centres d’intérêt,1
